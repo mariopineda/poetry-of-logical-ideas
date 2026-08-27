@@ -1,3 +1,6 @@
+---
+title: "Frequently Asked Questions"
+---
 This FAQ is designed to give you quick, clear answers to the most common questions about how the course works.
 
 The questions are grouped by topic so you can find what you need quickly. Click any question to open a separate page with the full answer.
