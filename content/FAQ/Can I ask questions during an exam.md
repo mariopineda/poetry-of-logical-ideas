@@ -2,7 +2,7 @@
 publish: true
 title: Can I ask questions during an exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.411Z
+modified: 2026-08-27T16:19:40.388Z
 ---
 
 Yes, you may ask me a question during an exam.

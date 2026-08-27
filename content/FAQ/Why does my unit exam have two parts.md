@@ -2,7 +2,7 @@
 publish: true
 title: Why does my unit exam have two parts?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.489Z
+modified: 2026-08-27T16:19:40.394Z
 ---
 
 Most unit exams are divided into **Part A** and **Part B**, written during two consecutive class sessions.

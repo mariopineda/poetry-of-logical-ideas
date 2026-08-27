@@ -2,7 +2,7 @@
 publish: true
 title: What can I have with me during an exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.451Z
+modified: 2026-08-27T16:19:40.384Z
 ---
 
 You may have:

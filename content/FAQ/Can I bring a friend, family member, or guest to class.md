@@ -2,7 +2,7 @@
 publish: true
 title: Can I bring a friend, family member, or guest to class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.411Z
+modified: 2026-08-27T16:19:40.448Z
 ---
 
 No.

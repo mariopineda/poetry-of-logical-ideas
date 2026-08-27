@@ -2,7 +2,7 @@
 publish: true
 title: Can I catch up on missed or low QODs?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.411Z
+modified: 2026-08-27T16:19:40.380Z
 ---
 
 There may be a limited QOD catch-up opportunity about **one week before the replacement exam**.

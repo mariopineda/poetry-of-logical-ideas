@@ -2,7 +2,7 @@
 publish: true
 title: Can I get extra help from my teacher outside of class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.420Z
+modified: 2026-08-27T16:19:40.437Z
 ---
 
 There is no separate teacher tutoring or extra-help session outside regular class time.

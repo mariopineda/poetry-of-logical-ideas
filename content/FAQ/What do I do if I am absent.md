@@ -2,7 +2,7 @@
 publish: true
 title: What do I do if I am absent?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.451Z
+modified: 2026-08-27T16:19:40.365Z
 ---
 
 If you are absent, complete the **Absence Report** in Google Classroom on the **same day** as the absence.

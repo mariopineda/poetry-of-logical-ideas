@@ -2,7 +2,7 @@
 publish: true
 title: What behaviour is expected in class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.451Z
+modified: 2026-08-27T16:19:40.447Z
 ---
 
 Everyone is expected to behave as a **mature, responsible, and respectful adult**.

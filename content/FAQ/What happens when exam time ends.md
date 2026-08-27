@@ -2,7 +2,7 @@
 publish: true
 title: What happens when exam time ends?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.457Z
+modified: 2026-08-27T16:19:40.388Z
 ---
 
 When the scheduled exam time ends, you must stop writing and hand in your exam.

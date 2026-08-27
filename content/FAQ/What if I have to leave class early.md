@@ -2,7 +2,7 @@
 publish: true
 title: What if I have to leave class early?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.471Z
+modified: 2026-08-27T16:19:40.372Z
 ---
 
 If you need to leave class early, talk to me during class, preferably **before you leave**.

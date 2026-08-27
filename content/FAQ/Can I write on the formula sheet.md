@@ -2,7 +2,7 @@
 publish: true
 title: Can I write on the formula sheet?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.435Z
+modified: 2026-08-27T16:19:40.394Z
 ---
 
 Yes.

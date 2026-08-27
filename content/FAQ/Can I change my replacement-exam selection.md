@@ -2,7 +2,7 @@
 publish: true
 title: Can I change my replacement-exam selection?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.417Z
+modified: 2026-08-27T16:19:40.412Z
 ---
 
 Yes, but only while the official selection window is still open.

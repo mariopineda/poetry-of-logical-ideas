@@ -2,7 +2,7 @@
 publish: true
 title: Can I take any exam materials with me?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.424Z
+modified: 2026-08-27T16:19:40.394Z
 ---
 
 No.

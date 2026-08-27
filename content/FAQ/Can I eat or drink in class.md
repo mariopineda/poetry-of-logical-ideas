@@ -2,7 +2,7 @@
 publish: true
 title: Can I eat or drink in class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.419Z
+modified: 2026-08-27T16:19:40.448Z
 ---
 
 Yes, within reason.

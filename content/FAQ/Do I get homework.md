@@ -2,7 +2,7 @@
 publish: true
 title: Do I get homework?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.435Z
+modified: 2026-08-27T16:19:40.381Z
 ---
 
 Most assigned practice is started during class, and you are given substantial class time to work on it.

@@ -2,7 +2,7 @@
 publish: true
 title: What if I communicate with another student during an exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.467Z
+modified: 2026-08-27T16:19:40.436Z
 ---
 
 Communicating with another student during an exam is considered **cheating**.

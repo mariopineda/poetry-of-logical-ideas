@@ -2,7 +2,7 @@
 publish: true
 title: Can I use my phone after I hand in my exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.426Z
+modified: 2026-08-27T16:19:40.388Z
 ---
 
 No.

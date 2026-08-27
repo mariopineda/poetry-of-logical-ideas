@@ -2,7 +2,7 @@
 publish: true
 title: What do I do if I am late?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.451Z
+modified: 2026-08-27T16:19:40.349Z
 ---
 
 If you arrive after attendance has been taken, complete the **Late Report** in Google Classroom.

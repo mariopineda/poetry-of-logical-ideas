@@ -2,7 +2,7 @@
 publish: true
 title: What if I forget to select a replacement exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.470Z
+modified: 2026-08-27T16:19:40.412Z
 ---
 
 If you do not select a unit during the official selection window, you do not have a replacement exam to write.

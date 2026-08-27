@@ -2,7 +2,7 @@
 publish: true
 title: What if I want to drop or withdraw from the course?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:13:45.569Z
+modified: 2026-08-27T16:19:40.456Z
 ---
 
 Speak with your **assistant principal**.

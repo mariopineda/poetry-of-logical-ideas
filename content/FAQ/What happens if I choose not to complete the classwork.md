@@ -2,7 +2,7 @@
 publish: true
 title: What happens if I choose not to complete the classwork?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.457Z
+modified: 2026-08-27T16:19:40.383Z
 ---
 
 You are responsible for your own learning.

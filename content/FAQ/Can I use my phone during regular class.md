@@ -2,7 +2,7 @@
 publish: true
 title: Can I use my phone during regular class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.426Z
+modified: 2026-08-27T16:19:40.429Z
 ---
 
 You are expected to use your phone **responsibly and appropriately**.

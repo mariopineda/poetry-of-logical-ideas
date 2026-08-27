@@ -2,7 +2,7 @@
 publish: true
 title: Where do I find exam dates and other important dates?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:13:45.570Z
+modified: 2026-08-27T16:19:40.457Z
 ---
 
 Check the **online class schedule** regularly.

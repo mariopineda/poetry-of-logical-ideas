@@ -2,7 +2,7 @@
 publish: true
 title: What happens if I miss Part A or Part B?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.457Z
+modified: 2026-08-27T16:19:40.398Z
 ---
 
 If you miss one part of the exam, the missed part receives a mark of **0**.

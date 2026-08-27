@@ -2,7 +2,7 @@
 publish: true
 title: What happens if I am late often?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.457Z
+modified: 2026-08-27T16:19:40.365Z
 ---
 
 Repeated lateness means you regularly miss the beginning of class, including the QOD, announcements, instruction, examples, and classwork.

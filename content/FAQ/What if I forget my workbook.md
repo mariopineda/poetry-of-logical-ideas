@@ -2,7 +2,7 @@
 publish: true
 title: What if I forget my workbook?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.469Z
+modified: 2026-08-27T16:19:40.445Z
 ---
 
 You should still participate in class.

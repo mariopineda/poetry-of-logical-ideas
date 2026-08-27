@@ -2,7 +2,7 @@
 publish: true
 title: What about school-related activities or meetings?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:13:45.560Z
+modified: 2026-08-27T16:19:40.455Z
 ---
 
 School-related activities may sometimes be treated differently for **attendance purposes**, depending on the circumstances.

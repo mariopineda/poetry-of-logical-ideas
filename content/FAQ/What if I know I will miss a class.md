@@ -2,7 +2,7 @@
 publish: true
 title: What if I know I will miss a class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.471Z
+modified: 2026-08-27T16:19:40.371Z
 ---
 
 If you know ahead of time that you will miss a class, use the online class schedule and course materials to work ahead whenever possible.
