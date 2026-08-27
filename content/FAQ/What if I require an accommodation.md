@@ -2,7 +2,7 @@
 publish: true
 title: What if I require an accommodation?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:05:07.471Z
+modified: 2026-08-27T16:13:45.560Z
 ---
 
 Course accommodations must be **formally approved through the school administration**.

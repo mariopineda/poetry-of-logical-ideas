@@ -2,7 +2,7 @@
 publish: true
 title: Frequently Asked Questions
 created: 2026-08-27T12:36:10.627Z
-modified: 2026-08-27T15:27:53.551Z
+modified: 2026-08-27T16:15:02.491Z
 ---
 
 This FAQ is designed to give you quick, clear answers to the most common questions about how the course works.
@@ -38,6 +38,8 @@ Before emailing or asking a question in class, please check this FAQ, the online
 
 ## Exams
 
+### Writing Exams
+
 - [[FAQ/Can I ask questions during an exam.md|Can I ask questions during an exam?]]
 - [[FAQ/Can I choose where I sit during an exam.md|Can I choose where I sit during an exam?]]
 - [[FAQ/Can I leave as soon as I finish.md|Can I leave as soon as I finish?]]
@@ -52,7 +54,7 @@ Before emailing or asking a question in class, please check this FAQ, the online
 - [[FAQ/What happens if I arrive late for an exam.md|What happens if I arrive late for an exam?]]
 - [[FAQ/What happens when exam time ends.md|What happens when exam time ends?]]
 
-## Part A & Part B Exams
+### Part A & Part B Exams
 
 - [[FAQ/Can I write only the part I missed later.md|Can I write only the part I missed later?]]
 - [[FAQ/How is my Part A and Part B exam mark calculated.md|How is my Part A and Part B exam mark calculated?]]
@@ -60,7 +62,7 @@ Before emailing or asking a question in class, please check this FAQ, the online
 - [[FAQ/What happens if I miss Part A or Part B.md|What happens if I miss Part A or Part B?]]
 - [[FAQ/Why does my unit exam have two parts.md|Why does my unit exam have two parts?]]
 
-## Late Writes
+### Missed Exams & Late Writes
 
 - [[FAQ/Can I write the missed exam when I return to class.md|Can I write the missed exam when I return to class?]]
 - [[FAQ/Do I need to explain why I missed the exam.md|Do I need to explain why I missed the exam?]]
@@ -68,7 +70,7 @@ Before emailing or asking a question in class, please check this FAQ, the online
 - [[FAQ/What do I do if I miss an exam.md|What do I do if I miss an exam?]]
 - [[FAQ/What if I do not email within 24 hours.md|What if I do not email within 24 hours?]]
 
-## Replacement Exams
+### Replacement Exams
 
 - [[FAQ/Can I change my replacement-exam selection.md|Can I change my replacement-exam selection?]]
 - [[FAQ/Can one replacement exam replace several unit exams.md|Can one replacement exam replace several unit exams?]]
@@ -79,7 +81,7 @@ Before emailing or asking a question in class, please check this FAQ, the online
 - [[FAQ/What is a replacement exam.md|What is a replacement exam?]]
 - [[FAQ/Who is eligible to write a replacement exam.md|Who is eligible to write a replacement exam?]]
 
-## Exam Perusals
+### Reviewing Your Exam
 
 - [[FAQ/Can I leave the classroom during an exam perusal.md|Can I leave the classroom during an exam perusal?]]
 - [[FAQ/Can I take notes or copy questions from my exam.md|Can I take notes or copy questions from my exam?]]
@@ -122,18 +124,21 @@ Before emailing or asking a question in class, please check this FAQ, the online
 
 ## Classroom Expectations
 
-- [[FAQ/Can course requirements be changed because of my work schedule, vacation, appointment, or personal commitments.md|Can course requirements be changed because of my work schedule, vacation, appointment, or personal commitments?]]
 - [[FAQ/Can I bring a friend, family member, or guest to class.md|Can I bring a friend, family member, or guest to class?]]
 - [[FAQ/Can I eat or drink in class.md|Can I eat or drink in class?]]
 - [[FAQ/Can I record the class.md|Can I record the class?]]
 - [[FAQ/Can I take pictures of the whiteboard.md|Can I take pictures of the whiteboard?]]
 - [[FAQ/Do I need permission to use the washroom.md|Do I need permission to use the washroom?]]
 - [[FAQ/Do we have assigned seats.md|Do we have assigned seats?]]
-- [[FAQ/How is my final course mark calculated.md|How is my final course mark calculated?]]
-- [[FAQ/What about school-related activities or meetings.md|What about school-related activities or meetings?]]
 - [[FAQ/What behaviour is expected in class.md|What behaviour is expected in class?]]
 - [[FAQ/What if I forget my workbook.md|What if I forget my workbook?]]
+- [[FAQ/What should I bring to class.md|What should I bring to class?]]
+
+## Course Information & Policies
+
+- [[FAQ/Can course requirements be changed because of my work schedule, vacation, appointment, or personal commitments.md|Can course requirements be changed because of my work schedule, vacation, appointment, or personal commitments?]]
+- [[FAQ/How is my final course mark calculated.md|How is my final course mark calculated?]]
+- [[FAQ/What about school-related activities or meetings.md|What about school-related activities or meetings?]]
 - [[FAQ/What if I require an accommodation.md|What if I require an accommodation?]]
 - [[FAQ/What if I want to drop or withdraw from the course.md|What if I want to drop or withdraw from the course?]]
-- [[FAQ/What should I bring to class.md|What should I bring to class?]]
 - [[FAQ/Where do I find exam dates and other important dates.md|Where do I find exam dates and other important dates?]]
