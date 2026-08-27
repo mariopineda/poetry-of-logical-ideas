@@ -1,8 +1,6 @@
 ---
+title: "The Poetry of Logical Ideas"
 publish: true
-title: The Poetry of Logical Ideas
-created: 2026-08-27T01:52:10.764Z
-modified: 2026-08-27T16:28:51.980Z
 ---
 
 Welcome. This site contains the course information and resources you will need throughout the semester.
@@ -18,7 +16,7 @@ The FAQ contains quick answers about attendance, QODs, exams, missed exams, repl
 - [[Frequently Asked Questions|Frequently Asked Questions]]
 - [[Math|Math Course Resources]]
 
-## Important Reminder
+## Important Reminder!
 
 You are responsible for regularly checking:
 
