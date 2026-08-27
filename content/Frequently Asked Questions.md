@@ -2,7 +2,7 @@
 publish: true
 title: Frequently Asked Questions
 created: 2026-08-27T12:36:10.627Z
-modified: 2026-08-27T16:21:46.538Z
+modified: 2026-08-27T16:24:35.098Z
 ---
 
 This FAQ is designed to give you quick, clear answers to the most common questions about how the course works.
