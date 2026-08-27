@@ -1,4 +1,6 @@
-# The Poetry of Logical Ideas
+---
+title: The Poetry of Logical Ideas
+---
 
 Welcome to the course information and resources site.
 
