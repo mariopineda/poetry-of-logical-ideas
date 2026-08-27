@@ -2,7 +2,7 @@
 publish: true
 title: What happens if I have many absences?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.116Z
+modified: 2026-08-27T16:05:07.457Z
 ---
 
 Frequent absences make it much harder to succeed in the course.

@@ -2,7 +2,7 @@
 publish: true
 title: What if I arrive late during the QOD?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.096Z
+modified: 2026-08-27T16:05:07.457Z
 ---
 
 The QOD always closes **10 minutes after the scheduled start of class**.

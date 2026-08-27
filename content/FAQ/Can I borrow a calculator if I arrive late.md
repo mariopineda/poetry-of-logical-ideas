@@ -2,7 +2,7 @@
 publish: true
 title: Can I borrow a calculator if I arrive late?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.078Z
+modified: 2026-08-27T16:05:07.411Z
 ---
 
 No.

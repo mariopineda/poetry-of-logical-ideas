@@ -2,7 +2,7 @@
 publish: true
 title: Are regular class assignments collected and marked?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.800Z
+modified: 2026-08-27T16:05:07.409Z
 ---
 
 No. Regular classwork is generally **practice** and is not collected or marked.

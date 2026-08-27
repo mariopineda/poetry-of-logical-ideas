@@ -2,7 +2,7 @@
 publish: true
 title: Can I borrow a calculator?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.075Z
+modified: 2026-08-27T16:05:07.411Z
 ---
 
 Yes, when classroom calculators are available.

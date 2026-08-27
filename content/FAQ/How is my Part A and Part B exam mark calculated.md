@@ -2,7 +2,7 @@
 publish: true
 title: How is my Part A and Part B exam mark calculated?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.946Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 Part A and Part B together make **one unit exam**.

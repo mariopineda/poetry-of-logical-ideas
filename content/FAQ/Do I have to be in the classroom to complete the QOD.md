@@ -2,7 +2,7 @@
 publish: true
 title: Do I have to be in the classroom to complete the QOD?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.094Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 No.

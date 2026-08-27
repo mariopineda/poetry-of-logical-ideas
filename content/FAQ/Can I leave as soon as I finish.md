@@ -2,7 +2,7 @@
 publish: true
 title: Can I leave as soon as I finish?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.051Z
+modified: 2026-08-27T16:05:07.420Z
 ---
 
 No one may leave the classroom during the **first 30 minutes** of an exam.

@@ -2,7 +2,7 @@
 publish: true
 title: What happens if my replacement-exam mark is lower than my original exam mark?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.887Z
+modified: 2026-08-27T16:05:07.457Z
 ---
 
 The **higher mark is kept**.

@@ -2,7 +2,7 @@
 publish: true
 title: Can I write only the part I missed later?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.987Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 No.

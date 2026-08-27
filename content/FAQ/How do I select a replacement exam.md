@@ -2,7 +2,7 @@
 publish: true
 title: How do I select a replacement exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.954Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 The replacement-exam selection window is usually about **two weeks before the replacement exam** and normally lasts only a few specific class days. The exact dates are shown on the online class schedule.

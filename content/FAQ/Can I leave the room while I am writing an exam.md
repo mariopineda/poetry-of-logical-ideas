@@ -2,7 +2,7 @@
 publish: true
 title: Can I leave the room while I am writing an exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.045Z
+modified: 2026-08-27T16:05:07.420Z
 ---
 
 No.

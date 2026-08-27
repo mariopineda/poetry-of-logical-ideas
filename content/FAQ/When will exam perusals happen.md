@@ -2,7 +2,7 @@
 publish: true
 title: When will exam perusals happen?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.824Z
+modified: 2026-08-27T16:05:07.480Z
 ---
 
 One or more exam perusals will be scheduled after an exam has been marked.

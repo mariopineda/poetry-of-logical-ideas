@@ -2,7 +2,7 @@
 publish: true
 title: Can I write the missed exam when I return to class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.984Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 No.

@@ -2,7 +2,7 @@
 publish: true
 title: Are the teacher's class notes available online?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.792Z
+modified: 2026-08-27T16:05:07.409Z
 ---
 
 No. My handwritten classroom notes are **not posted online**.

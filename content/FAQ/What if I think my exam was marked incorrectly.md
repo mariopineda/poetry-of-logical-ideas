@@ -2,7 +2,7 @@
 publish: true
 title: What if I think my exam was marked incorrectly?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.851Z
+modified: 2026-08-27T16:05:07.471Z
 ---
 
 Talk to me **during the scheduled exam perusal**.

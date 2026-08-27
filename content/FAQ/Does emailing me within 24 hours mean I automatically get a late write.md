@@ -2,7 +2,7 @@
 publish: true
 title: Does emailing me within 24 hours mean I automatically get a late write?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.961Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 No.

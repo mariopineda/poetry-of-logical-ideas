@@ -2,7 +2,7 @@
 publish: true
 title: How is my final course mark calculated?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.949Z
+modified: 2026-08-27T16:05:07.435Z
 ---
 
 The complete explanation of how your final course mark is calculated is provided in the **course outline**.

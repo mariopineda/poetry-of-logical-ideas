@@ -2,7 +2,7 @@
 publish: true
 title: What are the rules during an exam perusal?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.930Z
+modified: 2026-08-27T16:05:07.451Z
 ---
 
 An exam perusal operates under controlled conditions similar to an exam.

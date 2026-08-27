@@ -2,7 +2,7 @@
 publish: true
 title: What should I do if I am struggling in the course?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.828Z
+modified: 2026-08-27T16:05:07.480Z
 ---
 
 Talk to me **during class** as soon as you realize you are struggling.

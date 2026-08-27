@@ -2,7 +2,7 @@
 publish: true
 title: What do I do if I miss an exam?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.915Z
+modified: 2026-08-27T16:05:07.451Z
 ---
 
 If you miss an exam, you must email me **after the missed exam and within 24 hours**.

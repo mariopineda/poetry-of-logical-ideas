@@ -2,7 +2,7 @@
 publish: true
 title: What counts as cheating?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.919Z
+modified: 2026-08-27T16:05:07.451Z
 ---
 
 Cheating means presenting work as your own when the work is **not actually your own**.

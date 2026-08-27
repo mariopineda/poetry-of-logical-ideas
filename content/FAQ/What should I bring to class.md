@@ -2,7 +2,7 @@
 publish: true
 title: What should I bring to class?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.833Z
+modified: 2026-08-27T16:05:07.477Z
 ---
 
 Come to class prepared with:

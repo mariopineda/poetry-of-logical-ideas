@@ -2,7 +2,7 @@
 publish: true
 title: Why do QOD marks matter?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.813Z
+modified: 2026-08-27T16:05:07.487Z
 ---
 
 QODs give you regular feedback about how well you understand the course material.

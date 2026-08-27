@@ -2,7 +2,7 @@
 publish: true
 title: What happens before I enter the exam room?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:28.913Z
+modified: 2026-08-27T16:05:07.451Z
 ---
 
 The classroom usually opens about **5 minutes before the exam begins**. Please line up outside until you are invited in.

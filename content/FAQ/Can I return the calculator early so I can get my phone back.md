@@ -2,7 +2,7 @@
 publish: true
 title: Can I return the calculator early so I can get my phone back?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.038Z
+modified: 2026-08-27T16:05:07.424Z
 ---
 
 No.

@@ -2,7 +2,7 @@
 publish: true
 title: Can I use my own formula sheet?
 created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T15:34:29.009Z
+modified: 2026-08-27T16:05:07.426Z
 ---
 
 No.
