@@ -1,5 +1,8 @@
 ---
-title: "What do I do if I am late?"
+publish: true
+title: What do I do if I am late?
+created: 2026-08-27T20:59:58.000Z
+modified: 2026-08-27T15:34:29.135Z
 ---
 
 If you arrive after attendance has been taken, complete the **Late Report** in Google Classroom.

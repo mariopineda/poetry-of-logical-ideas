@@ -1,10 +1,13 @@
 ---
-title: "What happens if I have many absences?"
+publish: true
+title: What happens if I have many absences?
+created: 2026-08-27T20:59:58.000Z
+modified: 2026-08-27T15:34:29.116Z
 ---
 
 Frequent absences make it much harder to succeed in the course.
 
-When you miss class, you miss instruction, examples, discussions, QODs, and time to practice. Even if the absences are excused, you are still responsible for learning the material you missed.
+When you miss class, you miss instruction, examples, discussions, QODs, and time to practise. Even if the absences are excused, you are still responsible for learning the material you missed.
 
 If absences become excessive, school administration may become involved and you may be removed from the course.
 
