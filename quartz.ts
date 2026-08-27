@@ -22,6 +22,22 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     return true
   },
 
+  mapFn: (node: {
+    slugSegment?: string
+    slugSegments?: string[]
+    displayName: string
+    isFolder: boolean
+  }) => {
+    // Display the Math folder as "Math" in the sidebar,
+    // even though Math/index.md is titled "QOD Practice Questions"
+    if (
+      node.isFolder &&
+      node.slugSegment?.toLowerCase() === "math"
+    ) {
+      node.displayName = "Math"
+    }
+  },
+
   sortFn: (
     a: { displayName: string; isFolder: boolean },
     b: { displayName: string; isFolder: boolean },
