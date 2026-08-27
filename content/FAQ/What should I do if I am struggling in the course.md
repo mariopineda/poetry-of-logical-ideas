@@ -1,14 +1,8 @@
 ---
+title: "What should I do if I am struggling in the course?"
+category: "Getting Help"
+order: 3
 publish: true
-title: What should I do if I am struggling in the course?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.439Z
 ---
 
-Talk to me **during class** as soon as you realize you are struggling.
-
-Do not wait until you are far behind or until the end of the course.
-
-Use class work time to ask questions, complete the assigned practice, and identify the specific concepts that are causing difficulty.
-
-You can also use the drop-in math tutors on the 4th floor.
+Talk to me during class as soon as possible. Ask questions during work time, use the drop-in math tutors, review the course materials, and keep up with the assigned practice. Do not wait until the problem has become much larger.

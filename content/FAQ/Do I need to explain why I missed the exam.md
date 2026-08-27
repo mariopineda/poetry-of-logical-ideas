@@ -1,12 +1,8 @@
 ---
+title: "Do I need to explain why I missed the exam?"
+category: "Late Writes"
+order: 2
 publish: true
-title: Do I need to explain why I missed the exam?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.402Z
 ---
 
-No.
-
-You do **not** need to provide a reason or justification for missing the exam.
-
-The reason for the absence does not determine late-write eligibility. What matters is whether you follow the required late-write procedure.
+No. You do not need to provide a reason for missing the exam, and I do not assess whether your reason is good enough. You still must follow the late-write procedure and meet all deadlines.

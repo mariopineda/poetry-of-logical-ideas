@@ -1,12 +1,8 @@
 ---
+title: "Can I use headphones or earbuds?"
+category: "Calculators & Technology"
+order: 5
 publish: true
-title: Can I use headphones or earbuds?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.431Z
 ---
 
-Headphones or earbuds may be used during **independent work time** when they do not interfere with learning.
-
-They should not be used while I am teaching, giving instructions, or speaking to the class.
-
-Headphones and earbuds are **never permitted during exams**.
+Headphones or earbuds may be used during appropriate independent work time. They should not be used while I am teaching or while another person is addressing the class. They are never permitted during an assessment unless explicitly authorized as part of a formal accommodation.

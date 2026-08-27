@@ -1,14 +1,8 @@
 ---
+title: "Who is eligible to write a replacement exam?"
+category: "Replacement Exams"
+order: 2
 publish: true
-title: Who is eligible to write a replacement exam?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.410Z
 ---
 
-To be eligible for a replacement exam, you must:
-
-- have a QOD average of at least **50%**;
-- select an eligible unit during the official replacement-exam selection window; and
-- be present to write the replacement exam on the scheduled date.
-
-Meeting only some of these requirements is not enough.
+Your QOD average must be at least 50% when the replacement-exam selection window opens. You must also make a valid unit selection during the official selection window and attend on the fixed replacement-exam date.

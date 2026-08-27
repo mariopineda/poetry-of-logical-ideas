@@ -1,14 +1,10 @@
 ---
+title: "Why do QOD marks matter?"
+category: "QOD & Classwork"
+order: 4
 publish: true
-title: Why do QOD marks matter?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.379Z
 ---
 
-QODs give you regular feedback about how well you understand the course material.
+QODs give you regular practice and feedback about whether you understand the material. They also affect your eligibility for the replacement exam.
 
-They also affect your eligibility for a **replacement exam**.
-
-To be eligible for a replacement exam, your QOD average must be at least **50%**.
-
-A missed QOD receives a mark of **0**.
+You must have a QOD average of at least 50% when the replacement-exam selection window opens. You are therefore responsible for maintaining your QOD average throughout the course.

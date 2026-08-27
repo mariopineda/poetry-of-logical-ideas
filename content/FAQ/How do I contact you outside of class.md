@@ -1,12 +1,10 @@
 ---
+title: "How do I contact you outside of class?"
+category: "Getting Help"
+order: 4
 publish: true
-title: How do I contact you outside of class?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.440Z
 ---
 
-Contact me by **email**.
+Contact me by email. I normally check email once each school day during school hours. Do not expect an immediate response; a response may take at least 24 hours, and weekends, holidays, and school breaks may take longer.
 
-I check email during school hours, typically about once each school day.
-
-Do not expect an immediate response. A response will usually take at least **one school day**, and messages sent on weekends or school breaks may take longer.
+If the answer is already available in this FAQ, the online schedule, Google Classroom, or another course resource, I may respond by sending you the relevant link.

@@ -1,19 +1,10 @@
 ---
+title: "What are the rules during an exam perusal?"
+category: "Exam Perusals"
+order: 3
 publish: true
-title: What are the rules during an exam perusal?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.419Z
 ---
 
-An exam perusal operates under controlled conditions similar to an exam.
+Exam perusals are controlled much like exams. Phones, bags, pencils, paper, workbooks, photographs, and other materials that could be used to copy exam content are not permitted.
 
-You may not have:
-
-- your phone;
-- your bag;
-- pencils;
-- paper;
-- workbooks; or
-- other materials.
-
-You may not photograph, record, copy, or remove any part of the exam.
+You may not leave the perusal and then return to continue reviewing the exam.

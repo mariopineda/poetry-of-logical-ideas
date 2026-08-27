@@ -1,14 +1,10 @@
 ---
+title: "Can I write the missed exam when I return to class?"
+category: "Late Writes"
+order: 4
 publish: true
-title: Can I write the missed exam when I return to class?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.404Z
 ---
 
-No.
+No. You cannot simply return to class and write the missed exam.
 
-You cannot simply return to class the next day and expect to write the missed exam.
-
-Late writes follow a separate process with several requirements. If approved, the process may take **several weeks or longer**.
-
-Whenever possible, writing the regularly scheduled exam is much easier than completing the late-write process.
+The late-write process has multiple steps and is intentionally not a quick replacement for writing the exam at the scheduled time. It can take several weeks or longer to complete.

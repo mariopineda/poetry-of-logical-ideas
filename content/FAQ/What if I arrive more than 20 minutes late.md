@@ -1,12 +1,8 @@
 ---
+title: "What if I arrive more than 20 minutes late?"
+category: "Attendance & Lateness"
+order: 2
 publish: true
-title: What if I arrive more than 20 minutes late?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.349Z
 ---
 
-If you arrive more than **20 minutes after class begins**, you are considered **absent**.
-
-At that point, submitting the Late Report will not change your attendance.
-
-You should still come to class and participate, but the attendance record for that class will remain an absence.
+If you arrive more than 20 minutes after class begins, you are considered absent. A Late Report submitted after the first 20 minutes will not change the absence. You are responsible for confirming the absence yourself through SchoolZone.

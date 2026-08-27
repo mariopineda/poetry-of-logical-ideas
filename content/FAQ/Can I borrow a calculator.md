@@ -1,20 +1,12 @@
 ---
+title: "Can I borrow a calculator?"
+category: "Calculators & Technology"
+order: 2
 publish: true
-title: Can I borrow a calculator?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.424Z
 ---
 
-Yes, when classroom calculators are available.
+Yes, but only through the calculator sign-out procedure during attendance at the beginning of class.
 
-Calculator borrowing happens **during attendance at the beginning of class**.
+You must power down your phone and give it to me in exchange for the calculator. Your phone is locked away during the class. Borrowed calculators are returned during the final five minutes of class, and your phone is returned then.
 
-To borrow one:
-
-1. Line up at the teacher's desk during attendance.
-2. Power down your phone.
-3. Put your name on the provided sticky note.
-4. Give your phone to the teacher.
-5. Your phone will be locked away and you will receive a calculator.
-
-Your phone remains inaccessible for the class while you are using the borrowed calculator.
+If you need a calculator for the QOD before the regular exchange can be completed, I may temporarily give you a calculator for the QOD. You must then hand in your phone immediately afterward to complete the normal sign-out procedure.

@@ -1,12 +1,10 @@
 ---
+title: "Can I change my replacement-exam selection?"
+category: "Replacement Exams"
+order: 5
 publish: true
-title: Can I change my replacement-exam selection?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.412Z
 ---
 
-Yes, but only while the official selection window is still open.
+Yes, but only while the official selection window is open. Once the window closes, your selection is final.
 
-During the selection window, you may change which eligible unit you want to replace.
-
-Once the selection deadline has passed, your choice is **final**.
+The only exception is the final unit immediately before the replacement exam if its mark is not available before the selection window closes. In that situation, you may change to that final unit at the beginning of the replacement exam.

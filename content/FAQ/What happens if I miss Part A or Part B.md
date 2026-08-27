@@ -1,14 +1,8 @@
 ---
+title: "What happens if I miss Part A or Part B?"
+category: "Part A & Part B Exams"
+order: 2
 publish: true
-title: What happens if I miss Part A or Part B?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.398Z
 ---
 
-If you miss one part of the exam, the missed part receives a mark of **0**.
-
-The points you earn on the part you did write still count, but your percentage is calculated out of the **total possible points for both Part A and Part B**.
-
-Missing either part will therefore almost certainly have a major effect on your unit-exam mark.
-
-You may request a late write by following the normal late-write procedure.
+The missed part receives a zero. The points you earn on the part you wrote still count, but your percentage is calculated using the total points available on both parts. Missing one part will therefore normally have a major effect on your mark.

@@ -1,12 +1,8 @@
 ---
+title: "What happens if I miss both Part A and Part B?"
+category: "Part A & Part B Exams"
+order: 4
 publish: true
-title: What happens if I miss both Part A and Part B?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.401Z
 ---
 
-If you miss both parts, your unit-exam mark is **0**.
-
-You may request a late write by following the normal late-write procedure.
-
-If you do not complete a late write, you may later be able to replace the zero using a replacement exam, provided you meet the replacement-exam eligibility requirements.
+Your unit exam mark is zero. You may request a late write using the normal late-write procedure. You may also be able to use the replacement exam for that unit later if you meet all replacement-exam requirements.

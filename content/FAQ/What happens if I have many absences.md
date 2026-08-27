@@ -1,14 +1,10 @@
 ---
+title: "What happens if I have many absences?"
+category: "Attendance & Lateness"
+order: 5
 publish: true
-title: What happens if I have many absences?
-created: 2026-08-27T20:59:58.000Z
-modified: 2026-08-27T16:19:40.368Z
 ---
 
-Frequent absences make it much harder to succeed in the course.
+Missing many classes makes it increasingly difficult to succeed. You are missing instruction, examples, practice, QODs, and other important information.
 
-When you miss class, you miss instruction, examples, discussions, QODs, and time to practise. Even if the absences are excused, you are still responsible for learning the material you missed.
-
-If absences become excessive, school administration may become involved and you may be removed from the course.
-
-Regular attendance gives you the best chance of being successful.
+A large or increasing number of unexcused absences may result in school administration removing you from the course. If you are later reinstated, all QODs from before the removal are reset to zero.
