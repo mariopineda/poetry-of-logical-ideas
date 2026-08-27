@@ -158,15 +158,15 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-  enabled: true
-  options:
-    title: Course Resources
-    folderClickBehavior: collapse
-    folderDefaultState: open
-    useSavedState: true
-  layout:
-    position: left
-    priority: 50
+    enabled: true
+    options:
+      title: Course Resources
+      folderClickBehavior: collapse
+      folderDefaultState: open
+      useSavedState: true
+    layout:
+      position: left
+      priority: 50
   - source: "@quartz-community/graph"
     enabled: false
     layout:
