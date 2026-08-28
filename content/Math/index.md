@@ -9,5 +9,5 @@ New questions will be added as the course progresses.
 
 ## Polynomials
 
-- [[Math/QOD Question Bank/Polynomials/Polynomial Functions 1.|Polynomial Functions 1]]
+- [[Math/Polynomials/Polynomial Functions 1.|Polynomial Functions 1]]
 
