@@ -15,13 +15,9 @@ It is not intended to be a textbook, and it is not meant to replace what happens
 
 ## Why?
 
-Mathematics is often presented as a sequence of procedures:
+Mathematics is often presented as a sequence of procedures: learn the rule, copy the example, do the exercise. 
 
-learn the rule, copy the example, do the exercise.
-
-But mathematics is much more interesting than that.
-
-It is a way of reasoning. It is a language for describing patterns and relationships. It can be practical, abstract, surprising, frustrating, elegant, and occasionally beautiful.
+But mathematics is much more interesting than that. It is a way of reasoning. It is a language for describing patterns and relationships. It can be practical, abstract, surprising, frustrating, elegant, and occasionally beautiful.
 
 This site exists partly to make the practical side of the course easier to navigate, but also to leave room for that larger view of mathematics.
 
