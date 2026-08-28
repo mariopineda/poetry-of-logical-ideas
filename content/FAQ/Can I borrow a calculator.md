@@ -1,8 +1,12 @@
----
+﻿---
 title: "Can I borrow a calculator?"
 category: "Calculators & Technology"
 order: 2
 publish: true
+related:
+  - "Do I need my own calculator?"
+  - "What else should I know about borrowing a calculator?"
+  - "Can I use my phone, laptop, or tablet during regular class?"
 ---
 
 Yes, but only through the calculator sign-out procedure during attendance at the beginning of class.
@@ -10,3 +14,13 @@ Yes, but only through the calculator sign-out procedure during attendance at the
 You must power down your phone and give it to me in exchange for the calculator. Your phone is locked away during the class. Borrowed calculators are returned during the final five minutes of class, and your phone is returned then.
 
 If you need a calculator for the QOD before the regular exchange can be completed, I may temporarily give you a calculator for the QOD. You must then hand in your phone immediately afterward to complete the normal sign-out procedure.
+
+<!-- RELATED-QUESTIONS:START -->
+## Related questions
+
+- [[FAQ/Do I need my own calculator|Do I need my own calculator?]]
+- [[FAQ/What else should I know about borrowing a calculator|What else should I know about borrowing a calculator?]]
+- [[FAQ/Can I use my phone, laptop, or tablet during regular class|Can I use my phone, laptop, or tablet during regular class?]]
+
+<!-- RELATED-QUESTIONS:END -->
+
