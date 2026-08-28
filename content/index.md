@@ -16,7 +16,7 @@ The FAQ contains quick answers about attendance, QODs, exams, missed exams, repl
 - [[Frequently Asked Questions|Frequently Asked Questions]]
 - [[Math|Math Course Resources]]
 
-## Important Reminder!
+## Important Reminder
 
 You are responsible for regularly checking:
 
