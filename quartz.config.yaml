@@ -2,7 +2,7 @@
 configuration:
   pageTitle: The Poetry of Logical Ideas
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
