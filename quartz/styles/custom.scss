@@ -1,4 +1,4 @@
-@use "./variables.scss" as *;
+﻿@use "./variables.scss" as *;
 
 // ------------------------------------------------------------
 // EXPLORER
@@ -333,3 +333,63 @@
     padding: 0.7rem 0;
   }
 }
+
+/* Osculatorium sidebar branding */
+.page-title {
+  margin: 0;
+}
+
+.page-title > a {
+  display: block;
+  width: 180px;
+  height: 180px;
+  max-width: 100%;
+  font-size: 0;
+  line-height: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+html[saved-theme="light"] .page-title > a {
+  background-image: url("./static/branding/osculatorium-sidebar-light.png");
+}
+
+html[saved-theme="dark"] .page-title > a {
+  background-image: url("./static/branding/osculatorium-sidebar-dark.png");
+}
+
+@media all and (max-width: 800px) {
+  .page-title > a {
+    width: 72px;
+    height: 72px;
+  }
+}
+
+
+/* Osculatorium top-of-page branding */
+body[data-slug="index"] .page-header::before {
+  content: "";
+  display: block;
+  width: 100%;
+  aspect-ratio: 805 / 245;
+  margin: 0 0 1.5rem 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+html[saved-theme="light"] body[data-slug="index"] .page-header::before {
+  background-image: url("./static/branding/osculatorium-header-light.png");
+}
+
+html[saved-theme="dark"] body[data-slug="index"] .page-header::before {
+  background-image: url("./static/branding/osculatorium-header-dark.png");
+}
+
+@media all and (max-width: 800px) {
+  body[data-slug="index"] .page-header::before {
+    margin-bottom: 1rem;
+  }
+}
+
