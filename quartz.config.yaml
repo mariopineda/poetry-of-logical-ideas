@@ -1,6 +1,6 @@
 ﻿# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Poetry of Logical Ideas
+  pageTitle: The Osculatorium
   pageTitleSuffix: ""
   enableSPA: false
   enablePopovers: true
@@ -356,4 +356,5 @@ layout:
     canvas: {}
 
     bases: {}
+
 
