@@ -1,9 +1,5 @@
 ---
 title: "About"
-publish: true
----
----
-title: "About"
 description: "What is The Osculatorium? Learn about the mathematical idea behind the name and the connections that make mathematics more than a collection of separate topics."
 publish: true
 type: "page"
