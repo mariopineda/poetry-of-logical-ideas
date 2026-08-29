@@ -9,7 +9,7 @@ related:
   - "Can course requirements change because of work, vacations, appointments, school activities, or other commitments?"
 ---
 
-The replacement-exam date is fixed. If you miss it, the opportunity is lost. There is no late write or make-up date for a replacement exam.
+The opportunity is lost. There is no late write or make-up date for a replacement exam. You must be present on the scheduled replacement-exam date.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

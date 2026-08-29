@@ -11,9 +11,9 @@ related:
 
 Yes, but only through the calculator sign-out procedure during attendance at the beginning of class.
 
-You must power down your phone and give it to me in exchange for the calculator. Your phone is locked away during the class. Borrowed calculators are returned during the final five minutes of class, and your phone is returned then.
+You must power down your phone and give it to me in exchange for the calculator. Your phone is locked away during class. Borrowed calculators are returned during the final five minutes of class, and your phone is returned then.
 
-If you need a calculator for the QOD before the regular exchange can be completed, I may temporarily give you a calculator for the QOD. You must then hand in your phone immediately afterward to complete the normal sign-out procedure.
+If you need a calculator for the QOD, you may temporarily sign out a calculator and keep your phone long enough to complete and submit the QOD. After you finish the QOD, bring your phone to me so it can be held as collateral for the borrowed calculator. The normal QOD deadline still applies.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

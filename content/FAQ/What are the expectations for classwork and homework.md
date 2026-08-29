@@ -9,9 +9,11 @@ related:
   - "Where do I find exam dates, notes, and other course information?"
 ---
 
-Regular classwork is practice and is normally not collected or marked. You are expected to use class time productively and complete the assigned work.
+You will normally receive classwork and have a large amount of class time to work on it. Regular classwork is mainly practice and is normally not collected or marked.
 
-If you do not finish the work during class, the unfinished work becomes your responsibility to complete before the next class. I may not separately announce that it is homework.
+If you do not finish the work during class, the unfinished work becomes your responsibility to complete before the next class. I may not specifically announce that it is homework.
+
+If you choose not to complete the practice, you may not be prepared for future lessons, QODs, and exams.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

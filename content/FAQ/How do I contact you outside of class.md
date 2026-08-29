@@ -9,9 +9,11 @@ related:
   - "Where do I find exam dates, notes, and other course information?"
 ---
 
-Contact me by email. I normally check email once each school day during school hours. Do not expect an immediate response; a response may take at least 24 hours, and weekends, holidays, and school breaks may take longer.
+Contact me by email. I normally check email during school hours, usually about once each school day.
 
-If the answer is already available in this FAQ, the online schedule, Google Classroom, or another course resource, I may respond by sending you the relevant link.
+Do not expect an immediate response. A response may take at least one school day and may take longer on weekends, holidays, or school breaks.
+
+If the answer is already available in this FAQ, the online schedule, Google Classroom, the course outline, or another course resource, I may simply send you a link to that information.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

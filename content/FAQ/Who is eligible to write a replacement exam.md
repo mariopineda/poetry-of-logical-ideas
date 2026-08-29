@@ -9,7 +9,9 @@ related:
   - "How and when do I select my replacement exam?"
 ---
 
-Your QOD average must be at least 50% when the replacement-exam selection window opens. You must also make a valid unit selection during the official selection window and attend on the fixed replacement-exam date.
+Your QOD average must be at least 50% when the replacement-exam selection window opens.
+
+You must also make a valid unit selection during the official selection window and attend on the fixed replacement-exam date.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

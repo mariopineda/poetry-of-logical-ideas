@@ -11,9 +11,11 @@ related:
 
 Calculator sign-out happens only during attendance, so you cannot normally borrow one later because you arrived late.
 
-You cannot return the calculator early simply to get your phone back. If a borrowed calculator is lost, damaged, or not returned, the situation must be resolved before the phone is returned and may be referred to the department head.
+You cannot return the calculator early simply to get your phone back.
 
-Neither I nor the school is responsible for loss of or damage to a phone while it is being held as part of the calculator-loan procedure.
+If a borrowed calculator is lost, damaged, or not returned, your phone will not be returned at that time. The situation will be referred to the department head to resolve.
+
+The teacher and school are not responsible for loss or damage to a personal device left as collateral.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

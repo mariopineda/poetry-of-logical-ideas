@@ -9,9 +9,9 @@ related:
   - "Why does my unit exam have Part A and Part B, and how is the mark calculated?"
 ---
 
-No. You cannot simply write the missed Part A while the class is writing Part B, or vice versa.
+No. You cannot simply write the missed Part A while the class is writing Part B, or write Part B later by itself.
 
-You may request a late write using the normal late-write procedure. If a late write is approved, it is a new complete exam covering the entire unit, not just the part you missed.
+You may request a late write using the normal late-write procedure. If a late write is approved, you write a new complete exam covering the entire unit, not only the part you missed.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

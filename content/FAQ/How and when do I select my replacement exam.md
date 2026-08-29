@@ -9,9 +9,11 @@ related:
   - "What is a replacement exam, and which mark is kept?"
 ---
 
-The selection window is normally open for about three or four class days after the QOD catch-up period, approximately one week before the replacement exam.
+The selection window is normally open for several specific class days after the QOD catch-up period, approximately one week before the replacement exam.
 
-You must make your selection in person during class. Email, direct message, or another remote message does not count as a selection.
+Normally, all regular unit exams are available as replacement-exam options, but there may be exceptions. Any exceptions will be communicated during the course.
+
+You must make your selection **in person during class** by telling me which eligible unit you want to replace. Email, direct message, or another remote message does not count as a selection.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

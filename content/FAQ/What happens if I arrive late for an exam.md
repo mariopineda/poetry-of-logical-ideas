@@ -9,9 +9,13 @@ related:
   - "What happens before an exam starts, and where do I sit?"
 ---
 
-You may begin an exam up to 30 minutes after the scheduled start, but you receive no extra time at the end.
+You may begin the exam up to 30 minutes after the scheduled start time. You do not receive extra time at the end.
 
-Normal attendance procedures still apply. If you missed attendance, you must submit the Late Report while physically in the classroom and within the first 20 minutes of class. If you arrive more than 30 minutes after the exam begins, you cannot write the exam.
+Attendance rules still apply. If you arrive within the first 20 minutes, submit the Late Report after you arrive and while you are physically in the classroom.
+
+If you arrive more than 20 minutes late, you are considered absent for attendance purposes and must confirm the absence through SchoolZone. You may still begin the exam as long as you arrive within the first 30 minutes.
+
+If you arrive more than 30 minutes after the scheduled start time, you cannot write the exam.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

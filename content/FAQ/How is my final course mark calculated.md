@@ -1,7 +1,7 @@
 ﻿---
 title: "How is my final course mark calculated?"
 category: "Course Information & Policies"
-order: 2
+order: 3
 publish: true
 related:
   - "Where do I find exam dates, notes, and other course information?"

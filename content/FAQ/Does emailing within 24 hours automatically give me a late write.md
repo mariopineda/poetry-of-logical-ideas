@@ -9,9 +9,11 @@ related:
   - "Can I write the missed exam when I return to class?"
 ---
 
-No. Emailing within 24 hours makes you eligible to request a late write. It does not automatically approve one.
+No. Emailing within 24 hours makes you eligible to request a late write. It does not automatically approve the request.
 
-Approval is discretionary. If your request is approved, you will receive the additional steps and instructions required to complete the late-write process.
+If your request is approved, you will receive more instructions.
+
+A late write is not a quick or convenient way to get extra study time or choose a better exam date. It happens on my timeline, not yours. It may take several weeks or longer to arrange and may involve substantial extra work.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

@@ -9,7 +9,7 @@ related:
   - "Can course requirements change because of work, vacations, appointments, school activities, or other commitments?"
 ---
 
-No. You do not need to provide a reason for missing the exam, and I do not assess whether your reason is good enough. You still must follow the late-write procedure and meet all deadlines.
+No. You do not need to give me a reason. The reason for the absence does not determine whether you may request a late write.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

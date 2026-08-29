@@ -9,9 +9,13 @@ related:
   - "What if I am late or absent during the QOD?"
 ---
 
-You are responsible for bringing a functioning device and being able to access Google Classroom when needed. A dead battery, forgotten phone, or problem with your own device does not automatically give you more time.
+You are responsible for bringing a functioning device and being able to access Google Classroom when needed.
 
-If a classroom Chromebook or another school device is available, you may be able to use it, but availability is not guaranteed. The QOD deadline does not change.
+A dead battery, forgotten phone, or problem with your own device does not automatically give you more time.
+
+A limited number of classroom Chromebooks may be available as a backup. You should not depend on these instead of bringing your own functioning technology.
+
+If there is a school-wide or Google Classroom problem that prevents submissions, I will give you instructions about what to do.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

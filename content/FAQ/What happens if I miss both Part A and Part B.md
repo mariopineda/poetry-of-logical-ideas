@@ -9,7 +9,9 @@ related:
   - "Why does my unit exam have Part A and Part B, and how is the mark calculated?"
 ---
 
-Your unit exam mark is zero. You may request a late write using the normal late-write procedure. You may also be able to use the replacement exam for that unit later if you meet all replacement-exam requirements.
+Your unit exam mark is zero.
+
+You may request a late write using the normal late-write procedure. You may also later use a replacement exam for that unit if you are eligible and the unit is an eligible replacement option.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

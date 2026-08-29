@@ -9,9 +9,11 @@ related:
   - "How is my final course mark calculated?"
 ---
 
-Most unit exams are divided into Part A and Part B and are written during two consecutive class sessions. Part A is normally written response. Part B is normally multiple choice and numerical response.
+Most unit exams are divided into Part A and Part B. They are normally written during two consecutive classes.
 
-The two parts together are one unit exam. Points earned on both parts are added together and divided by the total possible points from both parts. Splitting the exam gives students approximately twice the normal class time to complete the unit assessment.
+Part A is normally written response. Part B is normally multiple choice and numerical response. This gives every student approximately twice the normal class time to complete the unit exam.
+
+Part A and Part B together make one unit exam. The points you earn on both parts are added together and divided by the total number of points available on both parts.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

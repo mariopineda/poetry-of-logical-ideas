@@ -9,9 +9,9 @@ related:
   - "What are the expectations for classwork and homework?"
 ---
 
-Bring your workbook, pencils or other writing tools, an appropriate calculator, and the materials you need to participate.
+Bring your workbook, pencils or other writing tools, an appropriate calculator, and a willingness to participate and learn.
 
-If you forget your workbook and an extra copy is available at the back of the classroom, you may use it. Otherwise, use separate paper. Forgetting your workbook does not mean you sit out the class.
+If you forget your workbook and an extra workbook is available at the back of the classroom, you may use it. Otherwise, use separate paper. Forgetting your workbook does not mean you sit out the class.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

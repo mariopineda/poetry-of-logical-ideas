@@ -9,7 +9,9 @@ related:
   - "How do I contact you outside of class?"
 ---
 
-I do not provide regular extra-help sessions outside class. A significant amount of class time is provided for practice and questions. Use that time to ask for help rather than waiting until the end of class or until you have fallen far behind.
+I do not normally provide regular extra-help sessions outside class. A large amount of class time is provided for practice and questions. Use that time to ask for help.
+
+If you fall behind, catching up is your responsibility and should happen on your own time.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

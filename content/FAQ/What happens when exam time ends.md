@@ -9,7 +9,7 @@ related:
   - "Why does my unit exam have Part A and Part B, and how is the mark calculated?"
 ---
 
-You must stop working and hand in your exam at the scheduled end time. There is no extra time beyond the scheduled end of the exam unless a formally approved accommodation specifically requires something different.
+You must stop working and hand in your exam at the scheduled end time. There is no extra time. This also applies if you arrived late.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

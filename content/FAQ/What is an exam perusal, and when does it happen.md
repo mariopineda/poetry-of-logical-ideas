@@ -9,9 +9,9 @@ related:
   - "What if I think my exam was marked incorrectly?"
 ---
 
-An exam perusal is a scheduled opportunity to look at your marked exam, review your work, and raise concerns about the marking.
+An exam perusal is a scheduled time when you may look at your marked exam, review your work, and ask about the marking.
 
-Perusals are held only at specific scheduled times listed in the online class schedule. There may be one or several opportunities depending on the exam.
+Perusals happen at specific times listed in the online class schedule. There may be one or several opportunities, depending on the exam.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

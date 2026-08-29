@@ -9,7 +9,9 @@ related:
   - "Why does my unit exam have Part A and Part B, and how is the mark calculated?"
 ---
 
-The missed part receives a zero. The points you earn on the part you wrote still count, but your percentage is calculated using the total points available on both parts. Missing one part will therefore normally have a major effect on your mark.
+The part you miss receives a zero.
+
+The points you earn on the part you wrote still count, but your percentage is calculated using all of the points available on both parts. Missing one part will normally have a major effect on your mark.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

@@ -9,9 +9,9 @@ related:
   - "What if I have a problem with my device or Google Classroom?"
 ---
 
-Phones, laptops, and tablets may be used for legitimate learning purposes when appropriate. You are expected to use them responsibly.
+You may use phones, laptops, and tablets for appropriate classroom and learning purposes.
 
-Watching movies or videos, playing games, or using a device for entertainment during class is inappropriate and disruptive. If device use becomes a problem, you may be directed to put it away or leave the classroom.
+You are expected to use your phone responsibly. Watching movies or videos, playing games, or using a device for entertainment during class is not appropriate. If your device use becomes a problem, you may be asked to leave.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

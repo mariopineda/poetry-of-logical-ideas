@@ -9,9 +9,11 @@ related:
   - "What do I do if I miss a unit exam?"
 ---
 
-If you are absent, you are responsible for confirming your absence through SchoolZone on the same day so that it can be recorded as excused. I do not change this for you.
+You are responsible for confirming your own absence through SchoolZone. Use SchoolZone to change the absence to a confirmed absence. I do not confirm the absence for you.
 
-You are also responsible for finding out what you missed and catching up before you return to class.
+You may tell me ahead of time that you will be absent, but this does not change your attendance record. You are still responsible for confirming the absence yourself through SchoolZone.
+
+If you think you were incorrectly marked absent or late, talk to me as soon as possible. Be ready to give me the exact date and details. I may ask you to follow up by email so there is a written record. Do not wait until much later in the course to raise an attendance concern.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

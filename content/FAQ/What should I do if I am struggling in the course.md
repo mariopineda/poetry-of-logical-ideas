@@ -9,7 +9,7 @@ related:
   - "What are the expectations for classwork and homework?"
 ---
 
-Talk to me during class as soon as possible. Ask questions during work time, use the drop-in math tutors, review the course materials, and keep up with the assigned practice. Do not wait until the problem has become much larger.
+Talk to me during class as soon as possible. Ask questions during work time and use the math tutors on the fourth floor. Do not wait until the problem becomes much larger.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

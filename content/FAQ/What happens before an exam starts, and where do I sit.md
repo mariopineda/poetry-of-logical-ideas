@@ -9,9 +9,11 @@ related:
   - "What happens if I arrive late for an exam?"
 ---
 
-The classroom normally opens about five minutes before the exam. Students line up outside before entering.
+The classroom normally opens about five minutes before the exam. Students line up outside.
 
-If you have a phone, it must be powered down before you enter and then placed in your bag. Bags and jackets are placed at the back of the room. Exam seating is assigned and may change from one exam to another.
+If you have a phone, I will see that it is powered down before you enter. The phone then goes into your bag. Bags and jackets are placed at the back of the room.
+
+Exam seating is assigned. Your seat may be different for each exam.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

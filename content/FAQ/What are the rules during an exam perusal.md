@@ -9,9 +9,9 @@ related:
   - "What is an exam perusal, and when does it happen?"
 ---
 
-Exam perusals are controlled much like exams. Phones, bags, pencils, paper, workbooks, photographs, and other materials that could be used to copy exam content are not permitted.
+Exam perusals are controlled much like exams. Phones, bags, pencils, paper, workbooks, photographs, and copying exam content are not allowed.
 
-You may not leave the perusal and then return to continue reviewing the exam.
+If you leave the perusal, you may not return.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

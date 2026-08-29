@@ -9,7 +9,9 @@ related:
   - "Can course requirements change because of work, vacations, appointments, school activities, or other commitments?"
 ---
 
-If you are absent for the entire selection window, you cannot write a replacement exam. The selection must be made in person during the official window.
+You must be physically present during at least one day of the official selection window and tell me your selection in person.
+
+If you are absent for the entire selection window, you cannot select or write a replacement exam. Email or another remote message does not count as a selection.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

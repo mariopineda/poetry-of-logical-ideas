@@ -9,9 +9,11 @@ related:
   - "What happens if I cheat or communicate with another student during an assessment?"
 ---
 
-During normal learning and classwork, collaboration is allowed when both students genuinely contribute and understand the work. Simply copying another student's work is cheating.
+During normal learning and classwork, collaboration is allowed when both students genuinely contribute, understand the work, and could explain it themselves. Simply copying another student's work is cheating.
 
-AI may be used as a learning tool to explain concepts or help you understand material. Submitting AI-generated work as your own is cheating. Collaboration and AI use are not permitted during an exam unless explicitly authorized.
+AI may be used as a learning tool to explain concepts or help you understand material. Submitting AI-generated work as your own is cheating.
+
+Collaboration and AI use are not permitted during an exam or other assessment unless explicitly authorized.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

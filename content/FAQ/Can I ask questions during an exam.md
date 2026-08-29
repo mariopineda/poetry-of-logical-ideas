@@ -9,7 +9,7 @@ related:
   - "What if I think my exam was marked incorrectly?"
 ---
 
-Yes, but the help I can provide is extremely limited. I cannot give hints, explain how to solve a question, confirm whether your work is correct, or provide information that would help you answer the question.
+Yes, but the help I can provide is very limited. I cannot give hints, explain how to solve a question, tell you whether your work is correct, or give information that would help you answer the question.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

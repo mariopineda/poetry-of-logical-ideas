@@ -96,6 +96,7 @@ Please check this FAQ, the online class schedule, Google Classroom, and the cour
 
 ## Course Information & Policies
 
+- [[FAQ/What is the Course Commitment Form, and do I have to complete it|What is the Course Commitment Form, and do I have to complete it?]]
 - [[FAQ/Where do I find exam dates, notes, and other course information|Where do I find exam dates, notes, and other course information?]]
 - [[FAQ/How is my final course mark calculated|How is my final course mark calculated?]]
 - [[FAQ/What if I require an accommodation|What if I require an accommodation?]]
@@ -105,5 +106,7 @@ Please check this FAQ, the online class schedule, Google Classroom, and the cour
 
 - [[FAQ/What should I bring to class, and what if I forget my workbook|What should I bring to class, and what if I forget my workbook?]]
 - [[FAQ/What behaviour is expected in class|What behaviour is expected in class?]]
+- [[FAQ/Can I leave class to use the school prayer space|Can I leave class to use the school prayer space?]]
+- [[FAQ/When will I be allowed to leave class to use the prayer space|When will I be allowed to leave class to use the prayer space?]]
 - [[FAQ/Can I record the class, take pictures, choose my seat, or bring a guest|Can I record the class, take pictures, choose my seat, or bring a guest?]]
 

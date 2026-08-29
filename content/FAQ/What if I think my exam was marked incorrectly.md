@@ -9,7 +9,7 @@ related:
   - "Can I copy questions, take notes, or work through a question during a perusal?"
 ---
 
-Talk to me during the scheduled exam perusal. Show me the question and explain clearly what you believe was marked incorrectly or what you believe your work demonstrates. The perusal is the time to raise marking concerns.
+Talk to me during the scheduled exam perusal. Show me the question and clearly explain what you think was marked incorrectly or what you think your work shows.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

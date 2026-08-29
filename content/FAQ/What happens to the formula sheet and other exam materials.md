@@ -9,9 +9,9 @@ related:
   - "What counts as academic dishonesty or cheating?"
 ---
 
-Only the formula sheet provided by me may be used. You may write on that formula sheet during the exam.
+You may only use the formula sheet provided by me. You may write anything you want on that formula sheet during the exam.
 
-The exam, formula sheet, scratch paper, and any other written exam materials are collected at the end. Nothing from the exam may leave the classroom.
+You may not take exam materials with you when you leave. The exam, formula sheet, scratch paper, and all other written exam materials are collected. Nothing from the exam leaves the classroom.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

@@ -9,9 +9,11 @@ related:
   - "What happens if I cheat or communicate with another student during an assessment?"
 ---
 
-Academic dishonesty means presenting work as your own when it is not actually your own, or using unauthorized help, materials, communication, or devices during an assessment.
+Academic dishonesty, also called a violation of academic integrity, means presenting work as your own when it is not actually your own, or breaking the rules of an assessment.
 
-The source could be another student, ChatGPT or another AI system, a website, personal notes, an unauthorized device, or another unauthorized source. Academic-integrity rules apply to exams, QODs, and other assessed work.
+The source could be another student, ChatGPT or another AI system, a website, personal notes, an unauthorized device, or another unauthorized source.
+
+Academic-integrity rules apply to exams, QODs, and other assessed work.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

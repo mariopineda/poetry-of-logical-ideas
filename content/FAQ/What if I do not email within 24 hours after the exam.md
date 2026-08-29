@@ -9,7 +9,9 @@ related:
   - "Does emailing within 24 hours automatically give me a late write?"
 ---
 
-You are not eligible for a late write. The missed exam remains a zero. You may still be able to replace that zero later using the replacement exam if you meet all replacement-exam requirements.
+You are not eligible for a late write. The missed exam mark remains a zero.
+
+You may still be able to replace the zero later with a replacement exam if you meet the replacement-exam requirements and that unit is an eligible replacement option.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

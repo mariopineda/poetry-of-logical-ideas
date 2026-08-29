@@ -9,9 +9,13 @@ related:
   - "What are the expectations for classwork and homework?"
 ---
 
-You are responsible for finding out what you missed and catching up before returning. Check the online class schedule, Google Classroom, course materials, and classmates. Regular class time is not catch-up time for previously missed work.
+You are responsible for finding out what you missed and beginning to catch up before you return to class. Check the online class schedule, Google Classroom, course materials, and classmates.
 
-If you know you will miss class, use the available course information to work ahead when possible. If you leave class early, you are responsible for anything that happens after you leave.
+If you know you will miss class, use the available course information to work ahead when possible.
+
+You are expected to catch up as quickly as possible on your own time. Regular class time is not set aside for catching up on work you previously missed.
+
+If you leave class early, talk to me first when possible. You are responsible for anything that happens after you leave.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

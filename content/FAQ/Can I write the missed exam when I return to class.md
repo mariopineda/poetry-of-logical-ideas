@@ -9,9 +9,9 @@ related:
   - "Can I write only the part of the exam that I missed later?"
 ---
 
-No. You cannot simply return to class and write the missed exam.
+No. You cannot simply return to class and expect to write the missed exam.
 
-The late-write process has multiple steps and is intentionally not a quick replacement for writing the exam at the scheduled time. It can take several weeks or longer to complete.
+A late write has its own process and may take several weeks or longer to arrange. If approved, it is a new complete exam covering the unit.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

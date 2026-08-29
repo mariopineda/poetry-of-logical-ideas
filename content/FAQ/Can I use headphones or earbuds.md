@@ -9,7 +9,9 @@ related:
   - "What happens if I have an unauthorized digital device on me during an assessment?"
 ---
 
-Headphones or earbuds may be used during appropriate independent work time. They should not be used while I am teaching or while another person is addressing the class. They are never permitted during an assessment unless explicitly authorized as part of a formal accommodation.
+Headphones or earbuds may be used during appropriate independent work time. Do not use them while I am teaching or while someone else is speaking to the class.
+
+They are never allowed during assessments unless they are explicitly authorized as part of a formal accommodation.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

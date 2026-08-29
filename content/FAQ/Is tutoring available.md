@@ -9,7 +9,7 @@ related:
   - "How do I contact you outside of class?"
 ---
 
-Yes. Drop-in math tutors are available on the fourth floor. Use this support whenever you need additional explanation or practice.
+Yes. Drop-in math tutors are available on the fourth floor. If you need extra help or need to catch up, you are expected to take the initiative and use this support on your own time.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

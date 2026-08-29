@@ -9,9 +9,13 @@ related:
   - "How are QODs marked?"
 ---
 
-The 10-minute QOD window always starts at the scheduled beginning of class. Arriving late does not give you extra time. For example, if you arrive five minutes late, you have five minutes remaining.
+The QOD deadline does not change because you are late or absent.
 
-You do not have to be physically in the classroom to complete the QOD. You may complete and submit it from anywhere, but it must be submitted before the 10-minute deadline. Once the window closes, the QOD is missed.
+If you arrive five minutes after class begins, you have five minutes left.
+
+You do not have to be physically in the classroom to complete the QOD. You may complete and submit it from anywhere during the normal 10-minute window.
+
+Being absent does not excuse you from the QOD. If you do not submit it during the 10-minute window, the QOD is missed and receives a mark of zero.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

@@ -9,9 +9,11 @@ related:
   - "Can I work with another student or use AI?"
 ---
 
-Communication with another student during an assessment is cheating. Using unauthorized materials, copying, or receiving unauthorized help is also cheating.
+Academic dishonesty has a **zero-tolerance policy**.
 
-Academic dishonesty results in a zero or invalidated assessment attempt, a record of the incident, and referral to the department head for a first incident. Repeated incidents are referred to an assistant principal and may result in additional consequences, including suspension or removal from the course.
+Any incident will result in a zero on the assignment or QOD, or an invalidated assessment attempt, and a referral to administration. Other consequences may include suspension or removal from the course.
+
+Communication with another student during an assessment is cheating. Using unauthorized materials, copying, or receiving unauthorized help is also cheating.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
