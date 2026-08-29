@@ -19,7 +19,6 @@ const CONTENT_ROOT = path.resolve("content")
 const QOD_ROOT = path.join(
   CONTENT_ROOT,
   "Math",
-  "QOD Question Bank",
 )
 
 function getMarkdownFiles(directory: string): string[] {
@@ -1413,6 +1412,7 @@ config.plugins.transformers.push({
 export default config
 
 export const layout = await loadQuartzLayout()
+
 
 
 
