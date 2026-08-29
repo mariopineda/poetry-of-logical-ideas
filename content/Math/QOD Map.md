@@ -1,4 +1,4 @@
-﻿---
+---
 title: "QOD Map"
 publish: true
 type: qod-map
