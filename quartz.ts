@@ -11,6 +11,7 @@ type QodEntry = {
   name: string
   slug: string
   courses: string[]
+  topic: string
   prerequisites: string[]
   related: string[]
 }
@@ -122,6 +123,10 @@ for (const filePath of getMarkdownFiles(QOD_ROOT)) {
     name,
     slug,
     courses: stringList(frontmatter.courses),
+    topic:
+      typeof frontmatter.topic === "string"
+        ? frontmatter.topic.trim()
+        : "",
     prerequisites: relationshipList(frontmatter.prerequisites),
     related: relationshipList(frontmatter.related),
   }
@@ -749,6 +754,8 @@ config.plugins.transformers.push({
                 stroke: "var(--gray)",
                 strokeWidth: 2,
                 markerEnd: `url(#${markerId})`,
+                "data-source": edge.v,
+                "data-target": edge.w,
               },
               children: [],
             }
@@ -817,6 +824,9 @@ config.plugins.transformers.push({
                     "qod-map-node",
                     `qod-map-node-${mode}`,
                   ],
+                  "data-qod-slug": entry.slug,
+                  "data-qod-courses": entry.courses.join("|"),
+                  "data-qod-topic": entry.topic,
                   style: [
                     "position:absolute",
                     `left:${left}px`,
@@ -1187,6 +1197,9 @@ config.plugins.transformers.push({
               tagName: "div",
               properties: {
                 className: ["qod-mobile-path-node"],
+                "data-qod-slug": entry.slug,
+                "data-qod-courses": entry.courses.join("|"),
+                "data-qod-topic": entry.topic,
               },
               children,
             }
@@ -1367,6 +1380,128 @@ config.plugins.transformers.push({
             children: mobileChildren,
           }
         }
+        const filterControls = {
+          type: "element",
+          tagName: "div",
+          properties: {
+            className: ["qod-map-filters"],
+          },
+          children: [
+            {
+              type: "element",
+              tagName: "label",
+              properties: {
+                className: ["qod-map-filter"],
+              },
+              children: [
+                {
+                  type: "element",
+                  tagName: "span",
+                  properties: {},
+                  children: [
+                    {
+                      type: "text",
+                      value: "Course",
+                    },
+                  ],
+                },
+                {
+                  type: "element",
+                  tagName: "select",
+                  properties: {
+                    id: "qod-map-course-filter",
+                    className: ["qod-map-select"],
+                  },
+                  children: [
+                    {
+                      type: "element",
+                      tagName: "option",
+                      properties: {
+                        value: "",
+                      },
+                      children: [
+                        {
+                          type: "text",
+                          value: "All Courses",
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            },
+
+            {
+              type: "element",
+              tagName: "label",
+              properties: {
+                className: ["qod-map-filter"],
+              },
+              children: [
+                {
+                  type: "element",
+                  tagName: "span",
+                  properties: {},
+                  children: [
+                    {
+                      type: "text",
+                      value: "Topic",
+                    },
+                  ],
+                },
+                {
+                  type: "element",
+                  tagName: "select",
+                  properties: {
+                    id: "qod-map-topic-filter",
+                    className: ["qod-map-select"],
+                  },
+                  children: [
+                    {
+                      type: "element",
+                      tagName: "option",
+                      properties: {
+                        value: "",
+                      },
+                      children: [
+                        {
+                          type: "text",
+                          value: "All Topics",
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            },
+
+            {
+              type: "element",
+              tagName: "button",
+              properties: {
+                id: "qod-map-reset",
+                type: "button",
+                className: ["qod-map-reset"],
+              },
+              children: [
+                {
+                  type: "text",
+                  value: "Reset filters",
+                },
+              ],
+            },
+
+            {
+              type: "element",
+              tagName: "span",
+              properties: {
+                id: "qod-map-count",
+                className: ["qod-map-count"],
+              },
+              children: [],
+            },
+          ],
+        }
         const mapSection = {
           type: "element",
           tagName: "section",
@@ -1399,8 +1534,19 @@ config.plugins.transformers.push({
               ],
             },
 
+            filterControls,
+
             makeLayout("desktop"),
             makeMobilePathList(),
+
+            {
+              type: "element",
+              tagName: "script",
+              properties: {
+                src: `${root}/static/qod-map-filter.js`,
+              },
+              children: [],
+            },
           ],
         }
 
@@ -1412,6 +1558,8 @@ config.plugins.transformers.push({
 export default config
 
 export const layout = await loadQuartzLayout()
+
+
 
 
 
