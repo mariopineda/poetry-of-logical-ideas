@@ -322,3 +322,14 @@
 .qod-mobile-related {
   border-top-color: var(--qod-card-border);
 }
+
+/* Compact collapsed callouts */
+.callout.is-collapsed {
+  > .callout-content {
+    display: none !important;
+  }
+
+  > .callout-title {
+    padding: 0.7rem 0;
+  }
+}
