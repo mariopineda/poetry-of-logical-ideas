@@ -1,6 +1,6 @@
-filters:
+﻿filters:
   and:
-    - file.inFolder("Math/QOD Question Bank")
+    - file.inFolder("Math")
     - type == "qod"
 properties:
   file.name:
@@ -88,3 +88,4 @@ views:
       direction: ASC
     order:
       - file.name
+
