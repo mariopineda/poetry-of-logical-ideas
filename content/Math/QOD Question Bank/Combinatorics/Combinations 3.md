@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,9 @@ courses:
   - "Math 30-2"
 topic: "Combinations"
 show_solution: false
+prerequisites:
+  - "[[Combinations 1]]"
+  - "[[Fundamental Counting Principle 4]]"
 ---
 
 ## Question
@@ -45,3 +48,4 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 5. $_4C_4 \times _{48}C_1$
 
 6. $_4C_1 \times _4C_4 \times _{44}C_1$
+

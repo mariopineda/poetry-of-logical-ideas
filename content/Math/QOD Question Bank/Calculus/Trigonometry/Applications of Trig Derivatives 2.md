@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
 show_solution: false
+prerequisites:
+  - "[[Derivative of Trigonometric Functions 2d]]"
 ---
 
 ## Question
@@ -61,3 +63,4 @@ $$
 $$
 The third side is increasing at the rate of $\frac{\displaystyle \pi\sqrt{39}}{\displaystyle 39} \mbox{m}/\mbox{s} \approx 0.50 \mbox{m}/\mbox{s}$
 %%
+

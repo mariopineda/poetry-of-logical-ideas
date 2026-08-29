@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Polynomial Functions"
 show_solution: false
+prerequisites:
+  - "[[Polynomial Functions 2]]"
 ---
 
 ## Question
@@ -14,4 +16,5 @@ Use the chart below to summarize how the sign pf the leading coefficient and deg
 ![[Polynomial Functions 4.png .png]]
 
 ## Solution
+
 

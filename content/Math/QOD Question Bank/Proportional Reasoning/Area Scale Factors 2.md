@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Scale Factors"
 show_solution: false
+prerequisites:
+  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -15,4 +17,5 @@ The area of the province of Alberta is approximately 661850 $\text{km}^2$. On a 
 > $1 \text{ km} = 100000 \text{ cm}$
 
 ## Solution
+
 

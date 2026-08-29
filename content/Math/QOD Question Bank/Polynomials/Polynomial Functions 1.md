@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Polynomial Functions"
 show_solution: false
+prerequisites:
+  - "[[Exponent Laws 1]]"
 ---
 
 ## Question
@@ -20,4 +22,5 @@ State whether or not each of the following functions is a polynomial function? E
 ### 7. $g(x) = 3^x+11$
 
 ## Solution
+
 

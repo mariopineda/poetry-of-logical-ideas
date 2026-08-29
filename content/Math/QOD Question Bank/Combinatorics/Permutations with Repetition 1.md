@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,8 @@ courses:
   - "Math 30-2"
 topic: "Permutations"
 show_solution: false
+prerequisites:
+  - "[[Permutations 1]]"
 ---
 
 ## Question
@@ -17,4 +19,6 @@ a) there are 2 Canadians, 1 Swedish, 1 German, 1 South African and 3 runners fro
 b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runners.
 
 ## Solution
+
+
 

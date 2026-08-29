@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Scale Factors"
 show_solution: false
+prerequisites:
+  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -25,4 +27,5 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 | 9.  |     |     |     | $\frac{\displaystyle 1}{\displaystyle 1000}$    |
 
 ## Solution
+
 

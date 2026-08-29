@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,10 @@ courses:
   - "Math 30-2"
 topic: "Permutations"
 show_solution: false
+prerequisites:
+  - "[[Permutations with Repetition 1]]"
+related:
+  - "[[Permutations 3]]"
 ---
 
 ## Question
@@ -14,4 +18,6 @@ Using permutations, determine the number of pathways from the red to the green p
 ![[Pathway Problems.png]]
 
 ## Solution
+
+
 

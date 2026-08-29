@@ -1,10 +1,12 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Set Theory"
 show_solution: false
+prerequisites:
+  - "[[Set Theory 1]]"
 ---
 
 ## Question
@@ -38,3 +40,4 @@ Consider the following sets
 ## Solution
 
 ...
+

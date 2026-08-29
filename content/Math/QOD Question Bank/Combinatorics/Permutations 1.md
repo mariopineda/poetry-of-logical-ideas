@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,8 @@ courses:
   - "Math 30-2"
 topic: "Permutations"
 show_solution: false
+prerequisites:
+  - "[[Fundamental Counting Principle 1]]"
 ---
 
 ## Question
@@ -21,4 +23,6 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > What is the smallest number of digits that a number smaller than 3000 can have?
 
 ## Solution
+
+
 

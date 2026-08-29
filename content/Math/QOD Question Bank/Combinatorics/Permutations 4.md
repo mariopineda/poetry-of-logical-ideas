@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,8 @@ courses:
   - "Math 30-2"
 topic: "Permutations"
 show_solution: false
+prerequisites:
+  - "[[Permutations 1]]"
 ---
 
 ## Question
@@ -13,4 +15,5 @@ show_solution: false
 Using the permutation formula, simplify $_nP_2$.
 
 ## Solution
+
 

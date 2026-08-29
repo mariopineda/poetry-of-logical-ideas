@@ -1,10 +1,15 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Polynomial Functions"
 show_solution: false
+prerequisites:
+  - "[[Polynomial Functions 1]]"
+  - "[[Polynomial Functions 3]]"
+related:
+  - "[[Domain & Range 1]]"
 ---
 
 ## Question
@@ -20,4 +25,5 @@ For each polynomial, state the name, degree, leading coefficient, constant, doma
 7. $f(x) = 3(x-3)^2$
 
 ## Solution
+
 
