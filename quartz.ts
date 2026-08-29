@@ -61,6 +61,50 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
 
 const config = await loadQuartzConfig()
 
+// QOD solution visibility
+// If a QOD has show_solution: false in its frontmatter,
+// remove the "## Solution" heading and everything after it
+// before Quartz renders the page.
+config.plugins.transformers.push({
+  name: "QodSolutionVisibility",
+
+  markdownPlugins() {
+    return [
+      () => (tree: any, file: any) => {
+        const frontmatter = file.data.frontmatter
+
+        if (
+          frontmatter?.type !== "qod" ||
+          frontmatter?.show_solution !== false
+        ) {
+          return
+        }
+
+        const children = tree.children ?? []
+
+        const solutionIndex = children.findIndex((node: any) => {
+          if (node.type !== "heading" || node.depth !== 2) {
+            return false
+          }
+
+          const text = (node.children ?? [])
+            .filter((child: any) => child.type === "text")
+            .map((child: any) => child.value)
+            .join("")
+            .trim()
+            .toLowerCase()
+
+          return text === "solution"
+        })
+
+        if (solutionIndex !== -1) {
+          children.splice(solutionIndex)
+        }
+      },
+    ]
+  },
+} as any)
+
 export default config
 
 export const layout = await loadQuartzLayout()
