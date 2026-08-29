@@ -393,3 +393,8 @@ html[saved-theme="dark"] body[data-slug="index"] .page-header::before {
   }
 }
 
+
+/* Match light-mode page background to Osculatorium branding */
+html[saved-theme="light"] body {
+  background-color: rgb(244, 243, 240);
+}
