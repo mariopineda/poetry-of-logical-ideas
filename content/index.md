@@ -1,5 +1,5 @@
 ---
-title: "The Poetry of Logical Ideas"
+title: ""
 publish: true
 ---
 
