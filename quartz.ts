@@ -1,6 +1,7 @@
-import fs from "node:fs"
+﻿import fs from "node:fs"
 import path from "node:path"
 import { parse as parseYaml } from "yaml"
+import { graphlib, layout as dagreLayout } from "@dagrejs/dagre"
 
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { componentRegistry } from "./quartz/components/registry"
@@ -621,6 +622,800 @@ config.plugins.transformers.push({
   },
 } as any)
 
+
+// ------------------------------------------------------------
+// QOD MAP
+// ------------------------------------------------------------
+//
+// Responsive learning-path map:
+//
+// Desktop:
+//   prerequisite -> later idea
+//
+// Mobile:
+//   prerequisite
+//        ↓
+//   later idea
+//
+// Both layouts are generated automatically from the same
+// QOD relationship metadata.
+//
+config.plugins.transformers.push({
+  name: "QodMap",
+
+  htmlPlugins() {
+    return [
+      () => (tree: any, file: any) => {
+        const currentSlug = String(file.data.slug ?? "")
+        const frontmatter = file.data.frontmatter
+
+        if (
+          frontmatter?.type !== "qod-map" &&
+          currentSlug !== "math/qod-map"
+        ) {
+          return
+        }
+
+        const calculusQods = [...qodBySlug.values()]
+          .sort((a, b) => a.name.localeCompare(b.name))
+
+        if (calculusQods.length === 0) return
+
+        const calculusSlugs = new Set(
+          calculusQods.map((entry) => entry.slug),
+        )
+
+        const root = pathToRoot(currentSlug as any)
+
+        const makeLayout = (
+          mode: "desktop" | "mobile",
+        ) => {
+          const isMobile = mode === "mobile"
+
+          const NODE_WIDTH = isMobile ? 190 : 220
+          const NODE_HEIGHT = isMobile ? 76 : 82
+
+          const graph = new graphlib.Graph()
+
+          graph.setGraph({
+            rankdir: isMobile ? "TB" : "LR",
+            nodesep: isMobile ? 22 : 30,
+            ranksep: isMobile ? 55 : 80,
+            marginx: isMobile ? 18 : 30,
+            marginy: isMobile ? 18 : 30,
+          })
+
+          graph.setDefaultEdgeLabel(() => ({}))
+
+          for (const entry of calculusQods) {
+            graph.setNode(entry.slug, {
+              width: NODE_WIDTH,
+              height: NODE_HEIGHT,
+            })
+          }
+
+          // Prerequisite -> QOD
+          for (const entry of calculusQods) {
+            for (const prerequisiteName of entry.prerequisites) {
+              const prerequisite = qodByName.get(
+                prerequisiteName.toLowerCase(),
+              )
+
+              if (
+                prerequisite &&
+                calculusSlugs.has(prerequisite.slug)
+              ) {
+                graph.setEdge(
+                  prerequisite.slug,
+                  entry.slug,
+                )
+              }
+            }
+          }
+
+          dagreLayout(graph)
+
+          const graphInfo = graph.graph() as any
+
+          const canvasWidth = Math.max(
+            isMobile ? 320 : 900,
+            Math.ceil(graphInfo.width ?? 900),
+          )
+
+          const canvasHeight = Math.max(
+            isMobile ? 500 : 400,
+            Math.ceil(graphInfo.height ?? 400),
+          )
+
+          const markerId =
+            mode === "mobile"
+              ? "qod-map-arrow-mobile"
+              : "qod-map-arrow-desktop"
+
+          const edgeNodes = graph.edges().map((edge: any) => {
+            const edgeData = graph.edge(edge) as any
+            const points = edgeData?.points ?? []
+
+            return {
+              type: "element",
+              tagName: "polyline",
+              properties: {
+                points: points
+                  .map(
+                    (point: any) =>
+                      `${point.x},${point.y}`,
+                  )
+                  .join(" "),
+                fill: "none",
+                stroke: "var(--gray)",
+                strokeWidth: 2,
+                markerEnd: `url(#${markerId})`,
+              },
+              children: [],
+            }
+          })
+
+          const qodNodes = calculusQods
+            .map((entry) => {
+              const position = graph.node(entry.slug) as any
+
+              if (!position) return null
+
+              const left =
+                position.x - NODE_WIDTH / 2
+
+              const top =
+                position.y - NODE_HEIGHT / 2
+
+              const children: any[] = [
+                {
+                  type: "element",
+                  tagName: "span",
+                  properties: {
+                    style: [
+                      "font-weight:600",
+                      "line-height:1.2",
+                      "color:var(--secondary)",
+                      isMobile
+                        ? "font-size:0.88rem"
+                        : "",
+                    ]
+                      .filter(Boolean)
+                      .join(";"),
+                  },
+                  children: [
+                    {
+                      type: "text",
+                      value: entry.name,
+                    },
+                  ],
+                },
+              ]
+
+              if (entry.courses.length > 0) {
+                children.push({
+                  type: "element",
+                  tagName: "span",
+                  properties: {
+                    style:
+                      "margin-top:0.35rem;font-size:0.72rem;line-height:1.2;color:var(--gray);",
+                  },
+                  children: [
+                    {
+                      type: "text",
+                      value: entry.courses.join(" · "),
+                    },
+                  ],
+                })
+              }
+
+              return {
+                type: "element",
+                tagName: "a",
+                properties: {
+                  href: `${root}/${entry.slug}`,
+                  className: [
+                    "qod-map-node",
+                    `qod-map-node-${mode}`,
+                  ],
+                  style: [
+                    "position:absolute",
+                    `left:${left}px`,
+                    `top:${top}px`,
+                    `width:${NODE_WIDTH}px`,
+                    `height:${NODE_HEIGHT}px`,
+                    "box-sizing:border-box",
+                    "display:flex",
+                    "flex-direction:column",
+                    "justify-content:center",
+                    "padding:10px 12px",
+                    "border:1px solid var(--lightgray)",
+                    "border-radius:10px",
+                    "background:var(--light)",
+                    "text-decoration:none",
+                    "box-shadow:0 1px 4px rgba(0,0,0,0.08)",
+                  ].join(";"),
+                },
+                children,
+              }
+            })
+            .filter(Boolean)
+
+          return {
+            type: "element",
+            tagName: "div",
+            properties: {
+              className: [
+                "qod-map-layout",
+                `qod-map-${mode}`,
+              ],
+            },
+            children: [
+              {
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: ["qod-map-scroll"],
+                },
+                children: [
+                  {
+                    type: "element",
+                    tagName: "div",
+                    properties: {
+                      className: ["qod-map-canvas"],
+                      style: [
+                        "position:relative",
+                        `width:${canvasWidth}px`,
+                        `height:${canvasHeight}px`,
+                        `min-width:${canvasWidth}px`,
+                      ].join(";"),
+                    },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "svg",
+                        properties: {
+                          width: canvasWidth,
+                          height: canvasHeight,
+                          viewBox:
+                            `0 0 ${canvasWidth} ${canvasHeight}`,
+                          style:
+                            "position:absolute;left:0;top:0;overflow:visible;pointer-events:none;",
+                          ariaHidden: "true",
+                        },
+                        children: [
+                          {
+                            type: "element",
+                            tagName: "defs",
+                            properties: {},
+                            children: [
+                              {
+                                type: "element",
+                                tagName: "marker",
+                                properties: {
+                                  id: markerId,
+                                  viewBox: "0 0 10 10",
+                                  refX: 9,
+                                  refY: 5,
+                                  markerWidth: 6,
+                                  markerHeight: 6,
+                                  orient: "auto",
+                                },
+                                children: [
+                                  {
+                                    type: "element",
+                                    tagName: "path",
+                                    properties: {
+                                      d:
+                                        "M 0 0 L 10 5 L 0 10 z",
+                                      fill: "var(--gray)",
+                                    },
+                                    children: [],
+                                  },
+                                ],
+                              },
+                            ],
+                          },
+
+                          ...edgeNodes,
+                        ],
+                      },
+
+                      ...qodNodes,
+                    ],
+                  },
+                ],
+              },
+            ],
+          }
+        }
+
+
+        const makeMobilePathList = () => {
+          const primaryChildren = new Map<string, string[]>()
+          const primaryParent = new Map<string, string>()
+          const allParents = new Map<string, string[]>()
+
+          for (const entry of calculusQods) {
+            primaryChildren.set(entry.slug, [])
+            allParents.set(entry.slug, [])
+          }
+
+          // ----------------------------------------------------
+          // Determine prerequisite parents.
+          //
+          // A QOD may genuinely have more than one prerequisite.
+          // For the visual tree, the first prerequisite becomes
+          // the primary branch. Any additional prerequisites are
+          // still displayed inside the QOD card.
+          // ----------------------------------------------------
+
+          for (const entry of calculusQods) {
+            const parents = entry.prerequisites
+              .map((name) =>
+                qodByName.get(name.toLowerCase()),
+              )
+              .filter(
+                (candidate): candidate is QodEntry =>
+                  Boolean(
+                    candidate &&
+                    calculusSlugs.has(candidate.slug),
+                  ),
+              )
+
+            allParents.set(
+              entry.slug,
+              parents.map((parent) => parent.slug),
+            )
+
+            if (parents.length > 0) {
+              const mainParent = parents[0]
+
+              primaryParent.set(
+                entry.slug,
+                mainParent.slug,
+              )
+
+              primaryChildren
+                .get(mainParent.slug)!
+                .push(entry.slug)
+            }
+          }
+
+          // Keep branches alphabetically predictable.
+          for (const [slug, children] of primaryChildren) {
+            children.sort((a, b) => {
+              const aName =
+                qodBySlug.get(a)?.name ?? a
+
+              const bName =
+                qodBySlug.get(b)?.name ?? b
+
+              return aName.localeCompare(bName)
+            })
+
+            primaryChildren.set(slug, children)
+          }
+
+          const roots = calculusQods
+            .filter(
+              (entry) =>
+                !primaryParent.has(entry.slug),
+            )
+            .sort((a, b) =>
+              a.name.localeCompare(b.name),
+            )
+
+          const pathwayRoots = roots.filter(
+            (entry) =>
+              (primaryChildren.get(entry.slug) ?? [])
+                .length > 0,
+          )
+
+          const standaloneRoots = roots.filter(
+            (entry) =>
+              (primaryChildren.get(entry.slug) ?? [])
+                .length === 0,
+          )
+
+          const relatedOnly = standaloneRoots.filter(
+            (entry) =>
+              (relatedBothWays.get(entry.slug)?.size ?? 0) > 0,
+          )
+
+          const isolated = standaloneRoots.filter(
+            (entry) =>
+              (relatedBothWays.get(entry.slug)?.size ?? 0) === 0,
+          )
+
+          // ----------------------------------------------------
+          // QOD CARD
+          // ----------------------------------------------------
+
+          const makeMobileNode = (slug: string) => {
+            const entry = qodBySlug.get(slug)
+
+            if (!entry) return null
+
+            const parents =
+              allParents.get(slug) ?? []
+
+            const additionalParents =
+              parents.slice(1)
+
+            const children: any[] = [
+              {
+                type: "element",
+                tagName: "a",
+                properties: {
+                  href: `${root}/${entry.slug}`,
+                  className: ["qod-mobile-path-title"],
+                },
+                children: [
+                  {
+                    type: "text",
+                    value: entry.name,
+                  },
+                ],
+              },
+            ]
+
+            if (entry.courses.length > 0) {
+              children.push({
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: ["qod-course-list"],
+                },
+                children: entry.courses.map(
+                  (course) => ({
+                    type: "element",
+                    tagName: "span",
+                    properties: {
+                      className: ["qod-course-badge"],
+                    },
+                    children: [
+                      {
+                        type: "text",
+                        value: course,
+                      },
+                    ],
+                  }),
+                ),
+              })
+            }
+
+            const relatedSlugs = [
+              ...(relatedBothWays.get(slug) ?? []),
+            ].filter((relatedSlug) =>
+              calculusSlugs.has(relatedSlug),
+            )
+
+            if (relatedSlugs.length > 0) {
+              children.push({
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: [
+                    "qod-mobile-related",
+                  ],
+                },
+                children: [
+                  {
+                    type: "element",
+                    tagName: "span",
+                    properties: {
+                      className: [
+                        "qod-mobile-related-label",
+                      ],
+                    },
+                    children: [
+                      {
+                        type: "text",
+                        value: "Explore also:",
+                      },
+                    ],
+                  },
+
+                  {
+                    type: "element",
+                    tagName: "div",
+                    properties: {
+                      className: [
+                        "qod-mobile-related-links",
+                      ],
+                    },
+                    children: relatedSlugs
+                      .map((relatedSlug) => {
+                        const related =
+                          qodBySlug.get(relatedSlug)
+
+                        if (!related) return null
+
+                        return {
+                          type: "element",
+                          tagName: "a",
+                          properties: {
+                            href:
+                              `${root}/${related.slug}`,
+                            className: [
+                              "qod-mobile-related-link",
+                            ],
+                          },
+                          children: [
+                            {
+                              type: "text",
+                              value: related.name,
+                            },
+                          ],
+                        }
+                      })
+                      .filter(Boolean),
+                  },
+                ],
+              })
+            }
+            if (additionalParents.length > 0) {
+              const names = additionalParents
+                .map(
+                  (parentSlug) =>
+                    qodBySlug.get(parentSlug)?.name,
+                )
+                .filter(Boolean)
+
+              if (names.length > 0) {
+                children.push({
+                  type: "element",
+                  tagName: "div",
+                  properties: {
+                    className: [
+                      "qod-mobile-extra-prerequisite",
+                    ],
+                  },
+                  children: [
+                    {
+                      type: "text",
+                      value:
+                        `Also requires: ${names.join(", ")}`,
+                    },
+                  ],
+                })
+              }
+            }
+
+            return {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: ["qod-mobile-path-node"],
+              },
+              children,
+            }
+          }
+
+          // ----------------------------------------------------
+          // RECURSIVE BRANCH
+          // ----------------------------------------------------
+
+          const makeBranch = (
+            slug: string,
+            seen = new Set<string>(),
+          ): any => {
+            if (seen.has(slug)) return null
+
+            const nextSeen = new Set(seen)
+            nextSeen.add(slug)
+
+            const node = makeMobileNode(slug)
+
+            if (!node) return null
+
+            const childSlugs =
+              primaryChildren.get(slug) ?? []
+
+            const branchChildren = childSlugs
+              .map((childSlug) => {
+                const branch = makeBranch(
+                  childSlug,
+                  nextSeen,
+                )
+
+                if (!branch) return null
+
+                return {
+                  type: "element",
+                  tagName: "div",
+                  properties: {
+                    className: [
+                      "qod-mobile-tree-child",
+                    ],
+                  },
+                  children: [branch],
+                }
+              })
+              .filter(Boolean)
+
+            const children: any[] = [node]
+
+            if (branchChildren.length > 0) {
+              children.push({
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: [
+                    "qod-mobile-tree-children",
+                  ],
+                },
+                children: branchChildren,
+              })
+            }
+
+            return {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: ["qod-mobile-tree"],
+              },
+              children,
+            }
+          }
+
+          const mobileChildren: any[] = []
+
+          if (pathwayRoots.length > 0) {
+            mobileChildren.push({
+              type: "element",
+              tagName: "h3",
+              properties: {},
+              children: [
+                {
+                  type: "text",
+                  value: "Learning pathways",
+                },
+              ],
+            })
+
+            mobileChildren.push({
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-mobile-tree-list",
+                ],
+              },
+              children: pathwayRoots
+                .map((entry) =>
+                  makeBranch(entry.slug),
+                )
+                .filter(Boolean),
+            })
+          }
+
+          if (relatedOnly.length > 0) {
+            mobileChildren.push({
+              type: "element",
+              tagName: "h3",
+              properties: {
+                className: [
+                  "qod-mobile-related-heading",
+                ],
+              },
+              children: [
+                {
+                  type: "text",
+                  value: "Related Mathematical Ideas",
+                },
+              ],
+            })
+
+            mobileChildren.push({
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-mobile-other-list",
+                ],
+              },
+              children: relatedOnly
+                .map((entry) =>
+                  makeMobileNode(entry.slug),
+                )
+                .filter(Boolean),
+            })
+          }
+          if (isolated.length > 0) {
+            mobileChildren.push({
+              type: "element",
+              tagName: "h3",
+              properties: {
+                className: [
+                  "qod-mobile-other-heading",
+                ],
+              },
+              children: [
+                {
+                  type: "text",
+                  value: "Other QODs",
+                },
+              ],
+            })
+
+            mobileChildren.push({
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-mobile-other-list",
+                ],
+              },
+              children: isolated
+                .map((entry) =>
+                  makeMobileNode(entry.slug),
+                )
+                .filter(Boolean),
+            })
+          }
+
+          return {
+            type: "element",
+            tagName: "div",
+            properties: {
+              className: [
+                "qod-map-layout",
+                "qod-map-mobile",
+              ],
+            },
+            children: mobileChildren,
+          }
+        }
+        const mapSection = {
+          type: "element",
+          tagName: "section",
+          properties: {
+            className: ["qod-map-section"],
+          },
+          children: [
+            {
+              type: "element",
+              tagName: "h2",
+              properties: {},
+              children: [
+                {
+                  type: "text",
+                  value: "QOD Learning Map",
+                },
+              ],
+            },
+
+            {
+              type: "element",
+              tagName: "p",
+              properties: {},
+              children: [
+                {
+                  type: "text",
+                  value:
+                    "Follow the arrows from foundational questions toward questions that build on those ideas. Click any question to open it.",
+                },
+              ],
+            },
+
+            makeLayout("desktop"),
+            makeMobilePathList(),
+          ],
+        }
+
+        tree.children.push(mapSection)
+      },
+    ]
+  },
+} as any)
 export default config
 
 export const layout = await loadQuartzLayout()
+
+
+
+
+
+
