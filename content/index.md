@@ -21,11 +21,6 @@ Have a question about attendance, QODs, exams, missed assessments, replacement e
 
 **[[Frequently Asked Questions|Read the Frequently Asked Questions →]]**
 
-## Math Course Resources
-Browse the mathematics collection by topic and explore the growing library of questions, examples, and mathematical ideas.
-
-**[[Math|Browse Math Course Resources →]]**
-
 ---
 
 > [!info] Google Classroom is still important
