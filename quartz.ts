@@ -19,6 +19,42 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
+    // Hide the legacy Polynomials folder from the sidebar.
+    // QODs are now accessed through QOD Practice Questions.
+    if (
+      node.isFolder &&
+      (
+        node.slugSegment?.toLowerCase() === "polynomials" ||
+        node.displayName?.toLowerCase() === "polynomials"
+      )
+    ) {
+      return false
+    }
+
+    // Hide the raw QOD Question Bank folder from the sidebar.
+    // Individual QOD pages remain accessible through QOD Practice Questions.
+    if (
+      node.isFolder &&
+      (
+        node.slugSegment?.toLowerCase() === "qod-question-bank" ||
+        node.displayName?.toLowerCase() === "qod question bank"
+      )
+    ) {
+      return false
+    }
+
+    // Hide the standalone QOD Browser page from the sidebar.
+    // It still exists and is embedded inside QOD Practice Questions.
+    if (
+      !node.isFolder &&
+      (
+        node.slugSegment?.toLowerCase() === "qod-browser.base" ||
+        node.slugSegment?.toLowerCase() === "qod-browser"
+      )
+    ) {
+      return false
+    }
+
     return true
   },
 
@@ -42,12 +78,30 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     a: { displayName: string; isFolder: boolean },
     b: { displayName: string; isFolder: boolean },
   ) => {
-    // Always put Frequently Asked Questions first
-    const aIsFAQ = a.displayName === "Frequently Asked Questions"
-    const bIsFAQ = b.displayName === "Frequently Asked Questions"
+    // Preferred top-level sidebar order:
+    // 1. Math
+    // 2. Frequently Asked Questions
+    // 3. About
+    const preferredOrder = [
+      "math",
+      "frequently asked questions",
+      "about",
+    ]
 
-    if (aIsFAQ && !bIsFAQ) return -1
-    if (bIsFAQ && !aIsFAQ) return 1
+    const aName = a.displayName.toLowerCase()
+    const bName = b.displayName.toLowerCase()
+
+    const aPriority = preferredOrder.indexOf(aName)
+    const bPriority = preferredOrder.indexOf(bName)
+
+    // If both items have an explicit preferred position
+    if (aPriority !== -1 && bPriority !== -1) {
+      return aPriority - bPriority
+    }
+
+    // Preferred items come before everything else
+    if (aPriority !== -1) return -1
+    if (bPriority !== -1) return 1
 
     // Otherwise keep folders before files
     if (a.isFolder !== b.isFolder) {

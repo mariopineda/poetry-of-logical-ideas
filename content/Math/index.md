@@ -3,11 +3,6 @@ title: "QOD Practice Questions"
 publish: true
 ---
 
-This page contains QOD practice questions that have been released for student review.
+Use the course tabs below to find practice questions for your mathematics course. Questions are organized by topic, and new questions will be added throughout the year.
 
-New questions will be added as the course progresses.
-
-## Polynomials
-
-- [[Math/Polynomials/Polynomial Functions 1.|Polynomial Functions 1]]
-
+![[QOD Browser.base]]
