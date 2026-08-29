@@ -22,73 +22,31 @@ Welcome to **The Osculatorium** — a place for exploring mathematics, solving p
 
 ## What is this?
 
-**The Osculatorium** is a growing mathematics resource I created for my students.
+**The Osculatorium** is a growing mathematics resource I created for my students. It contains Questions of the Day, practice questions, mathematical notes and examples, class information, frequently asked questions, and other resources that may be useful throughout the semester.
 
-It contains Questions of the Day, practice questions, mathematical notes and examples, class information, frequently asked questions, and other resources that may be useful throughout the semester.
-
-It is not intended to be a textbook, and it is not meant to replace what happens in class.
-
-Think of it instead as a **growing mathematical reference**: a place where questions, ideas, examples, and connections can accumulate over time.
-
-Some pages deal directly with how our class operates. Others contain mathematics that may be useful for practice, review, or simply exploring an idea a little further.
+It is not intended to be a textbook, and it is not meant to replace what happens in class. Think of it instead as a **growing mathematical reference**: a place where questions, ideas, examples, and connections can accumulate over time. Some pages deal directly with how our class operates, while others contain mathematics that may be useful for practice, review, or simply exploring an idea a little further.
 
 ---
 
 ## Why “The Osculatorium”?
 
-The name comes from the mathematical word **osculation**.
+The name comes from the mathematical word **osculation**. Imagine two curves that come together and, for a short time, fit each other extremely closely before separating again. They don't simply cross: they **meet, follow one another closely, and then continue on their own paths.**
 
-Imagine two curves that come together and, for a short time, fit each other extremely closely before separating again.
+Mathematicians call this *osculation*. The word comes from the Latin *osculum*, meaning **“a little kiss.”** Mathematics has therefore given us a rather wonderful word for two curves that meet this closely: they are *kissing*.
 
-They don't simply cross.
-
-They **meet, follow one another closely, and then continue on their own paths.**
-
-Mathematicians call this *osculation*.
-
-The word comes from the Latin *osculum*, meaning **“a little kiss.”**
-
-So mathematics has given us a rather wonderful word for two curves that meet this closely: they are *kissing*.
-
-That's where the name **The Osculatorium** comes from.
-
-**It's a place where mathematical ideas meet.**
+That's where the name **The Osculatorium** comes from. **It's a place where mathematical ideas meet.**
 
 ---
 
 ## Mathematics is connected
 
-Mathematics can sometimes feel like a collection of separate topics.
+Mathematics can sometimes feel like a collection of separate topics — fractions, algebra, graphs, geometry, trigonometry, functions, exponents, calculus — but these ideas don't live in separate boxes. They constantly connect to one another.
 
-Fractions. Algebra. Graphs. Geometry. Trigonometry. Functions. Exponents. Calculus.
+A skill you learned last year may suddenly become important again. One problem might combine several different skills. An idea from algebra might appear in geometry, and something you learn about graphs may later become important in calculus. A new mathematical idea is almost always connected to something that came before it.
 
-But these ideas don't live in separate boxes.
+That idea is central to **The Osculatorium**. The questions on this site are not meant to exist as isolated exercises; over time, they form a network. A question may depend on an earlier question, connect to another idea worth exploring, or lead toward something you have not learned yet.
 
-They constantly connect to one another.
-
-A skill you learned last year may suddenly become important again. One problem might combine several different skills. An idea from algebra might appear in geometry. Something you learn about graphs may later become important in calculus.
-
-A new mathematical idea is almost always connected to something that came before it.
-
-That idea is central to **The Osculatorium**.
-
-The questions on this site are not meant to exist as isolated exercises. Over time, they form a network.
-
-A question may depend on an earlier question.
-
-It may connect to another idea that is worth exploring.
-
-Or it may lead toward something you have not learned yet.
-
-If you're struggling because you've forgotten an earlier skill, follow the connection backwards.
-
-Review the earlier idea, then return and try again.
-
-If you've mastered a question, follow the connections forward and see where the idea leads.
-
-The goal is not simply to collect mathematics questions.
-
-The goal is to make the **connections between mathematical ideas visible**.
+If you're struggling because you've forgotten an earlier skill, follow the connection backwards, review the earlier idea, and then return and try again. If you've mastered a question, follow the connections forward and see where the idea leads. The goal is not simply to collect mathematics questions, but to make the **connections between mathematical ideas visible**.
 
 The **[[Math/QOD Map|QOD Learning Map]]** is one way to explore those connections.
 
@@ -98,25 +56,15 @@ The **[[Math/QOD Map|QOD Learning Map]]** is one way to explore those connection
 
 If you have a question about how our class operates — attendance, QODs, exams, calculators, missed assessments, academic honesty, or other course policies — start with the **[[Frequently Asked Questions|Frequently Asked Questions (FAQ)]]**.
 
-If you want practice, explore the Questions of the Day.
+If you want practice, explore the Questions of the Day. When a question gives you trouble, its **Review First** connections point toward earlier ideas that may help. **Explore Also** leads to related mathematics, while **Builds Toward** shows where the idea may lead next.
 
-If a question gives you trouble, look at its **Review First** connections. They point toward earlier ideas that may help.
-
-Use **Explore Also** to find related mathematics.
-
-Use **Builds Toward** to see where the idea leads next.
-
-And remember: getting stuck on a problem does not always mean that the current idea is the problem. Sometimes the missing piece is several connections further back.
-
-That is exactly what the network is there to help you find.
+Getting stuck on a problem does not always mean that the current idea is the problem. Sometimes the missing piece is several connections further back. That is exactly what the network is there to help you find.
 
 ---
 
 ## Curious about the mathematics behind the name?
 
-You certainly don't need calculus to understand the idea behind **The Osculatorium**, and you don't need calculus to use this site.
-
-But if you're curious about what *osculation* actually means mathematically, you can go a little deeper.
+You certainly don't need calculus to understand the idea behind **The Osculatorium**, and you don't need calculus to use this site. But if you're curious about what *osculation* actually means mathematically, you can go a little deeper.
 
 > [!info]- Go deeper — A calculus explanation
 >
@@ -144,9 +92,7 @@ But if you're curious about what *osculation* actually means mathematically, you
 > f(0)=g(0)=0.
 > $$
 >
-> So both curves pass through the origin.
->
-> But simply passing through the same point is not particularly unusual. What makes these curves interesting is how closely they agree there.
+> Both curves therefore pass through the origin. Simply passing through the same point is not particularly unusual, however. What makes these curves interesting is how closely they agree there.
 >
 > Their first derivatives are
 >
@@ -166,11 +112,7 @@ But if you're curious about what *osculation* actually means mathematically, you
 > f'(0)=g'(0)=0.
 > $$
 >
-> The two curves therefore have the same tangent line at the origin.
->
-> But they agree even more closely than that.
->
-> Their second derivatives are
+> The two curves have the same tangent line at the origin, but they agree even more closely than that. Their second derivatives are
 >
 > $$
 > f''(x)=2
@@ -188,11 +130,7 @@ But if you're curious about what *osculation* actually means mathematically, you
 > f''(0)=g''(0)=2.
 > $$
 >
-> At the origin, the two curves therefore share the same **position**, the same **direction**, and the same **curvature**.
->
-> Close to $x=0$, their graphs fit together extremely closely before eventually separating.
->
-> That is the mathematical idea behind **osculation**.
+> At the origin, the two curves therefore share the same **position**, the same **direction**, and the same **curvature**. Close to $x=0$, their graphs fit together extremely closely before eventually separating. That is the mathematical idea behind **osculation**.
 
 > [!abstract]- Go deeper still — Order of contact and Taylor polynomials
 >
@@ -210,9 +148,7 @@ But if you're curious about what *osculation* actually means mathematically, you
 > g(x)=x^2+x^3
 > $$
 >
-> reveals something deeper.
->
-> At $x=0$,
+> reveals something deeper. At $x=0$,
 >
 > $$
 > f(0)=g(0),
@@ -228,9 +164,7 @@ But if you're curious about what *osculation* actually means mathematically, you
 > f''(0)=g''(0).
 > $$
 >
-> But their third derivatives are different.
->
-> For
+> But their third derivatives are different. For
 >
 > $$
 > f(x)=x^2,
@@ -239,10 +173,10 @@ But if you're curious about what *osculation* actually means mathematically, you
 > we have
 >
 > $$
-> f'''(x)=0.
+> f'''(x)=0,
 > $$
 >
-> For
+> while for
 >
 > $$
 > g(x)=x^2+x^3,
@@ -254,23 +188,11 @@ But if you're curious about what *osculation* actually means mathematically, you
 > g'''(x)=6.
 > $$
 >
-> So the two functions agree through their second derivatives, but not their third.
+> The two functions therefore agree through their second derivatives, but not their third. This is an example of **higher-order contact**: the more derivatives two sufficiently smooth functions share at a point, the more closely their graphs resemble one another near that point.
 >
-> This is an example of **higher-order contact**.
+> This idea leads naturally to **Taylor polynomials**. A Taylor polynomial is constructed so that a polynomial and a function have the same value and the same first several derivatives at a chosen point. In that sense, a Taylor polynomial is designed to **osculate** the function it approximates. As more derivatives are matched, the polynomial captures more of the local behaviour of the original function near the point of contact.
 >
-> The more derivatives two sufficiently smooth functions share at a point, the more closely their graphs resemble one another near that point.
->
-> This idea leads naturally to **Taylor polynomials**.
->
-> A Taylor polynomial is constructed so that a polynomial and a function have the same value and the same first several derivatives at a chosen point.
->
-> In that sense, a Taylor polynomial is designed to **osculate** the function it approximates.
->
-> As more derivatives are matched, the polynomial captures more of the local behaviour of the original function near the point of contact.
->
-> So the idea behind the name **The Osculatorium** reaches surprisingly far into calculus:
->
-> **mathematical objects meeting, agreeing, and following one another closely — before eventually taking different paths.**
+> So the idea behind the name **The Osculatorium** reaches surprisingly far into calculus: **mathematical objects meeting, agreeing, and following one another closely — before eventually taking different paths.**
 
 ---
 
