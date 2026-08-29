@@ -398,3 +398,8 @@ html[saved-theme="dark"] body[data-slug="index"] .page-header::before {
 html[saved-theme="light"] body {
   background-color: rgb(244, 243, 240);
 }
+
+/* Hide redundant title on landing page */
+body[data-slug="index"] .article-title {
+  display: none;
+}
