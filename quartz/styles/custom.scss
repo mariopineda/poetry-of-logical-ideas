@@ -1,7 +1,10 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-/* Hide the redundant Explorer heading on desktop */
+// ------------------------------------------------------------
+// EXPLORER
+// ------------------------------------------------------------
+
+// Hide the redundant Explorer heading on desktop.
 @media all and (min-width: 801px) {
   .explorer button.desktop-explorer {
     display: none !important;
@@ -9,5 +12,107 @@
 
   .explorer .explorer-content {
     margin-top: 0;
+  }
+}
+
+// ------------------------------------------------------------
+// QOD RELATIONSHIP NETWORK
+// ------------------------------------------------------------
+
+.qod-relationships {
+  margin-top: 2.5rem;
+
+  > hr {
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  > h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+.qod-relationship-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(220px, 1fr)
+  );
+  gap: 1rem;
+  align-items: start;
+}
+
+.qod-relationship-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.75rem;
+  padding: 1rem 1.1rem;
+  background: var(--light);
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.35rem;
+  }
+}
+
+.qod-relationship-card.review-first {
+  border-left: 4px solid var(--secondary);
+}
+
+.qod-relationship-card.explore-also {
+  border-left: 4px solid var(--tertiary);
+}
+
+.qod-relationship-card.builds-toward {
+  border-left: 4px solid var(--gray);
+}
+
+.qod-relationship-description {
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: var(--darkgray);
+}
+
+.qod-relationship-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.qod-relationship-item {
+  margin-bottom: 0.85rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.qod-relationship-link {
+  font-weight: 600;
+}
+
+.qod-course-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+.qod-course-badge {
+  display: inline-block;
+  padding: 0.18rem 0.45rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  font-size: 0.76rem;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+@media all and (max-width: 800px) {
+  .qod-relationship-grid {
+    grid-template-columns: 1fr;
   }
 }

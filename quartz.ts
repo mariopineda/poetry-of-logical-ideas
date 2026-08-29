@@ -9,6 +9,7 @@ import { pathToRoot, slugifyFilePath } from "@quartz-community/utils"
 type QodEntry = {
   name: string
   slug: string
+  courses: string[]
   prerequisites: string[]
   related: string[]
 }
@@ -84,6 +85,21 @@ function relationshipList(value: unknown): string[] {
     .filter((value): value is string => value !== null)
 }
 
+function stringList(value: unknown): string[] {
+  if (Array.isArray(value)) {
+    return value
+      .filter((item): item is string => typeof item === "string")
+      .map((item) => item.trim())
+      .filter(Boolean)
+  }
+
+  if (typeof value === "string" && value.trim()) {
+    return [value.trim()]
+  }
+
+  return []
+}
+
 const qodByName = new Map<string, QodEntry>()
 const qodBySlug = new Map<string, QodEntry>()
 
@@ -105,6 +121,7 @@ for (const filePath of getMarkdownFiles(QOD_ROOT)) {
   const entry: QodEntry = {
     name,
     slug,
+    courses: stringList(frontmatter.courses),
     prerequisites: relationshipList(frontmatter.prerequisites),
     related: relationshipList(frontmatter.related),
   }
@@ -114,12 +131,22 @@ for (const filePath of getMarkdownFiles(QOD_ROOT)) {
 }
 
 // Reverse prerequisite map:
-// If B lists A as a prerequisite,
-// A automatically "Builds Toward" B.
+//
+// If QOD B lists QOD A as a prerequisite,
+// QOD A automatically displays QOD B under "Builds Toward".
+//
+// This means we only maintain the prerequisite relationship once.
 const buildsToward = new Map<string, Set<string>>()
 
-// Related links are treated as two-way,
-// even though they only need to be stored once.
+// Related relationships are automatically treated as two-way.
+//
+// The frontmatter property remains:
+//
+// related:
+//
+// Students see this relationship as:
+//
+// Explore Also
 const relatedBothWays = new Map<string, Set<string>>()
 
 function addToMap(
@@ -177,8 +204,10 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     displayName: string
     isFolder: boolean
   }) => {
+    // Hide Quartz's tags folder
     if (node.slugSegment === "tags") return false
 
+    // Hide the FAQ folder itself.
     if (
       node.isFolder &&
       node.slugSegment?.toLowerCase() === "faq"
@@ -186,6 +215,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
+    // Hide the legacy Polynomials folder from the sidebar.
+    // QODs are accessed through QOD Practice Questions.
     if (
       node.isFolder &&
       (
@@ -196,6 +227,9 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
+    // Hide the raw QOD Question Bank folder from the sidebar.
+    // Individual QOD pages remain accessible through the browser
+    // and through relationship links.
     if (
       node.isFolder &&
       (
@@ -206,6 +240,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
+    // Hide the standalone QOD Browser page.
+    // It remains embedded inside QOD Practice Questions.
     if (
       !node.isFolder &&
       (
@@ -225,6 +261,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     displayName: string
     isFolder: boolean
   }) => {
+    // Display the Math folder simply as "Math"
+    // even though Math/index.md is QOD Practice Questions.
     if (
       node.isFolder &&
       node.slugSegment?.toLowerCase() === "math"
@@ -237,6 +275,10 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     a: { displayName: string; isFolder: boolean },
     b: { displayName: string; isFolder: boolean },
   ) => {
+    // Preferred top-level order:
+    // Math
+    // Frequently Asked Questions
+    // About
     const preferredOrder = [
       "math",
       "frequently asked questions",
@@ -266,7 +308,16 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
 
 const config = await loadQuartzConfig()
 
-// Hide QOD solutions unless show_solution is true.
+// ------------------------------------------------------------
+// QOD SOLUTION VISIBILITY
+// ------------------------------------------------------------
+//
+// If:
+//
+// show_solution: false
+//
+// remove the Solution heading and everything after it
+// before Quartz renders the page.
 config.plugins.transformers.push({
   name: "QodSolutionVisibility",
 
@@ -307,16 +358,25 @@ config.plugins.transformers.push({
   },
 } as any)
 
-// QOD relationship display.
+// ------------------------------------------------------------
+// QOD RELATIONSHIP DISPLAY
+// ------------------------------------------------------------
 //
-// Frontmatter still uses the structural property names:
+// Internal Obsidian properties:
+//
 // prerequisites:
 // related:
 //
-// Student-facing labels are:
+// Student-facing labels:
+//
 // Review First
 // Explore Also
 // Builds Toward
+//
+// Builds Toward is generated automatically from incoming
+// prerequisite links.
+//
+// Related links are displayed automatically in both directions.
 config.plugins.transformers.push({
   name: "QodRelationships",
 
@@ -357,25 +417,55 @@ config.plugins.transformers.push({
 
           if (!target) return null
 
+          const courseBadges = target.courses.map((course) => ({
+            type: "element",
+            tagName: "span",
+            properties: {
+              className: ["qod-course-badge"],
+            },
+            children: [
+              {
+                type: "text",
+                value: course,
+              },
+            ],
+          }))
+
+          const children: any[] = [
+            {
+              type: "element",
+              tagName: "a",
+              properties: {
+                href: `${root}/${target.slug}`,
+                className: ["qod-relationship-link"],
+              },
+              children: [
+                {
+                  type: "text",
+                  value: target.name,
+                },
+              ],
+            },
+          ]
+
+          if (courseBadges.length > 0) {
+            children.push({
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: ["qod-course-list"],
+              },
+              children: courseBadges,
+            })
+          }
+
           return {
             type: "element",
             tagName: "li",
-            properties: {},
-            children: [
-              {
-                type: "element",
-                tagName: "a",
-                properties: {
-                  href: `${root}/${target.slug}`,
-                },
-                children: [
-                  {
-                    type: "text",
-                    value: target.name,
-                  },
-                ],
-              },
-            ],
+            properties: {
+              className: ["qod-relationship-item"],
+            },
+            children,
           }
         }
 
@@ -383,44 +473,82 @@ config.plugins.transformers.push({
           heading: string,
           description: string,
           targetSlugs: string[],
+          className: string,
         ) => {
           const links = targetSlugs
             .map(makeLink)
             .filter(Boolean)
 
-          if (links.length === 0) return []
+          if (links.length === 0) return null
 
-          return [
-            {
-              type: "element",
-              tagName: "h3",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value: heading,
-                },
+          return {
+            type: "element",
+            tagName: "div",
+            properties: {
+              className: [
+                "qod-relationship-card",
+                className,
               ],
             },
-            {
-              type: "element",
-              tagName: "p",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value: description,
+            children: [
+              {
+                type: "element",
+                tagName: "h3",
+                properties: {},
+                children: [
+                  {
+                    type: "text",
+                    value: heading,
+                  },
+                ],
+              },
+              {
+                type: "element",
+                tagName: "p",
+                properties: {
+                  className: ["qod-relationship-description"],
                 },
-              ],
-            },
-            {
-              type: "element",
-              tagName: "ul",
-              properties: {},
-              children: links,
-            },
-          ]
+                children: [
+                  {
+                    type: "text",
+                    value: description,
+                  },
+                ],
+              },
+              {
+                type: "element",
+                tagName: "ul",
+                properties: {
+                  className: ["qod-relationship-list"],
+                },
+                children: links,
+              },
+            ],
+          }
         }
+
+        const groups = [
+          makeGroup(
+            "Review First",
+            "These questions practise skills you may need for this QOD.",
+            prerequisiteSlugs,
+            "review-first",
+          ),
+
+          makeGroup(
+            "Explore Also",
+            "These questions connect to the same mathematical ideas.",
+            relatedSlugs,
+            "explore-also",
+          ),
+
+          makeGroup(
+            "Builds Toward",
+            "These questions build on what you are practising here.",
+            buildsTowardSlugs,
+            "builds-toward",
+          ),
+        ].filter(Boolean) as any[]
 
         const relationshipSection = {
           type: "element",
@@ -446,24 +574,14 @@ config.plugins.transformers.push({
                 },
               ],
             },
-
-            ...makeGroup(
-              "Review First",
-              "These questions practise skills you may need for this QOD.",
-              prerequisiteSlugs,
-            ),
-
-            ...makeGroup(
-              "Explore Also",
-              "These questions connect to the same mathematical ideas.",
-              relatedSlugs,
-            ),
-
-            ...makeGroup(
-              "Builds Toward",
-              "These questions build on what you are practising here.",
-              buildsTowardSlugs,
-            ),
+            {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: ["qod-relationship-grid"],
+              },
+              children: groups,
+            },
           ],
         }
 
@@ -477,6 +595,11 @@ config.plugins.transformers.push({
             .join("")
         }
 
+        // When solutions are visible, put the relationship
+        // section immediately before the Solution.
+        //
+        // When solutions are hidden, append the relationship
+        // section after the Question.
         const solutionIndex = (tree.children ?? []).findIndex(
           (node: any) =>
             node?.type === "element" &&
