@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -25,3 +25,4 @@ A farmer is planing to put a fence around a rectangular field. The area of the f
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/AMEbT0L5Aaw
+

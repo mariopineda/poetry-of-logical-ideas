@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -25,4 +25,5 @@ Evaluate and simplify without a calculator.
 5. $\frac{\displaystyle 4x}{\displaystyle 9x}-\frac{\displaystyle 2x^2}{\displaystyle 6x^2}$
 
 ## Solution
+
 

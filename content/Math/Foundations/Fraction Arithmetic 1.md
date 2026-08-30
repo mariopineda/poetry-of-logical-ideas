@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Algebraic Expressions 1]]"
@@ -35,3 +35,4 @@ Convert each of the improper fractions below into a decimal to nearest hundreth,
 4. Decimal: $$\frac{48}{36} \approx 1.33$$
    Mixed fraction: $$\frac{48}{36} = 1\frac{12}{36} = 1\frac{1}{3}$$
    Equivalen fraction: $$\frac{48}{36} = \frac{32}{24}$$
+

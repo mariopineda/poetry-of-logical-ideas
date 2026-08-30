@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fraction Arithmetic 7]]"
@@ -74,3 +74,4 @@ $$
 $$
 (-4+1)-(-2 \times 5) = -3-(-10)=-3+10=7
 $$
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ Determine the object's velocity when its accelaration is 26 m/s$^2$ East.
 Is the object's velocity increasing or decreasingg when $t=1$ sec.?
 
 ## Solution
+

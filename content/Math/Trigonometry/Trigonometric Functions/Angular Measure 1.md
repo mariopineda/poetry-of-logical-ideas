@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -20,3 +20,4 @@ Sketch the unit circle indicating the reference angles 30$^\circ$, 45$^\circ$ an
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/uQmQ15GtRAU
+

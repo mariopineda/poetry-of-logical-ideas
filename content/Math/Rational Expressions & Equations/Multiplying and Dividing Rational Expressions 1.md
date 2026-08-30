@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -34,3 +34,4 @@ $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/he2D6hXzL7g
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -23,3 +23,4 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 4. State the domain and range, in interval notation, for the function in this context.
 
 ## Solution
+

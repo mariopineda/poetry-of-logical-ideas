@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Logical Puzzle 1]]"
@@ -20,3 +20,4 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 ![[Images/Legacy/magic-square-4.png]]
 
 ## Solution
+

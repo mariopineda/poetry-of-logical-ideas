@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Systems of Linear Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Linear Relations 1]]"
 related:
@@ -84,3 +84,4 @@ x+y & = & 7 \\
 \mbox{LHS} & = & \mbox{RHS}
 \end{array}
 $$
+

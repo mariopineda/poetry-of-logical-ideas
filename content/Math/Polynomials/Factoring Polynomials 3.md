@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:
@@ -29,3 +29,4 @@ Write the following expressions in fully factored form.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/BEilauoxSA0
+

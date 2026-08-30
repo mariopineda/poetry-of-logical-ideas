@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -21,3 +21,4 @@ Without using technology sketch of the following functions, identifying the tran
 4. $y=|x^2-4|$
 
 ## Solution
+

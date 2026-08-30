@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -25,3 +25,4 @@ For $V=\pi r^2 h$, find $\frac{dV}{dt}$.
 For $A=2 \pi r^2 +2 \pi rh$, find $\frac{dA}{dt}$.
 
 ## Solution
+

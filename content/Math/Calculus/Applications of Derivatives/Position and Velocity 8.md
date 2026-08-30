@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ Determine the velocities when the position is 28 m West of the origin.
 Determine the positions when the object's velocity is 12 m/sec. West.
 
 ## Solution
+

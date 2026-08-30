@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -24,3 +24,4 @@ An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 5. State the domain and range, in set notation, of the airplane from when it starts its descent until it reaches the ground. Round to the nearest whole number.
 
 ## Solution
+

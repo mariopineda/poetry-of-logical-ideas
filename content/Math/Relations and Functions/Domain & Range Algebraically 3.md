@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-1"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Representing Relations 1]]"
 related:
@@ -24,3 +24,4 @@ State the domain in interval notation.
 6. $y=\frac{2}{x\sqrt{11-x}}$
 
 ## Solution
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 30-2"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -44,3 +44,4 @@ Add a second graph at $Y\_2=9.093507$ and find the x-coordinate of the point of 
 
 > [!info]- Source
 > [NASA Ozone Watch (2019)](https://ozonewatch.gsfc.nasa.gov/)
+

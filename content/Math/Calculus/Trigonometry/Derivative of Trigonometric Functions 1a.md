@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
   - "[[Angular Measure 1]]"
@@ -48,3 +48,4 @@ $$
 f'(x) = -\sin(x)
 $$
 Thus, the derivative of $\cos(x)$ with respect to $x$ is $-\sin(x)$.
+

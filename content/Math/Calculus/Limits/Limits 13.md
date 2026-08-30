@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -24,3 +24,4 @@ Evalue the following limits, if possible.
 6. $$\lim\_{x \to 10} \frac{\sqrt{x+6}+4}{x-10}$$
 
 ## Solution
+

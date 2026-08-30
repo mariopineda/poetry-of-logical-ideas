@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ Determine the braking distance (to when it comes to rest).
 Determine the speed of the car when it has braked a distance of 42 m.
 
 ## Solution
+

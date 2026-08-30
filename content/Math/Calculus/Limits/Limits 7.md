@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -26,3 +26,4 @@ Evaluate the limits.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/iJtjXe_MINU
+

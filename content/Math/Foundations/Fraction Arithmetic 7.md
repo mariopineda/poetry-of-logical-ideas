@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fraction Arithmetic 6]]"
@@ -31,3 +31,4 @@ Evaluate without a calculator.
 4. $$\displaystyle\frac{6}{5} \div \displaystyle\frac{2}{8} = \displaystyle\frac{6}{5} \times \displaystyle\frac{8}{2} = \displaystyle\frac{48}{10} = \displaystyle\frac{24}{5}$$
 5. $$\displaystyle\frac{14}{4} - \displaystyle\frac{8}{6} = \displaystyle\frac{42}{12} - \displaystyle\frac{16}{12} = \displaystyle\frac{26}{12} = \displaystyle\frac{13}{6}$$
 6. $$\displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8} + \displaystyle\frac{2}{4} \right) = \displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8}+\displaystyle\frac{4}{8} \right) = \displaystyle\frac{1}{4} \div \displaystyle\frac{9}{8} = \displaystyle\frac{1}{4} \times \displaystyle\frac{8}{9} = \displaystyle\frac{8}{36} = \displaystyle\frac{2}{9}$$
+

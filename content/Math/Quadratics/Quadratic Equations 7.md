@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -22,3 +22,4 @@ A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball i
 <!--
 
 ## Solution
+

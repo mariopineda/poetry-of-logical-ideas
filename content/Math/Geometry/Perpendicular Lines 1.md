@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 10-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Coordinate Geometry 6]]"
@@ -47,3 +47,4 @@ m\_{CD} & = & \frac{\displaystyle -1}{\displaystyle -2} = \frac{\displaystyle 1}
 \end{array}
 $$
 The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
+

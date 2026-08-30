@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -23,3 +23,4 @@ Use exponent laws to simplify the following:
 5. $\left( \frac{16x^8}{y^{-2}} \right)^{\frac{3}{4}}$
 
 ## Solution
+

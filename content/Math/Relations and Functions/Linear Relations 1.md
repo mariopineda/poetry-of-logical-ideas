@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -28,3 +28,4 @@ For each relation:
 5. $-3y+2x=9$
 
 ## Solution
+

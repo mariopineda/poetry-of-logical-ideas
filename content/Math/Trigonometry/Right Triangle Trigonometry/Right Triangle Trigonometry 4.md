@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angles and Parallel Lines 1]]"
 related:
@@ -43,3 +43,4 @@ r & = & \frac{8}{\tan{20^\circ}} \\
 r & = & 21.97\ldots \approx 22.0 \mbox{ cm}
 \end{array}
 \]
+

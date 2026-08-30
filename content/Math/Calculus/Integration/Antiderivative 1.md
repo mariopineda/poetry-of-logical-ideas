@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Antiderivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -35,3 +35,4 @@ Find $F(x)$ such that $F'(x) = f(x)$.
 7. $f(x) = 6x^{-3} \Rightarrow F(x) = \int 6x^{-3} \, dx = 6 \cdot \frac{\displaystyle x^{-2}}{\displaystyle -2} + C = -3x^{-2} + C = -\frac{\displaystyle 3}{\displaystyle x^2} + C$
 8. $f(x) = \sec^2 x \Rightarrow F(x) = \int \sec^2 x \, dx = \tan x + C$
 9. $f(x) = \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \Rightarrow F(x) = \int \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \, dx = \int 3x^{-\frac{1}{2}} \, dx = 3 \cdot \frac{\displaystyle x^{\frac{1}{2}}}{\frac{1}{2}} + C = 6x^{\frac{1}{2}} + C = 6\sqrt{x} + C$
+

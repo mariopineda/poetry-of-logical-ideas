@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Sketch a function $y=f(x)$ that satisfies the conditions given (Answers will var
 2. $\lim\_{x \to -4} f(x)$ does not exist, but $f(-4)=6$
 
 ## Solution
+

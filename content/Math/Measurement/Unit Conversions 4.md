@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Unit Conversions 3]]"
@@ -98,3 +98,4 @@ v & = & \frac{\displaystyle 8}{\displaystyle 10} = \frac{\displaystyle 4}{\displ
 \end{array}
 $$
 Solution: $8 \mbox{ yd, } 2 \mbox{ ft and } 4\frac{\displaystyle 4}{\displaystyle 5} \mbox{ in}$
+

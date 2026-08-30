@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fraction Arithmetic 3]]"
@@ -27,3 +27,4 @@ Evaluate withouth a calculator by, when possible, reducing the fractions to lowe
 2. $$\frac{3}{20} \times \frac{8}{12} = \frac{1}{5} \times \frac{2}{4} = \frac{1}{5} \times \frac{1}{2} = \frac{1}{10}$$
 3. $$\frac{2}{4} \times \frac{5}{10} = \frac{1}{4} \times \frac{5}{5} = \frac{1}{4} \times \frac{1}{1} = \frac{1}{4}$$
 4. $$\frac{4}{18} \times \frac{2}{12} = \frac{2}{9} \times \frac{1}{6} = \frac{1}{9} \times \frac{1}{3} = \frac{1}{27}$$
+

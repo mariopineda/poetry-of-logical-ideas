@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -25,3 +25,4 @@ x^2-1 & \mbox{, if } -2 \leq x<1 \\
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/auJRoRWSrU8
+

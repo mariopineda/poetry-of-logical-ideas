@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -25,3 +25,4 @@ For $A=L \times w$, find $\frac{dA}{dt}$.
 For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
 
 ## Solution
+

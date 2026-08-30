@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:
@@ -20,3 +20,4 @@ A water tank is built in the shape of a circular cone with height 5 m and diamet
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/U59ewg5oLL4
+

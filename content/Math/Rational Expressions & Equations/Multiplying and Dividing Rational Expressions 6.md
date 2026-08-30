@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -30,3 +30,4 @@ $$\frac{4a^2-1}{4a^2-16} \div \frac{2a-1}{2-a}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/O8Cy5g3WhAY
+

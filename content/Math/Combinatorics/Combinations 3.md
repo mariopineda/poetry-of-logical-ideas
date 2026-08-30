@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Combinations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Permutations 1]]"
 related:
@@ -49,3 +49,4 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 5. $_4C_4 \times _{48}C_1$
 
 6. $_4C_1 \times _4C_4 \times _{44}C_1$
+

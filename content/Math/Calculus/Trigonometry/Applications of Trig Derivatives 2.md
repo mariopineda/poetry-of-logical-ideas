@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:
@@ -66,3 +66,4 @@ $$
 $$
 The third side is increasing at the rate of $\frac{\displaystyle \pi\sqrt{39}}{\displaystyle 39} \mbox{m}/\mbox{s} \approx 0.50 \mbox{m}/\mbox{s}$
 %%
+

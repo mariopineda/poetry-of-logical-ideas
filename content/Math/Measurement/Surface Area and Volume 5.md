@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 4]]"
@@ -53,3 +53,4 @@ related:
 ### G.
 
 0.9 m
+

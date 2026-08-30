@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
   - "[[Angular Measure 1]]"
@@ -49,3 +49,4 @@ To find the 101st derivative of \(f(x) = \sin(x)\), we can use the fact that the
 101st derivative: \(-\cos(x)\)
 
 So, the 101st derivative of \(f(x) = \sin(x)\) is \(-\cos(x)\).
+

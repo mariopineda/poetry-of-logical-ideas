@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 2]]"
@@ -27,3 +27,4 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 5. If each can of paint costs $38.97, how much will all the paint cost?
 
 ## Solution
+

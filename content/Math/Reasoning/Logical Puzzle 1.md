@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Logical Puzzle 2]]"
@@ -22,3 +22,4 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 ![[Images/Legacy/strimko.png]]
 
 ## Solution
+

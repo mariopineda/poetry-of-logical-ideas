@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -22,3 +22,4 @@ Using the graph of $f(x)$, evaluate the following.
 4. $f(x)=-1$
 
 ## Solution
+

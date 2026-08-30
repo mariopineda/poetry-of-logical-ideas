@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -19,3 +19,4 @@ If 2700 cm$^2$ of material is available to make a box with a square base and ope
 <!--
 
 ## Solution
+

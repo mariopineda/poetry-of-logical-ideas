@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -28,3 +28,4 @@ Describe a possible scenario for the graphs given below.
 ###### F.
 
 ## Solution
+

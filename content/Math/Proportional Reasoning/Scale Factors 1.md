@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-2"
 topic: "Scale Factors"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Surface Area and Volume 1]]"
 related:
@@ -28,3 +28,4 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/me
 <!--
 
 ## Solution
+

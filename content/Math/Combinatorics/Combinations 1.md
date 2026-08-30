@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Combinations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Permutations 1]]"
 related:
@@ -19,4 +19,5 @@ Consider a circle with five points marked on the circumference.
 2. How many lines can be drawn connecting two points on the circle? Write the answer in combination notation.
 
 ## Solution
+
 

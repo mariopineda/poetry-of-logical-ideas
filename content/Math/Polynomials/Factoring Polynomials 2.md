@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:
@@ -28,3 +28,4 @@ Factor:
 ## Solution
 
 $(x-2)(x-4)(x^2-6x+10)$
+

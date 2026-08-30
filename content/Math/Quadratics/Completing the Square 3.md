@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -28,3 +28,4 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/CE4U35wo4gg
+

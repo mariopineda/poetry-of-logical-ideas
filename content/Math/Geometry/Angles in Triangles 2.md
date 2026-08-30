@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 10-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Angles in Polygons 1]]"
@@ -33,3 +33,4 @@ Order of angles reflect one possible order in which they can be determined.
 - Determine $k$: $a+g+k=180 \Rightarrow k=47^{\circ}$ (Triangle Sum Theorem)
 - Determine $h$: $48+h+85=180 \Rightarrow h=47^{\circ}$ (Straight line angles)
 - Determine $i$: $i+e+h=180 \Rightarrow i=37^{\circ}$ (Triangle Sum Theorem)
+

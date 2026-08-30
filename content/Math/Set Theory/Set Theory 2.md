@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Set Theory"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Puzzles & Games 1]]"
 related:
@@ -44,3 +44,4 @@ Consider the following sets
 ## Solution
 
 ...
+

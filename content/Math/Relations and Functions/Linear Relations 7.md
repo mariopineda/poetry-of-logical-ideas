@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -36,3 +36,4 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 7. Above 10 km, the temperature remains fairly constant at -56$^\circ$C. Show this on the graph.
 
 ## Solution
+

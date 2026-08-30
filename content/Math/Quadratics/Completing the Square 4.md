@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -28,3 +28,4 @@ State the maximum or minimum value of each quadratic function, correct to the ne
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/rIQkYVMHx-o
+

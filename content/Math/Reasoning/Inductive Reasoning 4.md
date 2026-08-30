@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Inductive Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Inductive Reasoning 3]]"
@@ -32,3 +32,4 @@ $2+3=5$, 5 is an odd number.
 ### C.
 
 The sum of two prime numbers, which are not 2, is an even nuber.
+

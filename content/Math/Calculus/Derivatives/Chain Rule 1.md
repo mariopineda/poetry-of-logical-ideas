@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -19,3 +19,4 @@ Differentiate $f(x) = (x^3-8x+2)^6$.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/nLJ4jdlqYi4
+

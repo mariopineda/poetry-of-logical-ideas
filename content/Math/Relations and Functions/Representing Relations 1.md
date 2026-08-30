@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -39,3 +39,4 @@ related:
 5. $(-5,0)$
 
 ## Solution
+

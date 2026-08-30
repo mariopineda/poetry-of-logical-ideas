@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -24,3 +24,4 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 <!--
 
 ## Solution
+

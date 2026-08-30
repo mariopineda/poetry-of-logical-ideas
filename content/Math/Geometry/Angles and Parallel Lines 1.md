@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 10-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Angles in Polygons 1]]"
@@ -34,3 +34,4 @@ Order of angles reflect one possible order in which they can be determined.
 - Determine $c$: $c=k=112^{\circ}$ (Opposite angles)
 - Determine $a$: $a=35^{\circ}$ (Alternate interior angles)
 - Determine $b$: $a+b+c=180^{\circ} \Rightarrow b=33^{\circ}$ (Same side interior angles)
+

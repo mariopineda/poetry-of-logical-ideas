@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Higher Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ $f'(x)>0$ and $f''(x)<0$
 $f(x)<0$, $f'(x)<0$, and $f''(x)>0$
 
 ## Solution
+

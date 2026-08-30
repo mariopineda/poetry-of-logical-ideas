@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -22,3 +22,4 @@ Draw a rough sketch of the following functions. Identify vertex, intercepts and 
 4. $y=-\sqrt{x-4}$
 
 ## Solution
+

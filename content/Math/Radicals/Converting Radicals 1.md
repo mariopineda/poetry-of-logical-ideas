@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -49,3 +49,4 @@ Express as an entire radical.
 2. $2\sqrt{13}$ $= \sqrt{2^2}\sqrt{13}$ $=\sqrt{4}\sqrt{13}$ $=\sqrt{4 \times 13}$ $=\sqrt{52}$
 3. $6\sqrt{2}$ $=\sqrt{6^2}\sqrt{2}$ $=\sqrt{36}\sqrt{2}$ $=\sqrt{36 \times 2}$ $=\sqrt{72}$
 4. $3\sqrt[3]{-2}$ $=\sqrt[3]{3^3}\sqrt[3]{-2}$ $=\sqrt[3]{27}\sqrt[3]{-2}$ $=\sqrt[3]{27(-2)}$ $=\sqrt[3]{-54}$
+

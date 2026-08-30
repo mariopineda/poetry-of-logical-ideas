@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 Differentiate $g(x) = (6x+5)^4(4x-7)^3$ using more than one rule. Fully factor the answer.
 
 ## Solution
+

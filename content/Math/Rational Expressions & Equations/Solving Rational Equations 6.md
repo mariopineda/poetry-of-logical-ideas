@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Arithmetic Operations with Quotients]]"
 related:
@@ -29,3 +29,4 @@ $$\frac{6y-2}{3y-2} - \frac{2y+6}{y+6} = 0$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/VygxqfzxmQc
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Set Theory"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Puzzles & Games 1]]"
 related:
@@ -24,4 +24,5 @@ Consider the set of prime numbers less than 20. Let $A=\{3,5,7,11,19 \}$ and $B=
 6.  List the elements of $\setminus(A \cap B)$
 
 ## Solution
+
 

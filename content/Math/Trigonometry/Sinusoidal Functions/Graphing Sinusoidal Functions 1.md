@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angular Measure 1]]"
   - "[[Function Transformations 1]]"
@@ -23,3 +23,4 @@ Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/t0fnuhPF7QM
+

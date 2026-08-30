@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -30,3 +30,4 @@ $$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/-7_JFBTZOm0
+

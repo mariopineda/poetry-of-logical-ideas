@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Polynomial Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Transformations 1]]"
   - "[[Factoring Polynomials 1]]"
@@ -26,4 +26,5 @@ State whether or not each of the following functions is a polynomial function? E
 ### 7. $g(x) = 3^x+11$
 
 ## Solution
+
 

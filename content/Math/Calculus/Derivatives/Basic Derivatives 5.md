@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -29,3 +29,4 @@ $$y=\frac{1}{x^7}$$
 $$f(t) = \sqrt[6]{t^11}$$
 
 ## Solution
+

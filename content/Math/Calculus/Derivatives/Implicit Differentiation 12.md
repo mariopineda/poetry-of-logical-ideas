@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -20,3 +20,4 @@ The curve with equation $x^\frac{2}{3} + y^\frac{2}{3}=1$ is called an astroid a
 3. List the coordinates where the curve is nondifferentiable. Explain.
 
 ## Solution
+

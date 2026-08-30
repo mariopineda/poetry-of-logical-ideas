@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
   - "[[Angular Measure 1]]"
@@ -40,3 +40,4 @@ Since 27 is 3 more than a multiple of 4, we will start with the 3rd derivative a
 27th derivative: $\sin(x)$
 
 So, the 27th derivative of $\cos(x)$ is $\sin(x)$.
+

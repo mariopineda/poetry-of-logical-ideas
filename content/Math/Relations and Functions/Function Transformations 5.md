@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Find the vertex, axis of symmetry, max/min value and intercepts for:
 2. $y=3x^2-10x$
 
 ## Solution
+

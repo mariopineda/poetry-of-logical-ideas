@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -25,3 +25,4 @@ Roughly sketch.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/oSRw7H01FhA
+

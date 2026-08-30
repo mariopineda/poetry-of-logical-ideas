@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -39,3 +39,4 @@ $(5x^2-8x+3)-(3x^3-3x-1) = 5x^2-8x+3-3x^3+3x+1 = -3x^3+5x^2-5x+4$
 = & 4x^3+2x^2+2x
 \end{align}
 \]
+

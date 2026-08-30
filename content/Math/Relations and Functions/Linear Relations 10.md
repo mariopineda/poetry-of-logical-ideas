@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -45,3 +45,4 @@ y & = & mx+b \\
 \end{array}
 $$
 We can now express the equation of the line in slope y-intercept form as $y=3x+2$ and in general form as $3x-y+2=0$.
+

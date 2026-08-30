@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Definite Integrals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Antiderivative 1]]"
 related:
@@ -56,3 +56,4 @@ _0A_1 & = H(1) - H(0) \\
 & = \frac{1}{3} \text{ units}^2
 \end{align*}
 $$
+

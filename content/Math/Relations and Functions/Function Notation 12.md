@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -19,3 +19,4 @@ Sketch the following functions. State the range in set notation.
 2. $g(x)=\frac{1}{2}x-5$ for the domain ${x \in \mathbb{R}}$
 
 ## Solution
+

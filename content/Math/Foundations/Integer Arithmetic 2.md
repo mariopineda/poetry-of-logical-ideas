@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Integer Arithmetic 1]]"
@@ -21,3 +21,4 @@ Evaluate without a calculator:
 3. $$10+5 \div ((-7)-(-5)) \times ((-10)+5)$$
 
 ## Solution
+

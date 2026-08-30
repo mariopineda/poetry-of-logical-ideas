@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Set Theory"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Puzzles & Games 1]]"
 related:
@@ -43,4 +43,5 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 ```
 
 ## Solution
+
 

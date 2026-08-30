@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -21,3 +21,4 @@ Given the x-value, algebraically determine the corresponding y-value for the fol
 2. $8x+2y-10=0$ for $x=-\frac{3}{4}$
 
 ## Solution
+

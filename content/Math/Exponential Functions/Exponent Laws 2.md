@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Exponent Laws"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -23,3 +23,4 @@ Simplify:
 5. $\frac{-12x^6y^5}{4xy^3}$
 
 ## Solution
+

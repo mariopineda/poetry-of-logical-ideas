@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 2]]"
@@ -34,3 +34,4 @@ The storage tank is approximatelly 7 vehicles high, $7 \times 1.6 = 11.2 \approx
 ### B.
 
 ### C.
+

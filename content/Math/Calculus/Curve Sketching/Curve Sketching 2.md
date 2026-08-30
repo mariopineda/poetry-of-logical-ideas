@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
   - "[[Higher Derivatives 1]]"
@@ -22,3 +22,4 @@ Sketch the graph of the function $f(x) = \frac{x^2}{1-x^2}$.
 <!--
 
 ## Solution
+

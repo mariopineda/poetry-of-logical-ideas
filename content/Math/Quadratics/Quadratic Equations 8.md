@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -30,3 +30,4 @@ Let $w$ represent the width of the enclosure. Into the area formula for a rectan
 ## Solution
 
 $x=15.1$
+

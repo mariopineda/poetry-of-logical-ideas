@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -24,3 +24,4 @@ $$y^2 - 5x = 7-y+x^2$$
 $$4y^3-9y = x^2+3xy-2$$
 
 ## Solution
+

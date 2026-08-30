@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:
@@ -19,3 +19,4 @@ Solve $x^3+x^2 = 24x+24$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/eJy4UBB0RuY
+

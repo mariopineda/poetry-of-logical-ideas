@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Higher Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -24,3 +24,4 @@ $$y=5x^3-6x^2+8x-11$$
 $$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
 
 ## Solution
+

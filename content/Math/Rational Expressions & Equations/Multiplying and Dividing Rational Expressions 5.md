@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -27,3 +27,4 @@ $$\frac{p^3(p+2)}{p} \div \frac{49(p+2)}{7(p-5)}$$
 $$\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)$$
 
 ## Solution
+

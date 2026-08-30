@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Exponential Growth and Decay"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponential Equations]]"
 related:
@@ -29,3 +29,4 @@ $i=\frac{\displaystyle 0.09}{\displaystyle 12}=0.0075$
 
 
 2. ,,,
+

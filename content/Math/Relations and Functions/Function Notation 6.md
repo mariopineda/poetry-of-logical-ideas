@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -24,3 +24,4 @@ Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. deter
 6. $n(x)=-\frac{3}{4}$
 
 ## Solution
+

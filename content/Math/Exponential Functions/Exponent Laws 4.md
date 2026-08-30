@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Exponent Laws"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -19,3 +19,4 @@ Simplify. Express in exponential form.
 2. $$ \sqrt{ \frac{32 x^{-5} y^{\frac{3}{2}} \times 18 x^2 y^{-\frac{1}{4}} }{4 x y^{-\frac{3}{4}}} }$$
 
 ## Solution
+

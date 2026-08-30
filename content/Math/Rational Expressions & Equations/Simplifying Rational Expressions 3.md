@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -27,3 +27,4 @@ Express the following rational expressions in simplest form, stating the non-per
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/HjhknWP0o60
+

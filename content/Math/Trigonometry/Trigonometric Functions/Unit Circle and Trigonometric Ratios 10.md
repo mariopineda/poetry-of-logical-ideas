@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -20,3 +20,4 @@ The point $\left( -\frac{1}{2},\frac{\sqrt{3}}{2} \right)$ lies at the intersect
 <!--
 
 ## Solution
+

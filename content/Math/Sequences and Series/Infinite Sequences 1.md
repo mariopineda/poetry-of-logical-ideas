@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Linear Relations 1]]"
   - "[[Exponent Laws 1]]"
@@ -37,3 +37,4 @@ $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/Nr6bvukghtI
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Inequalities"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Completing the Square 1]]"
 related:
@@ -24,3 +24,4 @@ $$(x+1)(x-2)(x-3) < 0$$
 $$(x+1)(x-2)(x-3) > 0$$
 
 ## Solution
+

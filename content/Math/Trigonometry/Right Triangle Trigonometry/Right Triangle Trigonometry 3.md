@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angles and Parallel Lines 1]]"
 related:
@@ -27,3 +27,4 @@ The shorter side of a rectangle is 5.7 cm. The angle between this side and a dia
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/zMCfXGLh9ig
+

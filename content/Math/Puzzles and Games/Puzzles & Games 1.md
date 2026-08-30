@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 30-2"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Logical Puzzle 2]]"
@@ -16,4 +16,5 @@ related:
 ![[Balance Puzzle.png]]
 
 ## Solution
+
 

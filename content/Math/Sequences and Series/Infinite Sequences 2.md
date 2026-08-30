@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Linear Relations 1]]"
   - "[[Exponent Laws 1]]"
@@ -29,3 +29,4 @@ $$\frac{7}{4}, \frac{8}{5}, \frac{9}{6}, \frac{10}{7}, \ldots$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/b-yAYUp8zCs
+

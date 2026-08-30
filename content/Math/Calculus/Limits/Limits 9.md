@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Find the equation of the tangent line to the hyperbola $xy=1$ at the point $\lef
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/ZuIdS3Ed2IE
+

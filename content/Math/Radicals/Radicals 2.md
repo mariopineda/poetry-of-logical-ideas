@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -29,3 +29,4 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 ## Solution
 
 ...
+

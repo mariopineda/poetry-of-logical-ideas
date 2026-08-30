@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 30-2"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -28,3 +28,4 @@ During these two decades Jasper National Park lost a larger percentage of glacie
 
 > [!info]- Source
 > [Kelowna Daily Courier (2019)](http://www.kelownadailycourier.ca/opinion/article_b5af49f0-b7d6-11e9-85e8-2b3fdc7116ac.html)
+

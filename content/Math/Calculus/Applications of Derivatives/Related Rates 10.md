@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:
@@ -19,3 +19,4 @@ A rock is dropped into a pool and it begins to create a circular wave. If the ci
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/_YRccPEBvwQ
+

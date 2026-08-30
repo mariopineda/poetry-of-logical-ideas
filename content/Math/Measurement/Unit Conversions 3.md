@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Unit Conversions 2]]"
@@ -25,3 +25,4 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 6. $7 \mbox{ ft} 2 \mbox{ in} \Rightarrow \mbox{m}$
 
 ## Solution
+

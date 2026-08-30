@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -27,3 +27,4 @@ Given $f(x)=(2x+1)^5 (x^3-x+1)^4$;
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/2-Jwi69hKRQ
+

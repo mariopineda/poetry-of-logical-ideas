@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -34,3 +34,4 @@ List the ordered pairs of the relation.
 Represent the table of values on graph. Give the graph a title and label the axes. State the independent and dependent variables.
 
 ## Solution
+

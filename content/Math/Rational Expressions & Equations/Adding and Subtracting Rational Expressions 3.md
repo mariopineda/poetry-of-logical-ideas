@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -30,3 +30,4 @@ $$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/G5jVilJu9A0
+

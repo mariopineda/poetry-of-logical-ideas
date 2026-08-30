@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Evalue $\displaystyle\lim\_{x \to 0} \frac{\sqrt{19x+121}-11}{x} = \frac{ab}{cd}
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/2KKOEMk21XU
+

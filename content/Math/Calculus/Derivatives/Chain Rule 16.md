@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 Find the equation of the tangent line to the curve $y=\sqrt{x^2-5x+2}$ at $x=-2$. Answer in general form.
 
 ## Solution
+

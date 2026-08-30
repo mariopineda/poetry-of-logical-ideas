@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -85,3 +85,4 @@ Simplify the following radicals.
 = & 2\sqrt{7}
 \end{align}
 \]
+

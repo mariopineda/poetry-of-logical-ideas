@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -29,3 +29,4 @@ Determine the instantaneous aceleration at $t=3$ hrs.
 Determine the position when the acceleration is 34 km/h^{2} North.
 
 ## Solution
+

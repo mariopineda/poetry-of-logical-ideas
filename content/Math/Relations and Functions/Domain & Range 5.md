@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-1"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Representing Relations 1]]"
 related:
@@ -23,3 +23,4 @@ Draw a relation that satisfies the given domain and range.
 4. wave (sinusoidal shape) where the domain is $(-\infty, \infty)$ and the range is $[-5,10]$
 
 ## Solution
+

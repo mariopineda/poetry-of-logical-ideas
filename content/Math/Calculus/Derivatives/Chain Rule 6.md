@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -20,3 +20,4 @@ At which x-value(s) does the function $y=(3x-1)^4 (7-2x)^5$ have a horizontal ta
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/bqFdt6xOrjk
+

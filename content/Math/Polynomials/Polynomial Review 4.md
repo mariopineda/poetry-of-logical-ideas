@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -70,3 +70,4 @@ x & = & b+2
 \end{array}
 \]
 Hence $AB = b+2$.
+

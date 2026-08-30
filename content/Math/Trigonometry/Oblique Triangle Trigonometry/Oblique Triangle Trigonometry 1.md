@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-2"
   - "Math 30-3"
 topic: "Oblique Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -57,3 +57,4 @@ b & = & \sqrt{10^2-8.9...^2} \\
 b & = & 4.5399... \approx 4.5 \mbox{ cm}
 \end{array}
 $$
+

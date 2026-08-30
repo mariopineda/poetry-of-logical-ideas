@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ $$y = x^3 f(x^2)$$
 $$y=f(g(x^3))$$
 
 ## Solution
+

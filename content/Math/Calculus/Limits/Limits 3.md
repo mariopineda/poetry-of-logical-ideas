@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Determine the equation of the tangent line to $y=x^2-2x-8$ at $(-3,7)$ using $m\
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/h5u_AyC1yaE
+

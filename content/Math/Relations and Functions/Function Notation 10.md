@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 Write the formula for the perimeter of a square in function notation, where $P$ represents the perimeter and $s$ represents the length of one side.
 
 ## Solution
+

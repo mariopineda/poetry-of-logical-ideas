@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Inequalities"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Completing the Square 1]]"
 related:
@@ -20,3 +20,4 @@ Solve $\frac{x^2}{x-5} \leq \frac{16x}{x-5}$. Answer in interval notation.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/ihTPyFb84k0
+

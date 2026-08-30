@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -26,3 +26,4 @@ Simplify the following rational expressions.
 6. $\displaystyle\frac{2p^3-4p^2}{16-8p}$
 
 ## Solution
+

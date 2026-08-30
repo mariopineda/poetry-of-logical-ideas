@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Inductive Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Inductive Reasoning 2]]"
@@ -36,3 +36,4 @@ For example: $123456789 \times 9 \times 5 = 5555555505$, $123456789 \times 9 \ti
 ### C.
 
 For example, $123456789 \times 9 \times 10 = 11111111010$
+

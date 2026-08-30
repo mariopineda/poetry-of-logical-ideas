@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -25,3 +25,4 @@ Evalue the following limits, if possible.
 7. If $\lim\_{x \to a} \frac{\frac{1}{a}-\frac{1}{x}}{x-a} = \frac{9}{16}$, then determine the value(s) of $a$.
 
 ## Solution
+

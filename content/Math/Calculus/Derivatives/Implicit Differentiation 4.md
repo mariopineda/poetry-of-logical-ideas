@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -25,3 +25,4 @@ $$y^3+y=4x-9$$
 $$5y^2-8y-9=x$$
 
 ## Solution
+

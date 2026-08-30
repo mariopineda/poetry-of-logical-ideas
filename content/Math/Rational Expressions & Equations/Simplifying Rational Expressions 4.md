@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -28,3 +28,4 @@ Write an equivalent form of the rational expression $\frac{2a+10}{10a-4}$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/R8nOLVbTkUg
+

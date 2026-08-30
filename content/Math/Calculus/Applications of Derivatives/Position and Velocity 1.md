@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -28,3 +28,4 @@ Determine the objects velocity when it is located 63 m South of the origin.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/D1YgTKVPF8I
+

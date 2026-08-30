@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:
@@ -20,3 +20,4 @@ Joe is driving east at 60 km/h, Dave is driving south at 70 km/h. Both cars are 
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/QmExrw9s4mk
+

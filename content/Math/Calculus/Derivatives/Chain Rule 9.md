@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 Differentiate $y \[ 4-\left( 2x+5 \right)^3\]^6$ using the chain rule more than once.
 
 ## Solution
+

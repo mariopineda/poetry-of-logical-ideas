@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -34,3 +34,4 @@ Sketch a single continuous position-time function with the following features, l
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/aVE3pw9Io5g
+

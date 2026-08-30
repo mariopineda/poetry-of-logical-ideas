@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Polynomial Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Transformations 1]]"
   - "[[Factoring Polynomials 1]]"
@@ -46,3 +46,4 @@ Quadratic function. Number of x-intercepts: 1, Turning points: Single global min
 ### E.
 
 Linear function. Number of x-intercepts: 1, Turning points: none, End behaviour: $Q2 \rightarrow Q4$.
+

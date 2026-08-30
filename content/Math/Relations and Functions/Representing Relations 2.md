@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -23,3 +23,4 @@ Classify the following as representing discrete or continuous data.
 3. The formula $F=1.8C+32$ compares the temperature in degrees Celcius ($C$) to temperatures in degrees Fahrenheit ($F$).
 
 ## Solution
+

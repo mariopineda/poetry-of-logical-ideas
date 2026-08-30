@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Binomial Theorem"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Pascal's Triangle]]"
   - "[[Combinations 1]]"
@@ -21,4 +21,5 @@ Determine:
 5. the middle term of $\left(2-\frac{\displaystyle x}{\displaystyle 2}\right)^6$
 
 ## Solution
+
 

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Polynomial Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Transformations 1]]"
   - "[[Factoring Polynomials 1]]"
@@ -35,3 +35,4 @@ Without using technology, determine the following characteristics of the given f
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/x-sZDpGfIPg
+

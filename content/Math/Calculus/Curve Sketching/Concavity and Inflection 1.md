@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
   - "[[Higher Derivatives 1]]"
@@ -19,3 +19,4 @@ Using the Second Derivative Test, find the local maximum and minimum values for 
 <!--
 
 ## Solution
+

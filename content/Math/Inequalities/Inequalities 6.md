@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Inequalities"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Completing the Square 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 Solve $|x^2+6x-8| = 8$.
 
 ## Solution
+

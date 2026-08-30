@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ $$s(t) = \frac{t^2+1}{2t-1}$$
 $$s(t) = t \sqrt{4t+1}$$
 
 ## Solution
+

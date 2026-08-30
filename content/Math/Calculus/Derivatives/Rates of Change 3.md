@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -20,3 +20,4 @@ For the function $y=x^2-5x$, estimate the tangent slope at the point $P(2,-6)$ u
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/NAmwC9kZ8iA
+

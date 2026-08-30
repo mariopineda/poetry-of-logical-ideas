@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 30-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Coordinate Geometry 4]]"
@@ -22,3 +22,4 @@ Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/d91cAqbqSv0
+

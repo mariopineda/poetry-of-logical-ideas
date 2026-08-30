@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angles and Parallel Lines 1]]"
 related:
@@ -23,3 +23,4 @@ Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \fr
 <!--
 
 ## Solution
+

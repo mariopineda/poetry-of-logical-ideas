@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -20,3 +20,4 @@ Differentiate $y = \frac{1}{\sqrt{3x^2-4x+1}}$.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/DVzo-4U_Xss
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-1"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Representing Relations 1]]"
 related:
@@ -32,3 +32,4 @@ Determine the domain and range in interval notation and set notation of the foll
 | **F** | $$\{x | -8 \leq x < 2, x \in \mathbb{R} \} $$ | $$[-8, 2)$$ | $$\{ y | -3 < y \leq 2, y \in \mathbb{R} \}$$ | $$(-3, 2]$$ |
 | **G** | $$\{x | -2 < x < 2, x \in \mathbb{R} \} $$ | $$(-2, 2)$$ | $$\{ y | -8 < y \leq -4, y \in \mathbb{R} \}$$ | $$(-8, -4]$$ |
 | **H** | $$\{ x | 3 \leq x \leq 7, x \in \mathbb{R} \} $$ | $$[3, 7]$$ | $$\{ y | -2 \leq y \leq 2, y \in \mathbb{R} \}$$ | $$[-2, 2]$$ |
+

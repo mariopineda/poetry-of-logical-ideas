@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fundamental Counting Principle 2]]"
@@ -57,3 +57,4 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 - This continues until the 6th position.
 - So, the calculation is... FCP: $6 \times 5 \times 4 \times 1 \times 3 \times 2 \times 1 = 6! = 720$.
 - There are 720 ways of arranging the Harry Potter books side by side on a shelf with the book with the red cover in the middle
+

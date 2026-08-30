@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 3]]"
@@ -32,3 +32,4 @@ h & = & \frac{1571.68}{20 \pi} \\
 h & = & 25.0 \mbox{cm}
 \end{array}
 $$
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Scale Factors"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Surface Area and Volume 1]]"
 related:
@@ -24,4 +24,5 @@ Complete the table for the following rectangles.
 |$9 \times 6$ | $26 \times 24$ | | |
 
 ## Solution
+
 

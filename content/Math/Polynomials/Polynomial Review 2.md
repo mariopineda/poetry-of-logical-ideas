@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -27,3 +27,4 @@ Multiply.
 2. $$3(3x-2) = 9x-6$$
 3. $$2(x^2-3x+5) = 2x^2-6x+10$$
 4. $$2x(3x-4) = 6x^2-8x$$
+

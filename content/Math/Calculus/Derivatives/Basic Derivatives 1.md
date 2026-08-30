@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -31,3 +31,4 @@ $$\frac{d}{dx}\sqrt[5]{x^2}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/HBJW1INH3VI
+

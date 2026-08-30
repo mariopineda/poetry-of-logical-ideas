@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-1"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Representing Relations 1]]"
 related:
@@ -22,3 +22,4 @@ The surface area formula for a cube is $A=6s^2$, where $A$ represents the surfac
 3. Describe what the ordered pair (9, 486) means in the context of this question.
 
 ## Solution
+

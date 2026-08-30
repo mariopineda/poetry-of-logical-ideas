@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -21,3 +21,4 @@ Find the vertex, axis of symmetry, max/min values and intercepts for:
 3. $y=4x^2+8x-60$
 
 ## Solution
+

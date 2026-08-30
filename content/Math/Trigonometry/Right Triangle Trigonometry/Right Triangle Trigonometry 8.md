@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angles and Parallel Lines 1]]"
 related:
@@ -20,3 +20,4 @@ Two forest fires are spotted on opposite sides of an observation tower. From the
 2. If the two fires were on the same side of thr tower on the same compass heading. How far apart would they be then?
 
 ## Solution
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-2"
   - "Math 30-3"
 topic: "Oblique Triangle Trigonometry"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -39,3 +39,4 @@ Find side $DC$: $\tan(35^{\circ})=\displaystyle\frac{11.7\dots}{DC}$, $DC=\displ
 Find side $b$: $11.7\ldots^2 + 16.7\ldots^2 = b^2$, $b=\sqrt{11.7\ldots^2 + 16.7\ldots^2}$, $b=20.5$ cm
 
 Find side $a$: $BD + DC = 11.7\ldots + 16.7\ldots = 28.5$ cm
+

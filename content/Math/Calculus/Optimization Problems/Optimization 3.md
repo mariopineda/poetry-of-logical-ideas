@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -19,3 +19,4 @@ Algebraically determine the absolute and local min / max on the given interval f
 <!--
 
 ## Solution
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Definite Integrals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Antiderivative 1]]"
 related:
@@ -31,3 +31,4 @@ Evaluate...
 2. $\displaystyle \int_\pi^{2\pi} \sin x \, dx = -\cos x \Bigr]_\pi^2\pi = (-\cos 2\pi) - (-\cos \pi) = -1-1 = -2$
 3. $\displaystyle \int_1^8 \frac{1}{\sqrt[3]{x^2}} = \int_1^8 x^{-\frac{2}{3}} = \left. \frac{x^{-\frac{2}{3}+1}}{-\frac{2}{3}+1} \right]_1^8 = 3x^\frac{1}{3} \Bigr]_1^8 = 3(2)-3(1)=3$
 4. $\displaystyle \int_0^1 \frac{1}{x^2+1} \, dx = \tan^{-1} x \Bigr]_0^1 = \tan^{-1} 1 - \tan^{-1} 0 =\frac{\pi}{4} - 0 = \frac{\pi}{4}$
+

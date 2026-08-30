@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ $$y = f(x^9)$$
 $$y=\frac{f(ax)}{a}$$
 
 ## Solution
+

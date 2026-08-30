@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -43,3 +43,4 @@ $$
 &= \boxed{10x-2}
 \end{align}
 $$
+

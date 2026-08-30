@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -29,3 +29,4 @@ Evaluate the following using the graph.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/ItZft9Ia14g
+

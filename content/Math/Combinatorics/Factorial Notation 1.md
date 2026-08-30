@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Factorial Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Fundamental Counting Principle 1]]"
 related: []
@@ -46,3 +46,4 @@ n^2+n - 6 & = 0 \\\\
 n = -3, n=2
 \end{align*}
 $$
+

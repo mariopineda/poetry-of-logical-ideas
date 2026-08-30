@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -51,3 +51,4 @@ How many more hours would you have to work to earn $1000 after the roll back?
 
 > [!info]- Source
 > [The Globe and Mail (May 27, 2019) Alberta slashes minimum wage for teen students](https://www.theglobeandmail.com/canada/alberta/article-alberta-slashes-minimum-wage-for-teen-students/)
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Arithmetic Operations with Quotients]]"
 related:
@@ -27,3 +27,4 @@ $$x^2-10x+24=0$$
 $$x^2-10x-24=0$$
 
 ## Solution
+

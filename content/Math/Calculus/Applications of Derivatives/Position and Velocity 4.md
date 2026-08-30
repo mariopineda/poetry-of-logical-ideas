@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ Determine the position of the object when it comes to rest.
 Determine whether the object is moving towards or away from the origin at $x=2$ sec.
 
 ## Solution
+

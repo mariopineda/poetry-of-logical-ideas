@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -21,3 +21,4 @@ The position of a moving particle on a line is given by the equation $s = f(t) =
 4. Find the total distance travelled by the particle during the first 6 sec.
 
 ## Solution
+

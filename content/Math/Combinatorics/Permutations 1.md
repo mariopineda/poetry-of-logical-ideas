@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Permutations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factorial Notation 1]]"
 related:
@@ -25,4 +25,5 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > What is the smallest number of digits that a number smaller than 3000 can have?
 
 ## Solution
+
 

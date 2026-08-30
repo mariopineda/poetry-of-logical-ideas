@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -59,3 +59,4 @@ Simplify:
    = & \boxed{\frac{t^{15}r^3}{s^6q^{21}}} \mbox{ (Negative Exponent Law)} \\
    \end{align}
    \]
+

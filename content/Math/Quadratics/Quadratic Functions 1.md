@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -24,3 +24,4 @@ Which of the following functions is not a quadratic function?
 4. $$P(X) = 1-x^2$$
 
 ## Solution
+

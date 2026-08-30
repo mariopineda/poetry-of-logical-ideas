@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:
@@ -26,3 +26,4 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 <!--
 
 ## Solution
+

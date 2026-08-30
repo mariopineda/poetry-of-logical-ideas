@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -22,3 +22,4 @@ x^2-4 & x < 0 \\
 \right. $, identify absolute / local max / min by sketching.
 
 ## Solution
+

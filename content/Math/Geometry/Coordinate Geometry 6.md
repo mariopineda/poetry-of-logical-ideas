@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 30-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Coordinate Geometry 5]]"
@@ -22,3 +22,4 @@ Determine the equation of the line. Answer in general form.
 2. through $(-1,-2)$, perpendicular to $2x+5y+8=0$
 
 ## Solution
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 1]]"
@@ -32,3 +32,4 @@ related:
 
 1. The formula for calculating the suface area of a cube is $SA=6x^2$, since we know $SA=70$ cm$^2$ we can calculate the side length of the cube by substituting in the surface area and solve for $x$, $70=6x^2 \Rightarrow \frac{\displaystyle 70}{\displaystyle 6} = x^2 \Rightarrow x = \sqrt{\frac{\displaystyle 70}{\displaystyle 6}} \Rightarrow x = 3.41...$ cm
 2. The formula for calculating the volume of a cube is $V=x^3$. We subsitute in the side length, $V=3.41...^3=39.84... \approx 39.9$ cm$^3$.
+

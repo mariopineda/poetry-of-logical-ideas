@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -18,3 +18,4 @@ Find the exact maximum volume of the right circular cylinder that can be inscrib
 <!--
 
 ## Solution
+

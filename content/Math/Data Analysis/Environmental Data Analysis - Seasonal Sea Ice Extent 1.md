@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 30-2"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -51,3 +51,4 @@ Domain: ${m | 1 \leq m \leq 12, x \in R}$ or $[1,12]$ and Range: ${A | 0 \leq A 
 
 > [!info]- Source
 > [National Snow and Ice Data Center (2019)](http://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/)
+

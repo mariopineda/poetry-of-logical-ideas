@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:
@@ -74,3 +74,4 @@ $$
    s'(t) = \frac{3}{13} \approx 0.23 \text{ meters per second}
 $$
 Therefore, at $t=5$ seconds, the length of the shadow is approximately 1.15 meters, and it is increasing at a rate of approximately 0.23 meters per second.
+

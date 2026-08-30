@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -25,3 +25,4 @@ Use the following position-time graph for a moving object to answer the followin
 ![[Images/Legacy/position-and-velocity-7.png]]
 
 ## Solution
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -24,3 +24,4 @@ Determine the polynomial that would have to be added to $6x^2-3x+6$ so that the 
 = & -5x^2+7x-4
 \end{array}
 \]
+

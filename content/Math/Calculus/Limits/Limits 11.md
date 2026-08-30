@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
@@ -20,3 +20,4 @@ Numerically estimate the following limits. Answer to 3 decimal places.
 2. $$\lim\_{h \to 0} \frac{h}{9^h-1}$$
 
 ## Solution
+

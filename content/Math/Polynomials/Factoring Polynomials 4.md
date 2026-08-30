@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:
@@ -47,3 +47,4 @@ $$
 &= \boxed{3a[(3a-7)(a-2)]}
 \end{align}
 $$
+

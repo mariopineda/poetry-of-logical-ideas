@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -27,3 +27,4 @@ A high school student having a summer job as a sales person at a bicycle store i
 
 > [!info]- Source
 > [Global News (June 26, 2019) Lower minimum wage for Alberta youth takes effect Wednesday](https://globalnews.ca/news/5434502/lower-minimum-wage-alberta-youth/)
+

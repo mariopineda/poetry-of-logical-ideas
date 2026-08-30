@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Differential Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Antiderivative 1]]"
 related:
@@ -18,3 +18,4 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 <!--
 
 ## Solution
+

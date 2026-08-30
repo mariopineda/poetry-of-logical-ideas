@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -37,3 +37,4 @@ $$\frac{8-6x}{4+12x}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/nNncmORoRUM
+

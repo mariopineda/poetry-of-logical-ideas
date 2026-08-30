@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fundamental Counting Principle 3]]"
@@ -30,3 +30,4 @@ To find the number of different aid packages that can be created with one item f
 FCP: $4 \times 6 \times 5 \times 3 = 360$
 
 There are 360 different aid packages that can be created.
+

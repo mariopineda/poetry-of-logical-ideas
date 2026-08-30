@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -34,3 +34,4 @@ Convert all radicals to entire radicals:
 Sort in ascending order: $\sqrt{40}$, $\sqrt{45}$ $\sqrt{48}$, $\sqrt{50}$, $\sqrt{52}$, $\sqrt{54}$
 
 Rewrite sorted order using original radicals: $2\sqrt{10}$, $3\sqrt{5}$, $4\sqrt{3}$, $5\sqrt{2}$, $2\sqrt{13}$, $3\sqrt{6}$
+

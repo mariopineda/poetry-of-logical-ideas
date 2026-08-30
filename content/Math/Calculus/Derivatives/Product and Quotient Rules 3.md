@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Product and Quotient Rules"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -20,3 +20,4 @@ Differentiate $f(t) = 2t^5 \times h(t)$, where $f$ and $h$ are differentiable fu
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/TPEXet9kExQ
+

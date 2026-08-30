@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -31,3 +31,4 @@ The scuba diver's rate of change in depth (dependent variable) as a function of 
 The rate of change of the temperature (dependent variable) as a function of time (independent variable) is given by the slope of the linear relation, $m=\frac{\mbox{rise}}{\mbox{run}} = \frac{\displaystyle 25}{\displaystyle 6} \approx 4.2 ^\circ$C/minute.
 
 ![[Images/Legacy/rateofchange2.png]]
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -23,3 +23,4 @@ For each relation, algebraically determine the x- and y-intercepts. Verify your 
 4. $-3y-45+18x=0$
 
 ## Solution
+

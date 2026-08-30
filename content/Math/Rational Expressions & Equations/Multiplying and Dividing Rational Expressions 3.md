@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -30,3 +30,4 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/mmXXgluJuGk
+

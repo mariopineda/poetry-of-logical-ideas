@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fundamental Counting Principle 1]]"
@@ -24,3 +24,4 @@ Route $A \rightarrow B_2 \rightarrow C \Rightarrow$ FCP: $2 \times 1 = 2$
 Route $A \rightarrow B_3 \rightarrow C \Rightarrow$ FCP: $3 \times 2 = 6$
 
 $3 + 2 + 6 = 11$ different routes
+

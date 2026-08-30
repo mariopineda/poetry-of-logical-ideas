@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -22,3 +22,4 @@ For each function $y=f(x)$, sketch the corresponding derivative function $y=f'(x
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/cqS5Qw7KPp0
+

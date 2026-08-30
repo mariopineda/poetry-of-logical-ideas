@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Exponential Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -27,7 +27,7 @@ Solve for $x$:
 > [!info]- Related Practice Problems 
 >...
 
-Links leading here… (automatically generated)
+Links leading hereâ€¦ (automatically generated)
  
 <div style="page-break-after: always;"></div>
 
@@ -37,3 +37,4 @@ Links leading here… (automatically generated)
 ## Solution
 
 ...
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -59,3 +59,4 @@ revenue from selling eggs at the Farmer's market.
 your level as you start the campain in a new game on your XBox.
 
 ## Solution
+

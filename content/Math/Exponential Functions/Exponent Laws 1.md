@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Exponent Laws"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -22,4 +22,5 @@ Without using a calculator, determine the exact value of the following.
 5. $\left( \frac{\displaystyle 1}{\displaystyle 4} \right)^{-2}$
 
 ## Solution
+
 

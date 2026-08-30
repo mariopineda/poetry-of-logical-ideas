@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Linear Relations 1]]"
   - "[[Exponent Laws 1]]"
@@ -21,3 +21,4 @@ A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/nIAJvn9mxQk
+

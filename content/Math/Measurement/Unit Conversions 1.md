@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Surface Area and Volume 5]]"
@@ -25,3 +25,4 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 6. $98 \mbox{ m} \Rightarrow \mbox{km}$
 
 ## Solution
+

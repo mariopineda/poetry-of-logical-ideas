@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -20,3 +20,4 @@ Differentiate $y = \left[ x^3-7+(5x+1)^4 \right]^9$.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/PAiaw0RHdhA
+

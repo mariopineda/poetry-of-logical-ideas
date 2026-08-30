@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -30,3 +30,4 @@ For each of the following table of values, express the relationship (i) in words
    | $7$ | $-20$ |
 
 ## Solution
+

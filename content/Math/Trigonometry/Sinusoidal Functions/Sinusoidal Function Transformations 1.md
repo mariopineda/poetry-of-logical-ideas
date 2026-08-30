@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angular Measure 1]]"
   - "[[Function Transformations 1]]"
@@ -26,3 +26,4 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 <!--
 
 ## Solution
+

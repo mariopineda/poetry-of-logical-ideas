@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
   - "[[Higher Derivatives 1]]"
@@ -22,3 +22,4 @@ Fully sketch $y=-x(x-3)^2$, $y'=-3(x-1)(x-3)$, $y''=-6(x-2)$.
 <!--
 
 ## Solution
+

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-1"
 topic: "Function Properties"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
   - "[[Function Notation 1]]"
@@ -22,3 +22,4 @@ For $f(x)=1-2x$, determine (in simplfied form):
 2. $\frac{f(3+h)-f(3)}{h}$
 
 ## Solution
+

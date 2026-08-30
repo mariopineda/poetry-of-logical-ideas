@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Arithmetic Operations with Quotients]]"
 related:
@@ -27,3 +27,4 @@ $$3x^2-13x-10=0$$
 $$6x^2+17x=3$$
 
 ## Solution
+

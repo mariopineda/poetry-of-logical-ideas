@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -29,3 +29,4 @@ For each polynomial, state the leading coefficient, degree and constant.
 3. Leading coefficient: -10, Degree: 6, Constant: 0
 4. Leading coefficient: $\sqrt{3}$, Degree: 1, Constant: -19
 5. Leading coefficient: -7, Degree: 4, Constant: $-\sqrt{5}$
+

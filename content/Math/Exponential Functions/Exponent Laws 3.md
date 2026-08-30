@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Exponent Laws"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -24,3 +24,4 @@ Use exponent laws to simplify the following:
 6. $\displaystyle\frac{x^{5a+7b} \times x^{3a+b}}{x^a \times x^{2a-7b}}$
 
 ## Solution
+

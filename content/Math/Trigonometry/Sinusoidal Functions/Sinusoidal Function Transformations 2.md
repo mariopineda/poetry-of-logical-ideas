@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angular Measure 1]]"
   - "[[Function Transformations 1]]"
@@ -22,3 +22,4 @@ Find the equation of a since function with an amplitude of 3, period of $\frac{\
 <!--
 
 ## Solution
+

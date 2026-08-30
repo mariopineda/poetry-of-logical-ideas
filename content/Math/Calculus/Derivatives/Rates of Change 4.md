@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -28,3 +28,4 @@ Determine the instantaneous rate of change of volume (w.r.t. $h$) at $h=3$ cm.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/eK6mytNoD74
+

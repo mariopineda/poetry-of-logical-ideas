@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
   - "[[Function Notation 1]]"
@@ -22,3 +22,4 @@ Using the quadratic formula the positive root, to the nearest tenth, of the foll
 ## Solution
 
 $x=15.1$
+

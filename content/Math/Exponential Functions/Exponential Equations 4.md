@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Exponential Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:
@@ -22,3 +22,4 @@ The number, $N$, of throat swab bacteria being grown in a culture after $t$ hour
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/IvMJ9S7Ik_Y
+

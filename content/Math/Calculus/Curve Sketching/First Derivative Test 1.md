@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
   - "[[Higher Derivatives 1]]"
@@ -18,3 +18,4 @@ related:
 For the function $y=6x^2-x^3$, identify the local max/min. Roughly sketch.
 
 ## Solution
+

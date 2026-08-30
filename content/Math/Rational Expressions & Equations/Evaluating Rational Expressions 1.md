@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -34,3 +34,4 @@ Evaluate without a calculator and express in lowest terms.
    $$ = 2+\frac{5}{2} \times \frac{1}{1}+\frac{1}{3}$$
    $$ = 2+\frac{5}{2} + \frac{1}{3}$$
    $$ = \frac{12}{6} + \frac{15}{6} + \frac{2}{6} = \frac{29}{6}$$
+

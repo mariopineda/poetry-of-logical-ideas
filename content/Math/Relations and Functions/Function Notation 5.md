@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -24,3 +24,4 @@ Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evalu
 6. $h(0)$
 
 ## Solution
+

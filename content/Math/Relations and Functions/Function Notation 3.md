@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
 related:
@@ -28,7 +28,7 @@ For the following table of values, express the relationship
 ## Solution
 
 1. ![[Images/Legacy/function-notation-problem1.bmp]]![[Images/Legacy/function-notation-problem2.bmp]]
-2. $G(6) = 22588 - 168.05472 \times 6^2 \Rightarrow G(6)=16538.03008 \approx \boxed{16538}$. A 6C° increase in the average temperature will result in a per capita GDP of 16538 dollars.
+2. $G(6) = 22588 - 168.05472 \times 6^2 \Rightarrow G(6)=16538.03008 \approx \boxed{16538}$. A 6CÂ° increase in the average temperature will result in a per capita GDP of 16538 dollars.
 3. Set $t=0 \Rightarrow G(0) = 22588 - 168.05472 \times 0^2 \Rightarrow G(0) = 22588$. The per capita GDP if the temperature does not increase is 22588 dollars.
 4. The per capita GDP with no temperature increase is 22588 dollars. Half of this is $22588 \div 2 = 11294$ dollars. Set $G(t)=11294 \Rightarrow 11294=22588 - 168.05472 \times t^2$ and solve for the temperature, $t$.
    $$11294 = 22588-168.05472 \times t^2$$
@@ -39,7 +39,8 @@ For the following table of values, express the relationship
    $$\sqrt{67.204...} = \sqrt{t^2}$$
    $$8.197... = t$$
    $$\boxed{t \approx 8}$$
-   A temperature increase of 8C° will result in the per capita GDP being reduced by half.
+   A temperature increase of 8CÂ° will result in the per capita GDP being reduced by half.
 
 > [!info]- Source
 > [Howard & Sterner (2017)](https://link.springer.com/article/10.1007%2Fs10640-017-0166-z)
+

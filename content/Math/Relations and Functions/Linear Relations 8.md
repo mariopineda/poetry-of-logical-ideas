@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -21,3 +21,4 @@ A person's height can be estimated using the fact that height and the length of 
 2. Determine the height, to the nearest tenth, of an adult whose humerus measures 38.2 cm.
 
 ## Solution
+

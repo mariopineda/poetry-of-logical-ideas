@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -25,3 +25,4 @@ Simplify the following rational expressions.
 5. $$\left( 6-\frac{2}{x} \right) \div \left( 9 - \frac{1}{x^2} \right)$$
 
 ## Solution
+

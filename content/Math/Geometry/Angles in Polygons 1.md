@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 30-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Angles and Parallel Lines 1]]"
@@ -42,3 +42,4 @@ The is a 25-gon (aka icosikaipentagon or pentacosagon), i.e. is has 25 sides.
 ### C.
 
 The sum of the interior angles in a hexagon $= (6-2) \times 180 = 720^\circ$. The sixth angle measure = $720-600=120^\circ$
+

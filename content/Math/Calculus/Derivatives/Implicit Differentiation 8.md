@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Chain Rule 1]]"
 related:
@@ -25,3 +25,4 @@ $$xy + x^3 = y^2-4$$
 $$y-x^2y^3 = x+y^2$$
 
 ## Solution
+

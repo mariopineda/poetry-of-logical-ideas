@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -19,3 +19,4 @@ Determine the derivative of $y=x^2-3x-8$ using first principles. Then, determine
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/4f2WJNTBjvY
+

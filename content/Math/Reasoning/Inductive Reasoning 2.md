@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Inductive Reasoning"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Inductive Reasoning 1]]"
@@ -17,4 +17,5 @@ related:
 ![[Inductive Reasoning 1.png]]
 
 ## Solution
+
 

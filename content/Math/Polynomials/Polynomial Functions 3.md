@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Transformations 1]]"
   - "[[Factoring Polynomials 1]]"
@@ -36,3 +36,4 @@ Simplify the following polynomials.
 6. $5a-6b$
 7. $-2m^2-14m+8$
 8. $x^2-6y^2$
+

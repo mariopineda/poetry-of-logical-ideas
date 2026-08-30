@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:
@@ -30,3 +30,4 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/6dwnyRrPWpU
+

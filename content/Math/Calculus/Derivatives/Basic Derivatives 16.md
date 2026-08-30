@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 For $f(x) =x^4 + Ax^2 + Bx^2 -2x +12$, if $f'(1)=15$ and $f'(-1)=23$, then find $A$ and $B$.
 
 ## Solution
+

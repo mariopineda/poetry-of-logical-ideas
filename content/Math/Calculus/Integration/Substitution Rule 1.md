@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Substitution Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Antiderivative 1]]"
   - "[[Chain Rule 1]]"
@@ -31,3 +31,4 @@ $\displaystyle \int \frac{1}{u^2} \cdot \frac{1}{2} du = \frac{1}{2} \int u^{-2}
 4. For $\displaystyle \int \frac{e^{2x}}{1 + e^{2x}} \, dx$ let $u = 1 + e^{2x}$, then $du = 2e^{2x} \, dx$ or $e^{2x} \, dx = \frac{1}{2} du$. So the integral becomes: $\displaystyle \int \frac{1}{u} \cdot \frac{1}{2} du = \frac{1}{2} \int \frac{1}{u} \, du = \frac{1}{2} \ln|u| + C = \frac{1}{2} \ln|1 + e^{2x}| + C$
 5. For $\displaystyle \int \frac{\ln(x)}{x} \, dx$ let $u = \ln(x)$, then $du = \frac{1}{x} \, dx$. So the integral becomes:
 $\displaystyle \int u \, du = \frac{u^2}{2} + C = \frac{(\ln(x))^2}{2} + C$
+

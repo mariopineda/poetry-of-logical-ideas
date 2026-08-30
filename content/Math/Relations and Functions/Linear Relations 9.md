@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
@@ -26,3 +26,4 @@ A ball is thrown into the air from the balcony of an apartment and falls to the 
 7. What is the domain and range, in set notation, of the relation in this context?
 
 ## Solution
+

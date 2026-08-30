@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Angular Measure 1]]"
   - "[[Function Transformations 1]]"
@@ -25,3 +25,4 @@ Consider the following periodic function $f(x) = 15.3 \sin{(\pi x)}$.
 4. Determine, to the nearest hundreth, the values of $x$ between 3 and 4 for which $f(x)=-8.5$.
 
 ## Solution
+

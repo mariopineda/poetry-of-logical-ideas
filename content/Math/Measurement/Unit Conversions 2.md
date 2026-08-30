@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Unit Conversions 1]]"
@@ -25,3 +25,4 @@ Convert the following unit as indicated using unit analysis. Provide all decimal
 6. $207 \mbox{ in} \Rightarrow \mbox{yd}$
 
 ## Solution
+

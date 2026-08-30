@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:
@@ -20,3 +20,4 @@ Differentiate $y = \frac{f(ax^2)}{a}$, where $a \in \mathbb{R}$.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/8cMYK79ceLc
+

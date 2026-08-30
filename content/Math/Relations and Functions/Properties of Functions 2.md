@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-1"
 topic: "Function Properties"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Domain & Range 1]]"
   - "[[Function Notation 1]]"
@@ -25,3 +25,4 @@ If $f(x)=x^2-3x+5$, then determine:
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/pe_bizXhfms
+

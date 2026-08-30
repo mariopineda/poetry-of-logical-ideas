@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 For the linear function $y=\frac{4}{5}x-9, if $y$ increases by 20, then what is the change in $x$?
 
 ## Solution
+

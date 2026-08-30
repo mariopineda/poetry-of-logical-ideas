@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Inequalities"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Completing the Square 1]]"
 related:
@@ -20,3 +20,4 @@ Solve $x^3>8x^2-16x$. Answer in interval notation.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/XasMrKNBGwU
+

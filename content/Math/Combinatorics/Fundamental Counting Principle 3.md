@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Fundamental Counting Principle 2]]"
@@ -64,3 +64,4 @@ $30 + 4 = 34$
 There are 34 different routes a delivery truck can take to deliver vaccines from the central warehouse to Distribution Hub C.
 
 $3 + 2 + 6 = 11$ routes
+

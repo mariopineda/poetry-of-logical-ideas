@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Derivatives 1]]"
 related:
@@ -17,3 +17,4 @@ related:
 $s(t) = t^3-6t^2$, where $s$ is in km, $t$ is in hours, and North + and South -. When is the object moving North and towards the origin?
 
 ## Solution
+

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:
@@ -65,3 +65,4 @@ V(x) = & \boxed{5x(2x+3)(x-4)} & \mbox{Rewrite GCFs as binomial} \\
 \end{array}
 $$
 Since $\mbox{height} > \mbox{length} > \mbox{width}$, $\mbox{height}=5x$, $\mbox{length}=(2x+3)$ and $\mbox{width}=(x-4)$.
+

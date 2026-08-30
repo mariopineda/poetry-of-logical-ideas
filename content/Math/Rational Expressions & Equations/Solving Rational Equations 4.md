@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Arithmetic Operations with Quotients]]"
 related:
@@ -30,3 +30,4 @@ $$\frac{5a-3}{a+7} = \frac{5a-14}{a+1}$$
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/uxTotOlPq9Y
+

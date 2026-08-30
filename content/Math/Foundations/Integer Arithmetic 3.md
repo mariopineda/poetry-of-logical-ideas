@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 prerequisites: []
 related:
   - "[[Integer Arithmetic 2]]"
@@ -55,3 +55,4 @@ Evaluate without a calculator:
 = & 10 + 15 = 25
 \end{array}
 \]
+

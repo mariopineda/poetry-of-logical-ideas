@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Logarithmic Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Exponential Equations]]"
 related:
@@ -26,3 +26,4 @@ Evaluate by converting to exponential form.
 
 > [!info]- Legacy video solution
 > https://www.youtube.com/embed/u824wzVFqm4
+
