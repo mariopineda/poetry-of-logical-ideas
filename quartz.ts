@@ -1555,9 +1555,114 @@ config.plugins.transformers.push({
     ]
   },
 } as any)
+
+//
+// ------------------------------------------------------------
+// Internal navigation should open pages at the top.
+// Anchor links and browser Back/Forward remain unaffected.
+// ------------------------------------------------------------
+//
+
+
+//
+// ------------------------------------------------------------
+// Global page-scroll behaviour
+//
+// Ordinary internal page navigation starts at the top.
+// Explicit #anchor navigation remains untouched.
+// Browser Back/Forward may restore its previous position.
+// ------------------------------------------------------------
+//
+config.plugins.transformers.push({
+  name: "ForceTopNavigation",
+
+  externalResources() {
+    return {
+      js: [
+        {
+          loadTime: "beforeDOMReady",
+          contentType: "inline",
+          spaPreserve: true,
+          script: `
+(() => {
+  const navEntry =
+    performance.getEntriesByType("navigation")[0]
+
+  const navType =
+    navEntry?.type || "navigate"
+
+  const hasHash =
+    window.location.hash.length > 0
+
+  const isBackForward =
+    navType === "back_forward"
+
+  if (
+    "scrollRestoration" in history
+  ) {
+    history.scrollRestoration =
+      hasHash || isBackForward
+        ? "auto"
+        : "manual"
+  }
+
+  if (hasHash || isBackForward) {
+    return
+  }
+
+  const forceTop = () => {
+    window.scrollTo(0, 0)
+
+    document.documentElement.scrollTop = 0
+
+    if (document.body) {
+      document.body.scrollTop = 0
+    }
+  }
+
+  // Run before layout.
+  forceTop()
+
+  // Also run at the key browser restoration stages.
+  document.addEventListener(
+    "DOMContentLoaded",
+    forceTop,
+    { once: true }
+  )
+
+  window.addEventListener(
+    "load",
+    () => {
+      forceTop()
+
+      requestAnimationFrame(() => {
+        forceTop()
+
+        requestAnimationFrame(
+          forceTop
+        )
+      })
+    },
+    { once: true }
+  )
+
+  window.addEventListener(
+    "pageshow",
+    forceTop,
+    { once: true }
+  )
+})()
+`,
+        },
+      ],
+    }
+  },
+} as any)
 export default config
 
 export const layout = await loadQuartzLayout()
+
+
 
 
 
