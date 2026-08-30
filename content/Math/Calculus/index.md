@@ -27,5 +27,5 @@ Practice questions for **Calculus**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object.\|Applications of Derivatives 1 - Shadow Length of a Moving Object]] | Math 31 |
+| [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object\|Applications of Derivatives 1 - Shadow Length of a Moving Object]] | Math 31 |
 

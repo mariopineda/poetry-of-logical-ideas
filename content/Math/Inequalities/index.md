@@ -15,12 +15,12 @@ Practice questions for **Inequalities**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Inequalities/Inequalities 1.\|Inequalities 1]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 2.\|Inequalities 2]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 3.\|Inequalities 3]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 4.\|Inequalities 4]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 5.\|Inequalities 5]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 6.\|Inequalities 6]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 7.\|Inequalities 7]] | Math 20-1 |
-| [[Math/Inequalities/Inequalities 8.\|Inequalities 8]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 1\|Inequalities 1]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 2\|Inequalities 2]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 3\|Inequalities 3]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 4\|Inequalities 4]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 5\|Inequalities 5]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 6\|Inequalities 6]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 7\|Inequalities 7]] | Math 20-1 |
+| [[Math/Inequalities/Inequalities 8\|Inequalities 8]] | Math 20-1 |
 

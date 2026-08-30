@@ -15,13 +15,13 @@ Practice questions for **Measurement**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Measurement/Surface Area and Volume 1.\|Surface Area and Volume 1]] | Math 10-3, Math 10C, Math 20-3 |
-| [[Math/Measurement/Surface Area and Volume 2.\|Surface Area and Volume 2]] | Math 10-3, Math 10C, Math 20-3 |
-| [[Math/Measurement/Surface Area and Volume 3.\|Surface Area and Volume 3]] | Math 10-3, Math 10C, Math 20-3 |
-| [[Math/Measurement/Surface Area and Volume 4.\|Surface Area and Volume 4]] | Math 10-3, Math 10C, Math 20-3 |
-| [[Math/Measurement/Surface Area and Volume 5.\|Surface Area and Volume 5]] | Math 10-3, Math 10C, Math 20-3 |
-| [[Math/Measurement/Unit Conversions 1.\|Unit Conversions 1]] | Math 10-3, Math 10C |
-| [[Math/Measurement/Unit Conversions 2.\|Unit Conversions 2]] | Math 10-3, Math 10C |
-| [[Math/Measurement/Unit Conversions 3.\|Unit Conversions 3]] | Math 10-3, Math 10C |
-| [[Math/Measurement/Unit Conversions 4.\|Unit Conversions 4]] | Math 10-3, Math 10C |
+| [[Math/Measurement/Surface Area and Volume 1\|Surface Area and Volume 1]] | Math 10-3, Math 10C, Math 20-3 |
+| [[Math/Measurement/Surface Area and Volume 2\|Surface Area and Volume 2]] | Math 10-3, Math 10C, Math 20-3 |
+| [[Math/Measurement/Surface Area and Volume 3\|Surface Area and Volume 3]] | Math 10-3, Math 10C, Math 20-3 |
+| [[Math/Measurement/Surface Area and Volume 4\|Surface Area and Volume 4]] | Math 10-3, Math 10C, Math 20-3 |
+| [[Math/Measurement/Surface Area and Volume 5\|Surface Area and Volume 5]] | Math 10-3, Math 10C, Math 20-3 |
+| [[Math/Measurement/Unit Conversions 1\|Unit Conversions 1]] | Math 10-3, Math 10C |
+| [[Math/Measurement/Unit Conversions 2\|Unit Conversions 2]] | Math 10-3, Math 10C |
+| [[Math/Measurement/Unit Conversions 3\|Unit Conversions 3]] | Math 10-3, Math 10C |
+| [[Math/Measurement/Unit Conversions 4\|Unit Conversions 4]] | Math 10-3, Math 10C |
 

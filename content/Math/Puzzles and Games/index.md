@@ -15,5 +15,5 @@ Practice questions for **Puzzles and Games**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Puzzles and Games/Puzzles & Games 1.\|Puzzles & Games 1]] | Math 30-2 |
+| [[Math/Puzzles and Games/Puzzles & Games 1\|Puzzles & Games 1]] | Math 30-2 |
 
