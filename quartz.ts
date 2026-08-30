@@ -307,7 +307,7 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return a.isFolder ? -1 : 1
     }
 
-    return a.displayName.localeCompare(b.displayName)
+    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
   },
 })
 
@@ -1661,6 +1661,7 @@ config.plugins.transformers.push({
 export default config
 
 export const layout = await loadQuartzLayout()
+
 
 
 

@@ -509,3 +509,7 @@ body[data-slug="index"] .article-title {
   color: var(--gray);
   font-size: 0.9rem;
 }
+
+/* Hide Quartz folder listing on generated QOD topic pages */
+body:has(.qod-topic-page-marker) .page-listing { display: none; }
+
