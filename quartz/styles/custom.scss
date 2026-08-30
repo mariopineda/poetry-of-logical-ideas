@@ -488,3 +488,24 @@ body[data-slug="index"] .article-title {
     padding-bottom: 0;
   }
 }
+
+/* QOD map selection prompt */
+.qod-map-selection-prompt {
+  margin: 1rem 0 1.5rem;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: var(--light);
+  color: var(--darkgray);
+}
+
+.qod-map-selection-prompt strong,
+.qod-map-selection-prompt span {
+  display: block;
+}
+
+.qod-map-selection-prompt span {
+  margin-top: 0.3rem;
+  color: var(--gray);
+  font-size: 0.9rem;
+}

@@ -16,8 +16,14 @@
   const count =
     section.querySelector("#qod-map-count")
 
+  const filters =
+    section.querySelector(".qod-map-filters")
+
   const desktop =
     section.querySelector(".qod-map-desktop")
+
+  const mobile =
+    section.querySelector(".qod-map-mobile")
 
   const canvas =
     desktop?.querySelector(".qod-map-canvas")
@@ -43,6 +49,9 @@
   if (
     !courseSelect ||
     !topicSelect ||
+    !filters ||
+    !desktop ||
+    !mobile ||
     !canvas ||
     !svg ||
     desktopNodes.length === 0
@@ -51,74 +60,80 @@
   }
 
   // ----------------------------------------------------------
-  // Preserve original full-map geometry
+  // Intro prompt shown instead of the 443-node full map
   // ----------------------------------------------------------
 
-  desktopNodes.forEach((node) => {
-    node.dataset.originalLeft =
-      node.style.left
+  const prompt =
+    document.createElement("div")
 
-    node.dataset.originalTop =
-      node.style.top
-  })
+  prompt.className =
+    "qod-map-selection-prompt"
 
-  edges.forEach((edge) => {
-    edge.dataset.originalPoints =
-      edge.getAttribute("points") || ""
-  })
+  prompt.innerHTML = `
+    <strong>Choose a course, a topic, or both to explore the QOD Learning Map.</strong>
+    <span>The complete bank currently contains ${desktopNodes.length} Questions of the Day.</span>
+  `
 
-  const originalCanvasWidth =
-    canvas.style.width
-
-  const originalCanvasHeight =
-    canvas.style.height
-
-  const originalCanvasMinWidth =
-    canvas.style.minWidth
-
-  const originalSvgWidth =
-    svg.getAttribute("width")
-
-  const originalSvgHeight =
-    svg.getAttribute("height")
-
-  const originalViewBox =
-    svg.getAttribute("viewBox")
+  filters.insertAdjacentElement(
+    "afterend",
+    prompt
+  )
 
   // ----------------------------------------------------------
-  // Build Course and Topic choices automatically
+  // Metadata helpers
   // ----------------------------------------------------------
 
-  const courses = new Set()
-  const topics = new Set()
+  const coursesFor = (node) =>
+    (node.dataset.qodCourses || "")
+      .split("|")
+      .filter(Boolean)
 
-  desktopNodes.forEach((node) => {
-    const nodeCourses =
-      (node.dataset.qodCourses || "")
-        .split("|")
+  const topicFor = (node) =>
+    node.dataset.qodTopic || ""
+
+  const allCourses = [
+    ...new Set(
+      desktopNodes.flatMap(coursesFor)
+    ),
+  ].sort((a, b) =>
+    a.localeCompare(
+      b,
+      undefined,
+      { numeric: true }
+    )
+  )
+
+  const topicsForCourse = (course) => [
+    ...new Set(
+      desktopNodes
+        .filter(
+          (node) =>
+            !course ||
+            coursesFor(node).includes(course)
+        )
+        .map(topicFor)
         .filter(Boolean)
+    ),
+  ].sort((a, b) =>
+    a.localeCompare(b)
+  )
 
-    nodeCourses.forEach((course) =>
-      courses.add(course)
-    )
+  // ----------------------------------------------------------
+  // Rebuild dropdowns from actual QOD metadata
+  // ----------------------------------------------------------
 
-    const topic =
-      node.dataset.qodTopic || ""
+  const fillCourseOptions = () => {
+    courseSelect.innerHTML = ""
 
-    if (topic) {
-      topics.add(topic)
-    }
-  })
+    const all =
+      document.createElement("option")
 
-  ;[...courses]
-    .sort((a, b) =>
-      a.localeCompare(
-        b,
-        undefined,
-        { numeric: true }
-      )
-    )
-    .forEach((course) => {
+    all.value = ""
+    all.textContent = "All Courses"
+
+    courseSelect.appendChild(all)
+
+    allCourses.forEach((course) => {
       const option =
         document.createElement("option")
 
@@ -127,12 +142,26 @@
 
       courseSelect.appendChild(option)
     })
+  }
 
-  ;[...topics]
-    .sort((a, b) =>
-      a.localeCompare(b)
-    )
-    .forEach((topic) => {
+  const fillTopicOptions = (
+    course,
+    requestedTopic = ""
+  ) => {
+    const topics =
+      topicsForCourse(course)
+
+    topicSelect.innerHTML = ""
+
+    const all =
+      document.createElement("option")
+
+    all.value = ""
+    all.textContent = "All Topics"
+
+    topicSelect.appendChild(all)
+
+    topics.forEach((topic) => {
       const option =
         document.createElement("option")
 
@@ -142,200 +171,331 @@
       topicSelect.appendChild(option)
     })
 
+    if (topics.includes(requestedTopic)) {
+      topicSelect.value = requestedTopic
+    }
+  }
+
+  fillCourseOptions()
+  fillTopicOptions("")
+
   // ----------------------------------------------------------
-  // Matching
+  // Filtering
   // ----------------------------------------------------------
 
   const matches = (node, course, topic) => {
-    const nodeCourses =
-      (node.dataset.qodCourses || "")
-        .split("|")
-        .filter(Boolean)
-
-    const nodeTopic =
-      node.dataset.qodTopic || ""
-
     const courseMatch =
       !course ||
-      nodeCourses.includes(course)
+      coursesFor(node).includes(course)
 
     const topicMatch =
       !topic ||
-      nodeTopic === topic
+      topicFor(node) === topic
 
     return courseMatch && topicMatch
   }
 
   // ----------------------------------------------------------
-  // Restore original full desktop map
+  // Compact filtered desktop layout
   // ----------------------------------------------------------
 
-  const restoreDesktopLayout = () => {
-    desktopNodes.forEach((node) => {
-      node.style.left =
-        node.dataset.originalLeft
-
-      node.style.top =
-        node.dataset.originalTop
-    })
-
-    edges.forEach((edge) => {
-      edge.setAttribute(
-        "points",
-        edge.dataset.originalPoints || ""
-      )
-    })
-
-    canvas.style.width =
-      originalCanvasWidth
-
-    canvas.style.height =
-      originalCanvasHeight
-
-    canvas.style.minWidth =
-      originalCanvasMinWidth
-
-    if (originalSvgWidth) {
-      svg.setAttribute(
-        "width",
-        originalSvgWidth
-      )
-    }
-
-    if (originalSvgHeight) {
-      svg.setAttribute(
-        "height",
-        originalSvgHeight
-      )
-    }
-
-    if (originalViewBox) {
-      svg.setAttribute(
-        "viewBox",
-        originalViewBox
-      )
-    }
-  }
-
-  // ----------------------------------------------------------
-  // Compact the visible desktop QODs
-  //
-  // We retain their original left-to-right learning ranks,
-  // but remove empty space created by filtered-out QODs.
-  // ----------------------------------------------------------
-
-  const compactDesktopLayout =
-    (visibleNodes, visibleSlugs) => {
-
+  const layoutFilteredMap = (
+    visibleNodes
+  ) => {
     if (visibleNodes.length === 0) {
       return
     }
 
-    const PADDING = 24
-    const HORIZONTAL_GAP = 90
-    const VERTICAL_GAP = 28
+    const PADDING = 26
+    const H_GAP = 80
+    const V_GAP = 24
+    const STANDALONE_GAP = 60
+    const STANDALONE_COLUMNS = 3
 
-    const sample = visibleNodes[0]
+    const sample =
+      visibleNodes[0]
 
-    const nodeWidth =
+    const NODE_WIDTH =
       sample.offsetWidth || 220
 
-    const nodeHeight =
+    const NODE_HEIGHT =
       sample.offsetHeight || 82
 
-    // Group nodes by their original Dagre x-position.
-    const columns = new Map()
+    const visibleBySlug =
+      new Map(
+        visibleNodes.map((node) => [
+          node.dataset.qodSlug,
+          node,
+        ])
+      )
+
+    const visibleEdges =
+      edges.filter(
+        (edge) =>
+          visibleBySlug.has(
+            edge.dataset.source
+          ) &&
+          visibleBySlug.has(
+            edge.dataset.target
+          )
+      )
+
+    // --------------------------------------------------------
+    // Build prerequisite graph
+    // --------------------------------------------------------
+
+    const parents = new Map()
+    const children = new Map()
 
     visibleNodes.forEach((node) => {
-      const originalLeft =
-        parseFloat(
-          node.dataset.originalLeft || "0"
-        )
+      const slug =
+        node.dataset.qodSlug
 
-      // Dagre nodes in the same rank share essentially
-      // the same horizontal position.
-      const key =
-        Math.round(originalLeft / 10) * 10
-
-      if (!columns.has(key)) {
-        columns.set(key, [])
-      }
-
-      columns.get(key).push(node)
+      parents.set(slug, [])
+      children.set(slug, [])
     })
 
-    const orderedColumns =
-      [...columns.entries()]
-        .sort((a, b) => a[0] - b[0])
+    visibleEdges.forEach((edge) => {
+      parents
+        .get(edge.dataset.target)
+        .push(edge.dataset.source)
 
-    let maximumRows = 1
+      children
+        .get(edge.dataset.source)
+        .push(edge.dataset.target)
+    })
 
-    orderedColumns.forEach(
-      ([, nodes], columnIndex) => {
+    const connected =
+      new Set()
 
-        nodes.sort((a, b) => {
-          const aTop =
-            parseFloat(
-              a.dataset.originalTop || "0"
-            )
+    visibleEdges.forEach((edge) => {
+      connected.add(edge.dataset.source)
+      connected.add(edge.dataset.target)
+    })
 
-          const bTop =
-            parseFloat(
-              b.dataset.originalTop || "0"
-            )
+    // --------------------------------------------------------
+    // Compute prerequisite depth for connected nodes
+    // --------------------------------------------------------
 
-          return aTop - bTop
-        })
+    const levelMemo =
+      new Map()
 
-        maximumRows =
-          Math.max(
-            maximumRows,
-            nodes.length
+    const getLevel = (
+      slug,
+      visiting = new Set()
+    ) => {
+      if (levelMemo.has(slug)) {
+        return levelMemo.get(slug)
+      }
+
+      if (visiting.has(slug)) {
+        return 0
+      }
+
+      const next =
+        new Set(visiting)
+
+      next.add(slug)
+
+      const nodeParents =
+        (parents.get(slug) || [])
+          .filter((parent) =>
+            connected.has(parent)
           )
+
+      const level =
+        nodeParents.length === 0
+          ? 0
+          : Math.max(
+              ...nodeParents.map(
+                (parent) =>
+                  getLevel(parent, next) + 1
+              )
+            )
+
+      levelMemo.set(slug, level)
+
+      return level
+    }
+
+    const columns =
+      new Map()
+
+    visibleNodes
+      .filter((node) =>
+        connected.has(
+          node.dataset.qodSlug
+        )
+      )
+      .forEach((node) => {
+        const level =
+          getLevel(
+            node.dataset.qodSlug
+          )
+
+        if (!columns.has(level)) {
+          columns.set(level, [])
+        }
+
+        columns.get(level).push(node)
+      })
+
+    const orderedLevels = [
+      ...columns.keys(),
+    ].sort((a, b) => a - b)
+
+    let connectedHeight = 0
+    let connectedWidth = 0
+
+    orderedLevels.forEach(
+      (level, columnIndex) => {
+        const nodes =
+          columns.get(level)
+
+        nodes.sort((a, b) =>
+          a.textContent.localeCompare(
+            b.textContent
+          )
+        )
 
         nodes.forEach(
           (node, rowIndex) => {
-
-            const left =
-              PADDING +
-              columnIndex *
-                (nodeWidth + HORIZONTAL_GAP)
-
-            const top =
-              PADDING +
-              rowIndex *
-                (nodeHeight + VERTICAL_GAP)
-
             node.style.left =
-              `${left}px`
+              `${
+                PADDING +
+                columnIndex *
+                  (NODE_WIDTH + H_GAP)
+              }px`
 
             node.style.top =
-              `${top}px`
+              `${
+                PADDING +
+                rowIndex *
+                  (NODE_HEIGHT + V_GAP)
+              }px`
           }
         )
+
+        connectedHeight =
+          Math.max(
+            connectedHeight,
+            PADDING +
+              nodes.length *
+                (NODE_HEIGHT + V_GAP)
+          )
+
+        connectedWidth =
+          Math.max(
+            connectedWidth,
+            PADDING +
+              (columnIndex + 1) *
+                NODE_WIDTH +
+              columnIndex *
+                H_GAP
+          )
       }
     )
 
+    // --------------------------------------------------------
+    // Pack disconnected QODs into a grid
+    // --------------------------------------------------------
+
+    const standalone =
+      visibleNodes
+        .filter(
+          (node) =>
+            !connected.has(
+              node.dataset.qodSlug
+            )
+        )
+        .sort((a, b) =>
+          a.textContent.localeCompare(
+            b.textContent
+          )
+        )
+
+    const standaloneStartY =
+      connected.size > 0
+        ? connectedHeight +
+          STANDALONE_GAP
+        : PADDING
+
+    standalone.forEach(
+      (node, index) => {
+        const column =
+          index % STANDALONE_COLUMNS
+
+        const row =
+          Math.floor(
+            index /
+              STANDALONE_COLUMNS
+          )
+
+        node.style.left =
+          `${
+            PADDING +
+            column *
+              (NODE_WIDTH + H_GAP)
+          }px`
+
+        node.style.top =
+          `${
+            standaloneStartY +
+            row *
+              (NODE_HEIGHT + V_GAP)
+          }px`
+      }
+    )
+
+    const standaloneRows =
+      Math.ceil(
+        standalone.length /
+          STANDALONE_COLUMNS
+      )
+
+    const standaloneWidth =
+      standalone.length > 0
+        ? PADDING +
+          Math.min(
+            STANDALONE_COLUMNS,
+            standalone.length
+          ) *
+            NODE_WIDTH +
+          Math.max(
+            0,
+            Math.min(
+              STANDALONE_COLUMNS,
+              standalone.length
+            ) - 1
+          ) *
+            H_GAP
+        : 0
+
+    const standaloneHeight =
+      standalone.length > 0
+        ? standaloneStartY +
+          standaloneRows *
+            NODE_HEIGHT +
+          Math.max(
+            0,
+            standaloneRows - 1
+          ) *
+            V_GAP +
+          PADDING
+        : 0
+
     const canvasWidth =
       Math.max(
-        320,
-        PADDING * 2 +
-        orderedColumns.length * nodeWidth +
-        Math.max(
-          0,
-          orderedColumns.length - 1
-        ) * HORIZONTAL_GAP
+        360,
+        connectedWidth + PADDING,
+        standaloneWidth + PADDING
       )
 
     const canvasHeight =
       Math.max(
         180,
-        PADDING * 2 +
-        maximumRows * nodeHeight +
-        Math.max(
-          0,
-          maximumRows - 1
-        ) * VERTICAL_GAP
+        connectedHeight + PADDING,
+        standaloneHeight
       )
 
     canvas.style.width =
@@ -362,23 +522,18 @@
       `0 0 ${canvasWidth} ${canvasHeight}`
     )
 
-    // Redraw visible prerequisite arrows using the
-    // newly compacted node positions.
-    const nodesBySlug = new Map(
-      visibleNodes.map((node) => [
-        node.dataset.qodSlug,
-        node,
-      ])
-    )
+    // --------------------------------------------------------
+    // Redraw prerequisite arrows
+    // --------------------------------------------------------
 
     edges.forEach((edge) => {
       const source =
-        nodesBySlug.get(
+        visibleBySlug.get(
           edge.dataset.source
         )
 
       const target =
-        nodesBySlug.get(
+        visibleBySlug.get(
           edge.dataset.target
         )
 
@@ -390,37 +545,38 @@
       edge.style.display = ""
 
       const sourceLeft =
-        parseFloat(source.style.left)
+        parseFloat(
+          source.style.left
+        )
 
       const sourceTop =
-        parseFloat(source.style.top)
+        parseFloat(
+          source.style.top
+        )
 
       const targetLeft =
-        parseFloat(target.style.left)
+        parseFloat(
+          target.style.left
+        )
 
       const targetTop =
-        parseFloat(target.style.top)
-
-      const sourceWidth =
-        source.offsetWidth || nodeWidth
-
-      const sourceHeight =
-        source.offsetHeight || nodeHeight
-
-      const targetHeight =
-        target.offsetHeight || nodeHeight
+        parseFloat(
+          target.style.top
+        )
 
       const startX =
-        sourceLeft + sourceWidth
+        sourceLeft + NODE_WIDTH
 
       const startY =
-        sourceTop + sourceHeight / 2
+        sourceTop +
+        NODE_HEIGHT / 2
 
       const endX =
         targetLeft
 
       const endY =
-        targetTop + targetHeight / 2
+        targetTop +
+        NODE_HEIGHT / 2
 
       const middleX =
         startX +
@@ -444,7 +600,7 @@
   }
 
   // ----------------------------------------------------------
-  // Apply filters
+  // Apply course/topic selection
   // ----------------------------------------------------------
 
   const applyFilters = () => {
@@ -457,42 +613,61 @@
     const filtering =
       Boolean(course || topic)
 
-    restoreDesktopLayout()
+    if (!filtering) {
+      desktop.hidden = true
+      mobile.hidden = true
+      prompt.hidden = false
+
+      desktopNodes.forEach(
+        (node) => {
+          node.hidden = false
+        }
+      )
+
+      edges.forEach(
+        (edge) => {
+          edge.style.display = ""
+        }
+      )
+
+      count.textContent =
+        `${desktopNodes.length} QODs`
+
+      resetButton.disabled = true
+
+      return
+    }
+
+    prompt.hidden = true
+    desktop.hidden = false
+    mobile.hidden = false
+    resetButton.disabled = false
 
     const visibleNodes = []
-    const visibleSlugs = new Set()
     const visibleUrls = new Set()
 
     desktopNodes.forEach((node) => {
       const visible =
-        matches(node, course, topic)
+        matches(
+          node,
+          course,
+          topic
+        )
 
       node.hidden = !visible
 
       if (visible) {
         visibleNodes.push(node)
-
-        visibleSlugs.add(
-          node.dataset.qodSlug
-        )
-
         visibleUrls.add(node.href)
       }
     })
 
-    if (filtering) {
-      compactDesktopLayout(
-        visibleNodes,
-        visibleSlugs
-      )
-    } else {
-      edges.forEach((edge) => {
-        edge.style.display = ""
-      })
-    }
+    layoutFilteredMap(
+      visibleNodes
+    )
 
     // --------------------------------------------------------
-    // Mobile map
+    // Mobile filtering
     // --------------------------------------------------------
 
     const mobileNodes = [
@@ -503,7 +678,11 @@
 
     mobileNodes.forEach((node) => {
       node.hidden =
-        !matches(node, course, topic)
+        !matches(
+          node,
+          course,
+          topic
+        )
     })
 
     ;[
@@ -513,12 +692,10 @@
     ]
       .reverse()
       .forEach((branch) => {
-        const visible =
-          branch.querySelector(
+        branch.hidden =
+          !branch.querySelector(
             ".qod-mobile-path-node:not([hidden])"
           )
-
-        branch.hidden = !visible
       })
 
     section
@@ -526,12 +703,10 @@
         ".qod-mobile-tree"
       )
       .forEach((tree) => {
-        const visible =
-          tree.querySelector(
+        tree.hidden =
+          !tree.querySelector(
             ".qod-mobile-path-node:not([hidden])"
           )
-
-        tree.hidden = !visible
       })
 
     section
@@ -540,7 +715,9 @@
       )
       .forEach((link) => {
         link.hidden =
-          !visibleUrls.has(link.href)
+          !visibleUrls.has(
+            link.href
+          )
       })
 
     section
@@ -548,12 +725,10 @@
         ".qod-mobile-related"
       )
       .forEach((box) => {
-        const visible =
-          box.querySelector(
+        box.hidden =
+          !box.querySelector(
             ".qod-mobile-related-link:not([hidden])"
           )
-
-        box.hidden = !visible
       })
 
     section
@@ -561,7 +736,7 @@
         ".qod-mobile-extra-prerequisite"
       )
       .forEach((note) => {
-        note.hidden = filtering
+        note.hidden = true
       })
 
     section
@@ -587,27 +762,32 @@
         }
       })
 
-    // --------------------------------------------------------
-    // Counter / reset state
-    // --------------------------------------------------------
-
     const total =
-      visibleSlugs.size
+      visibleNodes.length
 
-    if (count) {
-      count.textContent =
-        `${total} QOD${total === 1 ? "" : "s"}`
-    }
-
-    if (resetButton) {
-      resetButton.disabled =
-        !filtering
-    }
+    count.textContent =
+      `${total} QOD${
+        total === 1 ? "" : "s"
+      }`
   }
+
+  // ----------------------------------------------------------
+  // Events
+  // ----------------------------------------------------------
 
   courseSelect.addEventListener(
     "change",
-    applyFilters
+    () => {
+      const oldTopic =
+        topicSelect.value
+
+      fillTopicOptions(
+        courseSelect.value,
+        oldTopic
+      )
+
+      applyFilters()
+    }
   )
 
   topicSelect.addEventListener(
@@ -615,16 +795,18 @@
     applyFilters
   )
 
-  if (resetButton) {
-    resetButton.addEventListener(
-      "click",
-      () => {
-        courseSelect.value = ""
-        topicSelect.value = ""
-        applyFilters()
-      }
-    )
-  }
+  resetButton.addEventListener(
+    "click",
+    () => {
+      courseSelect.value = ""
+
+      fillTopicOptions("")
+
+      topicSelect.value = ""
+
+      applyFilters()
+    }
+  )
 
   applyFilters()
 })()
