@@ -4,6 +4,8 @@ publish: true
 type: qod-topic
 ---
 
+<div class="qod-topic-page-marker"></div>
+
 > [!info] Practice this topic
 > **1 Question of the Day** · **Courses:** Math 30-2
 >
