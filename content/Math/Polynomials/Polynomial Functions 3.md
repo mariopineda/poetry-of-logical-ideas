@@ -5,6 +5,13 @@ courses:
   - "Math 10C"
 topic: "Polynomial Functions"
 show_solution: false
+prerequisites:
+  - "[[Function Transformations 1]]"
+  - "[[Factoring Polynomials 1]]"
+related:
+  - "[[Polynomial Functions 2]]"
+  - "[[Polynomial Functions 4]]"
+  - "[[Completing the Square 1]]"
 ---
 
 ## Question

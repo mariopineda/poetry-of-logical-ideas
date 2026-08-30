@@ -5,6 +5,11 @@ courses:
   - "Math 31"
 topic: "Definite Integrals"
 show_solution: false
+prerequisites:
+  - "[[Antiderivative 1]]"
+related:
+  - "[[Area Between Curves 1]]"
+  - "[[Area Under and Between Curves 1]]"
 ---
 
 ## Question

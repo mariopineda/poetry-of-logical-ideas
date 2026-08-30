@@ -5,6 +5,10 @@ courses:
   - "Math 31"
 topic: "Antiderivatives"
 show_solution: false
+prerequisites:
+  - "[[Basic Derivatives 1]]"
+related:
+  - "[[Antiderivative 2]]"
 ---
 
 ## Question

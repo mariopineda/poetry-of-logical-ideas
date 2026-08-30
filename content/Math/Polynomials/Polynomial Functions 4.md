@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,12 @@ courses:
 topic: "Polynomial Functions"
 show_solution: false
 prerequisites:
-  - "[[Polynomial Functions 2]]"
+  - "[[Function Transformations 1]]"
+  - "[[Factoring Polynomials 1]]"
+related:
+  - "[[Polynomial Functions 3]]"
+  - "[[Polynomial Functions 5]]"
+  - "[[Completing the Square 1]]"
 ---
 
 ## Question
@@ -16,5 +21,4 @@ Use the chart below to summarize how the sign pf the leading coefficient and deg
 ![[Polynomial Functions 4.png .png]]
 
 ## Solution
-
 

@@ -5,6 +5,11 @@ courses:
   - "Math 20-1"
 topic: "Radicals"
 show_solution: false
+prerequisites:
+  - "[[Exponent Laws 1]]"
+related:
+  - "[[Radical Equations 1]]"
+  - "[[Radicals 2]]"
 ---
 
 ## Question

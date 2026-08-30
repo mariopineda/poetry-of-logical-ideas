@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -19,6 +19,4 @@ On the surface of the moon, the acceleration due to gravity is 1.6 m/s$^2$ downw
 2. its velocity when it hits the moon's surface
 
 ## Solution
-
-
 

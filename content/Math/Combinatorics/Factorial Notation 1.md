@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,8 @@ courses:
 topic: "Factorial Notation"
 show_solution: false
 prerequisites:
-  - "[[Permutations 4]]"
+  - "[[Fundamental Counting Principle 1]]"
+related: []
 ---
 
 ## Question
@@ -45,4 +46,3 @@ n^2+n - 6 & = 0 \\\\
 n = -3, n=2
 \end{align*}
 $$
-

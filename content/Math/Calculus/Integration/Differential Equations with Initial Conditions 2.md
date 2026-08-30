@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,6 +7,9 @@ topic: "Differential Equations"
 show_solution: false
 prerequisites:
   - "[[Antiderivative 1]]"
+related:
+  - "[[Differential Equations with Initial Conditions 1]]"
+  - "[[Differential Equations with Initial Conditions 3]]"
 ---
 
 ## Question
@@ -17,8 +20,8 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 
 > [!info]- Hint 
 > **Initial conditions **:
->  - Initial velocity ($v_0$â€‹) = 8 m/s (upward)
->  - Height of the cliff ($â„Ž_0$â€‹) = 63 m
+>  - Initial velocity ($v_0$​) = 8 m/s (upward)
+>  - Height of the cliff ($ℎ_0$​) = 63 m
 >  - Acceleration due to gravity = -9.8 m/s$^2$ (downward)
 
 ## Solution
@@ -61,5 +64,3 @@ $$
 t = \frac{-8 - \sqrt{8^2-4(-4.9)(63)}}{-9.8} = 4.49
 $$
 Because the negative root has no physical significance in this problem, we see that about 4.5 s after being tossed up the stone hits the ground.
-
-

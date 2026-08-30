@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,9 @@ courses:
 topic: "Permutations"
 show_solution: false
 prerequisites:
-  - "[[Permutations 1]]"
+  - "[[Factorial Notation 1]]"
+related:
+  - "[[Permutations 5]]"
 ---
 
 ## Question
@@ -19,6 +21,4 @@ a) there are 2 Canadians, 1 Swedish, 1 German, 1 South African and 3 runners fro
 b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runners.
 
 ## Solution
-
-
 

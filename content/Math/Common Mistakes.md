@@ -3,8 +3,6 @@ title: "Common Mistakes"
 publish: true
 ---
 
-# Common Mistakes
-
 These are mistakes that come up again and again in mathematics. Most are not caused by difficult mathematics. They happen because a rule is being used in the wrong place, a step is being skipped, or the answer is not being checked.
 
 Use this page as a quick reference when something in your work does not look right.

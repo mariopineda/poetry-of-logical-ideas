@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,8 +7,9 @@ courses:
 topic: "Permutations"
 show_solution: false
 prerequisites:
-  - "[[Permutations with Repetition 1]]"
+  - "[[Factorial Notation 1]]"
 related:
+  - "[[Permutations 1]]"
   - "[[Permutations 3]]"
 ---
 
@@ -18,6 +19,4 @@ Using permutations, determine the number of pathways from the red to the green p
 ![[Pathway Problems.png]]
 
 ## Solution
-
-
 

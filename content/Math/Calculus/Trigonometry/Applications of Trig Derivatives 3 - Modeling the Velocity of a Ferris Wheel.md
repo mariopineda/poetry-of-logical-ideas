@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,10 @@ courses:
 topic: "Related Rates"
 show_solution: false
 prerequisites:
-  - "[[Derivative of Trigonometric Functions 2d]]"
+  - "[[Implicit Differentiation 1]]"
+related:
+  - "[[Applications of Trig Derivatives 2]]"
+  - "[[Related Rates 1]]"
 ---
 
 ## Question
@@ -60,4 +63,3 @@ $$
    h'(10) = \frac{4\pi}{3} \cdot -\frac{1}{2} = -\frac{2\pi}{3} \text{ meters per second}
 $$
 Therefore, the passenger's velocity at $t = 10$ seconds is approximately $-2.09$ meters per second, indicating that they are moving downwards.
-

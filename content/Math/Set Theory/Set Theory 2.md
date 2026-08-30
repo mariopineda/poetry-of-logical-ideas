@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,11 @@ courses:
 topic: "Set Theory"
 show_solution: false
 prerequisites:
+  - "[[Puzzles & Games 1]]"
+related:
   - "[[Set Theory 1]]"
+  - "[[Set Theory 3]]"
+  - "[[Puzzles & Games 1]]"
 ---
 
 ## Question
@@ -40,4 +44,3 @@ Consider the following sets
 ## Solution
 
 ...
-

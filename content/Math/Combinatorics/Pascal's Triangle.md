@@ -5,6 +5,9 @@ courses:
   - "Math 30-1"
 topic: "Pascal's Triangle"
 show_solution: false
+prerequisites:
+  - "[[Combinations 1]]"
+related: []
 ---
 
 ## Question

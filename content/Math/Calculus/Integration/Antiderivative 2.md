@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,6 +6,8 @@ courses:
 topic: "Antiderivatives"
 show_solution: false
 prerequisites:
+  - "[[Basic Derivatives 1]]"
+related:
   - "[[Antiderivative 1]]"
 ---
 
@@ -62,5 +64,3 @@ $$
  = & \frac{2}{21} (7x + 4)^{3/2} + C
 \end{align*}
 $$
-
-

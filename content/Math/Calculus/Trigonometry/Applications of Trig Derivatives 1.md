@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,10 @@ courses:
 topic: "Related Rates"
 show_solution: false
 prerequisites:
-  - "[[Derivative of Trigonometric Functions 2d]]"
+  - "[[Implicit Differentiation 1]]"
+related:
+  - "[[Applications of Derivatives 1 - Shadow Length of a Moving Object]]"
+  - "[[Applications of Trig Derivatives 2]]"
 ---
 
 ## Question
@@ -45,4 +48,3 @@ $$
 \frac{dx}{dt} = 630\pi \left[\left(\frac{\displaystyle 425}{\displaystyle 315}\right)^2 +1\right] = 5582 \mbox{m}/\mbox{min}
 $$
 Thus when the beam is 425 m from point R it is sweeping along the shore at at approximately 5580 m/min.
-

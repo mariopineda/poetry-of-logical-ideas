@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,10 @@ courses:
 topic: "Permutations"
 show_solution: false
 prerequisites:
-  - "[[Permutations 1]]"
+  - "[[Factorial Notation 1]]"
+related:
+  - "[[Permutations 3]]"
+  - "[[Permutations 5]]"
 ---
 
 ## Question
@@ -15,5 +18,4 @@ prerequisites:
 Using the permutation formula, simplify $_nP_2$.
 
 ## Solution
-
 

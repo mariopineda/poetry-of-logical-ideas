@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -8,7 +8,7 @@ courses:
 topic: "Exponential Growth and Decay"
 show_solution: false
 prerequisites:
-  - "[[Exponent Laws 1]]"
+  - "[[Exponential Equations]]"
 related:
   - "[[Radioactive Decay]]"
 ---
@@ -29,4 +29,3 @@ $i=\frac{\displaystyle 0.09}{\displaystyle 12}=0.0075$
 
 
 2. ,,,
-

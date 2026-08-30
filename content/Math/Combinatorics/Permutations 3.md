@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,10 @@ courses:
 topic: "Permutations"
 show_solution: false
 prerequisites:
-  - "[[Pascal's Triangle]]"
+  - "[[Factorial Notation 1]]"
+related:
+  - "[[Permutations 2]]"
+  - "[[Permutations 4]]"
 ---
 
 ## Question
@@ -16,6 +19,4 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 ![[Pathway Problems.png]]
 
 ## Solution
-
-
 

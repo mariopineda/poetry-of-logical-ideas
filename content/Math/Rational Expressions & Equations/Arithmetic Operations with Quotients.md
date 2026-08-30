@@ -6,6 +6,12 @@ courses:
   - "Math 30-2"
 topic: "Rational Expressions"
 show_solution: false
+prerequisites:
+  - "[[Factoring Polynomials 1]]"
+related:
+  - "[[Adding and Subtracting Rational Expressions 5]]"
+  - "[[Evaluating Rational Expressions 1]]"
+  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question

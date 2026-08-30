@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,8 +7,10 @@ courses:
 topic: "Combinations"
 show_solution: false
 prerequisites:
+  - "[[Permutations 1]]"
+related:
   - "[[Combinations 1]]"
-  - "[[Factorial Notation 1]]"
+  - "[[Combinations 3]]"
 ---
 
 ## Question
@@ -43,4 +45,3 @@ n+1 = 8
 n = 7
 $$
 Thus, the solution to the equation $\binom{n}{7} = \binom{n+1}{8}$ is $n = 7$.
-

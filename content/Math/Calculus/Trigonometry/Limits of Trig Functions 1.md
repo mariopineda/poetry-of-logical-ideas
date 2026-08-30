@@ -5,6 +5,10 @@ courses:
   - "Math 31"
 topic: "Limits"
 show_solution: false
+prerequisites:
+  - "[[Properties of Functions 1]]"
+related:
+  - "[[Limits 15]]"
 ---
 
 ## Question

@@ -5,6 +5,10 @@ courses:
   - "Math 31"
 topic: "Optimization"
 show_solution: false
+prerequisites:
+  - "[[Derivatives 1]]"
+related:
+  - "[[Optimization 1]]"
 ---
 
 ## Question

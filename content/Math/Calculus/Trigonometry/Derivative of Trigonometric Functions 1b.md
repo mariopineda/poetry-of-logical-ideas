@@ -5,6 +5,12 @@ courses:
   - "Math 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
+prerequisites:
+  - "[[Chain Rule 1]]"
+  - "[[Angular Measure 1]]"
+related:
+  - "[[Derivative of Trigonometric Functions 1a]]"
+  - "[[Derivative of Trigonometric Functions 2a]]"
 ---
 
 ## Question

@@ -5,6 +5,10 @@ courses:
   - "Math 10C"
 topic: "Exponent Laws"
 show_solution: false
+prerequisites:
+  - "[[Algebraic Expressions 1]]"
+related:
+  - "[[Exponent Laws 2]]"
 ---
 
 ## Question

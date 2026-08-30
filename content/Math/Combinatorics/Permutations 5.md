@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,10 @@ courses:
 topic: "Permutations"
 show_solution: false
 prerequisites:
-  - "[[Permutations 1]]"
+  - "[[Factorial Notation 1]]"
+related:
+  - "[[Permutations 4]]"
+  - "[[Permutations with Repetition 1]]"
 ---
 
 ## Question
@@ -21,5 +24,4 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 >...
 
 ## Solution
-
 

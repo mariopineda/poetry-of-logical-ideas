@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,6 +7,9 @@ courses:
 topic: "Rational Equations"
 show_solution: false
 prerequisites:
+  - "[[Arithmetic Operations with Quotients]]"
+related:
+  - "[[Solving Rational Equations 2]]"
   - "[[Arithmetic Operations with Quotients]]"
 ---
 
@@ -24,4 +27,3 @@ $$x^2-9x+18=0$$
 $$(x-3)(x-6)=0$$
 $$x=3, 6, x\neq\pm3$$
 $$x=3 \text{ is an extraneous root, so the only valid solution is } x=6, x\neq\pm3$$
-

@@ -6,6 +6,10 @@ courses:
   - "Math 30-1"
 topic: "Domain and Range"
 show_solution: false
+prerequisites:
+  - "[[Representing Relations 1]]"
+related:
+  - "[[Domain & Range 2]]"
 ---
 
 ## Question

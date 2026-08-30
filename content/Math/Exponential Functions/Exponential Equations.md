@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -8,6 +8,9 @@ topic: "Exponential Equations"
 show_solution: false
 prerequisites:
   - "[[Exponent Laws 1]]"
+related:
+  - "[[Exponential Equations 2]]"
+  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -24,7 +27,7 @@ Solve for $x$:
 > [!info]- Related Practice Problems 
 >...
 
-Links leading hereâ€¦ (automatically generated)
+Links leading here… (automatically generated)
  
 <div style="page-break-after: always;"></div>
 
@@ -34,4 +37,3 @@ Links leading hereâ€¦ (automatically generated)
 ## Solution
 
 ...
-

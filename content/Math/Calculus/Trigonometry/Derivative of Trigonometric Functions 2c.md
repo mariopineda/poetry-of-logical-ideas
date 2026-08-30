@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,11 @@ courses:
 topic: "Trigonometric Derivatives"
 show_solution: false
 prerequisites:
+  - "[[Chain Rule 1]]"
+  - "[[Angular Measure 1]]"
+related:
   - "[[Derivative of Trigonometric Functions 2b]]"
+  - "[[Derivative of Trigonometric Functions 2d]]"
 ---
 
 ## Question
@@ -32,4 +36,3 @@ Therefore, the 101st derivative of $\sin(7x)$ with respect to $x$ will be:
 $$
 \frac{d^{101}}{dx^{101}}[\sin(7x)] = (-7)^{101}\sin(7x) = -7^{101}\sin(7x)
  $$
-

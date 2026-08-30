@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,9 @@ courses:
 topic: "Definite Integrals"
 show_solution: false
 prerequisites:
-  - "[[Definite Integrals 1]]"
+  - "[[Antiderivative 1]]"
+related:
+  - "[[Area under a curve - Method of Exhaustion]]"
 ---
 
 ## Question
@@ -54,5 +56,3 @@ _0A_1 & = H(1) - H(0) \\
 & = \frac{1}{3} \text{ units}^2
 \end{align*}
 $$
-
-

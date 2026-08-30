@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,10 @@ courses:
 topic: "Related Rates"
 show_solution: false
 prerequisites:
-  - "[[Derivative of Trigonometric Functions 2d]]"
+  - "[[Implicit Differentiation 1]]"
+related:
+  - "[[Applications of Trig Derivatives 1]]"
+  - "[[Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]"
 ---
 
 ## Question
@@ -63,4 +66,3 @@ $$
 $$
 The third side is increasing at the rate of $\frac{\displaystyle \pi\sqrt{39}}{\displaystyle 39} \mbox{m}/\mbox{s} \approx 0.50 \mbox{m}/\mbox{s}$
 %%
-

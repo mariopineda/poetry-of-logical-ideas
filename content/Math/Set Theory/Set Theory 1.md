@@ -5,6 +5,11 @@ courses:
   - "Math 30-2"
 topic: "Set Theory"
 show_solution: false
+prerequisites:
+  - "[[Puzzles & Games 1]]"
+related:
+  - "[[Set Theory 2]]"
+  - "[[Puzzles & Games 1]]"
 ---
 
 ## Question

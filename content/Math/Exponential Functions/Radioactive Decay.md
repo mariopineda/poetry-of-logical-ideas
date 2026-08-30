@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -8,6 +8,8 @@ topic: "Exponential Growth and Decay"
 show_solution: false
 prerequisites:
   - "[[Exponential Equations]]"
+related:
+  - "[[Exponential Growth - Finance]]"
 ---
 
 ## Question
@@ -16,13 +18,13 @@ prerequisites:
 
 In 1986, the Chernobyl nuclear disaster in Ukraine released large amounts of radioactive materials into the atmosphere. One of these isotopes, **cesium-137**, has a half-life of approximately 30 years, meaning that every 30 years, half of the cesium-137 decays into a non-radioactive element.
 
-Due to prevailing winds, radioactive materialsâ€”including cesium-137â€”were carried northward and deposited in various regions, including forests in Sweden and Finland. In one Swedish forest, the concentration of cesium-137 was measured at **1200 Bq/kg** (becquerels per kilogram) immediately following the disaster in 1986.
+Due to prevailing winds, radioactive materials—including cesium-137—were carried northward and deposited in various regions, including forests in Sweden and Finland. In one Swedish forest, the concentration of cesium-137 was measured at **1200 Bq/kg** (becquerels per kilogram) immediately following the disaster in 1986.
 
 Answer the following questions using exponential decay models:
 
 1. **Write an exponential decay function** for cesium-137 in the form
     
-    A(t)=A0â‹…btA(t) = A_0 \cdot b^t
+    A(t)=A0⋅btA(t) = A_0 \cdot b^t
     
     where:
     
@@ -42,13 +44,13 @@ Answer the following questions using exponential decay models:
 
 ### **Given:**
 
-- Initial amount: A0=1200â€‰Bq/kgA_0 = 1200 \, \text{Bq/kg}
+- Initial amount: A0=1200 Bq/kgA_0 = 1200 \, \text{Bq/kg}
     
-- Half-life of cesium-137: h=30â€‰yearsh = 30 \, \text{years}
+- Half-life of cesium-137: h=30 yearsh = 30 \, \text{years}
     
 - Exponential decay model:
     
-    A(t)=A0â‹…btA(t) = A_0 \cdot b^t
+    A(t)=A0⋅btA(t) = A_0 \cdot b^t
 
 ---
 
@@ -56,7 +58,7 @@ Answer the following questions using exponential decay models:
 
 We are modeling the amount of cesium-137 as:
 
-A(t)=1200â‹…btA(t) = 1200 \cdot b^t
+A(t)=1200⋅btA(t) = 1200 \cdot b^t
 
 ---
 
@@ -68,11 +70,11 @@ A(30)=A02A(30) = \frac{A_0}{2}
 
 Substitute into the equation:
 
-12A0=A0â‹…b30â‡’12=b30â‡’b=(12)130â‰ˆ0.9772\frac{1}{2}A_0 = A_0 \cdot b^{30} \Rightarrow \frac{1}{2} = b^{30} \Rightarrow b = \left(\frac{1}{2}\right)^{\frac{1}{30}} \approx 0.9772
+12A0=A0⋅b30⇒12=b30⇒b=(12)130≈0.9772\frac{1}{2}A_0 = A_0 \cdot b^{30} \Rightarrow \frac{1}{2} = b^{30} \Rightarrow b = \left(\frac{1}{2}\right)^{\frac{1}{30}} \approx 0.9772
 
-âœ… **Decay base:**
+✅ **Decay base:**
 
-bâ‰ˆ0.9772b \approx 0.9772
+b≈0.9772b \approx 0.9772
 
 ---
 
@@ -80,15 +82,15 @@ bâ‰ˆ0.9772b \approx 0.9772
 
 Time since 1986:
 
-t=2025âˆ’1986=39â€‰yearst = 2025 - 1986 = 39 \, \text{years}
+t=2025−1986=39 yearst = 2025 - 1986 = 39 \, \text{years}
 
 Use the model:
 
-A(39)=1200â‹…(0.9772)39A(39) = 1200 \cdot (0.9772)^{39} A(39)â‰ˆ1200â‹…0.3646â‰ˆ437.5A(39) \approx 1200 \cdot 0.3646 \approx 437.5
+A(39)=1200⋅(0.9772)39A(39) = 1200 \cdot (0.9772)^{39} A(39)≈1200⋅0.3646≈437.5A(39) \approx 1200 \cdot 0.3646 \approx 437.5
 
-âœ… **Cesium-137 concentration in 2025:**
+✅ **Cesium-137 concentration in 2025:**
 
-438â€‰Bq/kg(roundedÂ toÂ nearestÂ wholeÂ number)\boxed{438 \, \text{Bq/kg}} \quad (\text{rounded to nearest whole number})
+438 Bq/kg(rounded to nearest whole number)\boxed{438 \, \text{Bq/kg}} \quad (\text{rounded to nearest whole number})
 
 ---
 
@@ -96,13 +98,12 @@ A(39)=1200â‹…(0.9772)39A(39) = 1200 \cdot (0.9772)^{39} A(39)â‰ˆ1200â�
 
 Solve:
 
-1200â‹…(0.9772)t<100â‡’(0.9772)t<1001200=1121200 \cdot (0.9772)^t < 100 \Rightarrow (0.9772)^t < \frac{100}{1200} = \frac{1}{12}
+1200⋅(0.9772)t<100⇒(0.9772)t<1001200=1121200 \cdot (0.9772)^t < 100 \Rightarrow (0.9772)^t < \frac{100}{1200} = \frac{1}{12}
 
 Take logarithm of both sides:
 
-tâ‹…logâ¡(0.9772)<logâ¡(112)â‡’t>logâ¡(1/12)logâ¡(0.9772)t \cdot \log(0.9772) < \log\left(\frac{1}{12}\right) \Rightarrow t > \frac{\log(1/12)}{\log(0.9772)} t>âˆ’1.0792âˆ’0.0100â‰ˆ107.9t > \frac{-1.0792}{-0.0100} \approx 107.9
+t⋅log⁡(0.9772)<log⁡(112)⇒t>log⁡(1/12)log⁡(0.9772)t \cdot \log(0.9772) < \log\left(\frac{1}{12}\right) \Rightarrow t > \frac{\log(1/12)}{\log(0.9772)} t>−1.0792−0.0100≈107.9t > \frac{-1.0792}{-0.0100} \approx 107.9
 
-âœ… **Years until concentration drops below 100 Bq/kg:**
+✅ **Years until concentration drops below 100 Bq/kg:**
 
-108â€‰yearsÂ afterÂ 1986or2094\boxed{108 \, \text{years after 1986}} \quad \text{or} \quad \boxed{2094}
-
+108 years after 1986or2094\boxed{108 \, \text{years after 1986}} \quad \text{or} \quad \boxed{2094}

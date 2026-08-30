@@ -6,6 +6,10 @@ courses:
   - "Math 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
+prerequisites: []
+related:
+  - "[[Fundamental Counting Principle 3]]"
+  - "[[Fundamental Counting Principle 5]]"
 ---
 
 ## Question
