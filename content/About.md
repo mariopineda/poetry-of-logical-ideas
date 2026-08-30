@@ -9,11 +9,6 @@ tags:
 aliases:
   - About The Osculatorium
 ---
-
-# About The Osculatorium
-
-> **Where Mathematical Ideas Meet**
-
 Welcome to **The Osculatorium** — a place for exploring mathematics, solving problems, and discovering how mathematical ideas connect.
 
 ## What is this?
