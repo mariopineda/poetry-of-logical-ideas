@@ -15,12 +15,12 @@ Practice questions for **Right Triangle Trigonometry**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1.|Right Triangle Trigonometry 1]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2.|Right Triangle Trigonometry 2]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3.|Right Triangle Trigonometry 3]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4.|Right Triangle Trigonometry 4]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5.|Right Triangle Trigonometry 5]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6.|Right Triangle Trigonometry 6]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7.|Right Triangle Trigonometry 7]] | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8.|Right Triangle Trigonometry 8]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1.\|Right Triangle Trigonometry 1]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2.\|Right Triangle Trigonometry 2]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3.\|Right Triangle Trigonometry 3]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4.\|Right Triangle Trigonometry 4]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5.\|Right Triangle Trigonometry 5]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6.\|Right Triangle Trigonometry 6]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7.\|Right Triangle Trigonometry 7]] | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8.\|Right Triangle Trigonometry 8]] | Math 10-3, Math 10C |
 

@@ -15,7 +15,7 @@ Practice questions for **Set Theory**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Set Theory/Set Theory 1.|Set Theory 1]] | Math 30-2 |
-| [[Math/Set Theory/Set Theory 2.|Set Theory 2]] | Math 30-2 |
-| [[Math/Set Theory/Set Theory 3.|Set Theory 3]] | Math 30-2 |
+| [[Math/Set Theory/Set Theory 1.\|Set Theory 1]] | Math 30-2 |
+| [[Math/Set Theory/Set Theory 2.\|Set Theory 2]] | Math 30-2 |
+| [[Math/Set Theory/Set Theory 3.\|Set Theory 3]] | Math 30-2 |
 

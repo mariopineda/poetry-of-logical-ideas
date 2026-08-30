@@ -15,8 +15,8 @@ Practice questions for **Trigonometry**.
 
 | Subtopic | Questions | Courses |
 | --- | ---: | --- |
-| [[Math/Trigonometry/Oblique Triangle Trigonometry/index|Oblique Triangle Trigonometry]] | 5 | Math 20-1, Math 20-2, Math 30-3 |
-| [[Math/Trigonometry/Right Triangle Trigonometry/index|Right Triangle Trigonometry]] | 8 | Math 10-3, Math 10C |
-| [[Math/Trigonometry/Sinusoidal Functions/index|Sinusoidal Functions]] | 8 | Math 30-1, Math 30-2 |
-| [[Math/Trigonometry/Trigonometric Functions/index|Trigonometric Functions]] | 15 | Math 30-1 |
+| [[Math/Trigonometry/Oblique Triangle Trigonometry/index\|Oblique Triangle Trigonometry]] | 5 | Math 20-1, Math 20-2, Math 30-3 |
+| [[Math/Trigonometry/Right Triangle Trigonometry/index\|Right Triangle Trigonometry]] | 8 | Math 10-3, Math 10C |
+| [[Math/Trigonometry/Sinusoidal Functions/index\|Sinusoidal Functions]] | 8 | Math 30-1, Math 30-2 |
+| [[Math/Trigonometry/Trigonometric Functions/index\|Trigonometric Functions]] | 15 | Math 30-1 |
 

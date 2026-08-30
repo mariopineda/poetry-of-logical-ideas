@@ -15,8 +15,8 @@ Practice questions for **Data Analysis**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1.|Environmental Data Analysis - Glaciers Lost 1]] | Math 20-2, Math 30-2 |
-| [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1.|Environmental Data Analysis - Ozone Hole Size 1]] | Math 20-2, Math 30-2 |
-| [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1.|Environmental Data Analysis - Sea Level Trend 1]] | Math 20-2, Math 30-2 |
-| [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1.|Environmental Data Analysis - Seasonal Sea Ice Extent 1]] | Math 20-2, Math 30-2 |
+| [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1.\|Environmental Data Analysis - Glaciers Lost 1]] | Math 20-2, Math 30-2 |
+| [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1.\|Environmental Data Analysis - Ozone Hole Size 1]] | Math 20-2, Math 30-2 |
+| [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1.\|Environmental Data Analysis - Sea Level Trend 1]] | Math 20-2, Math 30-2 |
+| [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1.\|Environmental Data Analysis - Seasonal Sea Ice Extent 1]] | Math 20-2, Math 30-2 |
 
