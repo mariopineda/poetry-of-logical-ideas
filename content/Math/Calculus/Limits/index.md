@@ -16,12 +16,6 @@ Practice questions for **Limits**.
 | Question | Course(s) |
 | --- | --- |
 | [[Math/Calculus/Limits/Limits 1\|Limits 1]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 10\|Limits 10]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 11\|Limits 11]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 12\|Limits 12]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 13\|Limits 13]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 14\|Limits 14]] | Math 31 |
-| [[Math/Calculus/Limits/Limits 15\|Limits 15]] | Math 31 |
 | [[Math/Calculus/Limits/Limits 2\|Limits 2]] | Math 31 |
 | [[Math/Calculus/Limits/Limits 3\|Limits 3]] | Math 31 |
 | [[Math/Calculus/Limits/Limits 4\|Limits 4]] | Math 31 |
@@ -30,4 +24,10 @@ Practice questions for **Limits**.
 | [[Math/Calculus/Limits/Limits 7\|Limits 7]] | Math 31 |
 | [[Math/Calculus/Limits/Limits 8\|Limits 8]] | Math 31 |
 | [[Math/Calculus/Limits/Limits 9\|Limits 9]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 10\|Limits 10]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 11\|Limits 11]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 12\|Limits 12]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 13\|Limits 13]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 14\|Limits 14]] | Math 31 |
+| [[Math/Calculus/Limits/Limits 15\|Limits 15]] | Math 31 |
 
