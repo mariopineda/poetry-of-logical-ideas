@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Trigonometric Derivatives"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Chain Rule 1]]"
   - "[[Angular Measure 1]]"

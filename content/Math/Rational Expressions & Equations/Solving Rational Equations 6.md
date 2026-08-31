@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Equations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Arithmetic Operations with Quotients]]"
 related:

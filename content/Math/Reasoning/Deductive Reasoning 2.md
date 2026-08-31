@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Deductive Reasoning"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Inductive Reasoning 1]]"
 related:

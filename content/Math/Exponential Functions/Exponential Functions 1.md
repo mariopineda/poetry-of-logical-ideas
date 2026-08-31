@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Exponential Equations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:

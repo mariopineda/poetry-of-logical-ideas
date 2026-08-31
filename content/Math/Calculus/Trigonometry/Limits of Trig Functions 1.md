@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Limits"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Related Rates"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Implicit Differentiation 1]]"
 related:

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Binomial Theorem"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Pascal's Triangle]]"
   - "[[Combinations 1]]"

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Inequalities"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Completing the Square 1]]"
 related:

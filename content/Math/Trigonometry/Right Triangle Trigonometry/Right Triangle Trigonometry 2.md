@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 10-3"
 topic: "Right Triangle Trigonometry"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Angles and Parallel Lines 1]]"
 related:

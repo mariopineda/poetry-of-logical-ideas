@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
 topic: "Pascal's Triangle"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Combinations 1]]"
 related: []

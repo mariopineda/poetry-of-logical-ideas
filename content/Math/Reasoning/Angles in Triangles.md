@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Angles and Triangles"
-show_solution: true
+show_solution: false
 prerequisites: []
 related:
   - "[[Angles and Parallel Lines 1]]"

@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Polynomial Functions"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Function Transformations 1]]"
   - "[[Factoring Polynomials 1]]"

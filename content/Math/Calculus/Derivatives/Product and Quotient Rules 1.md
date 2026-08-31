@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Product and Quotient Rules"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:

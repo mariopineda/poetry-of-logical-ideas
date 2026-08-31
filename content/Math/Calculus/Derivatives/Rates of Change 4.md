@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Derivatives"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Limits of Trig Functions 1]]"
 related:

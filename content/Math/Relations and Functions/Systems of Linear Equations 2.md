@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Systems of Linear Equations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Linear Relations 1]]"
 related:

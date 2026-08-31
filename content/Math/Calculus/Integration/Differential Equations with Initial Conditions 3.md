@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Differential Equations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Antiderivative 1]]"
 related:

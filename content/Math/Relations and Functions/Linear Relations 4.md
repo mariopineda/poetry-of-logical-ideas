@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
   - "Math 30-3"
 topic: "Linear Relations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"
 related:

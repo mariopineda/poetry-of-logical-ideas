@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-1"
 topic: "Function Properties"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Domain & Range 1]]"
   - "[[Function Notation 1]]"

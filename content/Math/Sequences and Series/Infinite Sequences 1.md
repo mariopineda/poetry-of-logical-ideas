@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Sequences and Series"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Linear Relations 1]]"
   - "[[Exponent Laws 1]]"

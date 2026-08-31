@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 20-2"
   - "Math 30-3"
 topic: "Oblique Triangle Trigonometry"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Right Triangle Trigonometry 1]]"
 related:

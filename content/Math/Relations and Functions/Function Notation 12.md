@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Function Notation"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Domain & Range 1]]"
 related:

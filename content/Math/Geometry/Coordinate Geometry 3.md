@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 10-3"
   - "Math 30-3"
 topic: "Angles and Geometry"
-show_solution: true
+show_solution: false
 prerequisites: []
 related:
   - "[[Coordinate Geometry 2]]"

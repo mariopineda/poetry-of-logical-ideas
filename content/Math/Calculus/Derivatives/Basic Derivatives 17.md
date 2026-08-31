@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Basic Derivatives"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Derivatives 1]]"
 related:

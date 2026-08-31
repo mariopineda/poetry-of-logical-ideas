@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 30-2"
 topic: "Data Analysis"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:

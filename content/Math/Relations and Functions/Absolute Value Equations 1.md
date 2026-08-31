@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Absolute Value and Reciprocal Functions"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:

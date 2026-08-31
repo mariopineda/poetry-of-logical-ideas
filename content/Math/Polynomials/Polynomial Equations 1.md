@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Factoring Polynomials"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Polynomial Operations 1]]"
 related:

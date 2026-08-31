@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
   - "Math 10-3"
 topic: "Angles and Geometry"
-show_solution: true
+show_solution: false
 prerequisites: []
 related:
   - "[[Angles in Polygons 1]]"

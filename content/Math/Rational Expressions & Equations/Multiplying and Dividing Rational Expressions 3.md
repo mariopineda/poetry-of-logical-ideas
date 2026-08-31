@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
   - "Math 30-2"
 topic: "Rational Expressions"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Factoring Polynomials 1]]"
 related:

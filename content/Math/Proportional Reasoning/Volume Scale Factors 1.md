@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-2"
 topic: "Scale Factors"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Surface Area and Volume 1]]"
 related:

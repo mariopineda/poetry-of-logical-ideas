@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 31"
 topic: "Chain Rule"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Basic Derivatives 1]]"
 related:

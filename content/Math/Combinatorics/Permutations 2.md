@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Permutations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Factorial Notation 1]]"
 related:

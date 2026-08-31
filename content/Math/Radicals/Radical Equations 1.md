@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 20-1"
 topic: "Radicals"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Exponent Laws 1]]"
 related:

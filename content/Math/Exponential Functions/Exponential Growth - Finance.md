@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -6,7 +6,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Exponential Growth and Decay"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Exponential Equations]]"
 related:

@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 30-2"
 topic: "Logical Reasoning"
-show_solution: true
+show_solution: false
 prerequisites: []
 related:
   - "[[Logical Puzzle 2]]"

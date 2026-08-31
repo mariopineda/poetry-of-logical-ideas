@@ -1,10 +1,10 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Polynomial Operations"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
