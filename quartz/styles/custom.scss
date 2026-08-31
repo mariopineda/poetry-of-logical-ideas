@@ -371,9 +371,9 @@ html[saved-theme="dark"] .page-title > a {
 body[data-slug="index"] .page-header::before {
   content: "";
   display: block;
-  width: 100%;
+  width: 70%;
   aspect-ratio: 805 / 245;
-  margin: 0 0 1.5rem 0;
+  margin: 0 auto 1.5rem auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -513,3 +513,49 @@ body[data-slug="index"] .article-title {
 /* Hide Quartz folder listing on generated QOD topic pages */
 body:has(.qod-topic-page-marker) .page-listing { display: none; }
 
+/* ------------------------------------------------------------
+   TEACHER QOD CONTROL PANEL
+   Full-width private/unlisted teacher workspace
+   ------------------------------------------------------------ */
+
+body[data-slug="teacher-control-panel"] .page {
+  max-width: none;
+  width: 100%;
+}
+
+body[data-slug="teacher-control-panel"] #quartz-body {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer";
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+body[data-slug="teacher-control-panel"] .sidebar {
+  display: none !important;
+}
+
+body[data-slug="teacher-control-panel"] .center {
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+}
+
+body[data-slug="teacher-control-panel"] .center > article {
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+}
+
+body[data-slug="teacher-control-panel"] .article-title {
+  display: none;
+}
+
+body[data-slug="teacher-control-panel"] iframe {
+  display: block;
+  width: 100%;
+  max-width: none;
+}

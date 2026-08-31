@@ -1,0 +1,1345 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<meta
+  name="viewport"
+  content="width=device-width,initial-scale=1"
+>
+
+<meta
+  name="robots"
+  content="noindex,nofollow,noarchive"
+>
+
+<title>Teacher QOD Control Panel</title>
+
+<style>
+
+:root {
+  color-scheme: light dark;
+
+  --bg: #f6f6f4;
+  --panel: #ffffff;
+  --text: #222222;
+  --muted: #6b6b6b;
+  --border: #d7d7d2;
+
+  --good: #2e6b44;
+  --warn: #8a6417;
+  --bad: #9a3434;
+
+  --chip: #ecece8;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  :root {
+    --bg: #171719;
+    --panel: #222225;
+    --text: #eeeeee;
+    --muted: #b3b3b3;
+    --border: #414147;
+
+    --good: #86c99d;
+    --warn: #e0ba68;
+    --bad: #e78a8a;
+
+    --chip: #303034;
+  }
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+}
+
+.shell {
+  width: 100%;
+  margin: 0;
+  padding: 18px 8px 28px;
+}
+
+h1 {
+  margin: 0;
+
+  font-size:
+    clamp(
+      1.5rem,
+      2.4vw,
+      2.2rem
+    );
+}
+
+.sub {
+  margin:
+    5px 0 18px;
+
+  color: var(--muted);
+}
+
+.stamp {
+  float: right;
+  margin-top: -28px;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.filters {
+  display: grid;
+
+  grid-template-columns:
+    repeat(
+      5,
+      minmax(120px, 1fr)
+    )
+    auto;
+
+  gap: 9px;
+
+  padding: 13px;
+
+  background:
+    var(--panel);
+
+  border:
+    1px solid
+    var(--border);
+
+  border-radius:
+    11px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+label {
+  font-size: 0.73rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+select,
+input,
+button {
+  width: 100%;
+  min-width: 0;
+  min-height: 38px;
+
+  border:
+    1px solid
+    var(--border);
+
+  border-radius:
+    7px;
+
+  background:
+    var(--bg);
+
+  color:
+    var(--text);
+
+  font:
+    inherit;
+
+  padding:
+    7px 9px;
+}
+
+button {
+  cursor: pointer;
+  align-self: end;
+}
+
+.summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 12px 0;
+}
+
+.chip {
+  padding: 5px 9px;
+
+  border:
+    1px solid
+    var(--border);
+
+  border-radius:
+    999px;
+
+  background:
+    var(--chip);
+
+  font-size:
+    0.83rem;
+}
+
+.tablewrap {
+  width: 100%;
+  overflow: visible;
+
+  border:
+    1px solid
+    var(--border);
+
+  border-radius:
+    11px;
+
+  background:
+    var(--panel);
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+
+  border-collapse:
+    separate;
+
+  border-spacing:
+    0;
+}
+
+th {
+  background:
+    var(--panel);
+
+  color:
+    var(--muted);
+
+  font-size:
+    0.72rem;
+
+  text-align:
+    left;
+
+  cursor:
+    pointer;
+}
+
+th,
+td {
+  padding:
+    8px 7px;
+
+  border-bottom:
+    1px solid
+    var(--border);
+
+  vertical-align:
+    top;
+
+  overflow-wrap:
+    anywhere;
+
+  word-break:
+    normal;
+}
+
+td {
+  font-size:
+    0.82rem;
+}
+
+tr:last-child td {
+  border-bottom:
+    0;
+}
+
+/* Column widths */
+
+th:nth-child(1),
+td:nth-child(1) {
+  width: 23%;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+  width: 13%;
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+  width: 14%;
+}
+
+th:nth-child(4),
+td:nth-child(4) {
+  width: 8%;
+}
+
+th:nth-child(5),
+td:nth-child(5) {
+  width: 9%;
+}
+
+th:nth-child(6),
+td:nth-child(6) {
+  width: 9%;
+}
+
+th:nth-child(7),
+td:nth-child(7) {
+  width: 6%;
+}
+
+th:nth-child(8),
+td:nth-child(8) {
+  width: 6%;
+}
+
+th:nth-child(9),
+td:nth-child(9) {
+  width: 12%;
+}
+
+.title {
+  font-weight:
+    700;
+}
+
+.path {
+  display:
+    block;
+
+  margin-top:
+    3px;
+
+  color:
+    var(--muted);
+
+  font-size:
+    0.67rem;
+
+  font-weight:
+    400;
+
+  overflow-wrap:
+    anywhere;
+}
+
+.badges {
+  display:
+    flex;
+
+  flex-wrap:
+    wrap;
+
+  gap:
+    3px;
+
+  min-width:
+    0;
+}
+
+.badge {
+  display:
+    inline-block;
+
+  padding:
+    2px 5px;
+
+  border:
+    1px solid
+    var(--border);
+
+  border-radius:
+    999px;
+
+  background:
+    var(--chip);
+
+  font-size:
+    0.7rem;
+
+  white-space:
+    normal;
+}
+
+.yes {
+  color:
+    var(--good);
+
+  font-weight:
+    700;
+}
+
+.no {
+  color:
+    var(--muted);
+
+  font-weight:
+    700;
+}
+
+.status {
+  font-weight:
+    700;
+}
+
+.ready {
+  color:
+    var(--good);
+}
+
+.warning {
+  color:
+    var(--warn);
+}
+
+.error {
+  color:
+    var(--bad);
+}
+
+.draft {
+  color:
+    var(--muted);
+}
+
+.empty {
+  padding:
+    35px;
+
+  text-align:
+    center;
+
+  color:
+    var(--muted);
+}
+
+.note {
+  margin:
+    9px 2px;
+
+  font-size:
+    0.75rem;
+
+  color:
+    var(--muted);
+}
+
+@media (max-width: 1100px) {
+
+  .filters {
+    grid-template-columns:
+      repeat(
+        3,
+        1fr
+      );
+  }
+
+  th,
+  td {
+    padding:
+      7px 5px;
+  }
+
+  td {
+    font-size:
+      0.76rem;
+  }
+
+  th {
+    font-size:
+      0.67rem;
+  }
+
+}
+
+@media (max-width: 700px) {
+
+  .filters {
+    grid-template-columns:
+      1fr;
+  }
+
+  .stamp {
+    float:
+      none;
+
+    margin:
+      5px 0 10px;
+  }
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<main class="shell">
+
+<h1>
+Teacher QOD Control Panel
+</h1>
+
+<div class="stamp">
+Generated Aug 31, 2026, 8:57 a.m.
+</div>
+
+<p class="sub">
+Filter all QOD source files by course and topic,
+then review publication, solution, and relationship status.
+</p>
+
+<section class="filters">
+
+<div class="field">
+
+<label>
+Course
+</label>
+
+<select id="course">
+
+<option value="">
+All courses
+</option>
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label>
+Topic / unit
+</label>
+
+<select id="topic">
+
+<option value="">
+All topics
+</option>
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label>
+Publication
+</label>
+
+<select id="pub">
+
+<option value="">
+All
+</option>
+
+<option value="yes">
+Published
+</option>
+
+<option value="no">
+Not published
+</option>
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label>
+Solution
+</label>
+
+<select id="sol">
+
+<option value="">
+All
+</option>
+
+<option value="shown">
+Available + shown
+</option>
+
+<option value="hidden">
+Available + hidden
+</option>
+
+<option value="missing-on">
+ON but missing
+</option>
+
+<option value="missing-off">
+Missing + OFF
+</option>
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label>
+Search
+</label>
+
+<input
+  id="search"
+  type="search"
+  placeholder="QOD name or path"
+>
+
+</div>
+
+<button
+  id="reset"
+  type="button"
+>
+Reset
+</button>
+
+</section>
+
+<div
+  id="summary"
+  class="summary"
+>
+</div>
+
+<div class="tablewrap">
+
+<table>
+
+<thead>
+
+<tr>
+
+<th data-sort="title">
+QOD ↕
+</th>
+
+<th data-sort="courses">
+Course ↕
+</th>
+
+<th data-sort="topic">
+Topic / unit ↕
+</th>
+
+<th data-sort="published">
+Published ↕
+</th>
+
+<th data-sort="solutionExists">
+Solution exists ↕
+</th>
+
+<th data-sort="showSolution">
+Solution shown ↕
+</th>
+
+<th data-sort="prerequisites">
+Prereq. ↕
+</th>
+
+<th data-sort="related">
+Related ↕
+</th>
+
+<th data-sort="status">
+Status ↕
+</th>
+
+</tr>
+
+</thead>
+
+<tbody id="rows">
+</tbody>
+
+</table>
+
+<div
+  id="empty"
+  class="empty"
+  hidden
+>
+
+No QODs match these filters.
+
+</div>
+
+</div>
+
+<p class="note">
+Unlisted teacher tool.
+The page is not linked or indexed,
+but anyone who knows the exact URL can open it.
+</p>
+
+</main>
+
+<script>
+
+const records = [{"title":"Absolute Value Equations 1","courses":["Math 20-1"],"topic":"Absolute Value and Reciprocal Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Absolute Value Equations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Absolute Value Equations 2","courses":["Math 20-1"],"topic":"Absolute Value and Reciprocal Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Absolute Value Equations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Angles and Parallel Lines 1","courses":["Math 20-2","Math 10-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Geometry/Angles and Parallel Lines 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Angles in Polygons 1","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Angles in Polygons 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Angles in Triangles 2","courses":["Math 20-2","Math 10-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Angles in Triangles 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Coordinate Geometry 2","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Coordinate Geometry 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Coordinate Geometry 3","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Coordinate Geometry 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Coordinate Geometry 4","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Coordinate Geometry 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Coordinate Geometry 5","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Coordinate Geometry 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Coordinate Geometry 6","courses":["Math 20-2","Math 10-3","Math 30-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Geometry/Coordinate Geometry 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Perpendicular Lines 1","courses":["Math 20-2","Math 10-3"],"topic":"Angles and Geometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Geometry/Perpendicular Lines 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Angles in Triangles","courses":["Math 20-2"],"topic":"Angles and Triangles","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":1,"path":"content/Math/Reasoning/Angles in Triangles.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Antiderivative 1","courses":["Math 31"],"topic":"Antiderivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Antiderivative 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Antiderivative 2","courses":["Math 31"],"topic":"Antiderivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Antiderivative 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Basic Derivatives 1","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Basic Derivatives 10","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 11","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 12","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 13","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 14","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 14.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 15","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 15.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 16","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 16.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 17","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 17.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 18","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 18.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 2","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Basic Derivatives 3","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Basic Derivatives 4","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Basic Derivatives 5","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 6","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 7","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 8","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Basic Derivatives 9","courses":["Math 31"],"topic":"Basic Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Basic Derivatives 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Binomial Theorem 1","courses":["Math 30-1"],"topic":"Binomial Theorem","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":0,"path":"content/Math/Combinatorics/Binomial Theorem 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 1","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Chain Rule 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 10","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 11","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 12","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 13","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 14","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 14.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 15","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 15.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 16","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 16.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 17","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 17.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 18","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 18.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 19","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 19.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 2","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 20","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 20.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 21","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Chain Rule 21.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 3","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 4","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 5","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 6","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Chain Rule 7","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 8","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Chain Rule 9","courses":["Math 31"],"topic":"Chain Rule","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Chain Rule 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Combinations 1","courses":["Math 30-1","Math 30-2"],"topic":"Combinations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Combinatorics/Combinations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Combinations 2","courses":["Math 30-1","Math 30-2"],"topic":"Combinations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Combinatorics/Combinations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Combinations 3","courses":["Math 30-1","Math 30-2"],"topic":"Combinations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Combinatorics/Combinations 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Concavity and Inflection 1","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Curve Sketching/Concavity and Inflection 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Curve Sketching 1","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Curve Sketching/Curve Sketching 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Curve Sketching 2","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Curve Sketching/Curve Sketching 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"First Derivative Test 1","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Curve Sketching/First Derivative Test 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"First Derivative Test 2","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Curve Sketching/First Derivative Test 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"First Derivative Test 3","courses":["Math 31"],"topic":"Curve Sketching","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Curve Sketching/First Derivative Test 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Environmental Data Analysis - Glaciers Lost 1","courses":["Math 20-2","Math 30-2"],"topic":"Data Analysis","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Environmental Data Analysis - Ozone Hole Size 1","courses":["Math 20-2","Math 30-2"],"topic":"Data Analysis","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Environmental Data Analysis - Sea Level Trend 1","courses":["Math 20-2","Math 30-2"],"topic":"Data Analysis","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Environmental Data Analysis - Seasonal Sea Ice Extent 1","courses":["Math 20-2","Math 30-2"],"topic":"Data Analysis","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Deductive Reasoning 1","courses":["Math 20-2"],"topic":"Deductive Reasoning","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Reasoning/Deductive Reasoning 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Deductive Reasoning 2","courses":["Math 20-2"],"topic":"Deductive Reasoning","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Reasoning/Deductive Reasoning 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Area Between Curves 1","courses":["Math 31"],"topic":"Definite Integrals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Area Between Curves 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Area under a curve - Method of Exhaustion","courses":["Math 31"],"topic":"Definite Integrals","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Integration/Area under a curve - Method of Exhaustion.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Area Under and Between Curves 1","courses":["Math 31"],"topic":"Definite Integrals","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Integration/Area Under and Between Curves 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Definite Integrals 1","courses":["Math 31"],"topic":"Definite Integrals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Integration/Definite Integrals 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Theorem of Calculus 1","courses":["Math 31"],"topic":"Definite Integrals","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Fundamental Theorem of Calculus 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 1","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Derivatives 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivatives 2","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivatives 3","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 4","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 5","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 6","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 7","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 8","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Derivatives 9","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Derivatives 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 1","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 10","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 11","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 12","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Rates of Change 12.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 2","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 3","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 4","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 5","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Rates of Change 6","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 7","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 8","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Rates of Change 9","courses":["Math 31"],"topic":"Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Rates of Change 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Differential Equations with Initial Conditions 1","courses":["Math 31"],"topic":"Differential Equations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Differential Equations with Initial Conditions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Differential Equations with Initial Conditions 2","courses":["Math 31"],"topic":"Differential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Integration/Differential Equations with Initial Conditions 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Differential Equations with Initial Conditions 3","courses":["Math 31"],"topic":"Differential Equations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Integration/Differential Equations with Initial Conditions 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Differential Equations with Initial Conditions 4","courses":["Math 31"],"topic":"Differential Equations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Integration/Differential Equations with Initial Conditions 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 1","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Polynomials/Domain & Range 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 10","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 2","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Domain & Range 3","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 4","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 5","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 6","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 7","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 8","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range 9","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range Algebraically 1","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range Algebraically 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range Algebraically 2","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Domain & Range Algebraically 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Domain & Range Algebraically 3","courses":["Math 10C","Math 30-1"],"topic":"Domain and Range","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Domain & Range Algebraically 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exponent Laws 1","courses":["Math 10C"],"topic":"Exponent Laws","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Exponential Functions/Exponent Laws 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exponent Laws 2","courses":["Math 10C"],"topic":"Exponent Laws","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Exponential Functions/Exponent Laws 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exponent Laws 3","courses":["Math 10C"],"topic":"Exponent Laws","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Exponential Functions/Exponent Laws 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exponent Laws 4","courses":["Math 10C"],"topic":"Exponent Laws","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Exponential Functions/Exponent Laws 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exponential Equations","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Exponential Functions/Exponential Equations.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Equations 2","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Exponential Functions/Exponential Equations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Equations 3","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Exponential Functions/Exponential Equations 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Equations 4","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Exponential Functions/Exponential Equations 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Equations 5","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Exponential Functions/Exponential Equations 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Functions 1","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Exponential Functions/Exponential Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Functions 2","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Exponential Functions/Exponential Functions 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Exponential Growth - Finance","courses":["Math 20-3","Math 30-1","Math 30-2"],"topic":"Exponential Growth and Decay","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Exponential Functions/Exponential Growth - Finance.md","status":{"label":"Ready","level":"ready"}},{"title":"Radioactive Decay","courses":["Math 30-1","Math 30-2"],"topic":"Exponential Growth and Decay","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Exponential Functions/Radioactive Decay.md","status":{"label":"Ready","level":"ready"}},{"title":"Factorial Notation 1","courses":["Math 30-1","Math 30-2"],"topic":"Factorial Notation","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":0,"path":"content/Math/Combinatorics/Factorial Notation 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Factoring Polynomials 1","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Polynomials/Factoring Polynomials 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Factoring Polynomials 2","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Factoring Polynomials 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Factoring Polynomials 3","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Factoring Polynomials 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Factoring Polynomials 4","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Factoring Polynomials 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Factoring Polynomials 5","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Factoring Polynomials 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Equations 1","courses":["Math 10C"],"topic":"Factoring Polynomials","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Polynomials/Polynomial Equations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Algebraic Expressions 1","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":1,"path":"content/Math/Foundations/Algebraic Expressions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 1","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 2","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 3","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 4","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 5","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 6","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Fraction Arithmetic 7","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Fraction Arithmetic 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Integer Arithmetic 1","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Integer Arithmetic 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Integer Arithmetic 2","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Integer Arithmetic 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Integer Arithmetic 3","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Foundations/Integer Arithmetic 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Order of Operations 1","courses":["Math 10C","Math 10-3"],"topic":"Foundational Algebra","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":1,"path":"content/Math/Foundations/Order of Operations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Notation 1","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Function Notation 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Notation 10","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 11","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 11.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Notation 12","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Function Notation 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 2","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 3","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Notation 4","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Notation 5","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 6","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 7","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 8","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Notation 9","courses":["Math 10C"],"topic":"Function Notation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Notation 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 1","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Relations and Functions/Properties of Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Properties of Functions 10","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 11","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 12","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 13","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":1,"path":"content/Math/Relations and Functions/Properties of Functions 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 2","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Properties of Functions 3","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Properties of Functions 4","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Properties of Functions 5","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 6","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 7","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 8","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Properties of Functions 9","courses":["Math 20-1","Math 30-1"],"topic":"Function Properties","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Relations and Functions/Properties of Functions 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Transformations 1","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Function Transformations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Transformations 2","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Transformations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Function Transformations 3","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Transformations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Transformations 4","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Transformations 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Transformations 5","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Function Transformations 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Function Transformations 6","courses":["Math 30-1"],"topic":"Function Transformations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Function Transformations 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Fundamental Counting Principle 1","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":1,"path":"content/Math/Combinatorics/Fundamental Counting Principle 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Counting Principle 2","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Combinatorics/Fundamental Counting Principle 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Counting Principle 3","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Combinatorics/Fundamental Counting Principle 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Counting Principle 4","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Combinatorics/Fundamental Counting Principle 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Counting Principle 5","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Combinatorics/Fundamental Counting Principle 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Fundamental Counting Principle 6","courses":["Math 30-1","Math 30-2"],"topic":"Fundamental Counting Principle","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":1,"path":"content/Math/Combinatorics/Fundamental Counting Principle 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Higher Derivatives 1","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Higher Derivatives 2","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Higher Derivatives 3","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Higher Derivatives 4","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Higher Derivatives 5","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Higher Derivatives 6","courses":["Math 31"],"topic":"Higher Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Higher Derivatives 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 1","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 10","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 11","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 12","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 2","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 3","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 4","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 5","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 6","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 7","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 8","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Implicit Differentiation 9","courses":["Math 31"],"topic":"Implicit Differentiation","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Implicit Differentiation 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Inductive Reasoning 1","courses":["Math 30-2"],"topic":"Inductive Reasoning","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":2,"path":"content/Math/Reasoning/Inductive Reasoning 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Inductive Reasoning 2","courses":["Math 30-2"],"topic":"Inductive Reasoning","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Reasoning/Inductive Reasoning 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Inductive Reasoning 3","courses":["Math 20-2"],"topic":"Inductive Reasoning","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Reasoning/Inductive Reasoning 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Inductive Reasoning 4","courses":["Math 20-2"],"topic":"Inductive Reasoning","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Reasoning/Inductive Reasoning 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 1","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Inequalities/Inequalities 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 2","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 3","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 4","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 5","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 6","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Inequalities 7","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Inequalities/Inequalities 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Inequalities 8","courses":["Math 20-1"],"topic":"Inequalities","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Inequalities/Inequalities 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 1","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Limits/Limits 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 10","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 11","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 12","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 13","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 14","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 14.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Limits 15","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 15.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 2","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 3","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 4","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 5","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 6","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 7","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 8","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 8.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits 9","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Limits/Limits 9.md","status":{"label":"Ready","level":"ready"}},{"title":"Limits of Trig Functions 1","courses":["Math 31"],"topic":"Limits","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Trigonometry/Limits of Trig Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Linear Relations 1","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Linear Relations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 10","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Linear Relations 10.md","status":{"label":"Ready","level":"ready"}},{"title":"Linear Relations 2","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 3","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 4","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 5","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 6","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 7","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 8","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Linear Relations 9","courses":["Math 10C","Math 30-3"],"topic":"Linear Relations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Linear Relations 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Evaluating Logarithms 1","courses":["Math 30-1","Math 30-2"],"topic":"Logarithmic Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Logarithmic Functions/Evaluating Logarithms 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Logarithm Laws 1","courses":["Math 30-1","Math 30-2"],"topic":"Logarithmic Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Logarithmic Functions/Logarithm Laws 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Logarithm Laws 2","courses":["Math 30-1","Math 30-2"],"topic":"Logarithmic Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Logarithmic Functions/Logarithm Laws 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Logarithmic Functions 1","courses":["Math 30-1","Math 30-2"],"topic":"Logarithmic Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Logarithmic Functions/Logarithmic Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Logical Puzzle 1","courses":["Math 30-2"],"topic":"Logical Reasoning","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":2,"path":"content/Math/Reasoning/Logical Puzzle 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Logical Puzzle 2","courses":["Math 30-2"],"topic":"Logical Reasoning","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Reasoning/Logical Puzzle 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Puzzles & Games 1","courses":["Math 30-2"],"topic":"Logical Reasoning","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":2,"path":"content/Math/Puzzles and Games/Puzzles & Games 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Surface Area and Volume 1","courses":["Math 10C","Math 10-3","Math 20-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Measurement/Surface Area and Volume 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Surface Area and Volume 2","courses":["Math 10C","Math 10-3","Math 20-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Surface Area and Volume 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Surface Area and Volume 3","courses":["Math 10C","Math 10-3","Math 20-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Surface Area and Volume 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Surface Area and Volume 4","courses":["Math 10C","Math 10-3","Math 20-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Surface Area and Volume 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Surface Area and Volume 5","courses":["Math 10C","Math 10-3","Math 20-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Surface Area and Volume 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Unit Conversions 1","courses":["Math 10C","Math 10-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Unit Conversions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Conversions 2","courses":["Math 10C","Math 10-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Unit Conversions 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Conversions 3","courses":["Math 10C","Math 10-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":false,"prerequisites":0,"related":3,"path":"content/Math/Measurement/Unit Conversions 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Conversions 4","courses":["Math 10C","Math 10-3"],"topic":"Measurement","published":true,"showSolution":true,"solutionExists":true,"prerequisites":0,"related":2,"path":"content/Math/Measurement/Unit Conversions 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Acceleration 1","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Applications of Derivatives/Acceleration 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Acceleration 2","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Acceleration 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Acceleration 3","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Acceleration 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Acceleration 4","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Acceleration 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 1","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Position and Velocity 10","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 11","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 12","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 12.md","status":{"label":"Ready","level":"ready"}},{"title":"Position and Velocity 13","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 2","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Position and Velocity 3","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Position and Velocity 4","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 5","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 6","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 7","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 8","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Position and Velocity 9","courses":["Math 31"],"topic":"Motion and Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Position and Velocity 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Oblique Triangle Trigonometry 1","courses":["Math 20-1","Math 20-2","Math 30-3"],"topic":"Oblique Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Oblique Triangle Trigonometry 2","courses":["Math 20-1","Math 20-2","Math 30-3"],"topic":"Oblique Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Oblique Triangle Trigonometry 3","courses":["Math 20-1","Math 20-2","Math 30-3"],"topic":"Oblique Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Oblique Triangle Trigonometry 4","courses":["Math 20-1","Math 20-2","Math 30-3"],"topic":"Oblique Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Oblique Triangle Trigonometry 5","courses":["Math 20-1","Math 20-2","Math 30-3"],"topic":"Oblique Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Area of a Rectangle","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Optimization Problems/Area of a Rectangle.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 1","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Optimization Problems/Optimization 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 2","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Optimization Problems/Optimization 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 3","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Optimization Problems/Optimization 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 4","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Optimization Problems/Optimization 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 5","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Optimization Problems/Optimization 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Optimization 6","courses":["Math 31"],"topic":"Optimization","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Optimization Problems/Optimization 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Pascal's Triangle","courses":["Math 30-1"],"topic":"Pascal's Triangle","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":0,"path":"content/Math/Combinatorics/Pascal's Triangle.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations 1","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Combinatorics/Permutations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations 2","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Combinatorics/Permutations 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations 3","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Combinatorics/Permutations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations 4","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Combinatorics/Permutations 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations 5","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Combinatorics/Permutations 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Permutations with Repetition 1","courses":["Math 30-1","Math 30-2"],"topic":"Permutations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Combinatorics/Permutations with Repetition 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Polynomial Functions 1","courses":["Math 30-1"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Polynomials/Polynomial Functions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Polynomial Functions 2","courses":["Math 30-1"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Polynomial Functions 3","courses":["Math 10C"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Functions 4","courses":["Math 30-1"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Polynomial Functions 5","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Functions 6","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Functions 7","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Functions 8","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Polynomial Functions 8.md","status":{"label":"Ready","level":"ready"}},{"title":"Sketching Polynomial Functions 1","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Polynomials/Sketching Polynomial Functions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Sketching Polynomial Functions 2","courses":["Math 30-1","Math 30-2"],"topic":"Polynomial Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Polynomials/Sketching Polynomial Functions 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Polynomial Operations 1","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Polynomials/Polynomial Operations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Operations 2","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Polynomial Operations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Review 1","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Polynomial Review 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Review 2","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Polynomial Review 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Review 3","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Polynomial Review 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Review 4","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Polynomials/Polynomial Review 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Polynomial Review 5","courses":["Math 10C"],"topic":"Polynomial Operations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Polynomials/Polynomial Review 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Product and Quotient Rules 1","courses":["Math 31"],"topic":"Product and Quotient Rules","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Product and Quotient Rules 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Product and Quotient Rules 2","courses":["Math 31"],"topic":"Product and Quotient Rules","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Product and Quotient Rules 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Product and Quotient Rules 3","courses":["Math 31"],"topic":"Product and Quotient Rules","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Product and Quotient Rules 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Product and Quotient Rules 4","courses":["Math 31"],"topic":"Product and Quotient Rules","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Derivatives/Product and Quotient Rules 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Product and Quotient Rules 5","courses":["Math 31"],"topic":"Product and Quotient Rules","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Derivatives/Product and Quotient Rules 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Completing the Square 1","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Quadratics/Completing the Square 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Completing the Square 2","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Completing the Square 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Completing the Square 3","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Completing the Square 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Completing the Square 4","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Completing the Square 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Equations 1","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Quadratic Equations 2","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Equations 3","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Equations 4","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Quadratic Equations 5","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Quadratic Equations 6","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Equations 7","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Quadratic Equations 8","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 8.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Equations 9","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Quadratics/Quadratic Equations 9.md","status":{"label":"Ready","level":"ready"}},{"title":"Quadratic Functions 1","courses":["Math 20-1","Math 20-2"],"topic":"Quadratics","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Quadratics/Quadratic Functions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Adding and Subtracting Radicals 1","courses":["Math 10C","Math 20-1","Math 20-2"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Radicals/Adding and Subtracting Radicals 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Converting Radicals 1","courses":["Math 10C","Math 20-1","Math 20-2"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Radicals/Converting Radicals 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Converting Radicals 2","courses":["Math 10C","Math 20-1","Math 20-2"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Radicals/Converting Radicals 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Radicals 1","courses":["Math 10C","Math 20-1","Math 20-2"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Radicals/Multiplying and Dividing Radicals 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Radical Equations 1","courses":["Math 20-1"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Radicals/Radical Equations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Radicals 1","courses":["Math 20-1"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Radicals/Radicals 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Radicals 2","courses":["Math 20-1"],"topic":"Radicals","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Radicals/Radicals 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Solving Rational Equations 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Solving Rational Equations 2","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Solving Rational Equations 3","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Solving Rational Equations 4","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Solving Rational Equations 5","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Solving Rational Equations 6","courses":["Math 20-1","Math 30-2"],"topic":"Rational Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Rational Expressions & Equations/Solving Rational Equations 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Adding and Subtracting Rational Expressions 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Adding and Subtracting Rational Expressions 2","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Adding and Subtracting Rational Expressions 3","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Adding and Subtracting Rational Expressions 4","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Adding and Subtracting Rational Expressions 5","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Arithmetic Operations with Quotients","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Arithmetic Operations with Quotients.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Evaluating Rational Expressions 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Evaluating Rational Expressions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Rational Expressions 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Rational Expressions 2","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Rational Expressions 3","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Rational Expressions 4","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Multiplying and Dividing Rational Expressions 5","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Multiplying and Dividing Rational Expressions 6","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Non-Permissible Values 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Non-Permissible Values 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Simplifying Rational Expressions 1","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Simplifying Rational Expressions 2","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Simplifying Rational Expressions 3","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Simplifying Rational Expressions 4","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Simplifying Rational Expressions 5","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Simplifying Rational Expressions 6","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Simplifying Rational Expressions 7","courses":["Math 20-1","Math 30-2"],"topic":"Rational Expressions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Rational Expressions & Equations/Simplifying Rational Expressions 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Applications of Derivatives 1 - Shadow Length of a Moving Object","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object.md","status":{"label":"Ready","level":"ready"}},{"title":"Applications of Trig Derivatives 1","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Trigonometry/Applications of Trig Derivatives 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Applications of Trig Derivatives 2","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Trigonometry/Applications of Trig Derivatives 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 1","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Related Rates 10","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 10.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 2","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Related Rates 3","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 4","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 5","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 6","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 7","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Related Rates 8","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Related Rates 9","courses":["Math 31"],"topic":"Related Rates","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Calculus/Applications of Derivatives/Related Rates 9.md","status":{"label":"Ready","level":"ready"}},{"title":"Representing Relations 1","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Representing Relations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 2","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 3","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 4","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 5","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 6","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 6.md","status":{"label":"Ready","level":"ready"}},{"title":"Representing Relations 7","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 7.md","status":{"label":"Ready","level":"ready"}},{"title":"Representing Relations 8","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Relations and Functions/Representing Relations 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Representing Relations 9","courses":["Math 10C"],"topic":"Relations and Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Representing Relations 9.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 1","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 2","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 3","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Right Triangle Trigonometry 4","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Right Triangle Trigonometry 5","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 6","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 7","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Right Triangle Trigonometry 8","courses":["Math 10C","Math 10-3"],"topic":"Right Triangle Trigonometry","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":1,"path":"content/Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Area Scale Factors 1","courses":["Math 20-2"],"topic":"Scale Factors","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Proportional Reasoning/Area Scale Factors 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Area Scale Factors 2","courses":["Math 20-2"],"topic":"Scale Factors","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Proportional Reasoning/Area Scale Factors 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Scale Factors 1","courses":["Math 10C","Math 10-3","Math 20-2"],"topic":"Scale Factors","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Proportional Reasoning/Scale Factors 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Scale Factors 2","courses":["Math 10C","Math 10-3","Math 20-2"],"topic":"Scale Factors","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Proportional Reasoning/Scale Factors 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Volume Scale Factors 1","courses":["Math 20-2"],"topic":"Scale Factors","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Proportional Reasoning/Volume Scale Factors 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Infinite Geometric Sequences 1","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Sequences and Series/Infinite Geometric Sequences 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Geometric Sequences 2","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Geometric Sequences 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Geometric Sequences 3","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Geometric Sequences 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Geometric Sequences 4","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Geometric Sequences 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Sequences 1","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Sequences 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Sequences 2","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Sequences 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Sequences 3","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Sequences 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Sequences 4","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Sequences and Series/Infinite Sequences 4.md","status":{"label":"Ready","level":"ready"}},{"title":"Infinite Sequences 5","courses":["Math 20-1"],"topic":"Sequences and Series","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Sequences and Series/Infinite Sequences 5.md","status":{"label":"Ready","level":"ready"}},{"title":"Set Theory 1","courses":["Math 30-2"],"topic":"Set Theory","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Set Theory/Set Theory 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Set Theory 2","courses":["Math 30-2"],"topic":"Set Theory","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":3,"path":"content/Math/Set Theory/Set Theory 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Set Theory 3","courses":["Math 30-2"],"topic":"Set Theory","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Set Theory/Set Theory 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Amplitude and Period 1","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Amplitude and Period 2","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Exploring Sinusoidal Functions 1","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Exploring Sinusoidal Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Graphing Sinusoidal Functions 1","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Graphing Sinusoidal Functions 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Sinusoidal Equations 1","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Sinusoidal Equations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Sinusoidal Function Transformations 1","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Sinusoidal Function Transformations 2","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":3,"path":"content/Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Sinusoidal Function Transformations 3","courses":["Math 30-1","Math 30-2"],"topic":"Sinusoidal Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":2,"path":"content/Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Substitution Rule 1","courses":["Math 31"],"topic":"Substitution Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Integration/Substitution Rule 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Substitution Rule 2","courses":["Math 31"],"topic":"Substitution Rule","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Integration/Substitution Rule 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Systems of Linear Equations 1","courses":["Math 10C"],"topic":"Systems of Linear Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Systems of Linear Equations 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Systems of Linear Equations 2","courses":["Math 10C"],"topic":"Systems of Linear Equations","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":1,"path":"content/Math/Relations and Functions/Systems of Linear Equations 2.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 1a","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1a.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 1b","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1b.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 2a","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2a.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 2b","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 2c","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2c.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 2d","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2d.md","status":{"label":"Ready","level":"ready"}},{"title":"Derivative of Trigonometric Functions 3","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":true,"prerequisites":2,"related":2,"path":"content/Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 3.md","status":{"label":"Ready","level":"ready"}},{"title":"Trigonometric Derivatives 1","courses":["Math 31"],"topic":"Trigonometric Derivatives","published":true,"showSolution":true,"solutionExists":false,"prerequisites":2,"related":1,"path":"content/Math/Calculus/Trigonometry/Trigonometric Derivatives 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Angular Measure 1","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":true,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Trigonometric Functions/Angular Measure 1.md","status":{"label":"Ready","level":"ready"}},{"title":"Angular Measure 2","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Angular Measure 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 1","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 1.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 10","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 10.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 11","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 11.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 12","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 12.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 13","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":2,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 13.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 2","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 2.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 3","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 3.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 4","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 4.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 5","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 5.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 6","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 6.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 7","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 8","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 8.md","status":{"label":"Solution ON but missing","level":"error"}},{"title":"Unit Circle and Trigonometric Ratios 9","courses":["Math 30-1"],"topic":"Trigonometric Functions","published":true,"showSolution":true,"solutionExists":false,"prerequisites":1,"related":3,"path":"content/Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9.md","status":{"label":"Solution ON but missing","level":"error"}}]
+
+const el =
+  (id) =>
+    document.getElementById(id)
+
+const course =
+  el("course")
+
+const topic =
+  el("topic")
+
+const pub =
+  el("pub")
+
+const sol =
+  el("sol")
+
+const search =
+  el("search")
+
+const rows =
+  el("rows")
+
+const empty =
+  el("empty")
+
+const summary =
+  el("summary")
+
+let sortKey =
+  "topic"
+
+let sortDir =
+  1
+
+const esc =
+  (value) =>
+    String(value)
+      .replaceAll(
+        "&",
+        "&amp;"
+      )
+      .replaceAll(
+        "<",
+        "&lt;"
+      )
+      .replaceAll(
+        ">",
+        "&gt;"
+      )
+      .replaceAll(
+        '"',
+        "&quot;"
+      )
+      .replaceAll(
+        "'",
+        "&#039;"
+      )
+
+const uniq =
+  (items) =>
+    [
+      ...new Set(
+        items.filter(Boolean)
+      ),
+    ].sort(
+      (a, b) =>
+        a.localeCompare(b)
+    )
+
+function resizeFrame() {
+
+  requestAnimationFrame(
+    () => {
+
+      if (
+        window.frameElement
+      ) {
+
+        window.frameElement.style.height =
+          document.documentElement.scrollHeight +
+          "px"
+
+      }
+
+    }
+  )
+
+}
+
+function fillCourses() {
+
+  for (
+    const value
+    of uniq(
+      records.flatMap(
+        (record) =>
+          record.courses
+      )
+    )
+  ) {
+
+    const option =
+      document.createElement(
+        "option"
+      )
+
+    option.value =
+      value
+
+    option.textContent =
+      value
+
+    course.appendChild(
+      option
+    )
+
+  }
+
+}
+
+function fillTopics() {
+
+  const old =
+    topic.value
+
+  const base =
+    course.value
+      ? records.filter(
+          (record) =>
+            record.courses.includes(
+              course.value
+            )
+        )
+      : records
+
+  topic.innerHTML =
+    '<option value="">All topics</option>'
+
+  for (
+    const value
+    of uniq(
+      base.map(
+        (record) =>
+          record.topic
+      )
+    )
+  ) {
+
+    const option =
+      document.createElement(
+        "option"
+      )
+
+    option.value =
+      value
+
+    option.textContent =
+      value
+
+    topic.appendChild(
+      option
+    )
+
+  }
+
+  if (
+    [...topic.options]
+      .some(
+        (option) =>
+          option.value === old
+      )
+  ) {
+    topic.value =
+      old
+  }
+
+}
+
+function solState(record) {
+
+  if (
+    record.solutionExists &&
+    record.showSolution
+  ) {
+    return "shown"
+  }
+
+  if (
+    record.solutionExists
+  ) {
+    return "hidden"
+  }
+
+  return record.showSolution
+    ? "missing-on"
+    : "missing-off"
+
+}
+
+function filtered() {
+
+  const query =
+    search.value
+      .trim()
+      .toLowerCase()
+
+  return records.filter(
+    (record) => {
+
+      if (
+        course.value &&
+        !record.courses.includes(
+          course.value
+        )
+      ) {
+        return false
+      }
+
+      if (
+        topic.value &&
+        record.topic !==
+          topic.value
+      ) {
+        return false
+      }
+
+      if (
+        pub.value &&
+        (
+          pub.value ===
+          "yes"
+        ) !==
+          record.published
+      ) {
+        return false
+      }
+
+      if (
+        sol.value &&
+        solState(record) !==
+          sol.value
+      ) {
+        return false
+      }
+
+      if (
+        query &&
+        !(
+          record.title +
+          " " +
+          record.path
+        )
+          .toLowerCase()
+          .includes(query)
+      ) {
+        return false
+      }
+
+      return true
+
+    }
+  )
+
+}
+
+function sortValue(
+  record,
+  key
+) {
+
+  if (
+    key ===
+    "courses"
+  ) {
+    return record.courses.join(
+      ", "
+    )
+  }
+
+  if (
+    key ===
+    "status"
+  ) {
+    return record.status.label
+  }
+
+  return record[key]
+
+}
+
+function sorted(items) {
+
+  return [...items].sort(
+    (a, b) => {
+
+      const A =
+        sortValue(
+          a,
+          sortKey
+        )
+
+      const B =
+        sortValue(
+          b,
+          sortKey
+        )
+
+      if (
+        typeof A ===
+        "number"
+      ) {
+        return (
+          A - B
+        ) * sortDir
+      }
+
+      if (
+        typeof A ===
+        "boolean"
+      ) {
+        return (
+          Number(A) -
+          Number(B)
+        ) * sortDir
+      }
+
+      return String(
+        A ?? ""
+      ).localeCompare(
+        String(
+          B ?? ""
+        )
+      ) * sortDir
+
+    }
+  )
+
+}
+
+const yesno =
+  (value) =>
+    value
+      ? '<span class="yes">✓ Yes</span>'
+      : '<span class="no">— No</span>'
+
+const badges =
+  (items) =>
+    items.length
+      ? '<div class="badges">' +
+        items
+          .map(
+            (item) =>
+              '<span class="badge">' +
+              esc(item) +
+              "</span>"
+          )
+          .join("") +
+        "</div>"
+      : '<span class="no">—</span>'
+
+function render() {
+
+  const visible =
+    sorted(
+      filtered()
+    )
+
+  empty.hidden =
+    visible.length !==
+    0
+
+  rows.innerHTML =
+    visible
+      .map(
+        (record) =>
+          '<tr>' +
+
+          '<td class="title">' +
+          esc(
+            record.title
+          ) +
+          '<span class="path">' +
+          esc(
+            record.path
+          ) +
+          "</span>" +
+          "</td>" +
+
+          "<td>" +
+          badges(
+            record.courses
+          ) +
+          "</td>" +
+
+          "<td>" +
+          (
+            record.topic
+              ? esc(
+                  record.topic
+                )
+              : '<span class="no">Missing</span>'
+          ) +
+          "</td>" +
+
+          "<td>" +
+          yesno(
+            record.published
+          ) +
+          "</td>" +
+
+          "<td>" +
+          yesno(
+            record.solutionExists
+          ) +
+          "</td>" +
+
+          "<td>" +
+          yesno(
+            record.showSolution
+          ) +
+          "</td>" +
+
+          "<td>" +
+          record.prerequisites +
+          "</td>" +
+
+          "<td>" +
+          record.related +
+          "</td>" +
+
+          '<td class="status ' +
+          record.status.level +
+          '">' +
+          esc(
+            record.status.label
+          ) +
+          "</td>" +
+
+          "</tr>"
+      )
+      .join("")
+
+  const published =
+    visible.filter(
+      (record) =>
+        record.published
+    ).length
+
+  const missing =
+    visible.filter(
+      (record) =>
+        !record.solutionExists
+    ).length
+
+  const hidden =
+    visible.filter(
+      (record) =>
+        record.solutionExists &&
+        !record.showSolution
+    ).length
+
+  const problems =
+    visible.filter(
+      (record) =>
+        record.status.level ===
+        "error"
+    ).length
+
+  const values = [
+
+    [
+      "Showing",
+      visible.length +
+      " of " +
+      records.length,
+    ],
+
+    [
+      "Published",
+      published,
+    ],
+
+    [
+      "Drafts",
+      visible.length -
+      published,
+    ],
+
+    [
+      "Missing solutions",
+      missing,
+    ],
+
+    [
+      "Hidden solutions",
+      hidden,
+    ],
+
+    [
+      "Problems",
+      problems,
+    ],
+
+  ]
+
+  summary.innerHTML =
+    values
+      .map(
+        (item) =>
+          '<span class="chip">' +
+          item[0] +
+          " <strong>" +
+          item[1] +
+          "</strong></span>"
+      )
+      .join("")
+
+  resizeFrame()
+
+}
+
+course.addEventListener(
+  "change",
+  () => {
+    fillTopics()
+    render()
+  }
+)
+
+topic.addEventListener(
+  "change",
+  render
+)
+
+pub.addEventListener(
+  "change",
+  render
+)
+
+sol.addEventListener(
+  "change",
+  render
+)
+
+search.addEventListener(
+  "input",
+  render
+)
+
+el("reset")
+  .addEventListener(
+    "click",
+    () => {
+
+      course.value =
+        ""
+
+      fillTopics()
+
+      topic.value =
+        ""
+
+      pub.value =
+        ""
+
+      sol.value =
+        ""
+
+      search.value =
+        ""
+
+      sortKey =
+        "topic"
+
+      sortDir =
+        1
+
+      render()
+
+    }
+  )
+
+document
+  .querySelectorAll(
+    "th[data-sort]"
+  )
+  .forEach(
+    (header) => {
+
+      header.addEventListener(
+        "click",
+        () => {
+
+          const key =
+            header.dataset.sort
+
+          if (
+            sortKey === key
+          ) {
+            sortDir *=
+              -1
+          } else {
+            sortKey =
+              key
+
+            sortDir =
+              1
+          }
+
+          render()
+
+        }
+      )
+
+    }
+  )
+
+window.addEventListener(
+  "load",
+  resizeFrame
+)
+
+window.addEventListener(
+  "resize",
+  resizeFrame
+)
+
+fillCourses()
+fillTopics()
+render()
+
+</script>
+
+</body>
+
+</html>
