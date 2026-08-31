@@ -220,18 +220,6 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
-    // Hide the legacy Polynomials folder from the sidebar.
-    // QODs are accessed through QOD Practice Questions.
-    if (
-      node.isFolder &&
-      (
-        node.slugSegment?.toLowerCase() === "polynomials" ||
-        node.displayName?.toLowerCase() === "polynomials"
-      )
-    ) {
-      return false
-    }
-
     // Hide the raw QOD Question Bank folder from the sidebar.
     // Individual QOD pages remain accessible through the browser
     // and through relationship links.
@@ -589,38 +577,14 @@ config.plugins.transformers.push({
             },
           ],
         }
-
-        const getText = (node: any): string => {
-          if (node?.type === "text") {
-            return String(node.value ?? "")
-          }
-
-          return (node?.children ?? [])
-            .map(getText)
-            .join("")
-        }
-
-        // When solutions are visible, put the relationship
-        // section immediately before the Solution.
+        // Keep the immediate QOD flow together:
         //
-        // When solutions are hidden, append the relationship
-        // section after the Question.
-        const solutionIndex = (tree.children ?? []).findIndex(
-          (node: any) =>
-            node?.type === "element" &&
-            node?.tagName === "h2" &&
-            getText(node).trim().toLowerCase() === "solution",
-        )
-
-        if (solutionIndex !== -1) {
-          tree.children.splice(
-            solutionIndex,
-            0,
-            relationshipSection,
-          )
-        } else {
-          tree.children.push(relationshipSection)
-        }
+        // Question
+        // Solution
+        // Explore this idea
+        //
+        // If no solution exists, this simply follows the Question.
+        tree.children.push(relationshipSection)
       },
     ]
   },
