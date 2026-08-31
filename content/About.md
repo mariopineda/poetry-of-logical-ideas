@@ -188,3 +188,9 @@ You certainly don't need calculus to understand the idea behind **The Osculatori
 ---
 
 **The Osculatorium** was created and is maintained by **Dr. Mario Pineda** for his mathematics students.
+
+<!-- QOD-GRAPH-LINK -->
+
+## Explore the QOD Graph
+
+Curious how the questions connect? [[QOD Graph|Explore the published QOD collection as an interactive network]]. Drag the nodes, zoom around, and click any question to open it.
