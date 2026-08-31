@@ -559,3 +559,21 @@ body[data-slug="teacher-control-panel"] iframe {
   width: 100%;
   max-width: none;
 }
+
+/* ABOUT PAGE LIGHT MODE CALLOUTS:START */
+
+/*
+   About page only.
+   In light mode, use a neutral high-contrast treatment instead
+   of Quartz's bright cyan callout colours.
+*/
+html[saved-theme="light"] body:has(.about-page-marker)
+.callout[data-callout="info"],
+html[saved-theme="light"] body:has(.about-page-marker)
+.callout[data-callout="abstract"] {
+  --color: var(--darkgray);
+  --border: color-mix(in srgb, var(--darkgray) 38%, var(--light));
+  --bg: color-mix(in srgb, var(--darkgray) 7%, var(--light));
+}
+
+/* ABOUT PAGE LIGHT MODE CALLOUTS:END */
