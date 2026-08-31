@@ -311,6 +311,10 @@ const config = await loadQuartzConfig()
 //
 // remove the Solution heading and everything after it
 // before Quartz renders the page.
+//
+// When the solution is visible, keep the Markdown heading as an
+// internal marker but remove the heading from the rendered HTML.
+// The collapsed "Show solution" callout becomes the visible label.
 config.plugins.transformers.push({
   name: "QodSolutionVisibility",
 
@@ -349,8 +353,40 @@ config.plugins.transformers.push({
       },
     ]
   },
-} as any)
 
+  htmlPlugins() {
+    return [
+      () => (tree: any, file: any) => {
+        if (file.data.frontmatter?.type !== "qod") {
+          return
+        }
+
+        const children = tree.children ?? []
+
+        const getText = (node: any): string => {
+          if (node?.type === "text") {
+            return String(node.value ?? "")
+          }
+
+          return (node?.children ?? [])
+            .map(getText)
+            .join("")
+        }
+
+        const solutionHeadingIndex = children.findIndex(
+          (node: any) =>
+            node?.type === "element" &&
+            node?.tagName === "h2" &&
+            getText(node).trim().toLowerCase() === "solution",
+        )
+
+        if (solutionHeadingIndex !== -1) {
+          children.splice(solutionHeadingIndex, 1)
+        }
+      },
+    ]
+  },
+} as any)
 // ------------------------------------------------------------
 // QOD RELATIONSHIP DISPLAY
 // ------------------------------------------------------------
