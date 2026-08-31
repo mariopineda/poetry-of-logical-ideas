@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **13 Questions of the Day** · **Courses:** Math 10C, Math 20-3, Math 30-1, Math 30-2
+> **16 Questions of the Day** · **Courses:** Math 10C, Math 20-1, Math 20-3, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
 
@@ -17,6 +17,9 @@ Practice questions for **Exponential Functions**.
 
 | Question | Course(s) |
 | --- | --- |
+| [[Math/Exponential Functions/Common Ratio 1\|Common Ratio 1]] | Math 20-1, Math 30-1, Math 30-2 |
+| [[Math/Exponential Functions/Common Ratio 2\|Common Ratio 2]] | Math 20-1, Math 30-1, Math 30-2 |
+| [[Math/Exponential Functions/Common Ratio 3\|Common Ratio 3]] | Math 20-1, Math 30-1, Math 30-2 |
 | [[Math/Exponential Functions/Exponent Laws 1\|Exponent Laws 1]] | Math 10C |
 | [[Math/Exponential Functions/Exponent Laws 2\|Exponent Laws 2]] | Math 10C |
 | [[Math/Exponential Functions/Exponent Laws 3\|Exponent Laws 3]] | Math 10C |
