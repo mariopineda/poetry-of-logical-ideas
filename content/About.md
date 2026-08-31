@@ -11,6 +11,7 @@ aliases:
 ---
 
 <div class="about-page-marker"></div>
+
 Welcome to **The Osculatorium** — a place for exploring mathematics, solving problems, and discovering how mathematical ideas connect.
 
 ## What is this?
@@ -192,4 +193,3 @@ The basic idea of osculation is simple: two curves can meet and follow one anoth
 ---
 
 **The Osculatorium** was created and is maintained by **Dr. Mario Pineda** for his mathematics students.
-
