@@ -233,6 +233,18 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       return false
     }
 
+    // Hide the standalone QOD Graph page from the Explorer.
+    // It is intentionally linked only from the About page.
+    if (
+      !node.isFolder &&
+      (
+        node.slugSegment?.toLowerCase() === "qod-graph" ||
+        node.displayName?.toLowerCase() === "qod graph"
+      )
+    ) {
+      return false
+    }
+
     // Hide the standalone QOD Browser page.
     // It remains embedded inside QOD Practice Questions.
     if (
@@ -1658,6 +1670,258 @@ config.plugins.transformers.push({
     }
   },
 } as any)
+// ------------------------------------------------------------
+// QOD GRAPH PAGE
+// ------------------------------------------------------------
+//
+// A playful force-directed graph containing only QOD pages that
+// exist in the published Quartz content tree.
+//
+// Nodes:
+//   coloured by course
+//   multicolour when a QOD belongs to multiple courses
+//
+// Edges:
+//   prerequisite -> directional
+//   related      -> undirected
+//
+// The page itself is intentionally hidden from the Explorer and
+// is linked only from About.
+config.plugins.transformers.push({
+  name: "QodGraphPage",
+
+  htmlPlugins() {
+    const liveQods = [...qodBySlug.values()].filter(
+      (entry) =>
+        !entry.slug.toLowerCase().includes("backup"),
+    )
+
+    const liveByName = new Map(
+      liveQods.map((entry) => [
+        entry.name.toLowerCase(),
+        entry,
+      ]),
+    )
+
+    const graphNodes = liveQods.map((entry) => ({
+      id: entry.slug,
+      name: entry.name,
+      courses: entry.courses,
+      url: `./${entry.slug}`,
+    }))
+
+    const graphLinks: Array<{
+      source: string
+      target: string
+      type: "prerequisite" | "related"
+    }> = []
+
+    const relatedSeen = new Set<string>()
+
+    for (const entry of liveQods) {
+      for (
+        const prerequisiteName of
+        entry.prerequisites
+      ) {
+        const prerequisite =
+          liveByName.get(
+            prerequisiteName.toLowerCase(),
+          )
+
+        if (!prerequisite) continue
+
+        graphLinks.push({
+          source: prerequisite.slug,
+          target: entry.slug,
+          type: "prerequisite",
+        })
+      }
+
+      for (const relatedName of entry.related) {
+        const related =
+          liveByName.get(
+            relatedName.toLowerCase(),
+          )
+
+        if (!related) continue
+
+        const pair = [
+          entry.slug,
+          related.slug,
+        ].sort()
+
+        const key = pair.join("::")
+
+        if (relatedSeen.has(key)) continue
+        relatedSeen.add(key)
+
+        graphLinks.push({
+          source: pair[0],
+          target: pair[1],
+          type: "related",
+        })
+      }
+    }
+
+    const graphPayload = encodeURIComponent(
+      JSON.stringify({
+        nodes: graphNodes,
+        links: graphLinks,
+      }),
+    )
+
+    return [
+      () => (tree: any, file: any) => {
+        const currentSlug =
+          String(file.data.slug ?? "")
+
+        if (currentSlug !== "qod-graph") {
+          return
+        }
+
+        tree.children = [
+          {
+            type: "element",
+            tagName: "div",
+            properties: {
+              className: ["qod-graph-page"],
+              "data-qod-graph": graphPayload,
+            },
+            children: [
+              {
+                type: "element",
+                tagName: "p",
+                properties: {
+                  className: ["qod-graph-intro"],
+                },
+                children: [
+                  {
+                    type: "text",
+                    value:
+                      "A playful map of the published QOD collection. Drag the questions around, zoom and pan through the network, and click any node to open the question.",
+                  },
+                ],
+              },
+
+              {
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: ["qod-graph-meta"],
+                },
+                children: [
+                  {
+                    type: "element",
+                    tagName: "span",
+                    properties: {
+                      className: [
+                        "qod-graph-count",
+                      ],
+                    },
+                    children: [],
+                  },
+                ],
+              },
+
+              {
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: [
+                    "qod-graph-toolbar",
+                  ],
+                },
+                children: [],
+              },
+
+              {
+                type: "element",
+                tagName: "div",
+                properties: {
+                  className: [
+                    "qod-graph-viewport",
+                  ],
+                },
+                children: [
+                  {
+                    type: "element",
+                    tagName: "canvas",
+                    properties: {
+                      className: [
+                        "qod-graph-canvas",
+                      ],
+                    },
+                    children: [],
+                  },
+
+                  {
+                    type: "element",
+                    tagName: "div",
+                    properties: {
+                      className: [
+                        "qod-graph-tooltip",
+                      ],
+                      hidden: true,
+                    },
+                    children: [],
+                  },
+                ],
+              },
+
+              {
+                type: "element",
+                tagName: "p",
+                properties: {
+                  className: [
+                    "qod-graph-status",
+                  ],
+                },
+                children: [
+                  {
+                    type: "text",
+                    value:
+                      "Loading the QOD graph…",
+                  },
+                ],
+              },
+            ],
+          },
+        ]
+      },
+    ]
+  },
+
+  externalResources() {
+    return {
+      js: [
+        {
+          script: fs.readFileSync(
+            path.resolve(
+              "quartz/static/qod-graph.js",
+            ),
+            "utf8",
+          ),
+          loadTime: "afterDOMReady",
+          contentType: "inline",
+        },
+      ],
+
+      css: [
+        {
+          content: fs.readFileSync(
+            path.resolve(
+              "quartz/styles/qod-graph.scss",
+            ),
+            "utf8",
+          ),
+          inline: true,
+        },
+      ],
+    }
+  },
+} as any)
+
+
 export default config
 
 export const layout = await loadQuartzLayout()

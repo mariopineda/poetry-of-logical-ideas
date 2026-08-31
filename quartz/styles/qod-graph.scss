@@ -1,0 +1,189 @@
+.qod-graph-page {
+  margin-top: 1rem;
+}
+
+.qod-graph-intro {
+  max-width: 70rem;
+  margin-bottom: 1rem;
+}
+
+.qod-graph-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 0.75rem 0;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.qod-graph-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin: 0.8rem 0 1rem;
+}
+
+.qod-graph-course-button,
+.qod-graph-reset-button {
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: var(--light);
+  color: var(--dark);
+  padding: 0.4rem 0.7rem;
+  font: inherit;
+  font-size: 0.82rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.qod-graph-course-button:hover,
+.qod-graph-reset-button:hover,
+.qod-graph-course-button.is-active {
+  border-color: var(--secondary);
+  background: color-mix(
+    in srgb,
+    var(--secondary) 10%,
+    var(--light)
+  );
+}
+
+.qod-graph-course-button.is-active {
+  font-weight: 600;
+}
+
+.qod-graph-course-swatch {
+  width: 0.72rem;
+  height: 0.72rem;
+  border-radius: 50%;
+  flex: none;
+}
+
+.qod-graph-reset-button {
+  margin-left: 0.3rem;
+}
+
+.qod-graph-link-key {
+  color: var(--gray);
+  font-size: 0.78rem;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+.qod-graph-viewport {
+  position: relative;
+  width: 100%;
+  height: min(72vh, 820px);
+  min-height: 560px;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  overflow: hidden;
+  background:
+    radial-gradient(
+      circle at center,
+      color-mix(
+        in srgb,
+        var(--lightgray) 20%,
+        transparent
+      ),
+      transparent 68%
+    ),
+    var(--light);
+  box-shadow: 0 2px 10px rgb(0 0 0 / 5%);
+  touch-action: none;
+}
+
+.qod-graph-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.qod-graph-canvas:active {
+  cursor: grabbing;
+}
+
+.qod-graph-tooltip {
+  position: absolute;
+  z-index: 5;
+  pointer-events: none;
+  max-width: 260px;
+  padding: 0.55rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  box-shadow: 0 3px 14px rgb(0 0 0 / 14%);
+  color: var(--dark);
+  font-size: 0.82rem;
+}
+
+.qod-graph-tooltip strong,
+.qod-graph-tooltip span {
+  display: block;
+}
+
+.qod-graph-tooltip span {
+  margin-top: 0.2rem;
+  color: var(--gray);
+  font-size: 0.75rem;
+}
+
+.qod-graph-status {
+  margin-top: 0.7rem;
+  color: var(--gray);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 800px) {
+  .qod-graph-viewport {
+    height: 68vh;
+    min-height: 460px;
+  }
+
+  .qod-graph-link-key {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+/* ---------------------------------------------------------
+   QOD Graph layout
+   Put the graph first and its interactive controls below it.
+   --------------------------------------------------------- */
+
+.qod-graph-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.qod-graph-intro {
+  order: 1;
+}
+
+.qod-graph-meta {
+  order: 2;
+}
+
+.qod-graph-viewport {
+  order: 3;
+}
+
+.qod-graph-toolbar {
+  order: 4;
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+  justify-content: center;
+}
+
+.qod-graph-status {
+  order: 5;
+  text-align: center;
+}
+
+.qod-graph-link-key {
+  margin-left: 0.45rem;
+}
