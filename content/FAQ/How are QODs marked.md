@@ -12,7 +12,7 @@ related:
 
 Only selected QODs are marked, so you should complete every QOD as though it will be selected. A missed QOD receives zero.
 
-**Marks are based on what your work actually demonstrates.** A genuine attempt may receive partial credit, but the work must be legible enough to evaluate and must show your own mathematical reasoning. Simply writing something down does not automatically earn marks. If the work cannot be read, does not show enough reasoning to demonstrate understanding, or cannot reasonably be assessed, little or no credit may be awarded. Work that is clearly not your ownâ€”including copied work or AI-generated work submitted as your ownâ€”will receive a mark of zero and will be treated as academic dishonesty, with the appropriate disciplinary consequences.
+**Marks are based on what your work actually demonstrates.** A genuine attempt may receive partial credit, but the work must be legible enough to evaluate and must show your own mathematical reasoning. Simply writing something down does not automatically earn marks. If the work cannot be read, does not show enough reasoning to demonstrate understanding, or cannot reasonably be assessed, little or no credit may be awarded. Work that is clearly not your own—including copied work or AI-generated work submitted as your own—will receive a mark of zero and will be treated as academic dishonesty, with the appropriate disciplinary consequences.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
