@@ -80,6 +80,31 @@ function displayPath(file) {
   return `content/Math/${rel}`
 }
 
+function qodHref(file) {
+  const rel = path
+    .relative(QOD_ROOT, file)
+    .replaceAll("\\", "/")
+    .replace(/\.md$/i, "")
+
+  const slug = rel
+    .split("/")
+    .map((segment) =>
+      segment
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, ""),
+    )
+    .join("/")
+
+  // The control-panel HTML is located at:
+  // /static/teacher-control-panel/
+  //
+  // ../../Math/... therefore points to the normal Quartz QOD page.
+  return `../../Math/${slug}`
+}
+
 // ------------------------------------------------------------
 // SIMPLE YAML PARSER
 //
@@ -652,6 +677,9 @@ for (
 
       path:
         displayPath(file),
+
+      href:
+        qodHref(file),
     }
 
     record.status =
@@ -1136,6 +1164,37 @@ td:nth-child(9) {
 .title {
   font-weight:
     700;
+}
+
+.title-link {
+  color:
+    inherit;
+
+  text-decoration:
+    underline;
+
+  text-decoration-thickness:
+    1px;
+
+  text-underline-offset:
+    2px;
+}
+
+.title-link:hover {
+  text-decoration-thickness:
+    2px;
+}
+
+.title-link:focus-visible {
+  outline:
+    2px solid
+    currentColor;
+
+  outline-offset:
+    2px;
+
+  border-radius:
+    2px;
 }
 
 .path {
@@ -1934,8 +1993,20 @@ function render() {
             "<tr>" +
 
             '<td class="title">' +
-            esc(
-              record.title
+            (
+              record.published
+                ? '<a class="title-link" href="' +
+                  esc(
+                    record.href
+                  ) +
+                  '" target="_blank" rel="noopener noreferrer">' +
+                  esc(
+                    record.title
+                  ) +
+                  "</a>"
+                : esc(
+                    record.title
+                  )
             ) +
             '<span class="path">' +
             esc(
