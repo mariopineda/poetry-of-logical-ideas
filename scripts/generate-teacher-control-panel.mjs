@@ -1,125 +1,523 @@
 import fs from "node:fs"
 import path from "node:path"
-import { parse as parseYaml } from "yaml"
 
 const ROOT = process.cwd()
-const QOD_ROOT = path.join(ROOT, "content", "Math")
-const PANEL_DIR = path.join(ROOT, "quartz", "static", "teacher-control-panel")
-const PANEL_FILE = path.join(PANEL_DIR, "index.html")
-const WRAPPER_FILE = path.join(ROOT, "content", "teacher-control-panel.md")
+
+// ------------------------------------------------------------
+// SOURCE
+//
+// Normal/manual use:
+//   scans content/Math
+//
+// Publishing-script use:
+//   set TEACHER_QOD_SOURCE to the Math folder in the full
+//   Obsidian vault so unpublished QODs are included too.
+// ------------------------------------------------------------
+
+const DEFAULT_QOD_ROOT = path.join(
+  ROOT,
+  "content",
+  "Math",
+)
+
+const QOD_ROOT = process.env.TEACHER_QOD_SOURCE
+  ? path.resolve(process.env.TEACHER_QOD_SOURCE)
+  : DEFAULT_QOD_ROOT
+
+const PANEL_DIR = path.join(
+  ROOT,
+  "quartz",
+  "static",
+  "teacher-control-panel",
+)
+
+const PANEL_FILE = path.join(
+  PANEL_DIR,
+  "index.html",
+)
+
+const WRAPPER_FILE = path.join(
+  ROOT,
+  "content",
+  "teacher-control-panel.md",
+)
+
+// ------------------------------------------------------------
+// FILE DISCOVERY
+// ------------------------------------------------------------
 
 function walk(dir) {
-  return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
-    const full = path.join(dir, entry.name)
+  return fs
+    .readdirSync(dir, {
+      withFileTypes: true,
+    })
+    .flatMap((entry) => {
+      const full = path.join(
+        dir,
+        entry.name,
+      )
 
-    if (entry.isDirectory()) {
-      return walk(full)
+      if (entry.isDirectory()) {
+        return walk(full)
+      }
+
+      return (
+        entry.isFile() &&
+        entry.name
+          .toLowerCase()
+          .endsWith(".md")
+      )
+        ? [full]
+        : []
+    })
+}
+
+function displayPath(file) {
+  const rel = path
+    .relative(QOD_ROOT, file)
+    .replaceAll("\\", "/")
+
+  return `content/Math/${rel}`
+}
+
+// ------------------------------------------------------------
+// SIMPLE YAML PARSER
+//
+// Deliberately dependency-free so this generator works inside
+// the publisher's fresh Git clone before npm dependencies exist.
+//
+// Supports the frontmatter structures used by the QOD files:
+//   key: value
+//   key: true / false
+//   key: [a, b, c]
+//   key:
+//     - a
+//     - b
+// ------------------------------------------------------------
+
+function parseScalar(value) {
+  const text = String(
+    value ?? "",
+  ).trim()
+
+  if (
+    text.length >= 2 &&
+    text.startsWith("'") &&
+    text.endsWith("'")
+  ) {
+    return text
+      .slice(1, -1)
+      .replaceAll("''", "'")
+  }
+
+  if (
+    text.length >= 2 &&
+    text.startsWith('"') &&
+    text.endsWith('"')
+  ) {
+    try {
+      return JSON.parse(text)
+    } catch {
+      return text.slice(1, -1)
+    }
+  }
+
+  const lower =
+    text.toLowerCase()
+
+  if (lower === "true") {
+    return true
+  }
+
+  if (lower === "false") {
+    return false
+  }
+
+  if (
+    lower === "null" ||
+    text === "~"
+  ) {
+    return null
+  }
+
+  return text
+}
+
+function parseInlineList(value) {
+  const text = value.trim()
+
+  if (
+    !text.startsWith("[") ||
+    !text.endsWith("]")
+  ) {
+    return []
+  }
+
+  const inner =
+    text.slice(1, -1)
+
+  if (!inner.trim()) {
+    return []
+  }
+
+  const items = []
+
+  let current = ""
+  let quote = null
+  let escaped = false
+
+  for (const char of inner) {
+    if (escaped) {
+      current += char
+      escaped = false
+      continue
     }
 
-    return entry.isFile() && entry.name.toLowerCase().endsWith(".md")
-      ? [full]
-      : []
-  })
+    if (
+      quote === '"' &&
+      char === "\\"
+    ) {
+      current += char
+      escaped = true
+      continue
+    }
+
+    if (quote) {
+      current += char
+
+      if (char === quote) {
+        quote = null
+      }
+
+      continue
+    }
+
+    if (
+      char === "'" ||
+      char === '"'
+    ) {
+      quote = char
+      current += char
+      continue
+    }
+
+    if (char === ",") {
+      items.push(
+        parseScalar(current),
+      )
+
+      current = ""
+      continue
+    }
+
+    current += char
+  }
+
+  if (current.trim()) {
+    items.push(
+      parseScalar(current),
+    )
+  }
+
+  return items
+}
+
+function parseSimpleYaml(text) {
+  const result = {}
+
+  const lines =
+    text.split(/\r?\n/)
+
+  for (
+    let i = 0;
+    i < lines.length;
+    i++
+  ) {
+    const line =
+      lines[i]
+
+    if (
+      !line.trim() ||
+      line
+        .trimStart()
+        .startsWith("#")
+    ) {
+      continue
+    }
+
+    const match =
+      line.match(
+        /^([A-Za-z0-9_-]+):\s*(.*)$/,
+      )
+
+    if (!match) {
+      continue
+    }
+
+    const key =
+      match[1]
+
+    const rawValue =
+      match[2]
+
+    if (rawValue === "") {
+      const values = []
+
+      let j =
+        i + 1
+
+      while (
+        j < lines.length
+      ) {
+        const item =
+          lines[j].match(
+            /^\s*-\s*(.*?)\s*$/,
+          )
+
+        if (!item) {
+          break
+        }
+
+        values.push(
+          parseScalar(
+            item[1],
+          ),
+        )
+
+        j++
+      }
+
+      if (values.length) {
+        result[key] =
+          values
+
+        i =
+          j - 1
+      } else {
+        result[key] =
+          ""
+      }
+
+      continue
+    }
+
+    const trimmed =
+      rawValue.trim()
+
+    if (
+      trimmed.startsWith("[") &&
+      trimmed.endsWith("]")
+    ) {
+      result[key] =
+        parseInlineList(
+          trimmed,
+        )
+
+      continue
+    }
+
+    result[key] =
+      parseScalar(rawValue)
+  }
+
+  return result
 }
 
 function frontmatter(text) {
-  text = text.replace(/^\uFEFF/, "")
+  text =
+    text.replace(
+      /^\uFEFF/,
+      "",
+    )
 
-  const match = text.match(
-    /^---\s*\r?\n([\s\S]*?)\r?\n---\s*(?:\r?\n|$)([\s\S]*)$/,
-  )
+  const match =
+    text.match(
+      /^---\s*\r?\n([\s\S]*?)\r?\n---\s*(?:\r?\n|$)([\s\S]*)$/,
+    )
 
-  if (!match) return null
+  if (!match) {
+    return null
+  }
 
   return {
-    fm: parseYaml(match[1]) ?? {},
-    body: match[2] ?? "",
+    fm:
+      parseSimpleYaml(
+        match[1],
+      ),
+
+    body:
+      match[2] ?? "",
   }
 }
+
+// ------------------------------------------------------------
+// NORMALIZATION
+// ------------------------------------------------------------
 
 function arr(value) {
   if (Array.isArray(value)) {
     return value
-      .filter((item) => item !== null && item !== undefined)
+      .filter(
+        (item) =>
+          item !== null &&
+          item !== undefined,
+      )
       .map(String)
   }
 
-  if (value === null || value === undefined || value === "") {
+  if (
+    value === null ||
+    value === undefined ||
+    value === ""
+  ) {
     return []
   }
 
-  return [String(value)]
+  return [
+    String(value),
+  ]
 }
 
 function bool(value) {
   return (
     value === true ||
-    (typeof value === "string" &&
-      value.trim().toLowerCase() === "true")
+    (
+      typeof value ===
+        "string" &&
+      value
+        .trim()
+        .toLowerCase() ===
+        "true"
+    )
   )
 }
 
+// ------------------------------------------------------------
+// SOLUTION DETECTION
+//
+// A solution counts only if there is substantive content beneath
+// the "## Solution" heading.
+// ------------------------------------------------------------
+
 function solutionExists(body) {
-  const visible = body.replace(/<!--[\s\S]*?-->/g, "")
+  const visible =
+    body.replace(
+      /<!--[\s\S]*?-->/g,
+      "",
+    )
 
-  const heading = visible.match(/^##\s+Solution\s*$/im)
+  const heading =
+    visible.match(
+      /^##\s+Solution\s*$/im,
+    )
 
-  if (!heading || heading.index === undefined) {
+  if (
+    !heading ||
+    heading.index ===
+      undefined
+  ) {
     return false
   }
 
-  let section = visible.slice(
-    heading.index + heading[0].length,
-  )
+  let section =
+    visible.slice(
+      heading.index +
+        heading[0].length,
+    )
 
-  const nextHeading = section.search(/^##\s+/m)
+  const nextHeading =
+    section.search(
+      /^##\s+/m,
+    )
 
-  if (nextHeading >= 0) {
-    section = section.slice(0, nextHeading)
+  if (
+    nextHeading >= 0
+  ) {
+    section =
+      section.slice(
+        0,
+        nextHeading,
+      )
   }
 
-  section = section
-    .replace(
-      /^\s*>\s*\[![^\]]+\][+-]?\s*.*$/gim,
-      "",
-    )
-    .replace(/^\s*>\s?/gm, "")
-    .replace(/[*_`#>|~-]/g, "")
-    .replace(/\s+/g, " ")
-    .trim()
+  section =
+    section
+      .replace(
+        /^\s*>\s*\[![^\]]+\][+-]?\s*.*$/gim,
+        "",
+      )
+      .replace(
+        /^\s*>\s?/gm,
+        "",
+      )
+      .replace(
+        /[*_`#>|~-]/g,
+        "",
+      )
+      .replace(
+        /\s+/g,
+        " ",
+      )
+      .trim()
 
-  return section.length >= 3
+  return (
+    section.length >= 3
+  )
 }
+
+// ------------------------------------------------------------
+// STATUS LOGIC
+// ------------------------------------------------------------
 
 function status(record) {
   const problems = []
 
-  if (!record.courses.length) {
-    problems.push("Missing course")
+  if (
+    !record.courses.length
+  ) {
+    problems.push(
+      "Missing course",
+    )
   }
 
   if (!record.topic) {
-    problems.push("Missing topic")
+    problems.push(
+      "Missing topic",
+    )
   }
 
   if (
     record.showSolution &&
     !record.solutionExists
   ) {
-    problems.push("Solution ON but missing")
+    problems.push(
+      "Solution ON but missing",
+    )
   }
 
-  if (problems.length) {
+  if (
+    problems.length
+  ) {
     return {
-      label: problems.join(" · "),
-      level: "error",
+      label:
+        problems.join(
+          " · ",
+        ),
+
+      level:
+        "error",
     }
   }
 
-  if (!record.published) {
+  if (
+    !record.published
+  ) {
     return {
-      label: "Draft",
-      level: "draft",
+      label:
+        "Draft",
+
+      level:
+        "draft",
     }
   }
 
@@ -128,114 +526,186 @@ function status(record) {
     !record.showSolution
   ) {
     return {
-      label: "Solution available but hidden",
-      level: "warning",
+      label:
+        "Solution available but hidden",
+
+      level:
+        "warning",
     }
   }
 
-  if (!record.solutionExists) {
+  if (
+    !record.solutionExists
+  ) {
     return {
-      label: "Published · no solution yet",
-      level: "warning",
+      label:
+        "Published · no solution yet",
+
+      level:
+        "warning",
     }
   }
 
   return {
-    label: "Ready",
-    level: "ready",
+    label:
+      "Ready",
+
+    level:
+      "ready",
   }
 }
 
-if (!fs.existsSync(QOD_ROOT)) {
-  console.error(`Cannot find ${QOD_ROOT}`)
+// ------------------------------------------------------------
+// READ QODS
+// ------------------------------------------------------------
+
+if (
+  !fs.existsSync(
+    QOD_ROOT,
+  )
+) {
+  console.error(
+    `Cannot find QOD source: ${QOD_ROOT}`,
+  )
+
   process.exit(1)
 }
 
 const records = []
 const warnings = []
 
-for (const file of walk(QOD_ROOT)) {
+for (
+  const file
+  of walk(QOD_ROOT)
+) {
   try {
-    const parsed = frontmatter(
-      fs.readFileSync(file, "utf8"),
-    )
+    const parsed =
+      frontmatter(
+        fs.readFileSync(
+          file,
+          "utf8",
+        ),
+      )
 
-    if (!parsed) continue
+    if (!parsed) {
+      continue
+    }
 
-    const fm = parsed.fm
+    const fm =
+      parsed.fm
 
     if (
-      String(fm.type ?? "")
+      String(
+        fm.type ?? "",
+      )
         .trim()
-        .toLowerCase() !== "qod"
+        .toLowerCase() !==
+      "qod"
     ) {
       continue
     }
 
     const record = {
-      title: String(
-        fm.title ??
-          path.basename(file, ".md"),
-      ),
+      title:
+        String(
+          fm.title ??
+            path.basename(
+              file,
+              ".md",
+            ),
+        ),
 
-      courses: arr(fm.courses),
+      courses:
+        arr(
+          fm.courses,
+        ),
 
-      topic: String(
-        fm.topic ?? "",
-      ).trim(),
+      topic:
+        String(
+          fm.topic ?? "",
+        ).trim(),
 
-      published: bool(fm.publish),
+      published:
+        bool(
+          fm.publish,
+        ),
 
-      showSolution: bool(
-        fm.show_solution,
-      ),
+      showSolution:
+        bool(
+          fm.show_solution,
+        ),
 
       solutionExists:
-        solutionExists(parsed.body),
+        solutionExists(
+          parsed.body,
+        ),
 
       prerequisites:
-        arr(fm.prerequisites).length,
+        arr(
+          fm.prerequisites,
+        ).length,
 
       related:
-        arr(fm.related).length,
+        arr(
+          fm.related,
+        ).length,
 
-      path: path
-        .relative(ROOT, file)
-        .replaceAll("\\", "/"),
+      path:
+        displayPath(file),
     }
 
-    record.status = status(record)
+    record.status =
+      status(record)
 
-    records.push(record)
+    records.push(
+      record,
+    )
   } catch (error) {
     warnings.push(
-      `${path.relative(ROOT, file)}: ${error.message}`,
+      `${displayPath(file)}: ${error.message}`,
     )
   }
 }
 
 records.sort(
   (a, b) =>
-    a.topic.localeCompare(b.topic) ||
-    a.title.localeCompare(b.title),
+    a.topic.localeCompare(
+      b.topic,
+    ) ||
+    a.title.localeCompare(
+      b.title,
+    ),
 )
 
-const data = JSON.stringify(records)
-  .replaceAll("<", "\\u003c")
+const data =
+  JSON.stringify(
+    records,
+  ).replaceAll(
+    "<",
+    "\\u003c",
+  )
 
 const generated =
   new Date().toLocaleString(
     "en-CA",
     {
-      dateStyle: "medium",
-      timeStyle: "short",
+      dateStyle:
+        "medium",
+
+      timeStyle:
+        "short",
     },
   )
+
+// ------------------------------------------------------------
+// GENERATED CONTROL PANEL HTML
+// ------------------------------------------------------------
 
 const html = `<!doctype html>
 <html lang="en">
 
 <head>
+
 <meta charset="utf-8">
 
 <meta
@@ -248,58 +718,103 @@ const html = `<!doctype html>
   content="noindex,nofollow,noarchive"
 >
 
-<title>Teacher QOD Control Panel</title>
+<title>
+Teacher QOD Control Panel
+</title>
 
 <style>
 
 :root {
-  color-scheme: light dark;
+  color-scheme:
+    light dark;
 
-  --bg: #f6f6f4;
-  --panel: #ffffff;
-  --text: #222222;
-  --muted: #6b6b6b;
-  --border: #d7d7d2;
+  --bg:
+    #f6f6f4;
 
-  --good: #2e6b44;
-  --warn: #8a6417;
-  --bad: #9a3434;
+  --panel:
+    #ffffff;
 
-  --chip: #ecece8;
+  --text:
+    #222222;
+
+  --muted:
+    #6b6b6b;
+
+  --border:
+    #d7d7d2;
+
+  --good:
+    #2e6b44;
+
+  --warn:
+    #8a6417;
+
+  --bad:
+    #9a3434;
+
+  --chip:
+    #ecece8;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (
+  prefers-color-scheme:
+    dark
+) {
 
   :root {
-    --bg: #171719;
-    --panel: #222225;
-    --text: #eeeeee;
-    --muted: #b3b3b3;
-    --border: #414147;
+    --bg:
+      #171719;
 
-    --good: #86c99d;
-    --warn: #e0ba68;
-    --bad: #e78a8a;
+    --panel:
+      #222225;
 
-    --chip: #303034;
+    --text:
+      #eeeeee;
+
+    --muted:
+      #b3b3b3;
+
+    --border:
+      #414147;
+
+    --good:
+      #86c99d;
+
+    --warn:
+      #e0ba68;
+
+    --bad:
+      #e78a8a;
+
+    --chip:
+      #303034;
   }
 
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing:
+    border-box;
 }
 
 html,
 body {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+  margin:
+    0;
+
+  padding:
+    0;
+
+  overflow:
+    hidden;
 }
 
 body {
-  background: var(--bg);
-  color: var(--text);
+  background:
+    var(--bg);
+
+  color:
+    var(--text);
 
   font-family:
     system-ui,
@@ -309,13 +824,19 @@ body {
 }
 
 .shell {
-  width: 100%;
-  margin: 0;
-  padding: 18px 8px 28px;
+  width:
+    100%;
+
+  margin:
+    0;
+
+  padding:
+    18px 8px 28px;
 }
 
 h1 {
-  margin: 0;
+  margin:
+    0;
 
   font-size:
     clamp(
@@ -329,29 +850,43 @@ h1 {
   margin:
     5px 0 18px;
 
-  color: var(--muted);
+  color:
+    var(--muted);
 }
 
 .stamp {
-  float: right;
-  margin-top: -28px;
-  color: var(--muted);
-  font-size: 0.8rem;
+  float:
+    right;
+
+  margin-top:
+    -28px;
+
+  color:
+    var(--muted);
+
+  font-size:
+    0.8rem;
 }
 
 .filters {
-  display: grid;
+  display:
+    grid;
 
   grid-template-columns:
     repeat(
       5,
-      minmax(120px, 1fr)
+      minmax(
+        120px,
+        1fr
+      )
     )
     auto;
 
-  gap: 9px;
+  gap:
+    9px;
 
-  padding: 13px;
+  padding:
+    13px;
 
   background:
     var(--panel);
@@ -365,24 +900,41 @@ h1 {
 }
 
 .field {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+  display:
+    flex;
+
+  flex-direction:
+    column;
+
+  gap:
+    4px;
 }
 
 label {
-  font-size: 0.73rem;
-  font-weight: 700;
-  color: var(--muted);
-  text-transform: uppercase;
+  font-size:
+    0.73rem;
+
+  font-weight:
+    700;
+
+  color:
+    var(--muted);
+
+  text-transform:
+    uppercase;
 }
 
 select,
 input,
 button {
-  width: 100%;
-  min-width: 0;
-  min-height: 38px;
+  width:
+    100%;
+
+  min-width:
+    0;
+
+  min-height:
+    38px;
 
   border:
     1px solid
@@ -405,19 +957,30 @@ button {
 }
 
 button {
-  cursor: pointer;
-  align-self: end;
+  cursor:
+    pointer;
+
+  align-self:
+    end;
 }
 
 .summary {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px;
-  margin: 12px 0;
+  display:
+    flex;
+
+  flex-wrap:
+    wrap;
+
+  gap:
+    7px;
+
+  margin:
+    12px 0;
 }
 
 .chip {
-  padding: 5px 9px;
+  padding:
+    5px 9px;
 
   border:
     1px solid
@@ -434,8 +997,11 @@ button {
 }
 
 .tablewrap {
-  width: 100%;
-  overflow: visible;
+  width:
+    100%;
+
+  overflow:
+    visible;
 
   border:
     1px solid
@@ -449,9 +1015,14 @@ button {
 }
 
 table {
-  width: 100%;
-  max-width: 100%;
-  table-layout: fixed;
+  width:
+    100%;
+
+  max-width:
+    100%;
+
+  table-layout:
+    fixed;
 
   border-collapse:
     separate;
@@ -510,47 +1081,56 @@ tr:last-child td {
 
 th:nth-child(1),
 td:nth-child(1) {
-  width: 23%;
+  width:
+    23%;
 }
 
 th:nth-child(2),
 td:nth-child(2) {
-  width: 13%;
+  width:
+    13%;
 }
 
 th:nth-child(3),
 td:nth-child(3) {
-  width: 14%;
+  width:
+    14%;
 }
 
 th:nth-child(4),
 td:nth-child(4) {
-  width: 8%;
+  width:
+    8%;
 }
 
 th:nth-child(5),
 td:nth-child(5) {
-  width: 9%;
+  width:
+    9%;
 }
 
 th:nth-child(6),
 td:nth-child(6) {
-  width: 9%;
+  width:
+    9%;
 }
 
 th:nth-child(7),
 td:nth-child(7) {
-  width: 6%;
+  width:
+    6%;
 }
 
 th:nth-child(8),
 td:nth-child(8) {
-  width: 6%;
+  width:
+    6%;
 }
 
 th:nth-child(9),
 td:nth-child(9) {
-  width: 12%;
+  width:
+    12%;
 }
 
 .title {
@@ -679,7 +1259,10 @@ td:nth-child(9) {
     var(--muted);
 }
 
-@media (max-width: 1100px) {
+@media (
+  max-width:
+    1100px
+) {
 
   .filters {
     grid-template-columns:
@@ -707,7 +1290,10 @@ td:nth-child(9) {
 
 }
 
-@media (max-width: 700px) {
+@media (
+  max-width:
+    700px
+) {
 
   .filters {
     grid-template-columns:
@@ -939,11 +1525,14 @@ but anyone who knows the exact URL can open it.
 
 <script>
 
-const records = ${data}
+const records =
+  ${data}
 
 const el =
   (id) =>
-    document.getElementById(id)
+    document.getElementById(
+      id
+    )
 
 const course =
   el("course")
@@ -1003,11 +1592,15 @@ const uniq =
   (items) =>
     [
       ...new Set(
-        items.filter(Boolean)
+        items.filter(
+          Boolean
+        )
       ),
     ].sort(
       (a, b) =>
-        a.localeCompare(b)
+        a.localeCompare(
+          b
+        )
     )
 
 function resizeFrame() {
@@ -1019,9 +1612,12 @@ function resizeFrame() {
         window.frameElement
       ) {
 
-        window.frameElement.style.height =
-          document.documentElement.scrollHeight +
-          "px"
+        window.frameElement
+          .style.height =
+            document
+              .documentElement
+              .scrollHeight +
+            "px"
 
       }
 
@@ -1032,14 +1628,17 @@ function resizeFrame() {
 
 function fillCourses() {
 
-  for (
-    const value
-    of uniq(
+  const values =
+    uniq(
       records.flatMap(
         (record) =>
           record.courses
       )
     )
+
+  for (
+    const value
+    of values
   ) {
 
     const option =
@@ -1079,14 +1678,17 @@ function fillTopics() {
   topic.innerHTML =
     '<option value="">All topics</option>'
 
-  for (
-    const value
-    of uniq(
+  const values =
+    uniq(
       base.map(
         (record) =>
           record.topic
       )
     )
+
+  for (
+    const value
+    of values
   ) {
 
     const option =
@@ -1110,16 +1712,21 @@ function fillTopics() {
     [...topic.options]
       .some(
         (option) =>
-          option.value === old
+          option.value ===
+          old
       )
   ) {
+
     topic.value =
       old
+
   }
 
 }
 
-function solState(record) {
+function solState(
+  record
+) {
 
   if (
     record.solutionExists &&
@@ -1180,7 +1787,9 @@ function filtered() {
 
       if (
         sol.value &&
-        solState(record) !==
+        solState(
+          record
+        ) !==
           sol.value
       ) {
         return false
@@ -1194,7 +1803,9 @@ function filtered() {
           record.path
         )
           .toLowerCase()
-          .includes(query)
+          .includes(
+            query
+          )
       ) {
         return false
       }
@@ -1231,7 +1842,9 @@ function sortValue(
 
 }
 
-function sorted(items) {
+function sorted(
+  items
+) {
 
   return [...items].sort(
     (a, b) => {
@@ -1315,71 +1928,76 @@ function render() {
   rows.innerHTML =
     visible
       .map(
-        (record) =>
-          '<tr>' +
+        (record) => {
 
-          '<td class="title">' +
-          esc(
-            record.title
-          ) +
-          '<span class="path">' +
-          esc(
-            record.path
-          ) +
-          "</span>" +
-          "</td>" +
+          return (
+            "<tr>" +
 
-          "<td>" +
-          badges(
-            record.courses
-          ) +
-          "</td>" +
+            '<td class="title">' +
+            esc(
+              record.title
+            ) +
+            '<span class="path">' +
+            esc(
+              record.path
+            ) +
+            "</span>" +
+            "</td>" +
 
-          "<td>" +
-          (
-            record.topic
-              ? esc(
-                  record.topic
-                )
-              : '<span class="no">Missing</span>'
-          ) +
-          "</td>" +
+            "<td>" +
+            badges(
+              record.courses
+            ) +
+            "</td>" +
 
-          "<td>" +
-          yesno(
-            record.published
-          ) +
-          "</td>" +
+            "<td>" +
+            (
+              record.topic
+                ? esc(
+                    record.topic
+                  )
+                : '<span class="no">Missing</span>'
+            ) +
+            "</td>" +
 
-          "<td>" +
-          yesno(
-            record.solutionExists
-          ) +
-          "</td>" +
+            "<td>" +
+            yesno(
+              record.published
+            ) +
+            "</td>" +
 
-          "<td>" +
-          yesno(
-            record.showSolution
-          ) +
-          "</td>" +
+            "<td>" +
+            yesno(
+              record.solutionExists
+            ) +
+            "</td>" +
 
-          "<td>" +
-          record.prerequisites +
-          "</td>" +
+            "<td>" +
+            yesno(
+              record.showSolution
+            ) +
+            "</td>" +
 
-          "<td>" +
-          record.related +
-          "</td>" +
+            "<td>" +
+            record.prerequisites +
+            "</td>" +
 
-          '<td class="status ' +
-          record.status.level +
-          '">' +
-          esc(
-            record.status.label
-          ) +
-          "</td>" +
+            "<td>" +
+            record.related +
+            "</td>" +
 
-          "</tr>"
+            '<td class="status ' +
+            record.status.level +
+            '">' +
+            esc(
+              record.status.label
+            ) +
+            "</td>" +
+
+            "</tr>"
+          )
+
+        }
       )
       .join("")
 
@@ -1465,8 +2083,10 @@ function render() {
 course.addEventListener(
   "change",
   () => {
+
     fillTopics()
     render()
+
   }
 )
 
@@ -1578,6 +2198,10 @@ render()
 
 </html>`
 
+// ------------------------------------------------------------
+// QUARTZ WRAPPER
+// ------------------------------------------------------------
+
 const wrapper = `---
 title: "Teacher QOD Control Panel"
 publish: true
@@ -1591,6 +2215,10 @@ unlisted: true
   style="width:100%;height:900px;border:0;overflow:hidden;"
 ></iframe>
 `
+
+// ------------------------------------------------------------
+// WRITE OUTPUT
+// ------------------------------------------------------------
 
 fs.mkdirSync(
   PANEL_DIR,
@@ -1616,6 +2244,10 @@ console.log(
 )
 
 console.log(
+  `QOD source: ${QOD_ROOT}`,
+)
+
+console.log(
   `QODs found: ${records.length}`,
 )
 
@@ -1633,7 +2265,9 @@ console.log(
   )}`,
 )
 
-if (warnings.length) {
+if (
+  warnings.length
+) {
 
   console.log(
     "Warnings:",
