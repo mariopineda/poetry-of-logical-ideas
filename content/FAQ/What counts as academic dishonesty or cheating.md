@@ -15,6 +15,8 @@ The source could be another student, ChatGPT or another AI system, a website, pe
 
 Academic-integrity rules apply to exams, QODs, and other assessed work.
 
+If there is uncertainty about whether submitted work is a valid or reliable demonstration of your learning, you may be required to demonstrate your understanding again. Direct proof of academic dishonesty is not required before work is invalidated or a re-evaluation is required.
+
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
 

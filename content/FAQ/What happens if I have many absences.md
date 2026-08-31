@@ -9,6 +9,8 @@ related:
   - "Can course requirements change because of work, vacations, appointments, school activities, or other commitments?"
 ---
 
+This is an in-person course, and consistent attendance is expected. Regular attendance is an important part of being successful in the course.
+
 Missing many classes makes it increasingly difficult to succeed because you are missing instruction, examples, practice, QODs, and other important information.
 
 A large or increasing pattern of attendance problems may be referred to school administration and may result in removal from the course.

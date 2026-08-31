@@ -9,11 +9,15 @@ tags:
 aliases:
   - About The Osculatorium
 ---
+
+<div class="about-page-marker"></div>
 Welcome to **The Osculatorium** — a place for exploring mathematics, solving problems, and discovering how mathematical ideas connect.
 
 ## What is this?
 
 **The Osculatorium** is a growing mathematics resource I created for my students. It contains Questions of the Day, practice questions, mathematical notes and examples, class information, frequently asked questions, and other resources that may be useful throughout the semester.
+
+*This site is still under active development. Pages, links, wording, and organization may change as the resource grows, and new material will continue to be added.*
 
 It is not intended to be a textbook, and it is not meant to replace what happens in class. Think of it instead as a **growing mathematical reference**: a place where questions, ideas, examples, and connections can accumulate over time. Some pages deal directly with how our class operates, while others contain mathematics that may be useful for practice, review, or simply exploring an idea a little further.
 
@@ -39,7 +43,7 @@ That idea is central to **The Osculatorium**. The questions on this site are not
 
 If you're struggling because you've forgotten an earlier skill, follow the connection backwards, review the earlier idea, and then return and try again. If you've mastered a question, follow the connections forward and see where the idea leads. The goal is not simply to collect mathematics questions, but to make the **connections between mathematical ideas visible**.
 
-The **[[Math/QOD Map|QOD Learning Map]]** is one way to explore those connections.
+The **[[Math/QOD Map|QOD Learning Map]]** is one way to follow those connections. If you want a broader view, you can also explore the [[QOD Graph|published QODs as an interactive network]].
 
 ---
 
@@ -55,9 +59,9 @@ Getting stuck on a problem does not always mean that the current idea is the pro
 
 ## Curious about the mathematics behind the name?
 
-You certainly don't need calculus to understand the idea behind **The Osculatorium**, and you don't need calculus to use this site. But if you're curious about what *osculation* actually means mathematically, you can go a little deeper.
+The basic idea of osculation is simple: two curves can meet and follow one another extremely closely before separating again. If you are curious about what makes that happen mathematically, the sections below take the idea a little further.
 
-> [!info]- Go deeper — A calculus explanation
+> [!info]- Go deeper: A closer mathematical look
 >
 > ## Looking more closely at osculation
 >
@@ -123,7 +127,7 @@ You certainly don't need calculus to understand the idea behind **The Osculatori
 >
 > At the origin, the two curves therefore share the same **position**, the same **direction**, and the same **curvature**. Close to $x=0$, their graphs fit together extremely closely before eventually separating. That is the mathematical idea behind **osculation**.
 
-> [!abstract]- Go deeper still — Order of contact and Taylor polynomials
+> [!abstract]- Go deeper still: How closely can two curves meet?
 >
 > ## How closely can two curves meet?
 >
@@ -189,8 +193,3 @@ You certainly don't need calculus to understand the idea behind **The Osculatori
 
 **The Osculatorium** was created and is maintained by **Dr. Mario Pineda** for his mathematics students.
 
-<!-- QOD-GRAPH-LINK -->
-
-## Explore the QOD Graph
-
-Curious how the questions connect? [[QOD Graph|Explore the published QOD collection as an interactive network]]. Drag the nodes, zoom around, and click any question to open it.

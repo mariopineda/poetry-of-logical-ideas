@@ -11,6 +11,8 @@ related:
 
 The complete calculation and weighting of your final course mark are explained in the course outline. Use the course outline as the authoritative source for mark weighting.
 
+When determining a grade, all available evidence of learning may be considered, including assessments, student work, conversations, and observations, at the teacher's discretion.
+
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
 

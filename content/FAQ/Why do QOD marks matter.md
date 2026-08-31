@@ -9,7 +9,7 @@ related:
   - "Who is eligible to write a replacement exam?"
 ---
 
-QODs give you regular practice and feedback about whether you understand the material. They also affect your eligibility for the replacement exam.
+QOD marks do not directly contribute to your course grade. QODs give you regular practice and feedback about whether you understand the material. They also affect your eligibility for the replacement exam.
 
 You must have a QOD average of at least 50% when the replacement-exam selection window opens. You are therefore responsible for maintaining your QOD average throughout the course.
 

@@ -9,7 +9,7 @@ related:
   - "Can I use my phone, laptop, or tablet during regular class?"
 ---
 
-Yes. You are responsible for bringing an appropriate scientific or graphing calculator, depending on the course. A phone is not a calculator for this class.
+Yes. You are responsible for bringing the calculator required for your course. Some courses require a scientific calculator, while others require an approved graphing calculator. Check your course outline for the calculator required in your class. A phone is not a calculator for this class.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
