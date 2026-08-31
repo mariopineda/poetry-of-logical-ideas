@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -25,9 +25,8 @@ Let $w$ represent the width of the enclosure. Into the area formula for a rectan
 2. Use the quadratic formula to solve for $w$.
 3. What are the dimensions of the pasture were Jason is grazing?
 
-<!--
-
 ## Solution
 
-$x=15.1$
-
+> [!example]- Show solution
+>
+> $x=15.1$

@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -23,9 +23,8 @@ Factor:
 5. $6x^2-13xy-15y^2$
 6. $(x-3)^4-1$
 
-<!--
-
 ## Solution
 
-$(x-2)(x-4)(x^2-6x+10)$
-
+> [!example]- Show solution
+>
+> $(x-2)(x-4)(x^2-6x+10)$

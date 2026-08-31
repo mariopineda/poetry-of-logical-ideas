@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -35,17 +35,16 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 | 2.5 | 24.9 | |
 | 3.0 | 22.4 | |
 
-<!--
-
 ## Solution
 
-### A.
-
-### B.
-
-### C.
-
-### D.
-
-### E.
-
+> [!example]- Show solution
+>
+> ### A.
+>
+> ### B.
+>
+> ### C.
+>
+> ### D.
+>
+> ### E.
