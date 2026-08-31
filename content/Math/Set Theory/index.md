@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **3 Questions of the Day** · **Courses:** Math 30-2
+> **3 Questions of the Day** Â· **Courses:** Math 30-2
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Set Theory**.
 
