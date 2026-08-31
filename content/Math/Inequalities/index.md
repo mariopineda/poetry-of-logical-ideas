@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **8 Questions of the Day** Â· **Courses:** Math 20-1
+> **8 Questions of the Day** · **Courses:** Math 20-1
 >
-> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Inequalities**.
 

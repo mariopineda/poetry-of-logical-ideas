@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **6 Questions of the Day** Â· **Courses:** Math 31
+> **6 Questions of the Day** · **Courses:** Math 31
 >
-> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Curve Sketching**.
 

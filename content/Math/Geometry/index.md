@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **9 Questions of the Day** Â· **Courses:** Math 10-3, Math 20-2, Math 30-3
+> **9 Questions of the Day** · **Courses:** Math 10-3, Math 20-2, Math 30-3
 >
-> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Geometry**.
 
