@@ -119,6 +119,10 @@
     const ctx = canvas.getContext("2d")
     if (!ctx) return
 
+    // The graph handles its own touch gestures.
+    // One finger pans/drags; two fingers pinch to zoom.
+    canvas.style.touchAction = "none"
+
     const nodes = data.nodes.map((node) => ({
       ...node,
       x: undefined,
@@ -171,6 +175,8 @@
     let panning = false
     let pointerStart = null
     let moved = false
+    const activePointers = new Map()
+    let pinchStart = null
 
     function courseClusterTarget(node) {
       const knownCourses =
@@ -746,8 +752,75 @@
       tooltip.hidden = false
     }
 
+    function beginPinch() {
+      const points = Array.from(
+        activePointers.values(),
+      ).slice(0, 2)
+
+      if (points.length < 2) {
+        pinchStart = null
+        return
+      }
+
+      const centre = {
+        x: (points[0].x + points[1].x) / 2,
+        y: (points[0].y + points[1].y) / 2,
+      }
+
+      const distance = Math.max(
+        1,
+        Math.hypot(
+          points[1].x - points[0].x,
+          points[1].y - points[0].y,
+        ),
+      )
+
+      const graph = graphPoint(
+        centre.x,
+        centre.y,
+      )
+
+      pinchStart = {
+        distance,
+        scale,
+        graphX: graph.x,
+        graphY: graph.y,
+      }
+
+      if (dragNode) {
+        dragNode.fx = null
+        dragNode.fy = null
+      }
+
+      dragNode = null
+      panning = false
+      pointerStart = null
+      moved = true
+
+      simulation.alphaTarget(0)
+      tooltip && (tooltip.hidden = true)
+    }
+
     function onPointerDown(event) {
+      if (event.pointerType === "touch") {
+        event.preventDefault()
+      }
+
       const pointer = pointerPosition(event)
+
+      activePointers.set(
+        event.pointerId,
+        pointer,
+      )
+
+      canvas.setPointerCapture(
+        event.pointerId,
+      )
+
+      if (activePointers.size >= 2) {
+        beginPinch()
+        return
+      }
 
       pointerStart = {
         x: pointer.x,
@@ -774,14 +847,63 @@
       } else {
         panning = true
       }
-
-      canvas.setPointerCapture(
-        event.pointerId,
-      )
     }
 
     function onPointerMove(event) {
       const pointer = pointerPosition(event)
+
+      if (activePointers.has(event.pointerId)) {
+        activePointers.set(
+          event.pointerId,
+          pointer,
+        )
+      }
+
+      if (
+        pinchStart &&
+        activePointers.size >= 2
+      ) {
+        event.preventDefault()
+
+        const points = Array.from(
+          activePointers.values(),
+        ).slice(0, 2)
+
+        const centre = {
+          x: (points[0].x + points[1].x) / 2,
+          y: (points[0].y + points[1].y) / 2,
+        }
+
+        const distance = Math.max(
+          1,
+          Math.hypot(
+            points[1].x - points[0].x,
+            points[1].y - points[0].y,
+          ),
+        )
+
+        const nextScale = clamp(
+          pinchStart.scale *
+            (distance / pinchStart.distance),
+          0.18,
+          5,
+        )
+
+        offsetX =
+          centre.x -
+          pinchStart.graphX * nextScale
+
+        offsetY =
+          centre.y -
+          pinchStart.graphY * nextScale
+
+        scale = nextScale
+        moved = true
+
+        tooltip && (tooltip.hidden = true)
+        draw()
+        return
+      }
 
       if (pointerStart) {
         const distance = Math.hypot(
@@ -841,10 +963,19 @@
     function onPointerUp(event) {
       const pointer = pointerPosition(event)
 
+      const wasPinching =
+        pinchStart !== null ||
+        activePointers.size > 1
+
       const clickedNode =
-        !moved && dragNode
+        event.type === "pointerup" &&
+        !wasPinching &&
+        !moved &&
+        dragNode
           ? dragNode
-          : !moved
+          : event.type === "pointerup" &&
+              !wasPinching &&
+              !moved
             ? nodeAt(pointer.x, pointer.y)
             : null
 
@@ -853,11 +984,11 @@
         dragNode.fy = null
       }
 
-      simulation.alphaTarget(0)
-
       dragNode = null
-      panning = false
-      pointerStart = null
+
+      activePointers.delete(
+        event.pointerId,
+      )
 
       try {
         canvas.releasePointerCapture(
@@ -865,12 +996,46 @@
         )
       } catch {}
 
+      if (activePointers.size >= 2) {
+        beginPinch()
+        return
+      }
+
+      pinchStart = null
+
+      if (
+        wasPinching &&
+        activePointers.size === 1
+      ) {
+        const remaining =
+          activePointers.values().next().value
+
+        panning = true
+
+        pointerStart = {
+          x: remaining.x,
+          y: remaining.y,
+          offsetX,
+          offsetY,
+        }
+
+        moved = true
+        simulation.alphaTarget(0)
+        return
+      }
+
+      panning = false
+      pointerStart = null
+
+      if (activePointers.size === 0) {
+        simulation.alphaTarget(0)
+      }
+
       if (clickedNode) {
         window.location.href =
           clickedNode.url
       }
     }
-
     function onWheel(event) {
       event.preventDefault()
 
@@ -980,7 +1145,7 @@
 
     if (status) {
       status.textContent =
-        "Drag nodes, drag empty space to pan, and use the mouse wheel to zoom."
+        "Drag nodes, drag empty space to pan, and use the mouse wheel or pinch to zoom."
     }
 
     cleanupCurrentGraph = () => {
