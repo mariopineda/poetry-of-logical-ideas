@@ -1,7 +1,7 @@
 ﻿---
 title: "Can I use headphones or earbuds?"
 category: "Calculators & Technology"
-order: 5
+order: 6
 publish: true
 related:
   - "Can I use my phone, laptop, or tablet during regular class?"

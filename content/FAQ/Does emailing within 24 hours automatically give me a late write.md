@@ -1,26 +1,40 @@
 ﻿---
 title: "Does emailing within 24 hours automatically give me a late write?"
 category: "Late Writes"
-order: 3
+order: 2
 publish: true
 related:
   - "What do I do if I miss a unit exam?"
-  - "What if I do not email within 24 hours after the exam?"
-  - "Can I write the missed exam when I return to class?"
+  - "How many Late Writes can I have?"
+  - "Can I use the Replacement Exam for an exam I wrote as a Late Write?"
 ---
 
-No. Emailing within 24 hours makes you eligible to request a late write. It does not automatically approve the request.
+No.
 
-If your request is approved, you will receive more instructions.
+Emailing within 24 hours makes you eligible to **request** a Late Write. It does not automatically approve the request.
 
-A late write is not a quick or convenient way to get extra study time or choose a better exam date. It happens on my timeline, not yours. It may take several weeks or longer to arrange and may involve substantial extra work.
+Approval of a Late Write is at Dr. Pineda's discretion. Several factors may be considered, including your:
+
+- attendance;
+- punctuality;
+- history of missed assessments;
+- QOD completion;
+- participation and engagement in the course;
+- previous Late Write requests; and
+- overall pattern of responsibility toward your studies.
+
+The purpose is to consider your overall engagement with the course rather than treating a missed exam in isolation.
+
+A Late Write is not a quick or convenient way to gain extra study time or choose a different exam date.
+
+If approved, the Late Write is arranged on the teacher's timeline and may take several weeks or longer to organize.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
 
 - [[FAQ/What do I do if I miss a unit exam|What do I do if I miss a unit exam?]]
-- [[FAQ/What if I do not email within 24 hours after the exam|What if I do not email within 24 hours after the exam?]]
-- [[FAQ/Can I write the missed exam when I return to class|Can I write the missed exam when I return to class?]]
+- [[FAQ/How many Late Writes can I have|How many Late Writes can I have?]]
+- [[FAQ/Can I use the Replacement Exam for an exam I wrote as a Late Write|Can I use the Replacement Exam for an exam I wrote as a Late Write?]]
 
 <!-- RELATED-QUESTIONS:END -->
 

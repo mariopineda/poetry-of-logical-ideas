@@ -1,7 +1,7 @@
 ﻿---
 title: "What if I miss the replacement exam?"
 category: "Replacement Exams"
-order: 6
+order: 7
 publish: true
 related:
   - "What is a replacement exam, and which mark is kept?"

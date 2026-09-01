@@ -1,7 +1,7 @@
 ﻿---
 title: "Can I ask questions during an exam?"
 category: "Exams"
-order: 4
+order: 5
 publish: true
 related:
   - "What can I have with me during an exam?"

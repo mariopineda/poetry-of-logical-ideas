@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **5 Questions of the Day** · **Courses:** Math 10-3, Math 10C, Math 20-2
+> **5 Questions of the Day** Â· **Courses:** Math 10-3, Math 10C, Math 20-2
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Proportional Reasoning**.
 

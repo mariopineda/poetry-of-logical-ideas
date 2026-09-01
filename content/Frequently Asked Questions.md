@@ -3,9 +3,15 @@ title: "Frequently Asked Questions"
 publish: true
 ---
 
-This FAQ answers the most common questions about this class.
+**About These Course Policies**
 
-Please check this FAQ, the online class schedule, Google Classroom, and the course outline before asking a question.
+This FAQ explains the policies, procedures, and expectations that apply specifically to **Dr. Pineda's classes**.
+
+Some expectations described here are based on school-wide or division-wide policies, while others are procedures specific to Dr. Pineda's classroom. Unless otherwise stated, students should **not assume that a procedure described here applies in another teacher's class**.
+
+School and division policies remain in effect at all times. Where a school or division policy applies, it takes precedence over an individual classroom procedure.
+
+Please check this FAQ, the online class schedule, Google Classroom, and the course outline before asking a question. If the answer is already available here, I may direct you to the relevant FAQ page.
 
 ## Attendance & Lateness
 
@@ -34,8 +40,8 @@ Please check this FAQ, the online class schedule, Google Classroom, and the cour
 - [[FAQ/What can I have with me during an exam|What can I have with me during an exam?]]
 - [[FAQ/What happens before an exam starts, and where do I sit|What happens before an exam starts, and where do I sit?]]
 - [[FAQ/What happens if I arrive late for an exam|What happens if I arrive late for an exam?]]
-- [[FAQ/Can I ask questions during an exam|Can I ask questions during an exam?]]
 - [[FAQ/Can I leave the room or use the washroom during an exam|Can I leave the room or use the washroom during an exam?]]
+- [[FAQ/Can I ask questions during an exam|Can I ask questions during an exam?]]
 - [[FAQ/Can I leave, talk, or use my phone after I finish my exam|Can I leave, talk, or use my phone after I finish my exam?]]
 - [[FAQ/What happens when exam time ends|What happens when exam time ends?]]
 - [[FAQ/What happens to the formula sheet and other exam materials|What happens to the formula sheet and other exam materials?]]
@@ -50,16 +56,19 @@ Please check this FAQ, the online class schedule, Google Classroom, and the cour
 ### Missed Exams & Late Writes
 
 - [[FAQ/What do I do if I miss a unit exam|What do I do if I miss a unit exam?]]
-- [[FAQ/Do I need to explain why I missed the exam|Do I need to explain why I missed the exam?]]
 - [[FAQ/Does emailing within 24 hours automatically give me a late write|Does emailing within 24 hours automatically give me a late write?]]
+- [[FAQ/How many Late Writes can I have|How many Late Writes can I have?]]
+- [[FAQ/Do I need to explain why I missed the exam|Do I need to explain why I missed the exam?]]
 - [[FAQ/Can I write the missed exam when I return to class|Can I write the missed exam when I return to class?]]
 - [[FAQ/What if I do not email within 24 hours after the exam|What if I do not email within 24 hours after the exam?]]
+- [[FAQ/Can I review a Late Write after it has been marked|Can I review a Late Write after it has been marked?]]
 
 ### Replacement Exams
 
 - [[FAQ/What is a replacement exam, and which mark is kept|What is a replacement exam, and which mark is kept?]]
 - [[FAQ/Who is eligible to write a replacement exam|Who is eligible to write a replacement exam?]]
 - [[FAQ/How and when do I select my replacement exam|How and when do I select my replacement exam?]]
+- [[FAQ/Can I use the Replacement Exam for an exam I wrote as a Late Write|Can I use the Replacement Exam for an exam I wrote as a Late Write?]]
 - [[FAQ/What if I am absent during the replacement-exam selection window|What if I am absent during the replacement-exam selection window?]]
 - [[FAQ/Can I change my replacement-exam selection|Can I change my replacement-exam selection?]]
 - [[FAQ/What if I miss the replacement exam|What if I miss the replacement exam?]]
@@ -82,6 +91,7 @@ Please check this FAQ, the online class schedule, Google Classroom, and the cour
 ## Calculators & Technology
 
 - [[FAQ/Do I need my own calculator|Do I need my own calculator?]]
+- [[FAQ/Can I use my phone as a calculator|Can I use my phone as a calculator?]]
 - [[FAQ/Can I borrow a calculator|Can I borrow a calculator?]]
 - [[FAQ/What else should I know about borrowing a calculator|What else should I know about borrowing a calculator?]]
 - [[FAQ/Can I use my phone, laptop, or tablet during regular class|Can I use my phone, laptop, or tablet during regular class?]]

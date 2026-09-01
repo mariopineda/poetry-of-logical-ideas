@@ -1,7 +1,7 @@
 ﻿---
 title: "What if I am absent during the replacement-exam selection window?"
 category: "Replacement Exams"
-order: 4
+order: 5
 publish: true
 related:
   - "How and when do I select my replacement exam?"

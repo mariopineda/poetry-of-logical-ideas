@@ -1,7 +1,7 @@
 ﻿---
 title: "Can I change my replacement-exam selection?"
 category: "Replacement Exams"
-order: 5
+order: 6
 publish: true
 related:
   - "How and when do I select my replacement exam?"
