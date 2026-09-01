@@ -15,8 +15,6 @@ School-related activities or meetings may be handled differently for attendance 
 
 A school-related activity does not automatically excuse a missed exam or remove the normal missed-exam requirements.
 
-If you are considering dropping or withdrawing from the course, speak with your assistant principal.
-
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
 

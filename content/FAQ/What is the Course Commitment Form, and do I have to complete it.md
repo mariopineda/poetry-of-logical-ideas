@@ -14,7 +14,7 @@ The Course Commitment Form is a Google Form that confirms that you have read and
 
 Before completing the form, make sure you understand the course policies, including attendance and lateness, QODs, exam procedures, missed exams and late writes, replacement exams, and academic integrity.
 
-You must complete the Course Commitment Form. If you have not completed it, you cannot write exams. Completing the form is a condition of being enrolled in the course.
+You must complete the Course Commitment Form. If you have not completed it, you cannot write exams.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
