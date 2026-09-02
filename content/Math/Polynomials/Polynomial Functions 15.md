@@ -6,12 +6,12 @@ courses:
 topic: "Polynomial Functions"
 show_solution: false
 prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Quadratic Equations 8]]"
-related:
   - "[[Polynomial Functions 14]]"
+  - "[[Domain & Range 2]]"
+related:
+  - "[[Polynomial Functions 11]]"
   - "[[Polynomial Functions 16]]"
-  - "[[Completing the Square 1]]"
+  - "[[Polynomial Functions 7]]"
 ---
 
 ## Question

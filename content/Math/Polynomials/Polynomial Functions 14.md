@@ -11,7 +11,7 @@ prerequisites:
 related:
   - "[[Polynomial Functions 11]]"
   - "[[Polynomial Functions 13]]"
-  - "[[Completing the Square 1]]"
+  - "[[Polynomial Functions 17]]"
 ---
 
 ## Question

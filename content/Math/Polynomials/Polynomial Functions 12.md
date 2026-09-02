@@ -10,7 +10,7 @@ prerequisites:
   - "[[Linear Relations 1]]"
 related:
   - "[[Polynomial Functions 9]]"
-  - "[[Polynomial Functions 10]]"
+  - "[[Polynomial Functions 13]]"
   - "[[Domain & Range 2]]"
 ---
 
