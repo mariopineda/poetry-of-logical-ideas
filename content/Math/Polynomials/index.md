@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **24 Questions of the Day** Â· **Courses:** Math 10C, Math 30-1, Math 30-2
+> **33 Questions of the Day** Â· **Courses:** Math 10C, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -32,6 +32,15 @@ Practice questions for **Polynomials**.
 | [[Math/Polynomials/Polynomial Functions 6\|Polynomial Functions 6]] | Math 30-1, Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 7\|Polynomial Functions 7]] | Math 30-1, Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 8\|Polynomial Functions 8]] | Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 9\|Polynomial Functions 9]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 10\|Polynomial Functions 10]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 11\|Polynomial Functions 11]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 12\|Polynomial Functions 12]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 13\|Polynomial Functions 13]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 14\|Polynomial Functions 14]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 15\|Polynomial Functions 15]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 16\|Polynomial Functions 16]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 17\|Polynomial Functions 17]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Operations 1\|Polynomial Operations 1]] | Math 10C |
 | [[Math/Polynomials/Polynomial Operations 2\|Polynomial Operations 2]] | Math 10C |
 | [[Math/Polynomials/Polynomial Review 1\|Polynomial Review 1]] | Math 10C |
