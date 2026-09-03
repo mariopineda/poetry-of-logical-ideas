@@ -1,10 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
   - "Math 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 prerequisites:
   - "[[Algebraic Expressions 1]]"
 related:
@@ -13,32 +13,83 @@ related:
 
 ## Question
 
-1. Name the points represented by the following coordinates.
+Consider the following relation:
 
-1. $(2,3)$
-2. $(6,4)$
-3. $(-5,-1)$
-4. $(-2,3)$
-5. $(6,-4)$
-6. $(-1,-5$
+$$
+\{(-5,0),\,(-3,4),\,(0,-2),\,(2,3),\,(4,-6),\,(6,0)\}
+$$
 
-2. State the coordinates of the x and y-intercepts.
-3. Name the points located in...
+### 1. Location of points
 
-1. quadrant I
-2. quadrant II
-3. quadrant III
-4. quadrant iV
+For each point, state whether it is located in **Quadrant I, II, III, IV, on the x-axis, or on the y-axis**.
 
-4. Plot the following points,
+### 2. Intercepts
 
-1. $(-3,1)$
-2. $(-4,-6)$
-3. $(10,-10)$
-4. $(0,5)$
-5. $(-5,0)$
+State the:
+
+- **x-intercept(s)**
+- **y-intercept**
+
+### 3. Plot the relation
+
+Draw a coordinate plane and plot all six points.
+
+### 4. Coordinates
+
+For the point $(-3,4)$:
+
+a. What is the x-coordinate?  
+b. What is the y-coordinate?
 
 ## Solution
 
 > [!example]- Show solution
-
+>
+> ### 1. Location of points
+>
+> | Point | Location |
+> | --- | --- |
+> | $(-5,0)$ | x-axis |
+> | $(-3,4)$ | Quadrant II |
+> | $(0,-2)$ | y-axis |
+> | $(2,3)$ | Quadrant I |
+> | $(4,-6)$ | Quadrant IV |
+> | $(6,0)$ | x-axis |
+>
+> ### 2. Intercepts
+>
+> **x-intercepts:**
+>
+> $$
+> (-5,0)\text{ and }(6,0)
+> $$
+>
+> These are x-intercepts because their y-coordinate is $0$.
+>
+> **y-intercept:**
+>
+> $$
+> (0,-2)
+> $$
+>
+> This is a y-intercept because its x-coordinate is $0$.
+>
+> ### 3. Plot of the relation
+>
+> ![[representing-relations-1-solution-graph.png]]
+>
+> The plotted points are:
+>
+> $$
+> (-5,0),\;(-3,4),\;(0,-2),\;(2,3),\;(4,-6),\;(6,0)
+> $$
+>
+> The points are **not connected**.
+>
+> ### 4. Coordinates
+>
+> For the point $(-3,4)$:
+>
+> a. The x-coordinate is $-3$.
+>
+> b. The y-coordinate is $4$.
