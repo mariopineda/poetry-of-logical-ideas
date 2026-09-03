@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **33 Questions of the Day** Â· **Courses:** Math 10C, Math 30-1, Math 30-2
+> **32 Questions of the Day** Â· **Courses:** Math 10C, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -17,7 +17,6 @@ Practice questions for **Polynomials**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Polynomials/Domain & Range 1\|Domain & Range 1]] | Math 10C, Math 30-1 |
 | [[Math/Polynomials/Factoring Polynomials 1\|Factoring Polynomials 1]] | Math 10C |
 | [[Math/Polynomials/Factoring Polynomials 2\|Factoring Polynomials 2]] | Math 10C |
 | [[Math/Polynomials/Factoring Polynomials 3\|Factoring Polynomials 3]] | Math 10C |
