@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -12,7 +12,6 @@ prerequisites:
 related:
   - "[[Polynomial Functions 9]]"
   - "[[Polynomial Functions 12]]"
-  - "[[Polynomial Functions 19]]"
 ---
 
 ## Question

@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -9,10 +9,10 @@ show_solution: false
 prerequisites:
   - "[[Polynomial Functions 6]]"
   - "[[Factoring Polynomials 1]]"
+  - "[[Polynomial Functions 21 — Hiking Trail]]"
 related:
   - "[[Polynomial Functions 17]]"
-  - "[[Polynomial Functions 21]]"
-  - "[[Polynomial Functions 25]]"
+  - "[[Polynomial Functions 25 — Inflating a Balloon]]"
 ---
 
 ## Question
@@ -98,3 +98,4 @@ Use your graphing calculator as needed.
 > $$
 >
 > where $V$ is measured in $\text{cm}^3$.
+  - "[[Polynomial Functions 21 — Hiking Trail]]"

@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -10,10 +10,10 @@ show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Quadratic Equations 7]]"
+  - "[[Polynomial Functions 18 — Draining Water Tank]]"
 related:
   - "[[Polynomial Functions 10]]"
   - "[[Polynomial Functions 13]]"
-  - "[[Polynomial Functions 20]]"
 ---
 
 ## Question
@@ -94,3 +94,4 @@ Use your graphing calculator as needed.
 > $$
 > 0\le h\le16
 > $$
+  - "[[Polynomial Functions 18 — Draining Water Tank]]"

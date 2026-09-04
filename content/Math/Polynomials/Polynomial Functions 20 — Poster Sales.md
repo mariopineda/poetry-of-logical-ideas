@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -10,10 +10,10 @@ show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Quadratic Equations 8]]"
+  - "[[Polynomial Functions 19 — Soccer Ball]]"
 related:
   - "[[Polynomial Functions 11]]"
   - "[[Polynomial Functions 14]]"
-  - "[[Polynomial Functions 21]]"
 ---
 
 ## Question
@@ -116,3 +116,4 @@ Use your graphing calculator as needed.
 > $$
 >
 > which represents a monthly result from a **\$14,000 loss** to an **\$18,000 profit**.
+  - "[[Polynomial Functions 19 — Soccer Ball]]"

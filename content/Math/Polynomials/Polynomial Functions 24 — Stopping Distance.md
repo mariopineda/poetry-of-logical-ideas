@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -9,9 +9,7 @@ topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Polynomial Functions 7]]"
-related:
-  - "[[Polynomial Functions 23]]"
-  - "[[Polynomial Functions 25]]"
+  - "[[Polynomial Functions 23 — Cycling Record]]"
 ---
 
 ## Question
@@ -89,3 +87,4 @@ Use your graphing calculator. Use the calculator's stored regression equation fo
 > $$
 >
 > where $s$ is measured in km/h and $d$ is measured in metres.
+  - "[[Polynomial Functions 23 — Cycling Record]]"

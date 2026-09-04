@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -9,9 +9,8 @@ show_solution: false
 prerequisites:
   - "[[Polynomial Functions 6]]"
   - "[[Function Notation 1]]"
+  - "[[Polynomial Functions 20 — Poster Sales]]"
 related:
-  - "[[Polynomial Functions 22]]"
-  - "[[Polynomial Functions 25]]"
   - "[[Polynomial Functions 7]]"
 ---
 
@@ -86,3 +85,4 @@ Use your graphing calculator as needed.
 > $$
 > 5\le E\le21
 > $$
+  - "[[Polynomial Functions 20 — Poster Sales]]"

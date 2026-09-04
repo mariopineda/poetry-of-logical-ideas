@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -8,10 +8,10 @@ topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Polynomial Functions 7]]"
+  - "[[Polynomial Functions 21 — Hiking Trail]]"
+  - "[[Polynomial Functions 24 — Stopping Distance]]"
 related:
-  - "[[Polynomial Functions 23]]"
-  - "[[Polynomial Functions 24]]"
-  - "[[Polynomial Functions 21]]"
+  - "[[Polynomial Functions 23 — Cycling Record]]"
 ---
 
 ## Question
@@ -89,3 +89,5 @@ Use your graphing calculator.
 > $$
 >
 > where $t$ is measured in seconds and $V$ is measured in $\text{cm}^3$.
+  - "[[Polynomial Functions 21 — Hiking Trail]]"
+  - "[[Polynomial Functions 24 — Stopping Distance]]"

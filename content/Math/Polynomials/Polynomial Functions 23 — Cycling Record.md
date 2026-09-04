@@ -1,4 +1,4 @@
----
+﻿---
 type: qod
 publish: true
 courses:
@@ -10,8 +10,7 @@ prerequisites:
   - "[[Polynomial Functions 7]]"
   - "[[Function Notation 1]]"
 related:
-  - "[[Polynomial Functions 24]]"
-  - "[[Polynomial Functions 25]]"
+  - "[[Polynomial Functions 25 — Inflating a Balloon]]"
 ---
 
 ## Question
