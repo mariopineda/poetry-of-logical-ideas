@@ -2,9 +2,9 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
-show_solution: false
+  - Math 30-2
+topic: Polynomial Functions
+show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Linear Relations 1]]"
