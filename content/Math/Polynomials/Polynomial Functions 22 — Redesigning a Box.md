@@ -2,8 +2,9 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
+  - Math 30-2
+  - Math 30-1
+topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Polynomial Functions 6]]"

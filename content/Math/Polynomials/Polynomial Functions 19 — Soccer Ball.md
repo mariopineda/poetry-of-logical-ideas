@@ -2,8 +2,10 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
+  - Math 30-2
+  - Math 20-1
+  - Math 20-2
+topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"

@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **37 Questions of the Day** Â· **Courses:** Math 10C, Math 30-1, Math 30-2
+> **40 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -40,11 +40,14 @@ Practice questions for **Polynomials**.
 | [[Math/Polynomials/Polynomial Functions 15\|Polynomial Functions 15]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 16\|Polynomial Functions 16]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 17\|Polynomial Functions 17]] | Math 30-2 |
-| [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank\|Polynomial Functions 18 — Draining Water Tank]] | Math 30-2 |
-| [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball\|Polynomial Functions 19 — Soccer Ball]] | Math 30-2 |
-| [[Math/Polynomials/Polynomial Functions 20 — Poster Sales\|Polynomial Functions 20 — Poster Sales]] | Math 30-2 |
-| [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box\|Polynomial Functions 22 — Redesigning a Box]] | Math 30-2 |
-| [[Math/Polynomials/Polynomial Functions 23 — Cycling Record\|Polynomial Functions 23 — Cycling Record]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank\|Polynomial Functions 18 — Draining Water Tank]] | Math 10C, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball\|Polynomial Functions 19 — Soccer Ball]] | Math 20-1, Math 20-2, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 20 — Poster Sales\|Polynomial Functions 20 — Poster Sales]] | Math 20-1, Math 20-2, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail\|Polynomial Functions 21 — Hiking Trail]] | Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box\|Polynomial Functions 22 — Redesigning a Box]] | Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 23 — Cycling Record\|Polynomial Functions 23 — Cycling Record]] | Math 10C, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance\|Polynomial Functions 24 — Stopping Distance]] | Math 20-1, Math 20-2, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon\|Polynomial Functions 25 — Inflating a Balloon]] | Math 30-1, Math 30-2 |
 | [[Math/Polynomials/Polynomial Operations 1\|Polynomial Operations 1]] | Math 10C |
 | [[Math/Polynomials/Polynomial Operations 2\|Polynomial Operations 2]] | Math 10C |
 | [[Math/Polynomials/Polynomial Review 1\|Polynomial Review 1]] | Math 10C |
