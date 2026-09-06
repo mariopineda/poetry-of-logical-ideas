@@ -12,6 +12,7 @@ related:
   - "[[Polynomial Functions 16]]"
   - "[[Polynomial Functions 14]]"
   - "[[Domain & Range 2]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

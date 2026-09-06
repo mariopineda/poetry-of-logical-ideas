@@ -12,6 +12,7 @@ related:
   - "[[Polynomial Functions 10]]"
   - "[[Polynomial Functions 15]]"
   - "[[Polynomial Functions 17]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -12,6 +12,7 @@ prerequisites:
   - "[[Polynomial Functions 20 — Poster Sales]]"
 related:
   - "[[Polynomial Functions 7]]"
+  - "[[Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

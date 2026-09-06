@@ -9,6 +9,8 @@ prerequisites:
   - "[[Domain & Range 1]]"
 related:
   - "[[Function Notation 2]]"
+  - "[[Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

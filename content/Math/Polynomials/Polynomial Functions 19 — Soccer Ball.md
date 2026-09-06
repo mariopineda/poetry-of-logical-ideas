@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -14,6 +14,7 @@ prerequisites:
 related:
   - "[[Polynomial Functions 10]]"
   - "[[Polynomial Functions 13]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

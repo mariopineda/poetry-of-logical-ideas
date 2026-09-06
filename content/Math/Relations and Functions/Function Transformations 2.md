@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -10,6 +10,7 @@ prerequisites:
 related:
   - "[[Function Transformations 1]]"
   - "[[Function Transformations 3]]"
+  - "[[Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

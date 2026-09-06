@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -11,6 +11,7 @@ prerequisites:
 related:
   - "[[Domain & Range 5]]"
   - "[[Domain & Range 7]]"
+  - "[[Polynomial Functions 26 - Reading an Equation]]"
 ---
 
 ## Question

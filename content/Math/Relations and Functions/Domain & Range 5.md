@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -11,6 +11,7 @@ prerequisites:
 related:
   - "[[Domain & Range 4]]"
   - "[[Domain & Range 6]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

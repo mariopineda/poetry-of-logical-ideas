@@ -10,6 +10,7 @@ prerequisites:
   - "[[Representing Relations 1]]"
 related:
   - "[[Domain & Range 2]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

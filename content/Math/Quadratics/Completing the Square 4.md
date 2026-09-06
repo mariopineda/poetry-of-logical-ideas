@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -13,6 +13,7 @@ related:
   - "[[Completing the Square 3]]"
   - "[[Quadratic Equations 1]]"
   - "[[Polynomial Functions 1]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

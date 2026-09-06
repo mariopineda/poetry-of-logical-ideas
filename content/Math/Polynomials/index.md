@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **40 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
+> **43 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -48,6 +48,9 @@ Practice questions for **Polynomials**.
 | [[Math/Polynomials/Polynomial Functions 23 — Cycling Record\|Polynomial Functions 23 — Cycling Record]] | Math 10C, Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance\|Polynomial Functions 24 — Stopping Distance]] | Math 20-1, Math 20-2, Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon\|Polynomial Functions 25 — Inflating a Balloon]] | Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation\|Polynomial Functions 26 - Reading an Equation]] | Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 27 - Building a Graph\|Polynomial Functions 27 - Building a Graph]] | Math 20-1, Math 20-2, Math 30-1, Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning\|Polynomial Functions 28 - Checking Reasoning]] | Math 30-1, Math 30-2 |
 | [[Math/Polynomials/Polynomial Operations 1\|Polynomial Operations 1]] | Math 10C |
 | [[Math/Polynomials/Polynomial Operations 2\|Polynomial Operations 2]] | Math 10C |
 | [[Math/Polynomials/Polynomial Review 1\|Polynomial Review 1]] | Math 10C |

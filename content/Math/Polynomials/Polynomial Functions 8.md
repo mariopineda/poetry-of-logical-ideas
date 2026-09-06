@@ -13,6 +13,9 @@ related:
   - "[[Polynomial Functions 7]]"
   - "[[Sketching Polynomial Functions 1]]"
   - "[[Completing the Square 1]]"
+  - "[[Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -11,6 +11,8 @@ prerequisites:
 related:
   - "[[Polynomial Functions 2]]"
   - "[[Completing the Square 1]]"
+  - "[[Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
