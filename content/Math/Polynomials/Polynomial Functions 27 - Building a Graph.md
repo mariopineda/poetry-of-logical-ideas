@@ -9,6 +9,7 @@ courses:
 - Math 20-2
 - Math 30-1
 topic: Polynomial Functions
+tags:
 - math/30-2
 - polynomials
 - characteristics
