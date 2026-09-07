@@ -31,6 +31,7 @@ related:
 ---
 
 ## Question
+*Calculator is not permitted on this question.*
 
 A student is analysing
 
@@ -45,19 +46,11 @@ and makes these statements:
 3. “A cubic function must have exactly two turning points.”
 4. “The range is restricted because the leading coefficient is negative.”
 
-### A.
+A) Identify each statement as **correct or incorrect**. Explain each decision and correct every incorrect statement.
 
-Identify each statement as **correct or incorrect**. Explain each decision and correct every incorrect statement.
+B) Write one possible **cubic function** with a **positive leading coefficient** and a $y$-intercept of $(0,-3)$.
 
-### B.
-
-Write one possible **cubic function** with a **positive leading coefficient** and a $y$-intercept of $(0,-3)$.
-
-### C.
-
-Sketch your function from part **B**. Label the $y$-intercept and clearly show its end behaviour.
-
-No calculator is required.
+C) Sketch your function from part **B**. Label the $y$-intercept and clearly show its end behaviour.
 
 ## Solution
 
