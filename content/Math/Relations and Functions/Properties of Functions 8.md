@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -7,7 +7,7 @@ courses:
 topic: "Function Properties"
 show_solution: false
 prerequisites:
-  - "[[Domain & Range 1]]"
+  - "[[Domain and Range - Reading Graphs 1]]"
   - "[[Function Notation 1]]"
 related:
   - "[[Properties of Functions 7]]"

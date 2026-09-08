@@ -6,7 +6,7 @@ courses:
 topic: "Function Notation"
 show_solution: false
 prerequisites:
-  - "[[Domain & Range 1]]"
+  - "[[Domain and Range - Reading Graphs 1]]"
 related:
   - "[[Function Notation 2]]"
   - "[[Polynomial Functions 26 - Reading an Equation]]"

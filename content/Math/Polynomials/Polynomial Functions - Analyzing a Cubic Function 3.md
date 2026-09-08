@@ -7,7 +7,7 @@ topic: "Polynomial Functions"
 show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"
-  - "[[Domain & Range 2]]"
+  - "[[Domain and Range - Reading Graphs 2]]"
 related:
   - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
   - "[[Polynomial Functions - Analyzing a Cubic Function 2]]"

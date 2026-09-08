@@ -17,7 +17,7 @@ tags:
 - math/20-2
 - math/30-1
 prerequisites:
-- '[[Domain & Range 1]]'
+- '[[Domain and Range - Reading Graphs 1]]'
 - '[[Polynomial Functions 8]]'
 related:
 - '[[Polynomial Functions 26 - Reading an Equation]]'
@@ -34,8 +34,8 @@ related:
 - '[[Polynomial Functions 17]]'
 - '[[Polynomial Functions 19 — Soccer Ball]]'
 - '[[Polynomial Functions 20 — Poster Sales]]'
-- '[[Domain & Range 3]]'
-- '[[Domain & Range 5]]'
+- '[[Domain and Range - Sketching Relations 1]]'
+- '[[Domain and Range - Sketching Relations 2]]'
 - '[[Function Transformations 1]]'
 - '[[Function Transformations 3]]'
 - '[[Function Transformations 4]]'

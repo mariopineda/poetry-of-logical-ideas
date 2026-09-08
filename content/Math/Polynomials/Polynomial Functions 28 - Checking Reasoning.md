@@ -24,7 +24,7 @@ related:
 - '[[Polynomial Functions 6]]'
 - '[[Polynomial Functions 8]]'
 - '[[Polynomial Functions 21 — Hiking Trail]]'
-- '[[Domain & Range 3]]'
+- '[[Domain and Range - Sketching Relations 1]]'
 - '[[Function Transformations 2]]'
 - '[[Sketching Polynomial Functions 1]]'
 - '[[Sketching Polynomial Functions 2]]'

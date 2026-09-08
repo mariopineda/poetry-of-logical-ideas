@@ -7,7 +7,7 @@ topic: "Polynomial Functions"
 show_solution: false
 prerequisites:
   - "[[Polynomial Functions 14]]"
-  - "[[Domain & Range 2]]"
+  - "[[Domain and Range - Reading Graphs 2]]"
 related:
   - "[[Polynomial Functions 11]]"
   - "[[Polynomial Functions 16]]"

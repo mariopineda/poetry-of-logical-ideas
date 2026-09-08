@@ -1,4 +1,4 @@
-﻿---
+---
 type: qod
 publish: true
 courses:
@@ -9,7 +9,7 @@ show_solution: false
 prerequisites:
   - "[[Representing Relations 1]]"
 related:
-  - "[[Domain & Range 10]]"
+  - "[[Domain and Range - Ferris Wheel Model]]"
   - "[[Domain & Range Algebraically 2]]"
 ---
 

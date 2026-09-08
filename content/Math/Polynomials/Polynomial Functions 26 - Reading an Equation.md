@@ -23,8 +23,8 @@ related:
 - '[[Polynomial Functions 5]]'
 - '[[Polynomial Functions 6]]'
 - '[[Polynomial Functions 8]]'
-- '[[Domain & Range 3]]'
-- '[[Domain & Range 6]]'
+- '[[Domain and Range - Sketching Relations 1]]'
+- '[[Domain and Range - Reciprocal and Quadratic Functions]]'
 ---
 
 ## Question

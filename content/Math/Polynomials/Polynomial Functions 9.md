@@ -11,7 +11,7 @@ prerequisites:
 related:
   - "[[Polynomial Functions 8]]"
   - "[[Polynomial Functions 10]]"
-  - "[[Domain & Range 2]]"
+  - "[[Domain and Range - Reading Graphs 2]]"
 ---
 
 ## Question
