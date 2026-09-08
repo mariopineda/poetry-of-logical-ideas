@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **43 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
+> **46 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -23,6 +23,9 @@ Practice questions for **Polynomials**.
 | [[Math/Polynomials/Factoring Polynomials 4\|Factoring Polynomials 4]] | Math 10C |
 | [[Math/Polynomials/Factoring Polynomials 5\|Factoring Polynomials 5]] | Math 10C |
 | [[Math/Polynomials/Polynomial Equations 1\|Polynomial Equations 1]] | Math 10C |
+| [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1\|Polynomial Functions - Analyzing a Cubic Function 1]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 2\|Polynomial Functions - Analyzing a Cubic Function 2]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 3\|Polynomial Functions - Analyzing a Cubic Function 3]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 1\|Polynomial Functions 1]] | Math 30-1 |
 | [[Math/Polynomials/Polynomial Functions 2\|Polynomial Functions 2]] | Math 30-1 |
 | [[Math/Polynomials/Polynomial Functions 3\|Polynomial Functions 3]] | Math 10C |
