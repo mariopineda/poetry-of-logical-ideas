@@ -8,7 +8,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 1"
 prerequisites:
@@ -74,4 +74,3 @@ Determine the **domain and range** of each relation in both **set-builder notati
 >
 > - Set-builder notation: $\{y\in\mathbb{R}\mid -3\le y<2\}$
 > - Interval notation: $[-3,2)$
-

@@ -5,7 +5,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 9"
 prerequisites:
@@ -56,4 +56,3 @@ State the contextual domain and range in both **set-builder notation** and **int
 >
 > - Set-builder notation: $\{V\in\mathbb{R}\mid 0<V<1000\}$
 > - Interval notation: $(0,1000)$
-

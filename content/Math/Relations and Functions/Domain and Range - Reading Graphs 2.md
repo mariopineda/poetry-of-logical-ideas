@@ -8,7 +8,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 2"
 prerequisites:
@@ -70,4 +70,3 @@ Determine the **domain and range** of each relation in both **set-builder notati
 >
 > - Set-builder notation: $\{y\mid y\in\mathbb{R}\}$
 > - Interval notation: $(-\infty,\infty)$
-

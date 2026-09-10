@@ -7,7 +7,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 8"
 prerequisites:
@@ -76,4 +76,3 @@ where $s$ is the edge length in units and $A$ is the surface area in square unit
 > $$
 > A=6(9)^2=486.
 > $$
-

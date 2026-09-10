@@ -7,7 +7,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 6"
 prerequisites:
@@ -59,4 +59,3 @@ State the domain and range of each function in both **set-builder notation** and
 >
 > - Set-builder notation: $\{y\in\mathbb{R}\mid y\ge0\}$
 > - Interval notation: $[0,\infty)$
-

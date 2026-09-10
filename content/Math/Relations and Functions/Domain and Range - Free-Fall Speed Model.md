@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 30-1"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 7"
 prerequisites:
@@ -45,4 +45,3 @@ State the contextual domain and range in both **set-builder notation** and **int
 >
 > - Set-builder notation: $\{v\in\mathbb{R}\mid v\ge0\}$
 > - Interval notation: $[0,\infty)$
-
