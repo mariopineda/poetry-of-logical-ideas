@@ -34,6 +34,11 @@ c. According to the regression model, when would the value reach **75.0**? Give 
 
 Use a graphing calculator.
 
+> [!info] Data source
+> **Environment and Climate Change Canada — Canada’s 2030 Emissions Reduction Plan, Chapter 2**  
+> https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/climate-plan-overview/emissions-reduction-2030/plan/chapter-2.html  
+> The table values are sums of the published oil sands upgrading, in situ, and mining/extraction emissions for each selected year.
+
 ## Solution
 
 > [!example]- Show solution
@@ -113,7 +118,4 @@ Use a graphing calculator.
 > > [!note]
 > > A regression equation is a model of the trend in the observed data. It does not imply that the relationship will continue unchanged outside the data set.
 
-> [!info] Data source
-> **Environment and Climate Change Canada — Canada’s 2030 Emissions Reduction Plan, Chapter 2**  
-> https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/climate-plan-overview/emissions-reduction-2030/plan/chapter-2.html  
-> The table values are sums of the published oil sands upgrading, in situ, and mining/extraction emissions for each selected year.
+

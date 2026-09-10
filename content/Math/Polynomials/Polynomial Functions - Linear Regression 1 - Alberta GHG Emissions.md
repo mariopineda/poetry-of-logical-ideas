@@ -34,6 +34,11 @@ c. According to the regression model, when would the value reach **270.0**? Give
 
 Use a graphing calculator.
 
+> [!info] Data source
+> **Government of Alberta — Alberta’s greenhouse gas emissions reduction performance**  
+> https://www.alberta.ca/albertas-greenhouse-gas-emissions-reduction-performance  
+> Source table: Alberta total emissions, based on Environment and Climate Change Canada, 2026 National Inventory Report 1990–2024.
+
 ## Solution
 
 > [!example]- Show solution
@@ -113,7 +118,3 @@ Use a graphing calculator.
 > > [!note]
 > > A regression equation is a model of the trend in the observed data. It does not imply that the relationship will continue unchanged outside the data set.
 
-> [!info] Data source
-> **Government of Alberta — Alberta’s greenhouse gas emissions reduction performance**  
-> https://www.alberta.ca/albertas-greenhouse-gas-emissions-reduction-performance  
-> Source table: Alberta total emissions, based on Environment and Climate Change Canada, 2026 National Inventory Report 1990–2024.
