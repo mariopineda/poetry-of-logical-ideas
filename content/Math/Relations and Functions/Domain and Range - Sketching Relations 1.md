@@ -8,7 +8,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 3"
 prerequisites:
@@ -41,4 +41,3 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > 2. The ray $y=x$, restricted to $x\ge0$, has domain $[0,\infty)$ and range $[0,\infty)$.
 > 3. The sideways parabola $x=y^2$ has domain $[0,\infty)$ and range $(-\infty,\infty)$.
 > 4. The ray $y=-x-4$, restricted to $x\ge-2$, has domain $[-2,\infty)$ and range $(-\infty,-2]$.
-

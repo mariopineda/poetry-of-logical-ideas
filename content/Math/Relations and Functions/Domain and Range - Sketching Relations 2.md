@@ -8,7 +8,7 @@ courses:
   - "Math 30-1"
   - "Math 30-2"
 topic: "Domain and Range"
-show_solution: false
+show_solution: true
 aliases:
   - "Domain & Range 5"
 prerequisites:
