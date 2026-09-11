@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **52 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
+> **58 Questions of the Day** Â· **Courses:** Math 10C, Math 20-1, Math 20-2, Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -32,6 +32,12 @@ Practice questions for **Polynomials**.
 | [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions\|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity\|Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions\|Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 1\|Polynomial Functions - Matching Equations and Graphs 1]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 2\|Polynomial Functions - Matching Equations and Graphs 2]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 3\|Polynomial Functions - Matching Equations and Graphs 3]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1\|Polynomial Functions - Reviewing a Cubic Volume Model 1]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 2\|Polynomial Functions - Reviewing a Cubic Volume Model 2]] | Math 30-2 |
+| [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3\|Polynomial Functions - Reviewing a Cubic Volume Model 3]] | Math 30-2 |
 | [[Math/Polynomials/Polynomial Functions 1\|Polynomial Functions 1]] | Math 30-1 |
 | [[Math/Polynomials/Polynomial Functions 2\|Polynomial Functions 2]] | Math 30-1 |
 | [[Math/Polynomials/Polynomial Functions 3\|Polynomial Functions 3]] | Math 10C |
