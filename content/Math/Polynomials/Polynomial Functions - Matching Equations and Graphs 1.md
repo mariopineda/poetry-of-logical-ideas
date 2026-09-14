@@ -2,9 +2,9 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
-show_solution: false
+  - Math 30-2
+topic: Polynomial Functions
+show_solution: true
 prerequisites:
   - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
   - "[[Domain and Range - Reading Graphs 1]]"
