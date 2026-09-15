@@ -13,17 +13,18 @@ related:
 
 ## Question
 
-### Singapore Flyer - Singapore
+### Singapore Flyer — Singapore
 
-The **Singapore Flyer** is a large Ferris wheel in Singapore. From the top, riders can see as far as 45 km on a clear day, far enough to see parts of Malaysia and Indonesia.
+The **Singapore Flyer** is a large Ferris wheel in Singapore. From the top, riders can sometimes see as far as 45 km away, including parts of Malaysia and Indonesia on a clear day.
 
-For the Singapore Flyer the highest point of the wheel is **165 m above the ground**, the wheel has a **diameter of 150 m**, and one complete revolution takes **30 minutes**. The wheel rotates **clockwise**. A rider starts at the **bottom of the wheel at $0^\circ$**.
+For this model, the highest point of the wheel is **165 m above the ground**, the wheel has a **diameter of 150 m**, and one complete revolution takes **30 minutes**. The wheel rotates **clockwise**. A rider starts at the **bottom of the wheel at $0^\circ$**.
 
-1. Draw a simple diagram of the Ferris wheel. Show the ground and the rider's starting position at $0^\circ$. On your diagram, **calculate and label**:
+1. Draw a diagram of the Ferris wheel. Show the ground and the rider's starting position at $0^\circ$. On your diagram, **calculate and label**:
    - the radius of the wheel;
-   - the height of the centre of the wheel above the ground;
    - the height of the rider at $0^\circ$;
    - the height of the rider at $270^\circ$.
+
+   Also mark the **centre** of the wheel on your diagram.
 
 2. Suppose the rider stays on for **two complete revolutions**. How long after the ride begins will the rider reach $540^\circ$, and how high above the ground will the rider be at that point?
 
@@ -50,13 +51,15 @@ For the Singapore Flyer the highest point of the wheel is **165 m above the grou
 > 165-150=15\text{ m}.
 > $$
 >
+> At $270^\circ$, the rider is level with the centre of the wheel.
+>
 > The centre is one radius above the bottom:
 >
 > $$
 > 15+75=90\text{ m}.
 > $$
 >
-> At $270^\circ$, the rider is level with the centre of the wheel, so the height is
+> So the height of the rider at $270^\circ$ is
 >
 > $$
 > 90\text{ m}.
@@ -65,9 +68,9 @@ For the Singapore Flyer the highest point of the wheel is **165 m above the grou
 > Therefore, the diagram should show:
 >
 > - radius: **75 m**
-> - centre height: **90 m**
 > - height at $0^\circ$: **15 m**
 > - height at $270^\circ$: **90 m**
+> - the **centre** marked on the wheel
 >
 > ![[Sinusoidal Functions - Ferris Wheel 2 Solution Diagram.png]]
 >
@@ -87,7 +90,7 @@ For the Singapore Flyer the highest point of the wheel is **165 m above the grou
 > 1.5(30)=45\text{ min}.
 > $$
 >
-> At $540^\circ$, the rider is at the top of the wheel, so the height is
+> At $540^\circ$, the rider is at the same location as $180^\circ$, which is the top of the wheel, so the height is
 >
 > $$
 > 165\text{ m}.
