@@ -2,9 +2,9 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Sinusoidal Functions"
-show_solution: false
+  - Math 30-2
+topic: Sinusoidal Functions
+show_solution: true
 prerequisites: []
 related:
   - "[[Sinusoidal Functions - Ferris Wheel 1]]"
@@ -13,7 +13,7 @@ related:
 
 ## Question
 
-### High Roller — Las Vegas, Nevada
+### High Roller - Las Vegas, Nevada
 
 The **High Roller** is a large Ferris wheel in Las Vegas, Nevada. The wheel is powered by a 10,000-horsepower hydraulic motor.
 

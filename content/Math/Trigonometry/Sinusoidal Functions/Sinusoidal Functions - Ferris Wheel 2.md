@@ -13,7 +13,7 @@ related:
 
 ## Question
 
-### Singapore Flyer — Singapore
+### Singapore Flyer - Singapore
 
 The **Singapore Flyer** is a large Ferris wheel in Singapore. From the top, riders can sometimes see as far as 45 km away, including parts of Malaysia and Indonesia on a clear day.
 
