@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **17 Questions of the Day** Â· **Courses:** Math 30-1, Math 30-2
+> **20 Questions of the Day** Â· **Courses:** Math 30-1, Math 30-2
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -28,6 +28,9 @@ Practice questions for **Sinusoidal Functions**.
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1\|Sinusoidal Functions - Characteristics from a Graph 1]] | Math 30-2 |
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2\|Sinusoidal Functions - Characteristics from a Graph 2]] | Math 30-2 |
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 3\|Sinusoidal Functions - Characteristics from a Graph 3]] | Math 30-2 |
+| [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from an Equation 1\|Sinusoidal Functions - Characteristics from an Equation 1]] | Math 30-2 |
+| [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from an Equation 2\|Sinusoidal Functions - Characteristics from an Equation 2]] | Math 30-2 |
+| [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from an Equation 3\|Sinusoidal Functions - Characteristics from an Equation 3]] | Math 30-2 |
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 1\|Sinusoidal Functions - Ferris Wheel 1]] | Math 30-2 |
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 2\|Sinusoidal Functions - Ferris Wheel 2]] | Math 30-2 |
 | [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 3\|Sinusoidal Functions - Ferris Wheel 3]] | Math 30-2 |
