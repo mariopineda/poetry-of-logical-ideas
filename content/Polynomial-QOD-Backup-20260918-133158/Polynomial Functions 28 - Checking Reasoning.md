@@ -2,7 +2,7 @@
 type: qod
 published: true
 publish: true
-show_solution: true
+show_solution: false
 courses:
 - Math 30-2
 - Math 30-1

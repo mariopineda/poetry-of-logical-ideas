@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 30-2"
 topic: "Polynomial Functions"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
   - "[[Domain and Range - Cube Volume Model]]"

@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 30-2"
 topic: "Polynomial Functions"
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Polynomial Functions 15]]"
   - "[[Quadratic Equations 8]]"

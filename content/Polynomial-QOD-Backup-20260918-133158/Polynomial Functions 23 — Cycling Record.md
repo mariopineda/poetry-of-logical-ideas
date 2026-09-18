@@ -1,11 +1,11 @@
----
+﻿---
 type: qod
 publish: true
 courses:
   - Math 30-2
   - Math 10C
 topic: Polynomial Functions
-show_solution: true
+show_solution: false
 prerequisites:
   - "[[Polynomial Functions 7]]"
   - "[[Function Notation 1]]"
