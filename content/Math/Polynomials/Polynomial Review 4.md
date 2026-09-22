@@ -18,6 +18,20 @@ show_solution: false
 2. A triangle has side lengths of $2b+1$, $3b-1$ and a perimeter of $13b^2+3b+2$. Determine the expression for the length of the third side.
 3. In $\triangle ABC$, $AB = AC$, $BC=b+1$ and $AB+AC+BC=3b+5$. Determine the expression for $AB$.
 
+> [!abstract] Review First
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Review 3|Polynomial Review 3]]
+> - [[Math/Polynomials/Polynomial Review 5|Polynomial Review 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -69,17 +83,3 @@ show_solution: false
 > \]
 > Hence $AB = b+2$.
 >
-
-> [!abstract] Review First
-> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Review 3|Polynomial Review 3]]
-> - [[Math/Polynomials/Polynomial Review 5|Polynomial Review 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

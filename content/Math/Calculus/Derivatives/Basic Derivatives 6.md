@@ -19,10 +19,6 @@ $$y=5x^4 - 6x^3 + 7x^2 - \frac{x}{3} + 9$$
 
 $$h(x) = 9x^2 - 8^3 + \frac{1}{4x^2} - \frac{1}{6\sqrt[3]{x^4}}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -36,3 +32,7 @@ $$h(x) = 9x^2 - 8^3 + \frac{1}{4x^2} - \frac{1}{6\sqrt[3]{x^4}}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

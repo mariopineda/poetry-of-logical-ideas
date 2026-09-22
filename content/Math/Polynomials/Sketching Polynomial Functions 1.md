@@ -12,10 +12,6 @@ show_solution: false
 
 Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -31,3 +27,7 @@ Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

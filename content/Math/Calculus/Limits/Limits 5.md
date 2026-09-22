@@ -19,14 +19,6 @@ x^2-2 & \mbox{, if } x<0 \\
 1. Algebraically determine whether $f(x)$ is continuous at $x=0,3$.
 2. Sketch the function.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/0xF4Xw1DxIk
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -40,3 +32,11 @@ x^2-2 & \mbox{, if } x<0 \\
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/0xF4Xw1DxIk
+>

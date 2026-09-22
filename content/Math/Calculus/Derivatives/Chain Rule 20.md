@@ -18,14 +18,6 @@ Given $f(x)=(2x+1)^5 (x^3-x+1)^4$;
 > Use the Product Rule before using the Chain Rule.
 4. Graph $f'(x)$ in [Desmos](https://www.desmos.com/calculator) by superimposing it onto the graph of $f(x)$. Was your predicted sketch of $f'(x)$ in (B) correct?
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/2-Jwi69hKRQ
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -39,3 +31,11 @@ Given $f(x)=(2x+1)^5 (x^3-x+1)^4$;
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/2-Jwi69hKRQ
+>

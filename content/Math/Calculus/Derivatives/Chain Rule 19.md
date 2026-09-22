@@ -11,10 +11,6 @@ show_solution: false
 
 Derive the quotient rule, using the fact that $\frac{f(x)}{g(x)} = f(x) \times [ g(x) ]^{-1}$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -28,3 +24,7 @@ Derive the quotient rule, using the fact that $\frac{f(x)}{g(x)} = f(x) \times [
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

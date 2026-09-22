@@ -19,10 +19,6 @@ State whether or not each of the following functions is a polynomial function? E
 ### 6. $y=3x$
 ### 7. $g(x) = 3^x+11$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -37,3 +33,7 @@ State whether or not each of the following functions is a polynomial function? E
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+
+## Solution
+
+> [!example]- Show solution

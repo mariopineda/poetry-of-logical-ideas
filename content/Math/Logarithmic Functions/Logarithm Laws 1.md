@@ -16,14 +16,6 @@ Evaluate by converting to exponential form.
 2. $$6^{\log\_{6} 36}$$
 3. $$3 \log\_{\frac{1}{10}} 10 - 2 \log\_{\frac{1}{10}} \left( \frac{1}{100} \right)$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/u824wzVFqm4
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
@@ -37,3 +29,11 @@ Evaluate by converting to exponential form.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/u824wzVFqm4
+>

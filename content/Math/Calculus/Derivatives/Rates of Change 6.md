@@ -13,10 +13,6 @@ show_solution: false
 
 For the linear function $y=\frac{4}{5}x-9, if $y$ increases by 20, then what is the change in $x$?
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -30,3 +26,7 @@ For the linear function $y=\frac{4}{5}x-9, if $y$ increases by 20, then what is 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

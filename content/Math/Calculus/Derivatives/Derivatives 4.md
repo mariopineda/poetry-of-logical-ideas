@@ -19,10 +19,6 @@ $$y=5-2x$$
 
 $$y=x^2+6x-10$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -36,3 +32,7 @@ $$y=x^2+6x-10$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

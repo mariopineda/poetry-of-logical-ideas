@@ -19,12 +19,6 @@ Factor:
 5. $6x^2-13xy-15y^2$
 6. $(x-3)^4-1$
 
-## Solution
-
-> [!example]- Show solution
->
-> $(x-2)(x-4)(x^2-6x+10)$
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
 
@@ -38,3 +32,9 @@ Factor:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> $(x-2)(x-4)(x^2-6x+10)$

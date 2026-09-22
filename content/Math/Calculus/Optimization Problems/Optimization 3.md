@@ -13,8 +13,6 @@ Algebraically determine the absolute and local min / max on the given interval f
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -28,3 +26,5 @@ Algebraically determine the absolute and local min / max on the given interval f
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

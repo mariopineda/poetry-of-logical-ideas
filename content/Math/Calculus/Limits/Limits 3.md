@@ -11,14 +11,6 @@ show_solution: false
 
 Determine the equation of the tangent line to $y=x^2-2x-8$ at $(-3,7)$ using $m\_t = \lim\_{x \to a} \frac{f(x)-f(a)}{x-a}$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/h5u_AyC1yaE
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -32,3 +24,11 @@ Determine the equation of the tangent line to $y=x^2-2x-8$ at $(-3,7)$ using $m\
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/h5u_AyC1yaE
+>

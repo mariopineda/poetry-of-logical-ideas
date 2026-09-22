@@ -22,10 +22,6 @@ Evaluate the following using the graph.
 
 ![[Images/Legacy/limits-4.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -39,3 +35,7 @@ Evaluate the following using the graph.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

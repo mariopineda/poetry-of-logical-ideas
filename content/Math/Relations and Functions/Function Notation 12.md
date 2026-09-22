@@ -14,10 +14,6 @@ Sketch the following functions. State the range in set notation.
 1. $f(x)=-2x+3$ for the domain $\{-3,-2,-1,0,1,2,3\}$
 2. $g(x)=\frac{1}{2}x-5$ for the domain ${x \in \mathbb{R}}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
@@ -30,3 +26,7 @@ Sketch the following functions. State the range in set notation.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

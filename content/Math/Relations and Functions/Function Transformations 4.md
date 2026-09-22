@@ -17,10 +17,6 @@ Draw a rough sketch of the following functions. Identify vertex, intercepts and 
 3. $y=(x-2)^2-2$
 4. $y=-\sqrt{x-4}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -34,3 +30,7 @@ Draw a rough sketch of the following functions. Identify vertex, intercepts and 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

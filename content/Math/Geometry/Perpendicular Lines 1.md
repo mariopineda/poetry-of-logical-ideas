@@ -13,6 +13,20 @@ show_solution: false
 1. Given a line segment with slope $2$ and points $E(-4,9)$ and $F(x,-5)$, determine the value of missing coordinate to the nearest tenth.
 2. Given the line $AB$ with endpoints $A(3,5)$ and $B(0,-2)$ and line $CD$ with end points $C(5,3)$ and $D(3,2)$, determine whether lines $AB$ and $CD$ are parallel, perpendicular or neither.
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Geometry/Coordinate Geometry 6|Coordinate Geometry 6]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -46,17 +60,3 @@ show_solution: false
 > $$
 > The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Geometry/Coordinate Geometry 6|Coordinate Geometry 6]]
-> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

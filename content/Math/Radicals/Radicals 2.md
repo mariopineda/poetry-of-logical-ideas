@@ -24,13 +24,6 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 > [!info]- Hint 1
 > ...
 
-## Solution
-
-> [!example]- Show solution
->
-> ...
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -43,3 +36,10 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> ...
+>

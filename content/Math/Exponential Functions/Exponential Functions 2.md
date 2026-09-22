@@ -16,14 +16,6 @@ Solve for $x$
 2. $$8^{3x} = 4^{1-x}$$
 3. $$9^{3x+1} = 27^{3x}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/_WDp9GmFzPQ
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -37,3 +29,11 @@ Solve for $x$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/_WDp9GmFzPQ
+>

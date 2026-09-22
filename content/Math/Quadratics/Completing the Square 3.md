@@ -18,14 +18,6 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 3. $y=2(x-6)(x-3)-x+5$
 4. $y=(x-3)(3x^2+6x-1)$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/CE4U35wo4gg
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -41,3 +33,11 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/CE4U35wo4gg
+>

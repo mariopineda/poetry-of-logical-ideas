@@ -13,10 +13,6 @@ show_solution: false
 Using Pascal's Triangle, determine the number of pathways from the red to the green point, passing through the orange point (if applicable), if paths must always move closer to the green point.
 ![[Pathway Problems.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
@@ -30,3 +26,7 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

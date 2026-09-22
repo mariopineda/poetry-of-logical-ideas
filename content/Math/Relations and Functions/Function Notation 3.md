@@ -20,6 +20,20 @@ For the following table of values, express the relationship
 3. What is the per capita GDP if the temperature does not increase due to global warming?
 4. What amount of temperature increase will result in the per capita GDP being reduced by half? Round your answer to the nearest whole number.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
+> - [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -41,17 +55,3 @@ For the following table of values, express the relationship
 > > [!info]- Source
 > > [Howard & Sterner (2017)](https://link.springer.com/article/10.1007%2Fs10640-017-0166-z)
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
-> - [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

@@ -13,8 +13,6 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
@@ -27,3 +25,5 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

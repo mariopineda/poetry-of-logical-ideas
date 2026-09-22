@@ -18,10 +18,6 @@ Evaluate and simplify without a calculator.
 4. $\frac{\displaystyle 2x^2}{\displaystyle 9x} \div \frac{\displaystyle x}{\displaystyle 3x^3}$
 5. $\frac{\displaystyle 4x}{\displaystyle 9x}-\frac{\displaystyle 2x^2}{\displaystyle 6x^2}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -40,3 +36,7 @@ Evaluate and simplify without a calculator.
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 4|Solving Rational Equations 4]]
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 5|Solving Rational Equations 5]]
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 6|Solving Rational Equations 6]]
+
+## Solution
+
+> [!example]- Show solution

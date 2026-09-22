@@ -14,10 +14,6 @@ A road rises 15 m for each 150 m of horizontal distance. What is the angle of in
 > [!info]- Hint
 > Sketch the scenario and label with provided information.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
@@ -49,3 +45,7 @@ A road rises 15 m for each 150 m of horizontal distance. What is the angle of in
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 8|Unit Circle and Trigonometric Ratios 8]]
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
+
+## Solution
+
+> [!example]- Show solution

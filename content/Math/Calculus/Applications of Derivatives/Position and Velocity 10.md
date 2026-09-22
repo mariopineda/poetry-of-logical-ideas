@@ -18,10 +18,6 @@ $$s(t) = \frac{t^2+1}{2t-1}$$
 
 $$s(t) = t \sqrt{4t+1}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -35,3 +31,7 @@ $$s(t) = t \sqrt{4t+1}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

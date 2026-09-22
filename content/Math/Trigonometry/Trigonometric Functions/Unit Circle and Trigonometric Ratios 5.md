@@ -20,8 +20,6 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -36,3 +34,5 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

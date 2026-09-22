@@ -14,10 +14,6 @@ Evaluate without a calculator:
 2. $$(8 \times (-4)-(-9)+(-7)) \div 3$$
 3. $$10+5 \div ((-7)-(-5)) \times ((-10)+5)$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -31,3 +27,7 @@ Evaluate without a calculator:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -18,6 +18,20 @@ $$
 1. Write the next **two** numbers.
 2. Briefly explain how you determined your answer.
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
+> - [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -41,17 +55,3 @@ $$
 > $$
 > \boxed{48,\ 96}
 > $$
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
-> - [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

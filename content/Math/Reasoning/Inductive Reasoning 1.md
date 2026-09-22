@@ -11,10 +11,6 @@ show_solution: false
 
 ![[Inductive Reasoning 2.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -28,3 +24,7 @@ show_solution: false
 
 > [!success] Build Toward
 > - [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]
+
+## Solution
+
+> [!example]- Show solution

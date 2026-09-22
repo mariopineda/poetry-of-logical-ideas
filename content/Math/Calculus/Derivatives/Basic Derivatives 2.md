@@ -19,14 +19,6 @@ $$y=8x^5+11x^2-7x+9$$
 
 $$g(u)=\frac{1}{8u^2}-4\sqrt{u^3}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/euGJmVx8dZw
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -40,3 +32,11 @@ $$g(u)=\frac{1}{8u^2}-4\sqrt{u^3}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/euGJmVx8dZw
+>

@@ -17,8 +17,6 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -33,3 +31,5 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

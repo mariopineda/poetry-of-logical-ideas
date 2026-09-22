@@ -23,14 +23,6 @@ $$g(t)=\frac{1}{t^4}$$
 
 $$\frac{d}{dx}\sqrt[5]{x^2}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/HBJW1INH3VI
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -76,3 +68,11 @@ $$\frac{d}{dx}\sqrt[5]{x^2}$$
 > - [[Math/Calculus/Derivatives/Product and Quotient Rules 3|Product and Quotient Rules 3]]
 > - [[Math/Calculus/Derivatives/Product and Quotient Rules 4|Product and Quotient Rules 4]]
 > - [[Math/Calculus/Derivatives/Product and Quotient Rules 5|Product and Quotient Rules 5]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/HBJW1INH3VI
+>

@@ -36,6 +36,19 @@ Answer the following questions using exponential decay models:
     
 4. **Determine how many years** after 1986 it will take for the cesium-137 concentration to drop below **100 Bq/kg**. Round your answer to the nearest whole number.
 
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -106,16 +119,3 @@ Answer the following questions using exponential decay models:
 >
 > 108Ã¢â‚¬â€°yearsÃ‚Â afterÃ‚Â 1986or2094\boxed{108 \, \text{years after 1986}} \quad \text{or} \quad \boxed{2094}
 >
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

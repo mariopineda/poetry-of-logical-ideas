@@ -32,6 +32,19 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 > [!info]- Hint 1
 > ...
 
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations 2|Combinations 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -48,16 +61,3 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 >
 > 6. $_4C_1 \times _4C_4 \times _{44}C_1$
 >
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Combinations 2|Combinations 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

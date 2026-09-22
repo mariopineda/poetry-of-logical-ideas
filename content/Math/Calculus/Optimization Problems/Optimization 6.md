@@ -13,8 +13,6 @@ Find the exact maximum volume of the right circular cylinder that can be inscrib
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -27,3 +25,5 @@ Find the exact maximum volume of the right circular cylinder that can be inscrib
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

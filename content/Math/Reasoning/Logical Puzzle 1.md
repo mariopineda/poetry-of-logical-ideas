@@ -17,10 +17,6 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 ![[Images/Legacy/strimko.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -34,3 +30,7 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

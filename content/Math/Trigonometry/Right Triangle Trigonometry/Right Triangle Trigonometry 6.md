@@ -12,10 +12,6 @@ show_solution: false
 
 How much shorter is it to diagonally cross a rectangular field than around the sides if the field is 400 m long and 120 m wide? Round to the nearest tenth.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
@@ -29,3 +25,7 @@ How much shorter is it to diagonally cross a rectangular field than around the s
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

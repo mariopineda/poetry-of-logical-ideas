@@ -17,6 +17,20 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 3. What is an appropriate domain and range for this context?
 4. Which year did the size of the ozon hole become larger than the land area of Canada? The total land area of Canada is 9093507 $\mbox{km}^2$.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -42,17 +56,3 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 > > [!info]- Source
 > > [NASA Ozone Watch (2019)](https://ozonewatch.gsfc.nasa.gov/)
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
-> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

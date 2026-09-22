@@ -23,10 +23,6 @@ For each relation:
 4. $y=(x+3)(x-2)$
 5. $-3y+2x=9$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -53,3 +49,7 @@ For each relation:
 > - [[Math/Polynomials/Polynomial Functions 9|Polynomial Functions 9]]
 > - [[Math/Relations and Functions/Systems of Linear Equations 1|Systems of Linear Equations 1]]
 > - [[Math/Relations and Functions/Systems of Linear Equations 2|Systems of Linear Equations 2]]
+
+## Solution
+
+> [!example]- Show solution

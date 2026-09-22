@@ -28,14 +28,6 @@ $$\frac{6y+9}{3y-12}$$
 
 $$\frac{8-6x}{4+12x}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/nNncmORoRUM
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -49,3 +41,11 @@ $$\frac{8-6x}{4+12x}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/nNncmORoRUM
+>

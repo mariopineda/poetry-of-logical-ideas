@@ -19,10 +19,6 @@ Determine the velocities when the position is 28 m West of the origin.
 
 Determine the positions when the object's velocity is 12 m/sec. West.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -36,3 +32,7 @@ Determine the positions when the object's velocity is 12 m/sec. West.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -18,12 +18,6 @@ Let $w$ represent the width of the enclosure. Into the area formula for a rectan
 2. Use the quadratic formula to solve for $w$.
 3. What are the dimensions of the pasture were Jason is grazing?
 
-## Solution
-
-> [!example]- Show solution
->
-> $x=15.1$
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -41,3 +35,9 @@ Let $w$ represent the width of the enclosure. Into the area formula for a rectan
 > - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
 > - [[Math/Polynomials/Polynomial Functions 17|Polynomial Functions 17]]
 > - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> $x=15.1$

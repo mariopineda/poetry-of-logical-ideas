@@ -11,10 +11,6 @@ show_solution: false
 
 Water is being poured into an aquarium that is 60 cm long, 30 cm wide, and 40 cm deep. Determine the relationship between the rate at which water is being poured and the rate at which the depth is increasing.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
@@ -28,3 +24,7 @@ Water is being poured into an aquarium that is 60 cm long, 30 cm wide, and 40 cm
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

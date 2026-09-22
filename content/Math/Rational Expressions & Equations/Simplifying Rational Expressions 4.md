@@ -18,14 +18,6 @@ Write an equivalent form of the rational expression $\frac{2a+10}{10a-4}$
 4. which has a term in $a^2$ in the numerator and in the denominator
 5. with a numerator of $6a^3+30a^2$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/R8nOLVbTkUg
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -40,3 +32,11 @@ Write an equivalent form of the rational expression $\frac{2a+10}{10a-4}$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/R8nOLVbTkUg
+>

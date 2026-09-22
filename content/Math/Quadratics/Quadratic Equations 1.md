@@ -16,10 +16,6 @@ When the equation $6x^2-12x-18$ is fully factored, one factor is:
 3. $$x+6$$
 4. $$x-3$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -35,3 +31,7 @@ When the equation $6x^2-12x-18$ is fully factored, one factor is:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

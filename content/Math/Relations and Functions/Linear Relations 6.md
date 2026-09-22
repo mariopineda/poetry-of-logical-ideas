@@ -17,10 +17,6 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 3. Determine the depth, to one decimal, below the surface for when the temperature is 45$^\circ$C.
 4. State the domain and range, in interval notation, for the function in this context.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -34,3 +30,7 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

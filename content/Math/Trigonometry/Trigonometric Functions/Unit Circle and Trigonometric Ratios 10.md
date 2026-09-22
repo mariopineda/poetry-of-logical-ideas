@@ -13,8 +13,6 @@ The point $\left( -\frac{1}{2},\frac{\sqrt{3}}{2} \right)$ lies at the intersect
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -29,3 +27,5 @@ The point $\left( -\frac{1}{2},\frac{\sqrt{3}}{2} \right)$ lies at the intersect
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

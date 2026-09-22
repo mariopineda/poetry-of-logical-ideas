@@ -29,6 +29,20 @@ Express as an entire radical.
    > [!info]- Hint
 > Start by taking the cube root of the numerical coefficient cubed
 
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Radicals/Adding and Subtracting Radicals 1|Adding and Subtracting Radicals 1]]
+> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -47,17 +61,3 @@ Express as an entire radical.
 > 3. $6\sqrt{2}$ $=\sqrt{6^2}\sqrt{2}$ $=\sqrt{36}\sqrt{2}$ $=\sqrt{36 \times 2}$ $=\sqrt{72}$
 > 4. $3\sqrt[3]{-2}$ $=\sqrt[3]{3^3}\sqrt[3]{-2}$ $=\sqrt[3]{27}\sqrt[3]{-2}$ $=\sqrt[3]{27(-2)}$ $=\sqrt[3]{-54}$
 >
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Radicals/Adding and Subtracting Radicals 1|Adding and Subtracting Radicals 1]]
-> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

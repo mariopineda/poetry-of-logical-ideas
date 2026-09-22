@@ -13,8 +13,6 @@ If 2700 cm$^2$ of material is available to make a box with a square base and ope
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -28,3 +26,5 @@ If 2700 cm$^2$ of material is available to make a box with a square base and ope
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

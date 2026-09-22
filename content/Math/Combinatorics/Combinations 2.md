@@ -12,6 +12,20 @@ show_solution: false
 
 Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -43,17 +57,3 @@ Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 > $$
 > Thus, the solution to the equation $\binom{n}{7} = \binom{n+1}{8}$ is $n = 7$.
 >
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
-> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

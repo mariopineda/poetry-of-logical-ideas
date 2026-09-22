@@ -30,6 +30,21 @@ where $h$ is the height of the ball, in metres, and $t$ is the time after the ba
 
 Use your graphing calculator as needed.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 7|Quadratic Equations 7]]
+> - [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank|Polynomial Functions 18 — Draining Water Tank]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
+
 ## Solution
 
 > [!example]- Show solution
@@ -88,18 +103,3 @@ Use your graphing calculator as needed.
 > 0\le h\le16
 > $$
   - "[[Polynomial Functions 18 — Draining Water Tank]]"
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Quadratics/Quadratic Equations 7|Quadratic Equations 7]]
-> - [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank|Polynomial Functions 18 — Draining Water Tank]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]

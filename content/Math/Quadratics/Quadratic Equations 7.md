@@ -14,8 +14,6 @@ A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball i
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -32,3 +30,5 @@ A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball i
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
 > - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
+
+## Solution

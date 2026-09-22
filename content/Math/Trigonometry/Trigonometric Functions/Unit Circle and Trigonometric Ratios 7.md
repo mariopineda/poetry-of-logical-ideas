@@ -18,8 +18,6 @@ Using the unit circle, determine the exact values of:
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -34,3 +32,5 @@ Using the unit circle, determine the exact values of:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

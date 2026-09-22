@@ -13,6 +13,21 @@ show_solution: false
 
 A manufacturer is designing a new cylindrial paint can with a diameter of 20 cm. She plans to use 2200 cm$^2$ of material to make the can. What is the height of the can, to the nearest whole centimetre that uses all avaliable material?
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
+> - [[Math/Measurement/Surface Area and Volume 5|Surface Area and Volume 5]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -30,18 +45,3 @@ A manufacturer is designing a new cylindrial paint can with a diameter of 20 cm.
 > \end{array}
 > $$
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
-> - [[Math/Measurement/Surface Area and Volume 5|Surface Area and Volume 5]]
-> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

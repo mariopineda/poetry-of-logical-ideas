@@ -17,17 +17,6 @@ A farmer must travel from their village to a market in another city, passing thr
 
 How many total route combinations are available for the farmerÃ¢â‚¬â„¢s journey?
 
-## Solution
-
-> [!example]- Show solution
->
-> ### Part 1: Movement Through Checkpoints
-> - Checkpoint 1:Ã‚Â 1Ã‚Â route (1 closed, 1 open).
-> - Checkpoint 2:Ã‚Â 3Ã‚Â routes.
-> - Checkpoint 3:Ã‚Â 1Ã‚Â route (1 blocked).
-> FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
->
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -41,3 +30,14 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> ### Part 1: Movement Through Checkpoints
+> - Checkpoint 1:Ã‚Â 1Ã‚Â route (1 closed, 1 open).
+> - Checkpoint 2:Ã‚Â 3Ã‚Â routes.
+> - Checkpoint 3:Ã‚Â 1Ã‚Â route (1 blocked).
+> FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
+>

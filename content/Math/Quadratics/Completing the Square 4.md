@@ -17,14 +17,6 @@ State the maximum or minimum value of each quadratic function, correct to the ne
 3. $y=-0.25x^2+2x+3$
 4. $y=2x^2-\frac{1}{4}x+1$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/rIQkYVMHx-o
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -40,3 +32,11 @@ State the maximum or minimum value of each quadratic function, correct to the ne
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/rIQkYVMHx-o
+>

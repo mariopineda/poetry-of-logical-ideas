@@ -15,18 +15,6 @@ a) Write the exponential equation $A=P(1+i)^n$ that represents this situation. W
 
 b) How much will the bond be worth after 1 year?
 
-## Solution
-
-> [!example]- Show solution
->
-> 1.
-> $P=5000$
-> $i=\frac{\displaystyle 0.09}{\displaystyle 12}=0.0075$
->
->
-> 2. ,,,
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
@@ -39,3 +27,15 @@ b) How much will the bond be worth after 1 year?
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> 1.
+> $P=5000$
+> $i=\frac{\displaystyle 0.09}{\displaystyle 12}=0.0075$
+>
+>
+> 2. ,,,
+>

@@ -21,10 +21,6 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 4. How many cans of paint, rounded up to the nearest can, do you need to buy?
 5. If each can of paint costs $38.97, how much will all the paint cost?
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -39,3 +35,7 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

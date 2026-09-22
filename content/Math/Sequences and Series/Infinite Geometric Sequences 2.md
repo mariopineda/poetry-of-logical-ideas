@@ -11,14 +11,6 @@ show_solution: false
 
 Evaluate $\sum\_{n=2}^{\infty} 8\left( -\frac{1}{3} \right)^n$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/XEfK76IMPPI
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -33,3 +25,11 @@ Evaluate $\sum\_{n=2}^{\infty} 8\left( -\frac{1}{3} \right)^n$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/XEfK76IMPPI
+>

@@ -16,10 +16,6 @@ x^2-4 & x < 0 \\
 \end{array}
 \right. $, identify absolute / local max / min by sketching.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -33,3 +29,7 @@ x^2-4 & x < 0 \\
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

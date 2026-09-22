@@ -18,10 +18,6 @@ An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 4. Explain the meaning of the x and y-intercepts.
 5. State the domain and range, in set notation, of the airplane from when it starts its descent until it reaches the ground. Round to the nearest whole number.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -35,3 +31,7 @@ An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

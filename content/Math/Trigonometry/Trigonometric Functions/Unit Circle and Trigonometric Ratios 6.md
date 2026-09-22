@@ -13,8 +13,6 @@ Skecth a diagram of the unit circle including the multiples of $\frac{\pi}{2}$, 
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -29,3 +27,5 @@ Skecth a diagram of the unit circle including the multiples of $\frac{\pi}{2}$, 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

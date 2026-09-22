@@ -11,14 +11,6 @@ show_solution: false
 
 Differentiate $f(x) = (x-3)(x+1)$.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/709OGmGILtg
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -32,3 +24,11 @@ Differentiate $f(x) = (x-3)(x+1)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/709OGmGILtg
+>

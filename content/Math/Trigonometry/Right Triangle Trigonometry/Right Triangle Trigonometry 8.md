@@ -15,10 +15,6 @@ Two forest fires are spotted on opposite sides of an observation tower. From the
 1. If the observation tower is 75 m high, how far apart are the fires?
 2. If the two fires were on the same side of thr tower on the same compass heading. How far apart would they be then?
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
@@ -31,3 +27,7 @@ Two forest fires are spotted on opposite sides of an observation tower. From the
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

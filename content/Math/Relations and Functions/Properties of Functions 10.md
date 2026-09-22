@@ -11,10 +11,6 @@ show_solution: false
 
 If $f(x)=5-3x$ and $g(x)=4x+1$, then solve $f(2-5x)=g(4x+6)$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -29,3 +25,7 @@ If $f(x)=5-3x$ and $g(x)=4x+1$, then solve $f(2-5x)=g(4x+6)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

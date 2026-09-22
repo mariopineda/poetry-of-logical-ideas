@@ -15,6 +15,19 @@ Determine the equations of the lines given the following information. Express th
 1. A line that has an x-intercept at 5 and a y-intercept at 1.
 2. A line that passes through the point $f(1)=5$ and is parallel to $3x-y+5=0$.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Linear Relations 9|Linear Relations 9]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -44,16 +57,3 @@ Determine the equations of the lines given the following information. Express th
 > $$
 > We can now express the equation of the line in slope y-intercept form as $y=3x+2$ and in general form as $3x-y+2=0$.
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Linear Relations 9|Linear Relations 9]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

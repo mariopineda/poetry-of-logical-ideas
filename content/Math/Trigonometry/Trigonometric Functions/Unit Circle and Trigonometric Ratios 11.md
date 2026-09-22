@@ -13,8 +13,6 @@ The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the 
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -29,3 +27,5 @@ The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

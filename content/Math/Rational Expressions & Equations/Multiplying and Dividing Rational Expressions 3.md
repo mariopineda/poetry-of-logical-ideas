@@ -20,14 +20,6 @@ $$\frac{x^2-9}{6x+24} \times \frac{10x+40}{x(x+3)}$$
 
 $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/mmXXgluJuGk
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -42,3 +34,11 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/mmXXgluJuGk
+>

@@ -14,8 +14,6 @@ A $45^\circ-45^\circ-90^\circ$ triangle may be created by drawing a diagonal in 
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -30,3 +28,5 @@ A $45^\circ-45^\circ-90^\circ$ triangle may be created by drawing a diagonal in 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

@@ -17,14 +17,6 @@ Express the following rational expressions in simplest form, stating the non-per
 3. $\displaystyle\frac{(a+3)(a-8)}{(a+1)(a-8)}$
 4. $\displaystyle\frac{(x+7)(x-2)}{x(x-2)(x+14)}$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/HjhknWP0o60
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -39,3 +31,11 @@ Express the following rational expressions in simplest form, stating the non-per
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/HjhknWP0o60
+>

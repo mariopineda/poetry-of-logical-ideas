@@ -11,14 +11,6 @@ show_solution: false
 
 For the function $y=x^2-5x$, estimate the tangent slope at the point $P(2,-6)$ using technology. Include a sketch of the general secant line and the tangent line.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/NAmwC9kZ8iA
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -32,3 +24,11 @@ For the function $y=x^2-5x$, estimate the tangent slope at the point $P(2,-6)$ u
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/NAmwC9kZ8iA
+>

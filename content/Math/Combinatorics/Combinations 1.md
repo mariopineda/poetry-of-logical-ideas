@@ -14,10 +14,6 @@ Consider a circle with five points marked on the circumference.
 1. How many triangles can be formed using these five points? Write the answer in combination notation.
 2. How many lines can be drawn connecting two points on the circle? Write the answer in combination notation.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
@@ -31,3 +27,7 @@ Consider a circle with five points marked on the circumference.
 > [!success] Build Toward
 > - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]
 > - [[Math/Combinatorics/Pascal's Triangle|Pascal's Triangle]]
+
+## Solution
+
+> [!example]- Show solution

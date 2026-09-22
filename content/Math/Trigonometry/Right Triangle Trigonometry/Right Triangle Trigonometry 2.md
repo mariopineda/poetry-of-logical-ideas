@@ -16,8 +16,6 @@ Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \fr
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
@@ -31,3 +29,5 @@ Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \fr
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

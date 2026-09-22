@@ -17,13 +17,6 @@ $x+2$ is a factor of
 3. $$x^2+4$$
 4. $$x^2-x-2$$
 
-## Solution
-
-> [!example]- Show solution
->
-> Correct answer: B
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -39,3 +32,10 @@ $x+2$ is a factor of
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> Correct answer: B
+>

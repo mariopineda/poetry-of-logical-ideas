@@ -15,8 +15,6 @@ Fully sketch $y=-x(x-3)^2$, $y'=-3(x-1)(x-3)$, $y''=-6(x-2)$.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 > - [[Math/Calculus/Derivatives/Higher Derivatives 1|Higher Derivatives 1]]
@@ -31,3 +29,5 @@ Fully sketch $y=-x(x-3)^2$, $y'=-3(x-1)(x-3)$, $y''=-6(x-2)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

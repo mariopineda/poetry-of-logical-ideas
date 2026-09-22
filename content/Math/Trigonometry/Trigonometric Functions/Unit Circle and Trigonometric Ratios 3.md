@@ -13,8 +13,6 @@ A $30^\circ-60^\circ-90^\circ$ triangle may be created by drawing an altitude in
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -29,3 +27,5 @@ A $30^\circ-60^\circ-90^\circ$ triangle may be created by drawing an altitude in
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

@@ -15,14 +15,6 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 2. the value of $\cos x$ when $\sin x$ has a minimum value.
 3. the value of $\cos x$ when $\sin x$ has a value of zero.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/1an_9UMWEjU
->
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -37,3 +29,11 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/1an_9UMWEjU
+>

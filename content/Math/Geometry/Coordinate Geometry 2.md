@@ -12,10 +12,6 @@ show_solution: false
 
 Determine the equation of the straight line that goes through the points $C(-6,5) and $D(2,-7)$. Answer in general form.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -29,3 +25,7 @@ Determine the equation of the straight line that goes through the points $C(-6,5
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

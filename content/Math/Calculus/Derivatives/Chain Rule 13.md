@@ -11,10 +11,6 @@ show_solution: false
 
 Evaluate $\frac{dy}{dx} \Bigg]\_{x=3}$ if $y=u^2-u$ and $u=2x-7$. Use Leibnitz notation.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -28,3 +24,7 @@ Evaluate $\frac{dy}{dx} \Bigg]\_{x=3}$ if $y=u^2-u$ and $u=2x-7$. Use Leibnitz n
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

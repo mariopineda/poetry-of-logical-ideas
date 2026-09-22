@@ -19,8 +19,6 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -35,3 +33,5 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

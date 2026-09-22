@@ -11,10 +11,6 @@ show_solution: false
 
 Determine the first 4 derivatives for $y=ax^3+bx^2+cx+d$ where ${a,b,c,d \in \mathbb{R}}$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -32,3 +28,7 @@ Determine the first 4 derivatives for $y=ax^3+bx^2+cx+d$ where ${a,b,c,d \in \ma
 > - [[Math/Calculus/Curve Sketching/First Derivative Test 1|First Derivative Test 1]]
 > - [[Math/Calculus/Curve Sketching/First Derivative Test 2|First Derivative Test 2]]
 > - [[Math/Calculus/Curve Sketching/First Derivative Test 3|First Derivative Test 3]]
+
+## Solution
+
+> [!example]- Show solution

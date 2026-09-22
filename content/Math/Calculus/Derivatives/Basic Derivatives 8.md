@@ -11,10 +11,6 @@ show_solution: false
 
 For what values of $x$ does $y=4x^3-19x-14x+20$ have a horizontal tangent?
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -28,3 +24,7 @@ For what values of $x$ does $y=4x^3-19x-14x+20$ have a horizontal tangent?
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

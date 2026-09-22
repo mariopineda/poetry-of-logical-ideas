@@ -19,10 +19,6 @@ $$y = f(x^9)$$
 
 $$y=\frac{f(ax)}{a}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -36,3 +32,7 @@ $$y=\frac{f(ax)}{a}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

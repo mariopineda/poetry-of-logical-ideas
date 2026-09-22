@@ -20,10 +20,6 @@ $$3x^2-13x-10=0$$
 
 $$6x^2+17x=3$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
 
@@ -37,3 +33,7 @@ $$6x^2+17x=3$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

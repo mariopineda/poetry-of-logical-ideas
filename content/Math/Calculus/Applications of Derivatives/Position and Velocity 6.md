@@ -19,10 +19,6 @@ Determine the braking distance (to when it comes to rest).
 
 Determine the speed of the car when it has braked a distance of 42 m.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -36,3 +32,7 @@ Determine the speed of the car when it has braked a distance of 42 m.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

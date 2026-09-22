@@ -18,14 +18,6 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 4. $$\frac{a+2}{a^2}-\frac{2-a}{a^2}$$
 5. $$\frac{4b+1}{b+3}-\frac{2b-5}{3+b}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/kjbk1jn4zVU
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -39,3 +31,11 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/kjbk1jn4zVU
+>

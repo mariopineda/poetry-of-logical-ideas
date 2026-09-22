@@ -14,6 +14,20 @@ Evaluate without a calculator:
 2. $$(8 \times (-4)-(-9) + (-7)) \div 3$$
 3. $$10+6 \div ((-7)-(-5)) \times ((-10)+5)$$
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
+> - [[Math/Foundations/Order of Operations 1|Order of Operations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -52,17 +66,3 @@ Evaluate without a calculator:
 > \end{array}
 > \]
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
-> - [[Math/Foundations/Order of Operations 1|Order of Operations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

@@ -32,15 +32,6 @@ For each of the following table of values, express the relationship
 | 4 | 1 |
 | 5 | 4 |
 
-## Solution
-
-> [!example]- Show solution
->
-> <!-- Solution template
->
-> ## Solution
->
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -54,3 +45,12 @@ For each of the following table of values, express the relationship
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> <!-- Solution template
+>
+> ## Solution
+>

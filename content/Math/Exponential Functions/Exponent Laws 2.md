@@ -17,10 +17,6 @@ Simplify:
 4. $\frac{a^6}{a^3}$
 5. $\frac{-12x^6y^5}{4xy^3}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -34,3 +30,7 @@ Simplify:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -20,6 +20,20 @@ Two sides of a triangle have lengths 15 m and 20 m. The angle between the sides 
 > [!info]- Hint 2
 >Use the Law of Cosines, $c^2=a^2+b^2-2ab \cos \theta$
 
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel|Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -64,17 +78,3 @@ Two sides of a triangle have lengths 15 m and 20 m. The angle between the sides 
 > The third side is increasing at the rate of $\frac{\displaystyle \pi\sqrt{39}}{\displaystyle 39} \mbox{m}/\mbox{s} \approx 0.50 \mbox{m}/\mbox{s}$
 > %%
 >
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
-> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel|Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

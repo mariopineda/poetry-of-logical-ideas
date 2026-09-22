@@ -16,6 +16,20 @@ Factor:
 2. $$2x^2+7x+6$$
 3. $$9a^3-39a^2+42a$$
 
+> [!abstract] Review First
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+> - [[Math/Polynomials/Factoring Polynomials 5|Factoring Polynomials 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -46,17 +60,3 @@ Factor:
 > \end{align}
 > $$
 >
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-> - [[Math/Polynomials/Factoring Polynomials 5|Factoring Polynomials 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

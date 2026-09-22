@@ -16,14 +16,6 @@ Solve the following equations. Express the solution as an exact value in the for
 2. $3^x=9$
 3. $7^{x+2}+3=444$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/Us8LatiQ4m4
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -38,3 +30,11 @@ Solve the following equations. Express the solution as an exact value in the for
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/Us8LatiQ4m4
+>

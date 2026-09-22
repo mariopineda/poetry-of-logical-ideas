@@ -19,6 +19,20 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 2. How many products should be sold to **maximize profit**?
 3. What is the **maximum monthly profit**, in dollars?
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]
+
 ## Solution
 
 > [!example]- Show solution
@@ -44,17 +58,3 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 > The maximum value of the function is $9$.
 >
 > Since profit is measured in **thousands of dollars**, the maximum monthly profit is **$9,000**.
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]

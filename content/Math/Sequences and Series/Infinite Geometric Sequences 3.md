@@ -19,14 +19,6 @@ Determine $x$ such that the sum is covergent.
 
 Determine the infinite sum (in terms of $x$).
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/CiJhWgSn6hA
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -41,3 +33,11 @@ Determine the infinite sum (in terms of $x$).
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/CiJhWgSn6hA
+>

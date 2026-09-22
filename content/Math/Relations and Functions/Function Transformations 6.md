@@ -18,10 +18,6 @@ Without using technology sketch of the following functions, identifying the tran
 3. $y=\sqrt{25-x}+3$
 4. $y=|x^2-4|$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -34,3 +30,7 @@ Without using technology sketch of the following functions, identifying the tran
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -13,10 +13,6 @@ Given the sketches of $y=f(x), roughly sketch the derivative function $y=f'(x)$.
 
 ![[Images/Legacy/derivatives-8.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -30,3 +26,7 @@ Given the sketches of $y=f(x), roughly sketch the derivative function $y=f'(x)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -24,14 +24,6 @@ $$\frac{6x^3}{27x^4} \times \frac{18x}{15}$$
 
 $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/he2D6hXzL7g
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -46,3 +38,11 @@ $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/he2D6hXzL7g
+>

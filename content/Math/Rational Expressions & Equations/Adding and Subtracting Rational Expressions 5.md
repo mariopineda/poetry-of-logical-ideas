@@ -24,14 +24,6 @@ $$\frac{2x-3}{3} - \frac{5-2x}{9}$$
 
 $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/5a6_Vv0rwTI
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -46,3 +38,11 @@ $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/5a6_Vv0rwTI
+>

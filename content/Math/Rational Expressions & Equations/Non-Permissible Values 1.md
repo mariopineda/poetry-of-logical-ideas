@@ -15,14 +15,6 @@ In each case, write a rational expression with the given variable and non-permis
 3. variable is $a$, non-permissible value is $-8$
 4. variable is $m$, non-permissible value is $\frac{3}{4}$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/KciyRpeEqnU
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -37,3 +29,11 @@ In each case, write a rational expression with the given variable and non-permis
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/KciyRpeEqnU
+>

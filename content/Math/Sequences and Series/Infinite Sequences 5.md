@@ -23,14 +23,6 @@ $$ \lim\_{n \to \infty} \frac{(2n-7)^3}{(9-5n)^3} $$
 
 $$ \lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7} $$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/Vkt-rNztL4w
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -44,3 +36,11 @@ $$ \lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7} $$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/Vkt-rNztL4w
+>

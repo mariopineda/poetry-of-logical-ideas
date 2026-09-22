@@ -22,6 +22,19 @@ A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm
 3. The company wants the new package to have a volume of $576\text{ cm}^3$. Graph $V(x)$ and $y=576$ on a graphing calculator, and determine how much each dimension should be increased.
 4. State the **contextual domain and range** in both set-builder notation and interval notation.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Domain and Range - Cube Volume Model|Domain and Range - Cube Volume Model]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -121,16 +134,3 @@ A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm
 >
 > - Set-builder notation: $\{V\in\mathbb{R}\mid240\le V\le819\}$
 > - Interval notation: $[240,819]$
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Domain and Range - Cube Volume Model|Domain and Range - Cube Volume Model]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

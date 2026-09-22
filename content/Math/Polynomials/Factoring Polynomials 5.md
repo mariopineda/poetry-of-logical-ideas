@@ -15,6 +15,20 @@ show_solution: false
 3. Factor $(3x^3-27x)-(x^2-9)$
 4. The volume of a rectangular prism is $V(x)=10x^3-25x^2-60x$. Determine the expressions for the length, width and height of the prism. Assume height > length > width.
 
+> [!abstract] Review First
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
+> - [[Math/Polynomials/Polynomial Equations 1|Polynomial Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -64,17 +78,3 @@ show_solution: false
 > $$
 > Since $\mbox{height} > \mbox{length} > \mbox{width}$, $\mbox{height}=5x$, $\mbox{length}=(2x+3)$ and $\mbox{width}=(x-4)$.
 >
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
-> - [[Math/Polynomials/Polynomial Equations 1|Polynomial Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

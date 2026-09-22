@@ -16,10 +16,6 @@ If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 2. $g(-1)$
 3. $f(4)+g(3)$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -34,3 +30,7 @@ If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

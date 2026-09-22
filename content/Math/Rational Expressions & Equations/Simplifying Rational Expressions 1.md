@@ -18,10 +18,6 @@ Simplify the following rational expressions.
 4. $$\frac{7x(x-3)}{(x+7)(x+2)} \div \frac{21x(x-3)}{(x+7)^2}$$
 5. $$\left( 6-\frac{2}{x} \right) \div \left( 9 - \frac{1}{x^2} \right)$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -36,3 +32,7 @@ Simplify the following rational expressions.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

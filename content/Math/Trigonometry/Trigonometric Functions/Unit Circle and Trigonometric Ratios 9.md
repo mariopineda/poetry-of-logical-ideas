@@ -16,8 +16,6 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -32,3 +30,5 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

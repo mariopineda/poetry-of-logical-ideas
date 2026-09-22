@@ -13,10 +13,6 @@ Use the chart below to summarize how the sign pf the leading coefficient and deg
 
 ![[Polynomial Functions 4.png .png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -33,3 +29,7 @@ Use the chart below to summarize how the sign pf the leading coefficient and deg
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
 > - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
+
+## Solution
+
+> [!example]- Show solution

@@ -11,10 +11,6 @@ show_solution: false
 
 Find the slope of the tangent line to $x^2-5y^2=-1$ at the point $(-2,-1)$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
@@ -28,3 +24,7 @@ Find the slope of the tangent line to $x^2-5y^2=-1$ at the point $(-2,-1)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

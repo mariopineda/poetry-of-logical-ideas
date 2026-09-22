@@ -11,10 +11,6 @@ show_solution: false
 
 If $f(x) = \left( x^2-5x+7 \right)^3$, then evaluate $f'(2)$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -28,3 +24,7 @@ If $f(x) = \left( x^2-5x+7 \right)^3$, then evaluate $f'(2)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

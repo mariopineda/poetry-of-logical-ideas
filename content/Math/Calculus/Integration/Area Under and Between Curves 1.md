@@ -13,8 +13,6 @@ Find the area of the region bounded by the parabolas $y=x^2$ and $y=2x-x^2$.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
@@ -28,3 +26,5 @@ Find the area of the region bounded by the parabolas $y=x^2$ and $y=2x-x^2$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

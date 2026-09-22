@@ -18,14 +18,6 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 5. Maximum value
 6. Minimum value
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/ldmDtKEdqXk
->
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -39,3 +31,11 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/ldmDtKEdqXk
+>

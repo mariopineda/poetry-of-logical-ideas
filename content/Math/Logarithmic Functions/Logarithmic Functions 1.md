@@ -17,14 +17,6 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 - y-intercept
 - Asymptote
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/eYLuNOOWzYM
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
@@ -37,3 +29,11 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/eYLuNOOWzYM
+>

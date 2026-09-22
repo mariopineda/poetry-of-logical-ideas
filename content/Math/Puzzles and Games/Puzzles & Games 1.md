@@ -12,10 +12,6 @@ show_solution: false
 
 ![[Balance Puzzle.png]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -30,3 +26,7 @@ show_solution: false
 > [!success] Build Toward
 > - [[Math/Set Theory/Set Theory 2|Set Theory 2]]
 > - [[Math/Set Theory/Set Theory 3|Set Theory 3]]
+
+## Solution
+
+> [!example]- Show solution

@@ -16,6 +16,20 @@ Simplify:
 3. $$\left( \frac{f}{f^{-3}} \right) \left( \frac{f^{-2}}{f^5} \right)$$
 4. $$\left( \frac{q^7r^{-1}}{s^{-2}t^5} \right)^{-3}$$
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Notation 3|Function Notation 3]]
+> - [[Math/Relations and Functions/Function Notation 5|Function Notation 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -57,17 +71,3 @@ Simplify:
 >    \end{align}
 >    \]
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Function Notation 3|Function Notation 3]]
-> - [[Math/Relations and Functions/Function Notation 5|Function Notation 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

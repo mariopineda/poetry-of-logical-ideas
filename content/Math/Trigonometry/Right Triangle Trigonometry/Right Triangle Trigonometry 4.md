@@ -14,6 +14,20 @@ show_solution: false
 1. Determine, to the nearest whole degree, the measure of $\angle C$ in $\triangle ABC$ where $c=4$ cm, $b=6$ cm and $\angle A = 90^\circ$.
 2. Determine, to the nearest tenth, the measure of side $r$ in a right $\triangle PQR$ where $\angle P = 20^\circ$, $p=8$ cm and $q$ is the longest side.
 
+> [!abstract] Review First
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -39,17 +53,3 @@ show_solution: false
 > r & = & 21.97\ldots \approx 22.0 \mbox{ cm}
 > \end{array}
 > \]
-
-> [!abstract] Review First
-> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
-> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

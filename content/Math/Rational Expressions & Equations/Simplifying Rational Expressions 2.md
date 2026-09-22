@@ -19,10 +19,6 @@ Simplify the following rational expressions.
 5. $\displaystyle\frac{c-4}{4-c}$
 6. $\displaystyle\frac{2p^3-4p^2}{16-8p}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -37,3 +33,7 @@ Simplify the following rational expressions.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

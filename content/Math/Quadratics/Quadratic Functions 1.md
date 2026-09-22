@@ -17,10 +17,6 @@ Which of the following functions is not a quadratic function?
 3. $$h(x) = x(x^2+4)-2$$
 4. $$P(X) = 1-x^2$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -35,3 +31,7 @@ Which of the following functions is not a quadratic function?
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

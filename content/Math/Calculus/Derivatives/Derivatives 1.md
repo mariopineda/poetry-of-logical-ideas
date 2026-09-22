@@ -11,14 +11,6 @@ show_solution: false
 
 Determine the derivative of $y=x^2-3x-8$ using first principles. Then, determine the tangent slope at $x=-4$.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/4f2WJNTBjvY
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -78,3 +70,11 @@ Determine the derivative of $y=x^2-3x-8$ using first principles. Then, determine
 > - [[Math/Calculus/Applications of Derivatives/Position and Velocity 7|Position and Velocity 7]]
 > - [[Math/Calculus/Applications of Derivatives/Position and Velocity 8|Position and Velocity 8]]
 > - [[Math/Calculus/Applications of Derivatives/Position and Velocity 9|Position and Velocity 9]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/4f2WJNTBjvY
+>

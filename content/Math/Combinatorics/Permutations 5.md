@@ -18,10 +18,6 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 > [!info]- Related Practice Problems 
 >...
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
@@ -35,3 +31,7 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

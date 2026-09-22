@@ -15,10 +15,6 @@ A person's height can be estimated using the fact that height and the length of 
 1. Express the height $h$ as a relation of the length of the humerus $l$.
 2. Determine the height, to the nearest tenth, of an adult whose humerus measures 38.2 cm.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -32,3 +28,7 @@ A person's height can be estimated using the fact that height and the length of 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

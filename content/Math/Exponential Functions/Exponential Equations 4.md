@@ -12,14 +12,6 @@ show_solution: false
 
 The number, $N$, of throat swab bacteria being grown in a culture after $t$ hours is given by the formula $N=N\_0(10^{0.43t})$, where $N\_0$ is the original number of bacteria. If there are initially 500 bacteria in the culture, determine how long it would take, to the nearest tenth of an hour, for the number of bacteria to grow to 1 million.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/IvMJ9S7Ik_Y
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -34,3 +26,11 @@ The number, $N$, of throat swab bacteria being grown in a culture after $t$ hour
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/IvMJ9S7Ik_Y
+>

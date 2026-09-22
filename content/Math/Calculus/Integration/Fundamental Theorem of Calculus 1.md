@@ -13,8 +13,6 @@ Find $\int\_{1}^{4} \frac{t^2+\sqrt{t}-2}{t} dt$.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
@@ -27,3 +25,5 @@ Find $\int\_{1}^{4} \frac{t^2+\sqrt{t}-2}{t} dt$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

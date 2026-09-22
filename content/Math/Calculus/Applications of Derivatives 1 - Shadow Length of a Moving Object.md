@@ -19,6 +19,19 @@ A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is
 > 3. Determine the length of the shadow at $t=5$ seconds.
 > 4. Calculate the rate at which the length of the shadow is changing at $t=5$ seconds.
 
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -73,16 +86,3 @@ A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is
 > $$
 > Therefore, at $t=5$ seconds, the length of the shadow is approximately 1.15 meters, and it is increasing at a rate of approximately 0.23 meters per second.
 >
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

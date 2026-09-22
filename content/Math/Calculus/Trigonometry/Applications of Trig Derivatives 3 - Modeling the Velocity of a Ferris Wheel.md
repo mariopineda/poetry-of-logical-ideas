@@ -20,6 +20,20 @@ A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters abo
 > 2. Write an equation for the height $h(t)$ of a passenger above the ground at time $t$ seconds, assuming the bottom of the Ferris wheel is 2 meters above the ground.
 > 4. Calculate the passenger's velocity (rate of change of height) at $t = 10$ seconds.
 
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 1|Related Rates 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -62,17 +76,3 @@ A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters abo
 > $$
 > Therefore, the passenger's velocity at $t = 10$ seconds is approximately $-2.09$ meters per second, indicating that they are moving downwards.
 >
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
-> - [[Math/Calculus/Applications of Derivatives/Related Rates 1|Related Rates 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

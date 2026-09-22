@@ -12,13 +12,6 @@ show_solution: false
 
 Using the quadratic formula the positive root, to the nearest tenth, of the following equation $2x^2-25x-80=0$ is...
 
-## Solution
-
-> [!example]- Show solution
->
-> $x=15.1$
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -34,3 +27,10 @@ Using the quadratic formula the positive root, to the nearest tenth, of the foll
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> $x=15.1$
+>

@@ -13,8 +13,6 @@ Using the Second Derivative Test, find the local maximum and minimum values for 
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 > - [[Math/Calculus/Derivatives/Higher Derivatives 1|Higher Derivatives 1]]
@@ -28,3 +26,5 @@ Using the Second Derivative Test, find the local maximum and minimum values for 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

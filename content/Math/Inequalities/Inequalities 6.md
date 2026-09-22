@@ -11,10 +11,6 @@ show_solution: false
 
 Solve $|x^2+6x-8| = 8$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 
@@ -28,3 +24,7 @@ Solve $|x^2+6x-8| = 8$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

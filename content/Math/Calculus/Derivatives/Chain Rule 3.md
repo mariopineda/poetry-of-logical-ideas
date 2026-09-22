@@ -11,14 +11,6 @@ show_solution: false
 
 Differentiate $y = \left[ x^3-7+(5x+1)^4 \right]^9$.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/PAiaw0RHdhA
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -32,3 +24,11 @@ Differentiate $y = \left[ x^3-7+(5x+1)^4 \right]^9$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/PAiaw0RHdhA
+>

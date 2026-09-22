@@ -25,6 +25,20 @@ b) How many different routes can a delivery truck take to deliver vaccines from 
 
 _Hint: Draw a schematic of the hubs and their connecting routes_
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -63,17 +77,3 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 >
 > $3 + 2 + 6 = 11$ routes
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
-> - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

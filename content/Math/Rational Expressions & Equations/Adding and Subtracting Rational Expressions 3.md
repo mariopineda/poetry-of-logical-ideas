@@ -20,14 +20,6 @@ $$\frac{2x-1}{x+2}-\frac{x+2}{2x-1}$$
 
 $$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/G5jVilJu9A0
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -42,3 +34,11 @@ $$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/G5jVilJu9A0
+>

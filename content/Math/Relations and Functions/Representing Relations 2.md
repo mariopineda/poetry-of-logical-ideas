@@ -17,10 +17,6 @@ Classify the following as representing discrete or continuous data.
 2. Rachel is saving $10/month to purchase a new watch.
 3. The formula $F=1.8C+32$ compares the temperature in degrees Celcius ($C$) to temperatures in degrees Fahrenheit ($F$).
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -34,3 +30,7 @@ Classify the following as representing discrete or continuous data.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

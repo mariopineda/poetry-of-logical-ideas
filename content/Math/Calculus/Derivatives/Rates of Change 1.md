@@ -12,14 +12,6 @@ show_solution: false
 
 For the linear function $32x+12y-19=0$, if $x$ decreases by 2, how does $y$ change?
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/jPX_3Wh_76Q
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -33,3 +25,11 @@ For the linear function $32x+12y-19=0$, if $x$ decreases by 2, how does $y$ chan
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/jPX_3Wh_76Q
+>

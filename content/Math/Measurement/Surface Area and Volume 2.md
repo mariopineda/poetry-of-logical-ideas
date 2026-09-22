@@ -14,6 +14,21 @@ show_solution: false
 1. Sparky the dog is tied to a pole in the middle of the yard using a 8 ft leash. Sparky has ruined the grass in the area that his leash has allowed him access to. This area will need to be reseeded. Grass seed costs \$2.50 per package and one package covers 50 ft$^2$. What will it cost to reseed the yard?
 2. The surface area of a cube is 70 cm$^2$. Determine the volume of the cube, to the nearest tenth.
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
+> - [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -30,18 +45,3 @@ show_solution: false
 > 1. The formula for calculating the suface area of a cube is $SA=6x^2$, since we know $SA=70$ cm$^2$ we can calculate the side length of the cube by substituting in the surface area and solve for $x$, $70=6x^2 \Rightarrow \frac{\displaystyle 70}{\displaystyle 6} = x^2 \Rightarrow x = \sqrt{\frac{\displaystyle 70}{\displaystyle 6}} \Rightarrow x = 3.41...$ cm
 > 2. The formula for calculating the volume of a cube is $V=x^3$. We subsitute in the side length, $V=3.41...^3=39.84... \approx 39.9$ cm$^3$.
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
-> - [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
-> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

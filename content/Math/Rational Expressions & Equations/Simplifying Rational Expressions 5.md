@@ -19,14 +19,6 @@ Express the following rational expressions in simplest form. State the non-permi
 5. $$\frac{15x-5x^2}{3x^2-x^4}$$
 6. $$\frac{10x-5x^2}{3x^2-6x}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/JkEJBOs7bg0
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -41,3 +33,11 @@ Express the following rational expressions in simplest form. State the non-permi
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/JkEJBOs7bg0
+>

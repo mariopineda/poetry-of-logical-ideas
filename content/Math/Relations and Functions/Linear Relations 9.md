@@ -20,10 +20,6 @@ A ball is thrown into the air from the balcony of an apartment and falls to the 
 6. Explain whether this is a linear or non-linear scenario.
 7. What is the domain and range, in set notation, of the relation in this context?
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -37,3 +33,7 @@ A ball is thrown into the air from the balcony of an apartment and falls to the 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

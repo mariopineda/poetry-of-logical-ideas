@@ -15,14 +15,6 @@ A farmer is planing to put a fence around a rectangular field. The area of the f
 1. Write and simplify an expression for the length of the field.
 2. If the farmer requires 88 m of fencing, determine the value of $a$ and the length and width of the field.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/AMEbT0L5Aaw
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -37,3 +29,11 @@ A farmer is planing to put a fence around a rectangular field. The area of the f
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/AMEbT0L5Aaw
+>

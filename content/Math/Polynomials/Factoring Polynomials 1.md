@@ -20,8 +20,6 @@ Factor the following polynomials by removing the greatest common factor.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
 
@@ -79,3 +77,5 @@ Factor the following polynomials by removing the greatest common factor.
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]
+
+## Solution

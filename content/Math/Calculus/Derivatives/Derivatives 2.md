@@ -13,14 +13,6 @@ For each function $y=f(x)$, sketch the corresponding derivative function $y=f'(x
 
 ![[Images/Legacy/derivatives-2.png]]
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/cqS5Qw7KPp0
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -34,3 +26,11 @@ For each function $y=f(x)$, sketch the corresponding derivative function $y=f'(x
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/cqS5Qw7KPp0
+>

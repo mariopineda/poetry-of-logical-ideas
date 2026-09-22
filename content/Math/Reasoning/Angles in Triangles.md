@@ -11,10 +11,6 @@ show_solution: false
 
 ![[Trigonometry.jpg]]
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -27,3 +23,7 @@ show_solution: false
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -20,14 +20,6 @@ $$\frac{x-5}{3}+\frac{4x}{x-2}$$
 
 $$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/-7_JFBTZOm0
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -42,3 +34,11 @@ $$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/-7_JFBTZOm0
+>

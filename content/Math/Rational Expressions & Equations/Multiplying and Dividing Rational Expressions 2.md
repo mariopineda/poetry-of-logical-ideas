@@ -20,14 +20,6 @@ $$\frac{3x(2x-3)}{x-6} \times \frac{4(x-6)}{6x}$$
 
 $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/6dwnyRrPWpU
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -42,3 +34,11 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/6dwnyRrPWpU
+>

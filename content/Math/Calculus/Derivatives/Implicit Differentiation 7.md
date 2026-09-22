@@ -19,10 +19,6 @@ For $A=L \times w$, find $\frac{dA}{dt}$.
 
 For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
@@ -36,3 +32,7 @@ For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

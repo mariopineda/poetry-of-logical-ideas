@@ -26,14 +26,6 @@ Without using technology, determine the following characteristics of the given f
 3. $f(x)=2x^2+1$
 4. $f(x)=-x^2+9$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/x-sZDpGfIPg
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -49,3 +41,11 @@ Without using technology, determine the following characteristics of the given f
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/x-sZDpGfIPg
+>

@@ -19,10 +19,6 @@ $$y^2 - 5x = 7-y+x^2$$
 
 $$4y^3-9y = x^2+3xy-2$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
@@ -48,3 +44,7 @@ $$4y^3-9y = x^2+3xy-2$$
 > - [[Math/Calculus/Applications of Derivatives/Related Rates 7|Related Rates 7]]
 > - [[Math/Calculus/Applications of Derivatives/Related Rates 8|Related Rates 8]]
 > - [[Math/Calculus/Applications of Derivatives/Related Rates 9|Related Rates 9]]
+
+## Solution
+
+> [!example]- Show solution

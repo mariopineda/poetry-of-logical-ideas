@@ -28,20 +28,6 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 | 2.5 | 24.9 | |
 | 3.0 | 22.4 | |
 
-## Solution
-
-> [!example]- Show solution
->
-> ### A.
->
-> ### B.
->
-> ### C.
->
-> ### D.
->
-> ### E.
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -59,3 +45,17 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 > - [[Math/Polynomials/Polynomial Functions 23 — Cycling Record|Polynomial Functions 23 — Cycling Record]]
 > - [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance|Polynomial Functions 24 — Stopping Distance]]
 > - [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon|Polynomial Functions 25 — Inflating a Balloon]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> ### A.
+>
+> ### B.
+>
+> ### C.
+>
+> ### D.
+>
+> ### E.

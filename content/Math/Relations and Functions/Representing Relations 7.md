@@ -43,14 +43,6 @@ What would your earnings be for an 40 hour work week under the two pay rates? Wh
 
 How many more hours would you have to work to earn $1000 after the roll back?
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Source
-> > [The Globe and Mail (May 27, 2019) Alberta slashes minimum wage for teen students](https://www.theglobeandmail.com/canada/alberta/article-alberta-slashes-minimum-wage-for-teen-students/)
->
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -64,3 +56,11 @@ How many more hours would you have to work to earn $1000 after the roll back?
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Source
+> > [The Globe and Mail (May 27, 2019) Alberta slashes minimum wage for teen students](https://www.theglobeandmail.com/canada/alberta/article-alberta-slashes-minimum-wage-for-teen-students/)
+>

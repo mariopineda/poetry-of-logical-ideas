@@ -33,6 +33,21 @@ The volume of an inflating balloon is measured at one-second intervals.
 
 Use your graphing calculator.
 
+> [!abstract] Review First
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+> - [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance|Polynomial Functions 24 — Stopping Distance]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 23 — Cycling Record|Polynomial Functions 23 — Cycling Record]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -86,18 +101,3 @@ Use your graphing calculator.
 > where $t$ is measured in seconds and $V$ is measured in $\text{cm}^3$.
   - "[[Polynomial Functions 21 — Hiking Trail]]"
   - [[Math/QOD Question Bank/Polynomials/Polynomial Functions 24 — Stopping Distance]]]"
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
-> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
-> - [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance|Polynomial Functions 24 — Stopping Distance]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 23 — Cycling Record|Polynomial Functions 23 — Cycling Record]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

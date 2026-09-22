@@ -24,10 +24,6 @@ For each of the following table of values, express the relationship (i) in words
    | $3$ | $-8$ |
    | $7$ | $-20$ |
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -41,3 +37,7 @@ For each of the following table of values, express the relationship (i) in words
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

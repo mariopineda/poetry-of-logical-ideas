@@ -25,10 +25,6 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 | 8.  |     |     | $25$    |     |
 | 9.  |     |     |     | $\frac{\displaystyle 1}{\displaystyle 1000}$    |
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
 
@@ -41,3 +37,7 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

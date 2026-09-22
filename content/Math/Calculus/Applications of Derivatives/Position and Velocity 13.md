@@ -16,10 +16,6 @@ The position of a moving particle on a line is given by the equation $s = f(t) =
 3. When is the particle moving in a positive direction?
 4. Find the total distance travelled by the particle during the first 6 sec.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -32,3 +28,7 @@ The position of a moving particle on a line is given by the equation $s = f(t) =
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

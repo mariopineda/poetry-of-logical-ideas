@@ -11,6 +11,19 @@ show_solution: false
 
 Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3} - \frac{\displaystyle x}{\displaystyle x-3} = \frac{\displaystyle -18}{\displaystyle x^2-9}$
 
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 2|Solving Rational Equations 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -24,16 +37,3 @@ Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3
 > $$x=3, 6, x\neq\pm3$$
 > $$x=3 \text{ is an extraneous root, so the only valid solution is } x=6, x\neq\pm3$$
 >
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 2|Solving Rational Equations 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

@@ -18,10 +18,6 @@ Find the roots of the following quadratic equations using the Quadratic Formula.
 
 <!--
 
-## Solution
-
-...
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -37,3 +33,7 @@ Find the roots of the following quadratic equations using the Quadratic Formula.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+...

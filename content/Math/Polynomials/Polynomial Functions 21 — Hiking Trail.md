@@ -28,6 +28,21 @@ where $d$ is the distance from the trailhead, in kilometres, and $E$ is the elev
 
 Use your graphing calculator as needed.
 
+> [!abstract] Review First
+> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon|Polynomial Functions 25 — Inflating a Balloon]]
+
 ## Solution
 
 > [!example]- Show solution
@@ -80,18 +95,3 @@ Use your graphing calculator as needed.
 > 5\le E\le21
 > $$
   - "[[Polynomial Functions 20 — Poster Sales]]"
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon|Polynomial Functions 25 — Inflating a Balloon]]

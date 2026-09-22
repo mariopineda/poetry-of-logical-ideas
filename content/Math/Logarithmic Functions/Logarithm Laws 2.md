@@ -16,14 +16,6 @@ Write each expression as a single logarithm and then evaluate the expression
 2. $$4 \log\_{5} 2 - \log\_{5} \left( \frac{16}{5} \right)$$
 3. $$8 \log\_{8} 2 + 2 \log\_{8} 0.5$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/VdMRDSgi8IM
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
@@ -37,3 +29,11 @@ Write each expression as a single logarithm and then evaluate the expression
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/VdMRDSgi8IM
+>

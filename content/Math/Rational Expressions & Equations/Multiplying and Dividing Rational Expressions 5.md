@@ -20,10 +20,6 @@ $$\frac{p^3(p+2)}{p} \div \frac{49(p+2)}{7(p-5)}$$
 
 $$\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -38,3 +34,7 @@ $$\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -16,10 +16,6 @@ a) there are 2 Canadians, 1 Swedish, 1 German, 1 South African and 3 runners fro
 
 b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runners.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
@@ -32,3 +28,7 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

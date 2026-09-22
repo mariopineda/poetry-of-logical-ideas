@@ -30,10 +30,6 @@ Determine the missing values in the table.
    |  | $0$ |
    |  | $-4$ |
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -47,3 +43,7 @@ Determine the missing values in the table.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

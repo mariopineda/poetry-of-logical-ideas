@@ -16,10 +16,6 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 3. Determine, to the nearest tenth, the value of the function when $x=4.5$.
 4. Determine, to the nearest hundreth, two values of $x$ between 3 and 4 for which $f(x)=-8.5.$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -34,3 +30,7 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

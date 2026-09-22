@@ -19,10 +19,6 @@ $$y=5x^3-6x^2+8x-11$$
 
 $$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -35,3 +31,7 @@ $$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

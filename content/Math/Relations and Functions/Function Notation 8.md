@@ -16,10 +16,6 @@ Using the graph of $f(x)$, evaluate the following.
 3. $f(x)=1$
 4. $f(x)=-1$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
@@ -33,3 +29,7 @@ Using the graph of $f(x)$, evaluate the following.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

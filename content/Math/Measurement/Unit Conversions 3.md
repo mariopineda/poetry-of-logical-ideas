@@ -19,10 +19,6 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 5. $41.2 \mbox{ km} \Rightarrow \mbox{mi}$
 6. $7 \mbox{ ft} 2 \mbox{ in} \Rightarrow \mbox{m}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -37,3 +33,7 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

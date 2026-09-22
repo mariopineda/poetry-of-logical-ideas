@@ -11,10 +11,6 @@ show_solution: false
 
 For the function $y=6x^2-x^3$, identify the local max/min. Roughly sketch.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 > - [[Math/Calculus/Derivatives/Higher Derivatives 1|Higher Derivatives 1]]
@@ -29,3 +25,7 @@ For the function $y=6x^2-x^3$, identify the local max/min. Roughly sketch.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

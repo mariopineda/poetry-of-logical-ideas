@@ -17,10 +17,6 @@ The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 3. $$ \frac{-1 \pm \sqrt{7}}{6} $$
 4. $$ \frac{-2 \pm \sqrt{7}}{6} $$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -36,3 +32,7 @@ The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -13,8 +13,6 @@ Boat A is located D km due South of boat B. Boat A moves North at $v\_A$ km/h, w
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -28,3 +26,5 @@ Boat A is located D km due South of boat B. Boat A moves North at $v\_A$ km/h, w
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

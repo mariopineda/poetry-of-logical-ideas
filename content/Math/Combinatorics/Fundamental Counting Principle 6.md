@@ -18,6 +18,19 @@ In a war zone, households experience severe shortages of electricity, water, and
 
 How many unique daily schedules can a household have for accessing all three utilities?
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -47,16 +60,3 @@ How many unique daily schedules can a household have for accessing all three uti
 >
 > Total schedules = 12 unique daily schedules
 >
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

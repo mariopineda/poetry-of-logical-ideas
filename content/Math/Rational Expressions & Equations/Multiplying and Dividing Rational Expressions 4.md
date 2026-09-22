@@ -24,14 +24,6 @@ $$\frac{6a-1}{3a} \div \frac{24a-4}{9a^3}$$
 
 $$\frac{r+8}{8r} \div (64-r^2)$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/zIbIiRP7gBM
->
-
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
@@ -46,3 +38,11 @@ $$\frac{r+8}{8r} \div (64-r^2)$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/zIbIiRP7gBM
+>

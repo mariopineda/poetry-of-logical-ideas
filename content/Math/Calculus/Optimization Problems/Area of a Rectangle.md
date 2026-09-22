@@ -11,10 +11,6 @@ show_solution: false
 
 Determine the area of a rectangle with perimeter of 100 m whose area is as large as possible.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -27,3 +23,7 @@ Determine the area of a rectangle with perimeter of 100 m whose area is as large
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

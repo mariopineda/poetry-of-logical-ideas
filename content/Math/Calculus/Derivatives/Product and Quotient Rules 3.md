@@ -11,14 +11,6 @@ show_solution: false
 
 Differentiate $f(t) = 2t^5 \times h(t)$, where $f$ and $h$ are differentiable functions.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/TPEXet9kExQ
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -32,3 +24,11 @@ Differentiate $f(t) = 2t^5 \times h(t)$, where $f$ and $h$ are differentiable fu
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/TPEXet9kExQ
+>

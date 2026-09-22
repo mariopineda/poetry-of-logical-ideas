@@ -12,6 +12,19 @@ show_solution: false
 
 Due to human caused global warming glaciers in the Rocky Mountains have been shrinking in size in size faster in the last 150 years than they have since the last great ice age ended 10,000 years ago. Between 1985 and 2005, Jasper National Park lost 135 of its 554 glaciers and Banff National Park lost 29 of its 365. Determine, to the nearest tenth, the percentage of glacier each park lost during these two decades. Which park experience the largest loss of glaciers? How many glaciers remained in the two parks in 2005.
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -26,16 +39,3 @@ Due to human caused global warming glaciers in the Rocky Mountains have been shr
 > > [!info]- Source
 > > [Kelowna Daily Courier (2019)](http://www.kelownadailycourier.ca/opinion/article_b5af49f0-b7d6-11e9-85e8-2b3fdc7116ac.html)
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

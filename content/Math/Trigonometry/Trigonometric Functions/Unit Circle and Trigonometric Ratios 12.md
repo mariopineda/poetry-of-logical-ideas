@@ -16,8 +16,6 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
@@ -32,3 +30,5 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

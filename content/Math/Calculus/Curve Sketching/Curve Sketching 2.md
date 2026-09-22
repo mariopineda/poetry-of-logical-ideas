@@ -15,8 +15,6 @@ Sketch the graph of the function $f(x) = \frac{x^2}{1-x^2}$.
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 > - [[Math/Calculus/Derivatives/Higher Derivatives 1|Higher Derivatives 1]]
@@ -31,3 +29,5 @@ Sketch the graph of the function $f(x) = \frac{x^2}{1-x^2}$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

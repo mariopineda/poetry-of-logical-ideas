@@ -16,14 +16,6 @@ Solve for $x$
 3. $$x^{\frac{1}{3}} = -5$$
 4. $$4x^{-\frac{2}{3}} = 16$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/kaQzu2Do4dA
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -38,3 +30,11 @@ Solve for $x$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/kaQzu2Do4dA
+>

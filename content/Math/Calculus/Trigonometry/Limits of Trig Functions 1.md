@@ -19,22 +19,6 @@ Calculate $\displaystyle \lim_{x \to 0} x \cot x$.
 \lim_{x\to 0} \cos x = 1
 >$$
 
-## Solution
-
-> [!example]- Show solution
->
-> $$
-> \begin{align*}
-> \lim_{x\to 0} x \cot x & =  \lim_{x\to 0} \frac{x \cos x}{\sin x}\\ \\
-> & \text{Divide numerator and denominator by } x \\ \\
-> & = \lim_{x\to 0} \frac{\cos x}{\frac{\displaystyle \sin x}{\displaystyle x}} \\ \\
-> & = \frac{\displaystyle \lim_{x\to 0} \cos x}{\displaystyle \lim_{x\to 0} \frac{\displaystyle \sin x}{\displaystyle x}} \\ \\
-> & = \frac{\cos 0}{1} \\ \\
-> & = 1
-> \end{align*}
-> $$
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -67,3 +51,19 @@ Calculate $\displaystyle \lim_{x \to 0} x \cot x$.
 > - [[Math/Calculus/Derivatives/Rates of Change 7|Rates of Change 7]]
 > - [[Math/Calculus/Derivatives/Rates of Change 8|Rates of Change 8]]
 > - [[Math/Calculus/Derivatives/Rates of Change 9|Rates of Change 9]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> $$
+> \begin{align*}
+> \lim_{x\to 0} x \cot x & =  \lim_{x\to 0} \frac{x \cos x}{\sin x}\\ \\
+> & \text{Divide numerator and denominator by } x \\ \\
+> & = \lim_{x\to 0} \frac{\cos x}{\frac{\displaystyle \sin x}{\displaystyle x}} \\ \\
+> & = \frac{\displaystyle \lim_{x\to 0} \cos x}{\displaystyle \lim_{x\to 0} \frac{\displaystyle \sin x}{\displaystyle x}} \\ \\
+> & = \frac{\cos 0}{1} \\ \\
+> & = 1
+> \end{align*}
+> $$
+>

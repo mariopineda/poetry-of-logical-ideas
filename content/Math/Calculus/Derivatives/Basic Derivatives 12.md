@@ -19,10 +19,6 @@ $$f(t) = 10 - \frac{4}{t} + \frac{9}{t^2} - \frac{1}{3t^3} + \frac{1}{2t^4}$$
 
 $$g(x) = 6\sqrt{x^3} - \frac{1}{4}\sqrt{x} + \frac{12}{\sqrt{x}} - \frac{18}{\sqrt{x^3}}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -36,3 +32,7 @@ $$g(x) = 6\sqrt{x^3} - \frac{1}{4}\sqrt{x} + \frac{12}{\sqrt{x}} - \frac{18}{\sq
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -12,14 +12,6 @@ show_solution: false
 
 Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/d91cAqbqSv0
->
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -34,3 +26,11 @@ Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/d91cAqbqSv0
+>

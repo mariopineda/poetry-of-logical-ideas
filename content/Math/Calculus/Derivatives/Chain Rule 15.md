@@ -19,10 +19,6 @@ $$y = x^3 f(x^2)$$
 
 $$y=f(g(x^3))$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -36,3 +32,7 @@ $$y=f(g(x^3))$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

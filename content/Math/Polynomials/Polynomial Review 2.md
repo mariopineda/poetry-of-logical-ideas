@@ -16,16 +16,6 @@ Multiply.
 3. $$2(x^2-3x+5)$$
 4. $$2x(3x-4)$$
 
-## Solution
-
-> [!example]- Show solution
->
-> 1. $$4(x+3) = 4x+12$$
-> 2. $$3(3x-2) = 9x-6$$
-> 3. $$2(x^2-3x+5) = 2x^2-6x+10$$
-> 4. $$2x(3x-4) = 6x^2-8x$$
->
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -39,3 +29,13 @@ Multiply.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> 1. $$4(x+3) = 4x+12$$
+> 2. $$3(3x-2) = 9x-6$$
+> 3. $$2(x^2-3x+5) = 2x^2-6x+10$$
+> 4. $$2x(3x-4) = 6x^2-8x$$
+>

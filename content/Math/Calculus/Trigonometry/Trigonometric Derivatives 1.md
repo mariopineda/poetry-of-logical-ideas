@@ -13,8 +13,6 @@ Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the poi
 
 <!--
 
-## Solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
@@ -28,3 +26,5 @@ Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the poi
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution

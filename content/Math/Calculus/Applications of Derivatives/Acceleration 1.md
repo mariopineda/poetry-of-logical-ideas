@@ -19,10 +19,6 @@ Determine the average acceleration from $t=3$ sec. to $t=7$ sec.
 
 Determine its location, to the nearest hundredth, when its acceleration is 7 m/sec.$^2$ West.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -35,3 +31,7 @@ Determine its location, to the nearest hundredth, when its acceleration is 7 m/s
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

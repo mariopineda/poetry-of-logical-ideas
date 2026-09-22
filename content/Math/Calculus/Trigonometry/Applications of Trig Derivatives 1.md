@@ -11,6 +11,20 @@ show_solution: false
 
 A beacon at a lighthouse, located a perpendicular distance of 315 m from point R on a straight shoreline, revolves at 1 revolution / minute. How fast does the beam of light sweep along the shoreline at point S located on the shoreline 425 m from point R?
 
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object|Applications of Derivatives 1 - Shadow Length of a Moving Object]]
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
 ## Solution
 
 > [!example]- Show solution
@@ -46,17 +60,3 @@ A beacon at a lighthouse, located a perpendicular distance of 315 m from point R
 > $$
 > Thus when the beam is 425 m from point R it is sweeping along the shore at at approximately 5580 m/min.
 >
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object|Applications of Derivatives 1 - Shadow Length of a Moving Object]]
-> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

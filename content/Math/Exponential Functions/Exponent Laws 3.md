@@ -18,10 +18,6 @@ Use exponent laws to simplify the following:
 5. $\displaystyle\frac{b^{4x+y}}{b^{x-2y}}$
 6. $\displaystyle\frac{x^{5a+7b} \times x^{3a+b}}{x^a \times x^{2a-7b}}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -35,3 +31,7 @@ Use exponent laws to simplify the following:
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

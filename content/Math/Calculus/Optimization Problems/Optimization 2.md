@@ -11,10 +11,6 @@ show_solution: false
 
 Find the absolute max / mins for $y=\sqrt[3]{(x^2-9)^2}$ on the interval $[-1,6]$.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -28,3 +24,7 @@ Find the absolute max / mins for $y=\sqrt[3]{(x^2-9)^2}$ on the interval $[-1,6]
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

@@ -23,10 +23,6 @@ $$f(x) = x^2 \sqrt[3]{x}$$
 
 $$h(x) = \frac{1}{\sqrt[9]{x^4}}$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -40,3 +36,7 @@ $$h(x) = \frac{1}{\sqrt[9]{x^4}}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

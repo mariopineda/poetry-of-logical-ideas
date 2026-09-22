@@ -21,19 +21,6 @@ The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sher
 
 ![[Images/Legacy/storage-tanks-2.png]]
 
-## Solution
-
-> [!example]- Show solution
->
-> ### A.
->
-> The storage tank is approximatelly 7 vehicles high, $7 \times 1.6 = 11.2 \approx 11$ metres high. Other answers are possible.
->
-> ### B.
->
-> ### C.
->
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -50,3 +37,16 @@ The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sher
 > - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
 > - [[Math/Proportional Reasoning/Scale Factors 2|Scale Factors 2]]
 > - [[Math/Proportional Reasoning/Volume Scale Factors 1|Volume Scale Factors 1]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> ### A.
+>
+> The storage tank is approximatelly 7 vehicles high, $7 \times 1.6 = 11.2 \approx 11$ metres high. Other answers are possible.
+>
+> ### B.
+>
+> ### C.
+>

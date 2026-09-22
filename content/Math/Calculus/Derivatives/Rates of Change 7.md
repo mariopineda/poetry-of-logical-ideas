@@ -11,10 +11,6 @@ show_solution: false
 
 A tangent line is parallel to the function $4x-7y+11=0$ and it goes through the point $C(-14,-6)$. Determine its equation in general form.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -28,3 +24,7 @@ A tangent line is parallel to the function $4x-7y+11=0$ and it goes through the 
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

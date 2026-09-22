@@ -14,10 +14,6 @@ If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.
 1. $(f-g)(x)$
 2. $\left( \frac{f}{g} \right)(x)$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -32,3 +28,7 @@ If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

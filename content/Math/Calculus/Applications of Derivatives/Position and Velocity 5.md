@@ -19,10 +19,6 @@ Determine average velocity of the object for the first 3 hours.
 
 Determine instantaneous velocity at $t=3$ hrs.
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -36,3 +32,7 @@ Determine instantaneous velocity at $t=3$ hrs.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

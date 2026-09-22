@@ -11,14 +11,6 @@ show_solution: false
 
 Solve $x \leq \frac{12}{x+1}$. Answer in interval notation.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/dVoJVUJ_xHg
->
-
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 
@@ -32,3 +24,11 @@ Solve $x \leq \frac{12}{x+1}$. Answer in interval notation.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/dVoJVUJ_xHg
+>

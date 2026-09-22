@@ -29,13 +29,6 @@ Links leading hereÃ¢â‚¬Â¦ (automatically generated)
 > [!info]- Hint 1
 > ...
 
-## Solution
-
-> [!example]- Show solution
->
-> ...
->
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -53,3 +46,10 @@ Links leading hereÃ¢â‚¬Â¦ (automatically generated)
 > - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 > - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> ...
+>

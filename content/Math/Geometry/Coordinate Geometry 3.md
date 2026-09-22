@@ -17,10 +17,6 @@ Roughly sketch.
 3. $y=-3$
 4. $y=4x-9$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -35,3 +31,7 @@ Roughly sketch.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

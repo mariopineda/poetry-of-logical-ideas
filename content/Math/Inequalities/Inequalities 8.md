@@ -19,10 +19,6 @@ $$(x+1)(x-2)(x-3) < 0$$
 
 $$(x+1)(x-2)(x-3) > 0$$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 
@@ -35,3 +31,7 @@ $$(x+1)(x-2)(x-3) > 0$$
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

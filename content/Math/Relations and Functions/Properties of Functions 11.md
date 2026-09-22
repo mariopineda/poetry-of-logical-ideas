@@ -15,10 +15,6 @@ show_solution: false
    1. $\frac{f(a)-f(-2)}{a+2}$
    2. $\frac{f(3+h)-f(3)}{h}$
 
-## Solution
-
-> [!example]- Show solution
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -33,3 +29,7 @@ show_solution: false
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution

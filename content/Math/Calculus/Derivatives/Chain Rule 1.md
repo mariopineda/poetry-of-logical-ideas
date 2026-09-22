@@ -11,14 +11,6 @@ show_solution: false
 
 Differentiate $f(x) = (x^3-8x+2)^6$.
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/nLJ4jdlqYi4
->
-
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -52,3 +44,11 @@ Differentiate $f(x) = (x^3-8x+2)^6$.
 > - [[Math/Calculus/Integration/Substitution Rule 1|Substitution Rule 1]]
 > - [[Math/Calculus/Integration/Substitution Rule 2|Substitution Rule 2]]
 > - [[Math/Calculus/Trigonometry/Trigonometric Derivatives 1|Trigonometric Derivatives 1]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/nLJ4jdlqYi4
+>

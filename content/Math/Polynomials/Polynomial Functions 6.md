@@ -29,6 +29,23 @@ Round decimals to the nearest hundreth.
 4. $k(x) = 2x^2+6x+4$
 5. $p(x) = x^3-2x^2+6x+4$
 
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+> - [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box|Polynomial Functions 22 — Redesigning a Box]]
+
 ## Solution
 
 > [!example]- Show solution
@@ -93,20 +110,3 @@ Round decimals to the nearest hundreth.
 > - end bahaviour
 > - coordinates of turning point
 >
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
-> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
-> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
-> - [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box|Polynomial Functions 22 — Redesigning a Box]]

@@ -17,14 +17,6 @@ Evaluate the limits.
 4. $$\lim\_{x \to -6} \frac{x}{x+6}$$
 5. $$\lim\_{x \to 7} \frac{x-7}{\frac{1}{x}-\frac{1}{7}}$$
 
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/iJtjXe_MINU
->
-
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -38,3 +30,11 @@ Evaluate the limits.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/iJtjXe_MINU
+>
