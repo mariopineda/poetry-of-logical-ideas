@@ -1,24 +1,42 @@
 (() => {
   const COURSE_ORDER = [
-    "Math 10C",
-    "Math 10-3",
-    "Math 20-1",
-    "Math 20-2",
-    "Math 20-3",
-    "Math 30-1",
-    "Math 30-2",
-    "Math 31",
+    "Mathematics 10C",
+    "Mathematics 10-3",
+    "Mathematics 20-1",
+    "Mathematics 20-2",
+    "Mathematics 20-3",
+    "Mathematics 30-1",
+    "Mathematics 30-2",
+    "Mathematics 30-3",
+    "Mathematics 31",
   ]
 
   const COURSE_COLORS = {
-    "Math 10C": "#7048E8",
-    "Math 10-3": "#087AC1",
-    "Math 20-1": "#C026D3",
-    "Math 20-2": "#5B9F20",
-    "Math 20-3": "#008F78",
-    "Math 30-1": "#D97706",
-    "Math 30-2": "#B99A00",
-    "Math 31": "#D93B50",
+    "Mathematics 10C": "#7048E8",
+    "Mathematics 10-3": "#087AC1",
+    "Mathematics 20-1": "#C026D3",
+    "Mathematics 20-2": "#5B9F20",
+    "Mathematics 20-3": "#008F78",
+    "Mathematics 30-1": "#D97706",
+    "Mathematics 30-2": "#B99A00",
+    "Mathematics 30-3": "#2563EB",
+    "Mathematics 31": "#D93B50",
+  }
+
+  const COURSE_ALIASES = {
+    "Math 10C": "Mathematics 10C",
+    "Math 10-3": "Mathematics 10-3",
+    "Math 20-1": "Mathematics 20-1",
+    "Math 20-2": "Mathematics 20-2",
+    "Math 20-3": "Mathematics 20-3",
+    "Math 30-1": "Mathematics 30-1",
+    "Math 30-2": "Mathematics 30-2",
+    "Math 30-3": "Mathematics 30-3",
+    "Math 31": "Mathematics 31",
+  }
+
+  function canonicalCourseName(course) {
+    return COURSE_ALIASES[course] ?? course
   }
 
   let cleanupCurrentGraph = null
@@ -125,6 +143,7 @@
 
     const nodes = data.nodes.map((node) => ({
       ...node,
+      courses: (node.courses ?? []).map(canonicalCourseName),
       x: undefined,
       y: undefined,
     }))
