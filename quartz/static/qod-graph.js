@@ -476,17 +476,19 @@
           link.target,
         )
 
-        let alpha = 0.72
-
-        if (activeCourse) {
-          if (sourceMatch && targetMatch) {
-            alpha = 0.95
-          } else if (sourceMatch || targetMatch) {
-            alpha = 0.52
-          } else {
-            alpha = 0.12
-          }
+        // In a filtered course view, only draw connections
+        // whose BOTH endpoint QODs belong to the selected course.
+        //
+        // This removes "ghost" lines leading from highlighted
+        // QODs into faded QODs from other courses.
+        if (
+          activeCourse &&
+          (!sourceMatch || !targetMatch)
+        ) {
+          continue
         }
+
+        const alpha = activeCourse ? 0.95 : 0.72
 
         ctx.save()
         ctx.globalAlpha = alpha
