@@ -1,14 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Factorial Notation"
 show_solution: false
-prerequisites:
-  - "[[Fundamental Counting Principle 1]]"
-related: []
 ---
 
 ## Question
@@ -50,3 +47,17 @@ Solve the equations
 > $$
 >
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Arithmetic]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Permutations with Identical Objects]]
+
+## Build Toward
+
+- [[Combinations]]

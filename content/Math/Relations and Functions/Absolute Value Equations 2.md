@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
 topic: "Absolute Value and Reciprocal Functions"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Absolute Value Equations 1]]"
 ---
 
 ## Question
@@ -23,3 +19,16 @@ Solve $|x^2-5x+2|=2$
 > > https://www.youtube.com/embed/ZPUQTB4Q0hY
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Difference of Squares]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]

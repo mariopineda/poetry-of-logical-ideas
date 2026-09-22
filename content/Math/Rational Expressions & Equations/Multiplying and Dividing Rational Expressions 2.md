@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 1]]"
-  - "[[Multiplying and Dividing Rational Expressions 3]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -34,3 +28,13 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 > > https://www.youtube.com/embed/6dwnyRrPWpU
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+
+## Build Toward

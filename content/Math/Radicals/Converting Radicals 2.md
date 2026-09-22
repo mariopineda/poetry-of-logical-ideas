@@ -1,17 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Converting Radicals 1]]"
-  - "[[Multiplying and Dividing Radicals 1]]"
 ---
 
 ## Question
@@ -38,3 +31,13 @@ $4\sqrt{3}$, $3\sqrt{5}$, $5\sqrt{2}$, $2\sqrt{10}$, $2\sqrt{13}$, $3\sqrt{6}$
 > Rewrite sorted order using original radicals: $2\sqrt{10}$, $3\sqrt{5}$, $4\sqrt{3}$, $5\sqrt{2}$, $2\sqrt{13}$, $3\sqrt{6}$
 >
 
+## Review First
+
+- [[Prime Factorization]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Mathematical Proof]]
+
+## Build Toward

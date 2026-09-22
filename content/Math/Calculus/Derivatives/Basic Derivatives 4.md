@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 3]]"
-  - "[[Basic Derivatives 5]]"
 ---
 
 ## Question
@@ -24,3 +20,17 @@ Determine the equation, in general form, of the tangent line to $y=\sqrt[3]{x^2}
 > > https://www.youtube.com/embed/-luu7dk-mwo
 >
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Factoring Polynomials"
 show_solution: false
-prerequisites:
-  - "[[Polynomial Operations 1]]"
-related:
-  - "[[Factoring Polynomials 2]]"
 ---
 
 ## Question
@@ -26,3 +22,18 @@ Factor the following polynomials by removing the greatest common factor.
 
 ## Solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Square of a Binomial]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Characteristics of Polynomial Functions]]

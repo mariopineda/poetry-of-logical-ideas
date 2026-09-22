@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Equation from Characteristics 1]]"
-  - "[[Sinusoidal Functions - Equation from Characteristics 3]]"
 ---
 
 ## Question
@@ -82,3 +78,13 @@ Show how you determined the values of $a$, $b$, and $d$.
 > $$
 > \boxed{y=3\sin\left(\frac{\pi}{4}x\right)+4}.
 > $$
+
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

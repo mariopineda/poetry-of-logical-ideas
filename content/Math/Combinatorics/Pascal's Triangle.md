@@ -1,13 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course: []
 topic: "Pascal's Triangle"
 show_solution: false
-prerequisites:
-  - "[[Combinations 1]]"
-related: []
 ---
 
 ## Question
@@ -20,3 +16,15 @@ Complete the white triangles in the following row from Pascal's Triangle.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Diagonal]]
+
+## Build Toward
+
+- [[Combinations]]
+- [[Combinatorics]]

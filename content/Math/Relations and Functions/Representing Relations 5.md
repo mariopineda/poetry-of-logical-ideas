@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Representing Relations 4]]"
-  - "[[Representing Relations 6]]"
 ---
 
 ## Question
@@ -37,3 +32,10 @@ Represent the table of values on graph. Give the graph a title and label the axe
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

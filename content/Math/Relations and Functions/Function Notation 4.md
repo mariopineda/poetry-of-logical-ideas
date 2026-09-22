@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 3]]"
-  - "[[Function Notation 5]]"
 ---
 
 ## Question
@@ -63,3 +58,11 @@ Simplify:
 >    \]
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+
+## Build Toward

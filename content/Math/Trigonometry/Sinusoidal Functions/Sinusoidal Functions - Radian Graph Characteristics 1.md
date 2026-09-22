@@ -1,14 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Sinusoidal Functions
 show_solution: true
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Radian Graph Characteristics 2]]"
-  - "[[Sinusoidal Functions - Radian Graph Characteristics 3]]"
 ---
 
 ## Question
@@ -99,3 +96,14 @@ Use the graph to answer the following:
 > $$
 > \boxed{3}
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

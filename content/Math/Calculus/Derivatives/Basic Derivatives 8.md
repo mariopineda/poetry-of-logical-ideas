@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 7]]"
-  - "[[Basic Derivatives 9]]"
 ---
 
 ## Question
@@ -20,3 +15,18 @@ For what values of $x$ does $y=4x^3-19x-14x+20$ have a horizontal tangent?
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+- [[Calculus]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

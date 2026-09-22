@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 1]]"
-  - "[[Limits 3]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ Evalue, if possible.
 > > https://www.youtube.com/embed/dPmJBDJH6zE
 >
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Build Toward
+
+- [[Calculus]]

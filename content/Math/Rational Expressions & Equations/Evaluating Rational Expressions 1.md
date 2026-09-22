@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Arithmetic Operations with Quotients]]"
-  - "[[Multiplying and Dividing Rational Expressions 1]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -38,3 +32,13 @@ Evaluate without a calculator and express in lowest terms.
 >    $$ = \frac{12}{6} + \frac{15}{6} + \frac{2}{6} = \frac{29}{6}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

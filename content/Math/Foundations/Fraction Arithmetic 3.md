@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 2]]"
-  - "[[Fraction Arithmetic 4]]"
 ---
 
 ## Question
@@ -31,3 +25,14 @@ Convert each of the mixed fractions below into an improper fraction and simplify
 > 4. $$17\frac{2}{4} = \frac{70}{4} = \frac{35}{2}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

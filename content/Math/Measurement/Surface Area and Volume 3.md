@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Surface Area and Volume 2]]"
-  - "[[Surface Area and Volume 4]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -30,3 +25,12 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

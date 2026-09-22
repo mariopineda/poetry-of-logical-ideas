@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Applications of Trig Derivatives 1]]"
-  - "[[Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]"
 ---
 
 ## Question
@@ -70,3 +65,14 @@ Two sides of a triangle have lengths 15 m and 20 m. The angle between the sides 
 > %%
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Differential Equations with Initial Conditions]]

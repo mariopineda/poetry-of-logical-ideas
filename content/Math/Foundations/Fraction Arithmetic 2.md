@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 1]]"
-  - "[[Fraction Arithmetic 3]]"
 ---
 
 ## Question
@@ -31,3 +25,13 @@ Evaluate without a calculator.
 > 4. $$\displaystyle\frac{5}{17} - \displaystyle\frac{2}{7} = \frac{35}{119} - \frac{34}{119} = \frac{1}{119}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

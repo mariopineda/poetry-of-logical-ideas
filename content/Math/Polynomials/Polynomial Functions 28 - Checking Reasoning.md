@@ -3,31 +3,14 @@ type: qod
 published: true
 publish: true
 show_solution: true
-courses:
-  - Math 30-2
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 tags:
   - math/30-2
   - polynomials
   - characteristics
   - math/30-1
-prerequisites:
-  - "[[Polynomial Functions 2]]"
-  - "[[Polynomial Functions 4]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
-  - "[[Polynomial Functions 1]]"
-  - "[[Polynomial Functions 5]]"
-  - "[[Polynomial Functions 6]]"
-  - "[[Polynomial Functions 8]]"
-  - "[[Polynomial Functions 21 — Hiking Trail]]"
-  - "[[Domain and Range - Sketching Relations 1]]"
-  - "[[Function Transformations 2]]"
-  - "[[Sketching Polynomial Functions 1]]"
-  - "[[Sketching Polynomial Functions 2]]"
 ---
 
 ## Question
@@ -91,3 +74,19 @@ C) Sketch your function from part **B**. Label the $y$-intercept and clearly sho
 > $$
 >
 > Accept a different correct sketch when it matches the student's valid equation in part **b)**.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Mathematical Proof]]
+- [[Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

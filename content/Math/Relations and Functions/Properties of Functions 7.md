@@ -1,17 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 6]]"
-  - "[[Properties of Functions 8]]"
 ---
 
 ## Question
@@ -25,3 +18,14 @@ If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

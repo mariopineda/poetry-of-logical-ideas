@@ -1,19 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 20-1
-  - Math 20-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: Quadratics
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Completing the Square 3]]"
-  - "[[Quadratic Equations 1]]"
-  - "[[Polynomial Functions 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -33,3 +25,16 @@ State the maximum or minimum value of each quadratic function, correct to the ne
 > > https://www.youtube.com/embed/rIQkYVMHx-o
 >
 
+## Review First
+
+- [[Square of a Binomial]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

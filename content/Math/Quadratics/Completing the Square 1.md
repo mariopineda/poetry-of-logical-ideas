@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Completing the Square 2]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -31,3 +25,16 @@ Write each quadratic equation in vertex form by completing the square. State the
 > > https://www.youtube.com/embed/7sx_BdG8tZs
 >
 
+## Review First
+
+- [[Square of a Binomial]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]

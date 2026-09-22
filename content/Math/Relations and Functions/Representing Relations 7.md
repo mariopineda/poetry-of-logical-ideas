@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Representing Relations 6]]"
-  - "[[Representing Relations 8]]"
 ---
 
 ## Question
@@ -55,3 +51,12 @@ How many more hours would you have to work to earn $1000 after the roll back?
 > > [The Globe and Mail (May 27, 2019) Alberta slashes minimum wage for teen students](https://www.theglobeandmail.com/canada/alberta/article-alberta-slashes-minimum-wage-for-teen-students/)
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

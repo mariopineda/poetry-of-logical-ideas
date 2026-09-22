@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Unit Conversions 2]]"
-  - "[[Unit Conversions 4]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -28,3 +23,13 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Prime Factorization]]
+
+## Build Toward

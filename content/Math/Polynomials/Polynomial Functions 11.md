@@ -1,17 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Polynomial Functions 8]]"
-  - "[[Completing the Square 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -121,3 +116,18 @@ Use your graphing calculator. Graph the function and use the graph to answer the
 > #### 3. Find the maximum profit
 >
 > The vertical coordinate of the maximum point is $P=16$. Since profit is measured in thousands of dollars, the maximum monthly profit is **\$16,000**.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

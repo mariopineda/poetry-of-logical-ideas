@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 3]]"
-  - "[[Implicit Differentiation 5]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ $$5y^2-8y-9=x$$
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Differential Equations with Initial Conditions]]

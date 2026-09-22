@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Equations"
 show_solution: false
-prerequisites:
-  - "[[Arithmetic Operations with Quotients]]"
-related:
-  - "[[Solving Rational Equations 5]]"
-  - "[[Arithmetic Operations with Quotients]]"
 ---
 
 ## Question
@@ -33,3 +28,19 @@ $$\frac{6y-2}{3y-2} - \frac{2y+6}{y+6} = 0$$
 > > https://www.youtube.com/embed/VygxqfzxmQc
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Explore Also
+
+- [[Zero Product Theorem]]
+- [[Difference of Squares]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

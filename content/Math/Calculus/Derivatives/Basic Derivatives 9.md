@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 8]]"
-  - "[[Basic Derivatives 10]]"
 ---
 
 ## Question
@@ -20,3 +15,13 @@ Determine the x-coordinates of the point on the curve $y=-\frac{2}{x}+4$ that ar
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Antiderivative]]

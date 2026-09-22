@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 8]]"
-  - "[[Chain Rule 10]]"
 ---
 
 ## Question
@@ -20,3 +15,16 @@ Differentiate $y \[ 4-\left( 2x+5 \right)^3\]^6$ using the chain rule more than 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Substitution Rule]]

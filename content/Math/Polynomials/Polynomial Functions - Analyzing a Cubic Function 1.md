@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions - Analyzing a Cubic Function 2]]"
-  - "[[Polynomial Functions - Analyzing a Cubic Function 3]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -94,3 +86,17 @@ Round non-integer coordinates to the nearest hundredth.
 >
 > - Local minimum: $(-1,0)$
 > - Local maximum: $(1,4)$
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

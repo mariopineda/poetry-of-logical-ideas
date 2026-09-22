@@ -1,18 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-2"
+course:
+  - "Mathematics 20-2"
 topic: "Scale Factors"
 show_solution: false
-prerequisites:
-  - "[[Surface Area and Volume 1]]"
-related:
-  - "[[Scale Factors 1]]"
-  - "[[Volume Scale Factors 1]]"
-  - "[[Surface Area and Volume 1]]"
 ---
 
 ## Question
@@ -46,3 +38,13 @@ Complete the following table. Do not answer with decimals unless the given scale
 > | $0.3$ | $0.3^2=0.09$ | $0.09$ | $0.3^3=0.027$ |
 > | $\sqrt{25}=5$ | $25$ | $25$ | $5^3=125$ |
 > | $\sqrt[3]{\displaystyle\frac{1}{1000}} = \displaystyle\frac{1}{10}$ | $\left(\displaystyle\frac{1}{10}\right)^2 = \displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{1000}$ |
+
+## Review First
+
+- [[Proportional Reasoning]]
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 8]]"
-  - "[[Function Notation 10]]"
 ---
 
 ## Question
@@ -20,3 +15,11 @@ The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ 
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

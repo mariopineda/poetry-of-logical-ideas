@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 11]]"
 ---
 
 ## Question
@@ -23,3 +19,12 @@ The curve with equation $x^\frac{2}{3} + y^\frac{2}{3}=1$ is called an astroid a
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Mathematical Proof]]
+
+## Build Toward

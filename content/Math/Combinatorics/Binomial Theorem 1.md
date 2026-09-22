@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Binomial Theorem"
 show_solution: false
-prerequisites:
-  - "[[Pascal's Triangle]]"
-  - "[[Combinations 1]]"
-related: []
 ---
 
 ## Question
@@ -24,3 +20,16 @@ Determine:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Combinations]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Square of a Binomial]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

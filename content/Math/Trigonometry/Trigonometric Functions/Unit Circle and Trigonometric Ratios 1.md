@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 20-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Angular Measure 2]]"
-  - "[[Unit Circle and Trigonometric Ratios 2]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -21,3 +16,13 @@ A $45^\circ-45^\circ-90^\circ$ triangle may be created by drawing a diagonal in 
 
 ## Solution
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+- [[Diagonal]]
+- [[Proportional Reasoning]]
+
+## Build Toward

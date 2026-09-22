@@ -1,17 +1,13 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
+  - "Mathematics 20-3"
 topic: "Oblique Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Oblique Triangle Trigonometry 1]]"
-  - "[[Oblique Triangle Trigonometry 3]]"
 ---
 
 ## Question
@@ -43,3 +39,10 @@ Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD
 > Find side $a$: $BD + DC = 11.7\ldots + 16.7\ldots = 28.5$ cm
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

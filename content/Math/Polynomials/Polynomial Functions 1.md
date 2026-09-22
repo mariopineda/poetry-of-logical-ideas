@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Polynomial Functions 2]]"
-  - "[[Completing the Square 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -31,3 +23,20 @@ State whether or not each of the following functions is a polynomial function? E
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Constant Polynomial Functions]]
+- [[Exponential Functions]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

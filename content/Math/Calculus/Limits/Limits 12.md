@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 11]]"
-  - "[[Limits 13]]"
 ---
 
 ## Question
@@ -23,3 +18,12 @@ Sketch a function $y=f(x)$ that satisfies the conditions given (Answers will var
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

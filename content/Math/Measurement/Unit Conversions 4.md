@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Unit Conversions 3]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -102,3 +98,12 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 > Solution: $8 \mbox{ yd, } 2 \mbox{ ft and } 4\frac{\displaystyle 4}{\displaystyle 5} \mbox{ in}$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

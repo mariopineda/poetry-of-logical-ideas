@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course: []
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 9]]"
-  - "[[Position and Velocity 11]]"
 ---
 
 ## Question
@@ -28,3 +22,17 @@ $$s(t) = t \sqrt{4t+1}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Radicals]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

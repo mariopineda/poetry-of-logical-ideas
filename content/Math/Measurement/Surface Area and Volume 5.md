@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Surface Area and Volume 4]]"
-  - "[[Unit Conversions 1]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -57,3 +52,13 @@ related:
 > 0.9 m
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Unit Circle and Trigonometric Ratios 3]]"
-  - "[[Unit Circle and Trigonometric Ratios 5]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -25,3 +19,15 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 
 ## Solution
 
+## Review First
+
+- [[Radicals]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

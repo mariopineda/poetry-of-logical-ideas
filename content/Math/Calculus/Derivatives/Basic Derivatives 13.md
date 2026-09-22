@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 12]]"
-  - "[[Basic Derivatives 14]]"
 ---
 
 ## Question
@@ -28,3 +23,18 @@ $y=\frac{x^3-1}{x}$ at $x=-2$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 13]]"
-  - "[[Basic Derivatives 15]]"
 ---
 
 ## Question
@@ -20,3 +15,17 @@ For what values of $x$ does $y=x^6-18x^4+2x^3-72x+5$ have a horizontal tangent?
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

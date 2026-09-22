@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 2]]"
-  - "[[Rates of Change 4]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ For the function $y=x^2-5x$, estimate the tangent slope at the point $P(2,-6)$ u
 > > https://www.youtube.com/embed/NAmwC9kZ8iA
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

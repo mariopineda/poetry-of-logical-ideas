@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 2]]"
 ---
 
 ## Question
@@ -35,3 +31,18 @@ $$\frac{d}{dx}\sqrt[5]{x^2}$$
 > > https://www.youtube.com/embed/HBJW1INH3VI
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

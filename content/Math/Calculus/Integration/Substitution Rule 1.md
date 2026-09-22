@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Substitution Rule"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Substitution Rule 2]]"
 ---
 
 ## Question
@@ -35,3 +30,13 @@ Evaluate the following integrals using the substitution rule.
 > $\displaystyle \int u \, du = \frac{u^2}{2} + C = \frac{(\ln(x))^2}{2} + C$
 >
 
+## Review First
+
+- [[Antiderivative]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Transcendental Functions]]
+
+## Build Toward

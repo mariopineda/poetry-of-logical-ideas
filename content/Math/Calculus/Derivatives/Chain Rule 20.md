@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 19]]"
-  - "[[Chain Rule 21]]"
 ---
 
 ## Question
@@ -31,3 +26,17 @@ Given $f(x)=(2x+1)^5 (x^3-x+1)^4$;
 > > https://www.youtube.com/embed/2-Jwi69hKRQ
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

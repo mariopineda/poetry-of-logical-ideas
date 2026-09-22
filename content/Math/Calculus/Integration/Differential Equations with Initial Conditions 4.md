@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Differential Equations"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Differential Equations with Initial Conditions 3]]"
 ---
 
 ## Question
@@ -19,3 +15,13 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 
 ## Solution
 
+## Review First
+
+- [[Antiderivative]]
+
+## Explore Also
+
+- [[Differential Equations with Initial Conditions]]
+- [[Calculus]]
+
+## Build Toward

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Logarithmic Functions"
 show_solution: false
-prerequisites:
-  - "[[Exponential Equations]]"
-related:
-  - "[[Evaluating Logarithms 1]]"
-  - "[[Logarithm Laws 2]]"
-  - "[[Exponential Equations]]"
 ---
 
 ## Question
@@ -30,3 +24,15 @@ Evaluate by converting to exponential form.
 > > https://www.youtube.com/embed/u824wzVFqm4
 >
 
+## Review First
+
+- [[Exponential Functions]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Graphs of Logarithmic Functions]]

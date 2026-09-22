@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 5]]"
-  - "[[Position and Velocity 7]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ Determine the speed of the car when it has braked a distance of 42 m.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

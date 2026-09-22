@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 3]]"
-  - "[[Derivatives 5]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ $$y=x^2+6x-10$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]

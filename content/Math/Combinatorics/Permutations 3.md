@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 2]]"
-  - "[[Permutations 4]]"
 ---
 
 ## Question
@@ -22,3 +17,13 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Combinations]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Fundamental Counting Principle]]
+
+## Build Toward

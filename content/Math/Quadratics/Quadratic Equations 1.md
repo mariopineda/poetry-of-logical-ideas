@@ -1,18 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Completing the Square 4]]"
-  - "[[Quadratic Equations 2]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -28,3 +20,16 @@ When the equation $6x^2-12x-18$ is fully factored, one factor is:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Prime Factorization]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Square of a Binomial]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]

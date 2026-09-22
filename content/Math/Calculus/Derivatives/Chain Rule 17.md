@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 16]]"
-  - "[[Chain Rule 18]]"
 ---
 
 ## Question
@@ -20,3 +15,20 @@ Determine for which value(s) of $x$ the curve $y = \frac{1}{\sqrt[3]{4x^3+15x^2-
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Polynomials]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]
+- [[u-Substitution]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 6]]"
-  - "[[Basic Derivatives 8]]"
 ---
 
 ## Question
@@ -28,3 +23,17 @@ $y=fraction{1}{x}-\frac{3}{x^2}$ at $x=-2$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]

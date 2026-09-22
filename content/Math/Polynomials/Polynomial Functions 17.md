@@ -1,18 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 20-2"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 15]]"
-  - "[[Quadratic Equations 8]]"
-related:
-  - "[[Polynomial Functions 16]]"
-  - "[[Polynomial Functions 14]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -72,3 +66,17 @@ A farmer is building a rectangular pen using **40 m** of fencing. The graph belo
 > $$
 >
 > So the **length is 10 m**.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

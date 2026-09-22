@@ -1,20 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 20-1
-  - Math 20-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Quadratic Equations 7]]"
-  - "[[Polynomial Functions 18 — Draining Water Tank]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Polynomial Functions 13]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -96,3 +88,18 @@ Use your graphing calculator as needed.
 > 0\le h\le16
 > $$
   - "[[Polynomial Functions 18 — Draining Water Tank]]"
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Square of a Binomial]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

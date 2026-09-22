@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 16]]"
-  - "[[Basic Derivatives 18]]"
 ---
 
 ## Question
@@ -25,3 +20,16 @@ ax^2-1 & \mbox{, } x > 3 \\
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]

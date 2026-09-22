@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 7]]"
 ---
 
 ## Question
@@ -27,3 +23,17 @@ $$(x+1)(x-2)(x-3) > 0$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Zero Product Theorem]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

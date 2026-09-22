@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 2b]]"
-  - "[[Derivative of Trigonometric Functions 2d]]"
 ---
 
 ## Question
@@ -40,3 +34,14 @@ For $f(x)=\sin(7x)$ find $f^{(101)}(x)$.
 >  $$
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]

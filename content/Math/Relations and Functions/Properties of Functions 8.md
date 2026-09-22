@@ -1,17 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 7]]"
-  - "[[Properties of Functions 9]]"
 ---
 
 ## Question
@@ -25,3 +19,12 @@ If $f(x) = \frac{1}{x-3}$ and $g(x)=\frac{x+1}{x}$, then determine the following
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+
+## Build Toward

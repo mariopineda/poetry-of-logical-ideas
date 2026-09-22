@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 14]]"
-  - "[[Chain Rule 16]]"
 ---
 
 ## Question
@@ -28,3 +23,14 @@ $$y=f(g(x^3))$$
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Substitution Rule]]
+
+## Build Toward
+
+- [[Antiderivative]]

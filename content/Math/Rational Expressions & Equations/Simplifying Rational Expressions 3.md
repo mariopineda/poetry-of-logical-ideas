@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Simplifying Rational Expressions 2]]"
-  - "[[Simplifying Rational Expressions 4]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -31,3 +25,16 @@ Express the following rational expressions in simplest form, stating the non-per
 > > https://www.youtube.com/embed/HjhknWP0o60
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Prime Factorization]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Calculus]]

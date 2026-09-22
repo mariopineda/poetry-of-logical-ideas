@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 1]]"
-  - "[[Basic Derivatives 3]]"
 ---
 
 ## Question
@@ -32,3 +27,17 @@ $$g(u)=\frac{1}{8u^2}-4\sqrt{u^3}$$
 > > https://www.youtube.com/embed/euGJmVx8dZw
 >
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

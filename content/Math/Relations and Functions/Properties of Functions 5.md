@@ -1,17 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 31"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 4]]"
-  - "[[Properties of Functions 6]]"
 ---
 
 ## Question
@@ -26,3 +20,16 @@ If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Substitution Rule]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]

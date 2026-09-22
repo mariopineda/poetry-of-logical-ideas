@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 7]]"
-  - "[[Linear Relations 9]]"
 ---
 
 ## Question
@@ -24,3 +19,14 @@ A person's height can be estimated using the fact that height and the length of 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

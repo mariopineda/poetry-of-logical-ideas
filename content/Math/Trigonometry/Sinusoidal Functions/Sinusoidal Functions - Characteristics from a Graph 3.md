@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Characteristics from a Graph 1]]"
-  - "[[Sinusoidal Functions - Characteristics from a Graph 2]]"
 ---
 
 ## Question
@@ -72,3 +68,11 @@ Use the graph to determine:
 >    $$
 >    \boxed{\{y\mid -4\le y\le 2,\ y\in\mathbb{R}\}}.
 >    $$
+
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

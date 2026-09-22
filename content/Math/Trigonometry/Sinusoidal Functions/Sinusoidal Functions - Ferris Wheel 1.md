@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Sinusoidal Functions
 show_solution: true
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Ferris Wheel 2]]"
-  - "[[Sinusoidal Functions - Ferris Wheel 3]]"
 ---
 
 ## Question
@@ -125,3 +121,14 @@ For this model, the highest point of the wheel is **135 m above the ground**, th
 > $$
 > \boxed{60\text{ min}}.
 > $$
+
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

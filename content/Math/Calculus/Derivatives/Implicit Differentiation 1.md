@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 2]]"
 ---
 
 ## Question
@@ -27,3 +23,11 @@ $$4y^3-9y = x^2+3xy-2$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+
+## Build Toward

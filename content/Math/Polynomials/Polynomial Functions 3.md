@@ -1,17 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course: []
 topic: "Polynomial Functions"
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Polynomial Functions 2]]"
-  - "[[Polynomial Functions 4]]"
-  - "[[Completing the Square 1]]"
 ---
 
 ## Question
@@ -40,3 +32,16 @@ Simplify the following polynomials.
 > 8. $x^2-6y^2$
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Evaluating Rational Expressions 1]]"
-  - "[[Multiplying and Dividing Rational Expressions 2]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -38,3 +32,17 @@ $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 > > https://www.youtube.com/embed/he2D6hXzL7g
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Division by Zero]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Prime Factorization]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Calculus]]

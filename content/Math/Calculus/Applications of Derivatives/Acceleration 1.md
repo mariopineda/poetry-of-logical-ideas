@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Acceleration 2]]"
 ---
 
 ## Question
@@ -27,3 +23,17 @@ Determine its location, to the nearest hundredth, when its acceleration is 7 m/s
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Calculus]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

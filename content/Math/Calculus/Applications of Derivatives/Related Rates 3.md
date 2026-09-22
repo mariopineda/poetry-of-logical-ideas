@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 2]]"
-  - "[[Related Rates 4]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ Water is being poured out of a funnel at a rate of 15 cm$^3$/min. The right circ
 > > https://www.youtube.com/embed/dNw5Regla94
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

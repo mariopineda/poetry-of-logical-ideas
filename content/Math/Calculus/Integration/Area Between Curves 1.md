@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Definite Integrals"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Area under a curve - Method of Exhaustion]]"
 ---
 
 ## Question
@@ -60,3 +56,13 @@ Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.
 > $$
 >
 
+## Review First
+
+- [[Antiderivative]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward

@@ -1,18 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Quadratic Equations 1]]"
-  - "[[Quadratic Equations 3]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -31,3 +24,17 @@ $x+2$ is a factor of
 > Correct answer: B
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Characteristics of Polynomial Functions]]

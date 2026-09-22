@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Geometric Sequences 2]]"
-  - "[[Infinite Geometric Sequences 4]]"
 ---
 
 ## Question
@@ -33,3 +27,14 @@ Determine the infinite sum (in terms of $x$).
 > > https://www.youtube.com/embed/CiJhWgSn6hA
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Exponential Functions]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward
+
+- [[Calculus]]

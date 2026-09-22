@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Exponential Growth and Decay"
 show_solution: false
-prerequisites:
-  - "[[Exponential Equations]]"
-related:
-  - "[[Exponential Growth - Finance]]"
 ---
 
 ## Question
@@ -111,3 +107,16 @@ Answer the following questions using exponential decay models:
 > 108Ã¢â‚¬â€°yearsÃ‚Â afterÃ‚Â 1986or2094\boxed{108 \, \text{years after 1986}} \quad \text{or} \quad \boxed{2094}
 >
 
+## Review First
+
+- [[Exponential Functions]]
+
+## Explore Also
+
+- [[Graphs of Logarithmic Functions]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Differential Equations with Initial Conditions]]

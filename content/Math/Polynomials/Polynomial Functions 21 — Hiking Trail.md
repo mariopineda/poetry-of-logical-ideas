@@ -1,18 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Polynomial Functions 6]]"
-  - "[[Function Notation 1]]"
-  - "[[Polynomial Functions 20 — Poster Sales]]"
-related:
-  - "[[Polynomial Functions 7]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -87,3 +80,17 @@ Use your graphing calculator as needed.
 > 5\le E\le21
 > $$
   - "[[Polynomial Functions 20 — Poster Sales]]"
+
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

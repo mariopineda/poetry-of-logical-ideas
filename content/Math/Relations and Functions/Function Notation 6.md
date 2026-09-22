@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 5]]"
-  - "[[Function Notation 7]]"
 ---
 
 ## Question
@@ -27,3 +22,12 @@ Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. deter
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward

@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 8]]"
-  - "[[Linear Relations 10]]"
 ---
 
 ## Question
@@ -29,3 +24,17 @@ A ball is thrown into the air from the balcony of an apartment and falls to the 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

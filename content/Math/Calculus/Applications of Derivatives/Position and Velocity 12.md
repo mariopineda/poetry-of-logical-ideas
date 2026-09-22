@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 11]]"
-  - "[[Position and Velocity 13]]"
 ---
 
 ## Question
@@ -38,3 +33,16 @@ Sketch a single continuous position-time function with the following features, l
 > > https://www.youtube.com/embed/aVE3pw9Io5g
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

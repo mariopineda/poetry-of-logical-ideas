@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 7]]"
-  - "[[Rates of Change 9]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ For the function $y=x^2-2x-15=(x-1)^2-16$ at $x=-4$,
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]

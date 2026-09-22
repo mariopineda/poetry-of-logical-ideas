@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course: []
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Review 2]]"
-  - "[[Polynomial Review 4]]"
 ---
 
 ## Question
@@ -31,3 +25,17 @@ Divide.
 > 4. $$\frac{10x^2-15x}{5x} = \frac{10x^2}{5x}-\frac{15x}{5x} = 2x-3$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]

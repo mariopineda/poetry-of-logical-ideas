@@ -1,16 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: Function Transformations
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Function Transformations 2]]"
-  - "[[Function Transformations 4]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -25,3 +20,16 @@ Find the vertex, axis of symmetry, max/min values and intercepts for:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Zero Product Theorem]]
+- [[Square of a Binomial]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]

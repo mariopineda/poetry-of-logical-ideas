@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 10]]"
-  - "[[Rates of Change 12]]"
 ---
 
 ## Question
@@ -24,3 +20,14 @@ For the function $y=\frac{1}{x-4}$ at $x=3$,
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

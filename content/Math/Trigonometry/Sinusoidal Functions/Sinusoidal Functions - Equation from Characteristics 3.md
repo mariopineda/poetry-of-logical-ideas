@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Equation from Characteristics 1]]"
-  - "[[Sinusoidal Functions - Equation from Characteristics 2]]"
 ---
 
 ## Question
@@ -82,3 +78,15 @@ Show how you determined the values of $a$, $b$, and $d$.
 > $$
 > \boxed{y=4\sin\left(\frac{\pi}{5}x\right)-1}.
 > $$
+
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

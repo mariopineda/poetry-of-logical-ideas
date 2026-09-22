@@ -1,16 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
 topic: Function Transformations
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Function Transformations 1]]"
-  - "[[Function Transformations 3]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -30,3 +24,20 @@ Roughly sketch.
 > > https://www.youtube.com/embed/oSRw7H01FhA
 >
 
+## Review First
+
+- [[Concepts]]
+- [[Characteristics of Polynomial Functions]]
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+- [[Division by Zero]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

@@ -1,14 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course: []
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Operations 2]]"
 ---
 
 ## Question
@@ -43,3 +38,17 @@ Simplify and express in descending order of power:
 > \]
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

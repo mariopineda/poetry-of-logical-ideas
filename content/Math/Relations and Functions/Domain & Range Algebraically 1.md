@@ -1,16 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
-prerequisites:
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Ferris Wheel Model]]"
-  - "[[Domain & Range Algebraically 2]]"
 ---
 
 ## Question
@@ -74,3 +69,18 @@ Algebraically determine the domain of:
 > - Set-builder notation: $\{x\in\mathbb{R}\mid -7\le x\le0\text{ or }x\ge7\}$
 > - Interval notation: $[-7,0]\cup[7,\infty)$
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Radicals]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward
+
+- [[Calculus]]

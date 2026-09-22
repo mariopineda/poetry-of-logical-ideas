@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Adding and Subtracting Radicals 1]]"
-  - "[[Converting Radicals 2]]"
 ---
 
 ## Question
@@ -53,3 +48,16 @@ Express as an entire radical.
 > 4. $3\sqrt[3]{-2}$ $=\sqrt[3]{3^3}\sqrt[3]{-2}$ $=\sqrt[3]{27}\sqrt[3]{-2}$ $=\sqrt[3]{27(-2)}$ $=\sqrt[3]{-54}$
 >
 
+## Review First
+
+- [[Prime Factorization]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Radical Multiplication and Division Worksheet]]
+- [[Arithmetic]]
+
+## Build Toward
+
+- [[Calculus]]

@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **3 Questions of the Day** Â· **Courses:** Math 30-2
+> **3 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -17,7 +17,7 @@ Practice questions for **Set Theory**.
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Set Theory/Set Theory 1\|Set Theory 1]] | Math 30-2 |
-| [[Math/Set Theory/Set Theory 2\|Set Theory 2]] | Math 30-2 |
-| [[Math/Set Theory/Set Theory 3\|Set Theory 3]] | Math 30-2 |
+| [[Math/Set Theory/Set Theory 1\|Set Theory 1]] | Not specified |
+| [[Math/Set Theory/Set Theory 2\|Set Theory 2]] | Not specified |
+| [[Math/Set Theory/Set Theory 3\|Set Theory 3]] | Not specified |
 

@@ -1,17 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course: []
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 6]]"
-  - "[[Simplifying Rational Expressions 1]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -31,3 +23,12 @@ In each case, write a rational expression with the given variable and non-permis
 > > https://www.youtube.com/embed/KciyRpeEqnU
 >
 
+## Review First
+
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+
+## Build Toward

@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **164 Questions of the Day** Â· **Courses:** Math 31
+> **164 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -17,17 +17,17 @@ Practice questions for **Calculus**.
 
 | Subtopic | Questions | Courses |
 | --- | ---: | --- |
-| [[Math/Calculus/Applications of Derivatives/index\|Applications of Derivatives]] | 27 | Math 31 |
-| [[Math/Calculus/Curve Sketching/index\|Curve Sketching]] | 6 | Math 31 |
-| [[Math/Calculus/Derivatives/index\|Derivatives]] | 83 | Math 31 |
-| [[Math/Calculus/Integration/index\|Integration]] | 13 | Math 31 |
-| [[Math/Calculus/Limits/index\|Limits]] | 15 | Math 31 |
-| [[Math/Calculus/Optimization Problems/index\|Optimization Problems]] | 7 | Math 31 |
-| [[Math/Calculus/Trigonometry/index\|Trigonometry]] | 12 | Math 31 |
+| [[Math/Calculus/Applications of Derivatives/index\|Applications of Derivatives]] | 27 | Not specified |
+| [[Math/Calculus/Curve Sketching/index\|Curve Sketching]] | 6 | Not specified |
+| [[Math/Calculus/Derivatives/index\|Derivatives]] | 83 | Not specified |
+| [[Math/Calculus/Integration/index\|Integration]] | 13 | Not specified |
+| [[Math/Calculus/Limits/index\|Limits]] | 15 | Not specified |
+| [[Math/Calculus/Optimization Problems/index\|Optimization Problems]] | 7 | Not specified |
+| [[Math/Calculus/Trigonometry/index\|Trigonometry]] | 12 | Not specified |
 
 ## Practice questions
 
 | Question | Course(s) |
 | --- | --- |
-| [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object\|Applications of Derivatives 1 - Shadow Length of a Moving Object]] | Math 31 |
+| [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object\|Applications of Derivatives 1 - Shadow Length of a Moving Object]] | Not specified |
 

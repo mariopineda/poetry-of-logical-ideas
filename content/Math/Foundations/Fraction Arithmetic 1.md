@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Algebraic Expressions 1]]"
-  - "[[Fraction Arithmetic 2]]"
 ---
 
 ## Question
@@ -39,3 +33,15 @@ Convert each of the improper fractions below into a decimal to nearest hundreth,
 >    Equivalen fraction: $$\frac{48}{36} = \frac{32}{24}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+- [[Prime Factorization]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

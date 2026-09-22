@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
 topic: "Factoring Polynomials"
 show_solution: false
-prerequisites:
-  - "[[Polynomial Operations 1]]"
-related:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Factoring Polynomials 3]]"
 ---
 
 ## Question
@@ -28,3 +24,20 @@ Factor:
 > [!example]- Show solution
 >
 > $(x-2)(x-4)(x^2-6x+10)$
+
+## Review First
+
+- [[Polynomials]]
+- [[Prime Factorization]]
+- [[Difference of Squares]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

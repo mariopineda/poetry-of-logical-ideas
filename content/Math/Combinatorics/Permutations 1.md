@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 2]]"
 ---
 
 ## Question
@@ -28,3 +24,17 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Arithmetic]]
+- [[Combinatorics]]
+
+## Explore Also
+
+- [[Permutations with Identical Objects]]
+- [[Combinations]]
+
+## Build Toward
+
+- [[Mathematical Proof]]

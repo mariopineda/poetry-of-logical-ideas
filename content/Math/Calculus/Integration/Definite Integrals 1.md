@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Definite Integrals"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Area Under and Between Curves 1]]"
-  - "[[Fundamental Theorem of Calculus 1]]"
 ---
 
 ## Question
@@ -35,3 +30,15 @@ Evaluate...
 > 4. $\displaystyle \int_0^1 \frac{1}{x^2+1} \, dx = \tan^{-1} x \Bigr]_0^1 = \tan^{-1} 1 - \tan^{-1} 0 =\frac{\pi}{4} - 0 = \frac{\pi}{4}$
 >
 
+## Review First
+
+- [[Antiderivative]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[u-Substitution]]
+
+## Build Toward
+
+- [[Differential Equations with Initial Conditions]]

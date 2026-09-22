@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 5]]"
-  - "[[Inequalities 7]]"
 ---
 
 ## Question
@@ -20,3 +15,16 @@ Solve $|x^2+6x-8| = 8$.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Calculus]]

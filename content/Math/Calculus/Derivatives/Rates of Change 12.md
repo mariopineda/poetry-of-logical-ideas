@@ -1,14 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-2"
+  - "Mathematics 20-3"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 11]]"
 ---
 
 ## Question
@@ -35,3 +33,14 @@ related:
 > ![[Images/Legacy/rateofchange2.png]]
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

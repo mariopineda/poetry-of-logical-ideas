@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 6]]"
-  - "[[Implicit Differentiation 8]]"
 ---
 
 ## Question
@@ -28,3 +23,10 @@ For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

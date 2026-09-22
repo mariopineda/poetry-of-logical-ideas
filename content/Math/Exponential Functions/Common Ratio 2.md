@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
 topic: "Exponential Functions"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Common Ratio 1]]"
-  - "[[Common Ratio 3]]"
 ---
 
 ## Question
@@ -47,3 +41,14 @@ $$
 > $$
 > \boxed{80,\ 160}
 > $$
+
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Exponential Functions]]

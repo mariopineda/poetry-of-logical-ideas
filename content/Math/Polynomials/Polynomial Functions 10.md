@@ -1,17 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions 8]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -125,3 +121,17 @@ Use your graphing calculator. Graph the function and use the graph to answer the
 > $$
 > 0\le h\le20.
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

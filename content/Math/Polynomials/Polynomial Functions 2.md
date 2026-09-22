@@ -1,19 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Polynomial Functions 1]]"
-  - "[[Polynomial Functions 3]]"
-  - "[[Completing the Square 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -32,3 +23,17 @@ For each polynomial, state the name, degree, leading coefficient, constant, doma
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Constant Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

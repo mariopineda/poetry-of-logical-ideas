@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Data Analysis"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Environmental Data Analysis - Sea Level Trend 1]]"
 ---
 
 ## Question
@@ -55,3 +51,16 @@ The amount of sea ice in the arctic varies seasonally and for the year 2018 it c
 > > [National Snow and Ice Data Center (2019)](http://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/)
 >
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

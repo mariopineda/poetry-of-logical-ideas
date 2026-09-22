@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 1]]"
-  - "[[Position and Velocity 3]]"
 ---
 
 ## Question
@@ -24,3 +19,17 @@ A rock is thrown upward at 35 m/s and at a height of 22 m. Its position function
 > > https://www.youtube.com/embed/mVR5pPpJxBA
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

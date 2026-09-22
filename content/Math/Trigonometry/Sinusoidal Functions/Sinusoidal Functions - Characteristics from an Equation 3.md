@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
 topic: Sinusoidal Functions
 show_solution: true
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Characteristics from an Equation 1]]"
-  - "[[Sinusoidal Functions - Characteristics from an Equation 2]]"
 ---
 
 ## Question
@@ -119,3 +115,16 @@ $$
 > $$
 > \boxed{\{y\mid 1\le y\le 5,\ y\in\mathbb{R}\}}.
 > $$
+
+## Review First
+
+- [[Arithmetic]]
+- [[Concepts]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

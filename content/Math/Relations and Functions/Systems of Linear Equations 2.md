@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Systems of Linear Equations"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-related:
-  - "[[Systems of Linear Equations 1]]"
 ---
 
 ## Question
@@ -130,3 +126,10 @@ related:
 >    $$
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

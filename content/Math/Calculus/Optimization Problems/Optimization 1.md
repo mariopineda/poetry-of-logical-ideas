@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Optimization"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Area of a Rectangle]]"
-  - "[[Optimization 2]]"
 ---
 
 ## Question
@@ -25,3 +20,16 @@ x^2-4 & x < 0 \\
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Constant Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

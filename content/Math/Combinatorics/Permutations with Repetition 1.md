@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 5]]"
 ---
 
 ## Question
@@ -24,3 +20,14 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Permutations with Identical Objects]]
+- [[Fundamental Counting Principle]]
+
+## Build Toward
+
+- [[Combinations]]

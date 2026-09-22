@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 10]]"
-  - "[[Implicit Differentiation 12]]"
 ---
 
 ## Question
@@ -28,3 +23,11 @@ For $A=2 \pi r^2 +2 \pi rh$, find $\frac{dA}{dt}$.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward

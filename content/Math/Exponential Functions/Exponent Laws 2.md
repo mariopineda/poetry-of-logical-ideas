@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Exponent Laws"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Exponent Laws 1]]"
-  - "[[Exponent Laws 3]]"
 ---
 
 ## Question
@@ -26,3 +21,15 @@ Simplify:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Radicals]]
+
+## Build Toward
+
+- [[Exponential Functions]]
+- [[Rational Expressions & Equations]]

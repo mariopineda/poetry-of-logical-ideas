@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Exponential Equations"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Exponential Equations 2]]"
-  - "[[Exponential Equations 4]]"
-  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -30,3 +24,16 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 > > https://www.youtube.com/embed/zC3IUFWbKCs
 >
 
+## Review First
+
+- [[Exponential Functions]]
+
+## Explore Also
+
+- [[Graphs of Logarithmic Functions]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Transcendental Functions]]

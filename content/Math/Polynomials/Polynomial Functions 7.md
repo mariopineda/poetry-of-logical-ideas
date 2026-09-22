@@ -1,18 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Polynomial Functions"
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Polynomial Functions 6]]"
-  - "[[Polynomial Functions 8]]"
-  - "[[Completing the Square 1]]"
 ---
 
 ## Question
@@ -48,3 +41,16 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 > ### D.
 >
 > ### E.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

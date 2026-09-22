@@ -1,16 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
 topic: "Right Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Angles and Parallel Lines 1]]"
-related:
-  - "[[Right Triangle Trigonometry 3]]"
-  - "[[Right Triangle Trigonometry 5]]"
 ---
 
 ## Question
@@ -43,3 +39,12 @@ related:
 > r & = & 21.97\ldots \approx 22.0 \mbox{ cm}
 > \end{array}
 > \]
+
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

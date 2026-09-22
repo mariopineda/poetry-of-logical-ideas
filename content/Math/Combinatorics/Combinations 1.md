@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Combinations"
 show_solution: false
-prerequisites:
-  - "[[Permutations 1]]"
-related:
-  - "[[Combinations 2]]"
 ---
 
 ## Question
@@ -22,3 +18,12 @@ Consider a circle with five points marked on the circumference.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Fundamental Counting Principle]]
+
+## Build Toward

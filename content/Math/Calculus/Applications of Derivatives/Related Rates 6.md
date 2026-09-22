@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 5]]"
-  - "[[Related Rates 7]]"
 ---
 
 ## Question
@@ -24,3 +19,12 @@ A circular ring is heated so that it expands. If the rate of increase of the rad
 > > https://www.youtube.com/embed/g96Qbv8a9Fs
 >
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

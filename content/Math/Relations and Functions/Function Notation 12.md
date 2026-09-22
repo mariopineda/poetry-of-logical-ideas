@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 11]]"
 ---
 
 ## Question
@@ -22,3 +18,12 @@ Sketch the following functions. State the range in set notation.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

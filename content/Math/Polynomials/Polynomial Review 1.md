@@ -1,15 +1,9 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course: []
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Operations 2]]"
-  - "[[Polynomial Review 2]]"
 ---
 
 ## Question
@@ -33,3 +27,16 @@ For each polynomial, state the leading coefficient, degree and constant.
 > 5. Leading coefficient: -7, Degree: 4, Constant: $-\sqrt{5}$
 >
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Constant Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

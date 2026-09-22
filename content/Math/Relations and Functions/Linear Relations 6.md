@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 5]]"
-  - "[[Linear Relations 7]]"
 ---
 
 ## Question
@@ -26,3 +21,14 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Coordinate Geometry 1]]"
-  - "[[Coordinate Geometry 3]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -22,3 +16,14 @@ Determine the equation of the straight line that goes through the points $C(-6,5
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+- [[Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

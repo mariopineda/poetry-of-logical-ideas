@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
 topic: "Factoring Polynomials"
 show_solution: false
-prerequisites:
-  - "[[Polynomial Operations 1]]"
-related:
-  - "[[Factoring Polynomials 3]]"
-  - "[[Factoring Polynomials 5]]"
 ---
 
 ## Question
@@ -51,3 +47,18 @@ Factor:
 > $$
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Characteristics of Polynomial Functions]]
+- [[Rational Expressions & Equations]]

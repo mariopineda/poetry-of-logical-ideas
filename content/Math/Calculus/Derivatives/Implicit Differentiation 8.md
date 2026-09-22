@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 7]]"
-  - "[[Implicit Differentiation 9]]"
 ---
 
 ## Question
@@ -28,3 +23,16 @@ $$y-x^2y^3 = x+y^2$$
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Differential Equations with Initial Conditions]]
+- [[Antiderivative]]

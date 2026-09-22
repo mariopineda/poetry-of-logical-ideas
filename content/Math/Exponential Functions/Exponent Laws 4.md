@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Exponent Laws"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Exponent Laws 3]]"
 ---
 
 ## Question
@@ -22,3 +18,16 @@ Simplify. Express in exponential form.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Radicals]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Exponential Functions]]

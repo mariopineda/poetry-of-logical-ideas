@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
 topic: "Factoring Polynomials"
 show_solution: false
-prerequisites:
-  - "[[Polynomial Operations 1]]"
-related:
-  - "[[Factoring Polynomials 2]]"
-  - "[[Factoring Polynomials 4]]"
 ---
 
 ## Question
@@ -33,3 +29,19 @@ Write the following expressions in fully factored form.
 > > https://www.youtube.com/embed/BEilauoxSA0
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

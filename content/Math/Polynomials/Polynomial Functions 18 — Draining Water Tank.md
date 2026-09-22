@@ -1,17 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 10C
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-2"
+  - "Mathematics 30-3"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Linear Relations 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
-  - "[[Polynomial Functions 12]]"
 ---
 
 ## Question
@@ -106,3 +101,17 @@ Use your graphing calculator as needed.
 > $$
 > 0\le V\le600
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

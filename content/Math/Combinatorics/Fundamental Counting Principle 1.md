@@ -1,14 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 2]]"
 ---
 
 ## Question
@@ -61,3 +58,16 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 > - There are 720 ways of arranging the Harry Potter books side by side on a shelf with the book with the red cover in the middle
 >
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Combinatorics]]
+
+## Build Toward
+
+- [[Permutations with Identical Objects]]
+- [[Combinations]]

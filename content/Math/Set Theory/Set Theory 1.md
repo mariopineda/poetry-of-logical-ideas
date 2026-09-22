@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Set Theory"
 show_solution: false
-prerequisites:
-  - "[[Puzzles & Games 1]]"
-related:
-  - "[[Set Theory 2]]"
-  - "[[Puzzles & Games 1]]"
 ---
 
 ## Question
@@ -46,3 +41,16 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Set Theory]]
+
+## Explore Also
+
+- [[Symmetric Difference]]
+- [[Combinatorics]]
+
+## Build Toward
+
+- [[Combinations]]
+- [[Fundamental Counting Principle]]

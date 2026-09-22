@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Combinations"
 show_solution: false
-prerequisites:
-  - "[[Permutations 1]]"
-related:
-  - "[[Combinations 1]]"
-  - "[[Combinations 3]]"
 ---
 
 ## Question
@@ -49,3 +44,14 @@ Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 > Thus, the solution to the equation $\binom{n}{7} = \binom{n+1}{8}$ is $n = 7$.
 >
 
+## Review First
+
+- [[Combinations]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Fundamental Counting Principle]]
+
+## Build Toward

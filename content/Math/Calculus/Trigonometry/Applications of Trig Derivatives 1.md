@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Applications of Derivatives 1 - Shadow Length of a Moving Object]]"
-  - "[[Applications of Trig Derivatives 2]]"
 ---
 
 ## Question
@@ -52,3 +47,15 @@ A beacon at a lighthouse, located a perpendicular distance of 315 m from point R
 > Thus when the beam is 425 m from point R it is sweeping along the shore at at approximately 5580 m/min.
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Substitution Rule]]

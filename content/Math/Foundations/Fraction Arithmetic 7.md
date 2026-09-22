@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 6]]"
-  - "[[Integer Arithmetic 1]]"
 ---
 
 ## Question
@@ -35,3 +29,15 @@ Evaluate without a calculator.
 > 6. $$\displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8} + \displaystyle\frac{2}{4} \right) = \displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8}+\displaystyle\frac{4}{8} \right) = \displaystyle\frac{1}{4} \div \displaystyle\frac{9}{8} = \displaystyle\frac{1}{4} \times \displaystyle\frac{8}{9} = \displaystyle\frac{8}{36} = \displaystyle\frac{2}{9}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

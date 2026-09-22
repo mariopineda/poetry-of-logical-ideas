@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 18]]"
-  - "[[Chain Rule 20]]"
 ---
 
 ## Question
@@ -20,3 +15,15 @@ Derive the quotient rule, using the fact that $\frac{f(x)}{g(x)} = f(x) \times [
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Mathematical Proof]]
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]

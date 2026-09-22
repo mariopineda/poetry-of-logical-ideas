@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 10]]"
-  - "[[Position and Velocity 12]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ Determine (to one decimal place) when it hits the ground.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Acceleration 2]]"
-  - "[[Acceleration 4]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ Is the object's velocity increasing or decreasingg when $t=1$ sec.?
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]

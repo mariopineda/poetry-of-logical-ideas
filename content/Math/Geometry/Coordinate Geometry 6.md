@@ -1,17 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Coordinate Geometry 5]]"
-  - "[[Perpendicular Lines 1]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -25,3 +18,10 @@ Determine the equation of the line. Answer in general form.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

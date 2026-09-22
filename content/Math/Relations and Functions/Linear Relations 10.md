@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 9]]"
 ---
 
 ## Question
@@ -49,3 +45,13 @@ Determine the equations of the lines given the following information. Express th
 > We can now express the equation of the line in slope y-intercept form as $y=3x+2$ and in general form as $3x-y+2=0$.
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

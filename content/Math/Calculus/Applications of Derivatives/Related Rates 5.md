@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 4]]"
-  - "[[Related Rates 6]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ Joe is driving east at 60 km/h, Dave is driving south at 70 km/h. Both cars are 
 > > https://www.youtube.com/embed/QmExrw9s4mk
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 3]]"
-  - "[[Limits 5]]"
 ---
 
 ## Question
@@ -33,3 +28,12 @@ Evaluate the following using the graph.
 > > https://www.youtube.com/embed/ItZft9Ia14g
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 4]]"
-  - "[[Multiplying and Dividing Rational Expressions 6]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -30,3 +24,16 @@ $$\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+- [[Division by Zero]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Difference of Squares]]
+- [[Proportional Reasoning]]
+
+## Build Toward

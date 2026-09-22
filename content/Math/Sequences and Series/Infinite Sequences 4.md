@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Sequences 3]]"
-  - "[[Infinite Sequences 5]]"
 ---
 
 ## Question
@@ -37,3 +31,18 @@ $$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
 > > https://www.youtube.com/embed/OBdi9UbVMos
 >
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Rational Expressions & Equations]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Mind-Bending Facts About Infinity]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Mathematical Proof]]

@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 3]]"
-  - "[[Fundamental Counting Principle 5]]"
 ---
 
 ## Question
@@ -34,3 +30,16 @@ The organization wants to ensure that each family receives a unique combination 
 > There are 360 different aid packages that can be created.
 >
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Permutations with Identical Objects]]
+
+## Build Toward
+
+- [[Combinations]]

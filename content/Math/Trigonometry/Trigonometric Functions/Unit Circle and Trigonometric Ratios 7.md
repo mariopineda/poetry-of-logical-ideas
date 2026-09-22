@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Unit Circle and Trigonometric Ratios 6]]"
-  - "[[Unit Circle and Trigonometric Ratios 8]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -26,3 +20,14 @@ Using the unit circle, determine the exact values of:
 
 ## Solution
 
+## Review First
+
+- [[Division by Zero]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Transcendental Functions]]
+- [[Calculus]]

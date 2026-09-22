@@ -1,18 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Quadratic Equations 7]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Polynomial Functions 12]]"
-  - "[[Polynomial Functions 14]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -58,3 +51,17 @@ The graph below shows the height of a ball during its flight.
 > $$
 > 0\le h\le 9
 > $$
+
+## Review First
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

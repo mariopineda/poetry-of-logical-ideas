@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Rational Equations"
 show_solution: false
-prerequisites:
-  - "[[Arithmetic Operations with Quotients]]"
-related:
-  - "[[Solving Rational Equations 1]]"
-  - "[[Solving Rational Equations 3]]"
-  - "[[Arithmetic Operations with Quotients]]"
 ---
 
 ## Question
@@ -30,3 +24,18 @@ $$x^2-10x-24=0$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Difference of Squares]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

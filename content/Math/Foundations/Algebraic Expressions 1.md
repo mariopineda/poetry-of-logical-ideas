@@ -1,14 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 1]]"
 ---
 
 ## Question
@@ -108,3 +103,15 @@ Evaluate without a calculator:
 > $$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Polynomials]]

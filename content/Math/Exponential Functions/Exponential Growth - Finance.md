@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-3"
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-3"
 topic: "Exponential Growth and Decay"
 show_solution: false
-prerequisites:
-  - "[[Exponential Equations]]"
-related:
-  - "[[Radioactive Decay]]"
 ---
 
 ## Question
@@ -33,3 +27,14 @@ b) How much will the bond be worth after 1 year?
 > 2. ,,,
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Exponential Functions]]

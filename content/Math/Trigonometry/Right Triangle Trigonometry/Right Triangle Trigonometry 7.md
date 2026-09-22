@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Angles and Parallel Lines 1]]"
-related:
-  - "[[Right Triangle Trigonometry 6]]"
-  - "[[Right Triangle Trigonometry 8]]"
 ---
 
 ## Question
@@ -21,3 +16,10 @@ A lighthouse lookout is 10 m tall. The lighthouse is situated on a cliff that is
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

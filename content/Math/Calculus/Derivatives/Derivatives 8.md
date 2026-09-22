@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 7]]"
-  - "[[Derivatives 9]]"
 ---
 
 ## Question
@@ -22,3 +17,15 @@ Given the sketches of $y=f(x), roughly sketch the derivative function $y=f'(x)$.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]

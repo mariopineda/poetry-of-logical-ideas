@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 1]]"
-  - "[[Related Rates 3]]"
 ---
 
 ## Question
@@ -20,3 +15,15 @@ The area of an equilatral triangle is decreasing at a rate of 12 cm$^2$/s. Find 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+- [[Radicals]]
+
+## Build Toward
+
+- [[Antiderivative]]

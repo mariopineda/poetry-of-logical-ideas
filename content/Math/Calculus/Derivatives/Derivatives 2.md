@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 1]]"
-  - "[[Derivatives 3]]"
 ---
 
 ## Question
@@ -26,3 +21,15 @@ For each function $y=f(x)$, sketch the corresponding derivative function $y=f'(x
 > > https://www.youtube.com/embed/cqS5Qw7KPp0
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

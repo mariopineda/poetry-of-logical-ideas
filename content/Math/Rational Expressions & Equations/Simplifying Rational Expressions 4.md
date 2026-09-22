@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Simplifying Rational Expressions 3]]"
-  - "[[Simplifying Rational Expressions 5]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -32,3 +26,15 @@ Write an equivalent form of the rational expression $\frac{2a+10}{10a-4}$
 > > https://www.youtube.com/embed/R8nOLVbTkUg
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

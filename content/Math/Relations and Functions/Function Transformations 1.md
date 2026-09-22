@@ -1,15 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
 topic: Function Transformations
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Function Transformations 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -24,3 +21,19 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 > > https://www.youtube.com/embed/ZhDvWV-Hhac
 >
 
+## Review First
+
+- [[Square of a Binomial]]
+- [[Zero Product Theorem]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

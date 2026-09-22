@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 30-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-2"
 topic: "Data Analysis"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Environmental Data Analysis - Glaciers Lost 1]]"
-  - "[[Environmental Data Analysis - Sea Level Trend 1]]"
 ---
 
 ## Question
@@ -48,3 +43,17 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 > > [NASA Ozone Watch (2019)](https://ozonewatch.gsfc.nasa.gov/)
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

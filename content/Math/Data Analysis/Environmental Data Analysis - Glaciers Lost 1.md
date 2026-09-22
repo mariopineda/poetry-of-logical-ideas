@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 20-3"
 topic: "Data Analysis"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Environmental Data Analysis - Ozone Hole Size 1]]"
 ---
 
 ## Question
@@ -31,3 +27,12 @@ Due to human caused global warming glaciers in the Rocky Mountains have been shr
 > > [Kelowna Daily Courier (2019)](http://www.kelownadailycourier.ca/opinion/article_b5af49f0-b7d6-11e9-85e8-2b3fdc7116ac.html)
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

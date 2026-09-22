@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 10]]"
-  - "[[Chain Rule 12]]"
 ---
 
 ## Question
@@ -20,3 +15,16 @@ Differentiate $y=2x \left( 4x-1 \right)^3$ using more than one rule. Factor the 
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Substitution Rule]]

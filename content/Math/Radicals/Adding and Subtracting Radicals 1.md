@@ -1,16 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Converting Radicals 1]]"
 ---
 
 ## Question
@@ -89,3 +85,13 @@ Simplify the following radicals.
 > \]
 >
 
+## Review First
+
+- [[Prime Factorization]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Radical Multiplication and Division Worksheet]]
+
+## Build Toward

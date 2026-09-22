@@ -1,16 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Surface Area and Volume 2]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -38,3 +34,14 @@ The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sher
 > ### C.
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

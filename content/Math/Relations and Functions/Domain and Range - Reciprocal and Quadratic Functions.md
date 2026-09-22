@@ -1,22 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 20-1
-  - Math 20-2
-  - Math 30-1
-  - Math 30-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: Domain and Range
 show_solution: true
 aliases:
   - Domain & Range 6
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -59,3 +50,17 @@ State the domain and range of each function in both **set-builder notation** and
 >
 > - Set-builder notation: $\{y\in\mathbb{R}\mid y\ge0\}$
 > - Interval notation: $[0,\infty)$
+
+## Review First
+
+- [[Division by Zero]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

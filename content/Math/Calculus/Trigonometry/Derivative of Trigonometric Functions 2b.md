@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 2a]]"
-  - "[[Derivative of Trigonometric Functions 2c]]"
 ---
 
 ## Question
@@ -53,3 +47,16 @@ For $f(x)=\sin x$ find $f^{(101)}(x)$.
 > So, the 101st derivative of \(f(x) = \sin(x)\) is \(-\cos(x)\).
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Arithmetic]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

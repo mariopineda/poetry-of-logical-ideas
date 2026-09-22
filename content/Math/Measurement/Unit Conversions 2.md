@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Unit Conversions 1]]"
-  - "[[Unit Conversions 3]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -28,3 +23,12 @@ Convert the following unit as indicated using unit analysis. Provide all decimal
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

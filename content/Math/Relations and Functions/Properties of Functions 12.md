@@ -1,17 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 11]]"
-  - "[[Properties of Functions 13]]"
 ---
 
 ## Question
@@ -25,3 +19,15 @@ Determine the domain of the following combined functions. Answer in interval not
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

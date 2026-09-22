@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Angles in Polygons 1]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -38,3 +33,10 @@ Determine the degree measure of the angles marked by letters.
 > - Determine $b$: $a+b+c=180^{\circ} \Rightarrow b=33^{\circ}$ (Same side interior angles)
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

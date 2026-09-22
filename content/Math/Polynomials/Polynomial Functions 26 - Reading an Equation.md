@@ -3,28 +3,14 @@ type: qod
 published: true
 publish: true
 show_solution: true
-courses:
-  - Math 30-2
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 tags:
   - math/30-2
   - polynomials
   - characteristics
   - math/30-1
-prerequisites:
-  - "[[Polynomial Functions 1]]"
-  - "[[Polynomial Functions 2]]"
-  - "[[Polynomial Functions 4]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
-  - "[[Polynomial Functions 5]]"
-  - "[[Polynomial Functions 6]]"
-  - "[[Polynomial Functions 8]]"
-  - "[[Domain and Range - Sketching Relations 1]]"
-  - "[[Domain and Range - Reciprocal and Quadratic Functions]]"
 ---
 
 ## Question
@@ -84,3 +70,17 @@ No calculator is required.
 > ### 4. Correcting the claim
 >
 > The degree gives the **maximum**, not the exact number, of distinct $x$-intercepts. A cubic function can have $1$, $2$, or $3$ distinct $x$-intercepts.
+
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

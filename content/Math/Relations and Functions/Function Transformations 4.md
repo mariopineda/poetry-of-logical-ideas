@@ -1,16 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-1"
 topic: Function Transformations
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Function Transformations 3]]"
-  - "[[Function Transformations 5]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -26,3 +21,16 @@ Draw a rough sketch of the following functions. Identify vertex, intercepts and 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

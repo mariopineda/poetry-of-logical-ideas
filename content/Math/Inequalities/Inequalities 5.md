@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 4]]"
-  - "[[Inequalities 6]]"
 ---
 
 ## Question
@@ -24,3 +19,17 @@ Solve $\frac{x^2}{x-5} \leq \frac{16x}{x-5}$. Answer in interval notation.
 > > https://www.youtube.com/embed/ihTPyFb84k0
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Difference of Squares]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

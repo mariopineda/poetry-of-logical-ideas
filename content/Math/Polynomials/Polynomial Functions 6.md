@@ -1,21 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Polynomial Functions 5]]"
-  - "[[Polynomial Functions 7]]"
-  - "[[Completing the Square 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -105,3 +94,17 @@ Round decimals to the nearest hundreth.
 > - coordinates of turning point
 >
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

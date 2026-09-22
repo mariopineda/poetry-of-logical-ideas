@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Sequences 2]]"
-  - "[[Infinite Sequences 4]]"
 ---
 
 ## Question
@@ -25,3 +19,15 @@ Evaluate $\lim\_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
 > > https://www.youtube.com/embed/g9uD7PQ6RDg
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Mind-Bending Facts About Infinity]]
+
+## Build Toward
+
+- [[Calculus]]

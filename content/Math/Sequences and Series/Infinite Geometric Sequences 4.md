@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Geometric Sequences 3]]"
-  - "[[Infinite Sequences 1]]"
 ---
 
 ## Question
@@ -25,3 +19,15 @@ A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78
 > > https://www.youtube.com/embed/nIAJvn9mxQk
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Exponential Functions]]
+- [[Mind-Bending Facts About Infinity]]
+
+## Build Toward
+
+- [[Calculus]]

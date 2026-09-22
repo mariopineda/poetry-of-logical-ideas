@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Sequences 1]]"
-  - "[[Infinite Sequences 3]]"
 ---
 
 ## Question
@@ -33,3 +27,16 @@ $$\frac{7}{4}, \frac{8}{5}, \frac{9}{6}, \frac{10}{7}, \ldots$$
 > > https://www.youtube.com/embed/b-yAYUp8zCs
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Mind-Bending Facts About Infinity]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

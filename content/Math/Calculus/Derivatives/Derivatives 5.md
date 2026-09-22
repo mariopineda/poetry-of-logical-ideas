@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 4]]"
-  - "[[Derivatives 6]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ $$y=\frac{1}{x+2}$$
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

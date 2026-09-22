@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 12]]"
-  - "[[Limits 14]]"
 ---
 
 ## Question
@@ -27,3 +22,17 @@ Evalue the following limits, if possible.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Radicals]]
+- [[Difference of Squares]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

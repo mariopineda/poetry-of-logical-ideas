@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Surface Area and Volume 3]]"
-  - "[[Surface Area and Volume 5]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -36,3 +31,11 @@ A manufacturer is designing a new cylindrial paint can with a diameter of 20 cm.
 > $$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

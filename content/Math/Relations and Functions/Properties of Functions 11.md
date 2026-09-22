@@ -1,17 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 20-1"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 10]]"
-  - "[[Properties of Functions 12]]"
 ---
 
 ## Question
@@ -26,3 +19,16 @@ related:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Division by Zero]]
+
+## Build Toward
+
+- [[Calculus]]

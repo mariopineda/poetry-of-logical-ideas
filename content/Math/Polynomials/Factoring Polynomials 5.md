@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
 topic: "Factoring Polynomials"
 show_solution: false
-prerequisites:
-  - "[[Polynomial Operations 1]]"
-related:
-  - "[[Factoring Polynomials 4]]"
-  - "[[Polynomial Equations 1]]"
 ---
 
 ## Question
@@ -69,3 +65,17 @@ related:
 > Since $\mbox{height} > \mbox{length} > \mbox{width}$, $\mbox{height}=5x$, $\mbox{length}=(2x+3)$ and $\mbox{width}=(x-4)$.
 >
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Zero Product Theorem]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

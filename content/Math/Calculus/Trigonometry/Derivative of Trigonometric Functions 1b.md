@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 1a]]"
-  - "[[Derivative of Trigonometric Functions 2a]]"
 ---
 
 ## Question
@@ -48,3 +42,15 @@ Differentiate $\tan x$ using first principles.
 > ![](https://youtu.be/JDJfmMqaDvE?si=ikvmpvdDIzYmuP6u)
 >
 
+## Review First
+
+- [[Transcendental Functions]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Mathematical Proof]]
+
+## Build Toward
+
+- [[Antiderivative]]

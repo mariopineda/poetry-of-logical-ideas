@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 2]]"
-  - "[[Function Notation 4]]"
 ---
 
 ## Question
@@ -47,3 +42,10 @@ For the following table of values, express the relationship
 > > [Howard & Sterner (2017)](https://link.springer.com/article/10.1007%2Fs10640-017-0166-z)
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 7]]"
-  - "[[Chain Rule 9]]"
 ---
 
 ## Question
@@ -28,3 +23,18 @@ $$h(t) = \frac{-2}{\sqrt{16-t^4}} $$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Substitution Rule]]
+- [[u-Substitution]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

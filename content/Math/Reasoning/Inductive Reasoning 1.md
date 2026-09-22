@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 20-2"
 topic: "Inductive Reasoning"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Inductive Reasoning 2]]"
-  - "[[Deductive Reasoning 1]]"
 ---
 
 ## Question
@@ -19,3 +15,13 @@ related:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Reasoning]]
+
+## Explore Also
+
+- [[Mathematical Proof]]
+- [[Arithmetic]]
+
+## Build Toward

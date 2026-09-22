@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Optimization"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Optimization 3]]"
-  - "[[Optimization 5]]"
 ---
 
 ## Question
@@ -20,3 +15,11 @@ Boat A is located D km due South of boat B. Boat A moves North at $v\_A$ km/h, w
 
 ## Solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+
+## Build Toward

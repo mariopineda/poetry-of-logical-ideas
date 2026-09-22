@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Simplifying Rational Expressions 6]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -41,3 +36,12 @@ $$\frac{8-6x}{4+12x}$$
 > > https://www.youtube.com/embed/nNncmORoRUM
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Build Toward

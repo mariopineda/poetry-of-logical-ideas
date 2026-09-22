@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
 topic: "Rational Equations"
 show_solution: false
-prerequisites:
-  - "[[Arithmetic Operations with Quotients]]"
-related:
-  - "[[Solving Rational Equations 2]]"
-  - "[[Arithmetic Operations with Quotients]]"
 ---
 
 ## Question
@@ -31,3 +25,19 @@ Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3
 > $$x=3 \text{ is an extraneous root, so the only valid solution is } x=6, x\neq\pm3$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Difference of Squares]]
+- [[Division by Zero]]
+- [[Factoring Polynomials Work Sheet - Medium]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

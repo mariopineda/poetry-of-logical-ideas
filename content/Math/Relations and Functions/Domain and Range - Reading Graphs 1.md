@@ -1,22 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 1"
-prerequisites:
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Reading Graphs 2]]"
-  - "[[Domain and Range - Sketching Relations 1]]"
-  - "[[Domain and Range - Reciprocal and Quadratic Functions]]"
 ---
 
 ## Question
@@ -74,3 +65,15 @@ Determine the **domain and range** of each relation in both **set-builder notati
 >
 > - Set-builder notation: $\{y\in\mathbb{R}\mid -3\le y<2\}$
 > - Interval notation: $[-3,2)$
+
+## Review First
+
+- [[Set Theory]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Calculus]]

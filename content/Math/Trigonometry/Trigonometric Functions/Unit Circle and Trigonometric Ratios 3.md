@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 10-3"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Unit Circle and Trigonometric Ratios 2]]"
-  - "[[Unit Circle and Trigonometric Ratios 4]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -21,3 +15,11 @@ A $30^\circ-60^\circ-90^\circ$ triangle may be created by drawing an altitude in
 
 ## Solution
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+
+## Build Toward

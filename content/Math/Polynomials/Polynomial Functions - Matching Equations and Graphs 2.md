@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Matching Equations and Graphs 1]]"
-  - "[[Polynomial Functions - Matching Equations and Graphs 3]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -68,3 +60,17 @@ $$
 > $$
 > (-\infty,\infty).
 > $$
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]

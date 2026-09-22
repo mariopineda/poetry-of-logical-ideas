@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Unit Circle and Trigonometric Ratios 11]]"
-  - "[[Unit Circle and Trigonometric Ratios 13]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -24,3 +18,12 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 
 ## Solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward

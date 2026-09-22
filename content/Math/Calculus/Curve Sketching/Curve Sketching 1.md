@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Curve Sketching"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-  - "[[Higher Derivatives 1]]"
-related:
-  - "[[Concavity and Inflection 1]]"
-  - "[[Curve Sketching 2]]"
 ---
 
 ## Question
@@ -23,3 +17,16 @@ Fully sketch $y=-x(x-3)^2$, $y'=-3(x-1)(x-3)$, $y''=-6(x-2)$.
 
 ## Solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]

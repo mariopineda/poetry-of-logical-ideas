@@ -3,11 +3,9 @@ type: qod
 published: true
 publish: true
 show_solution: true
-courses:
-  - Math 30-2
-  - Math 20-1
-  - Math 20-2
-  - Math 30-1
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 tags:
   - math/30-2
@@ -16,32 +14,6 @@ tags:
   - math/20-1
   - math/20-2
   - math/30-1
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Polynomial Functions 8]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
-  - "[[Polynomial Functions 4]]"
-  - "[[Polynomial Functions 5]]"
-  - "[[Polynomial Functions 6]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions 13]]"
-  - "[[Polynomial Functions 14]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 15]]"
-  - "[[Polynomial Functions 16]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
-  - "[[Polynomial Functions 19 — Soccer Ball]]"
-  - "[[Polynomial Functions 20 — Poster Sales]]"
-  - "[[Domain and Range - Sketching Relations 1]]"
-  - "[[Domain and Range - Sketching Relations 2]]"
-  - "[[Function Transformations 1]]"
-  - "[[Function Transformations 3]]"
-  - "[[Function Transformations 4]]"
-  - "[[Function Transformations 5]]"
-  - "[[Completing the Square 4]]"
-  - "[[Quadratic Functions 1]]"
 ---
 
 ## Question
@@ -98,3 +70,17 @@ No calculator is required.
 > $$
 >
 > Both ends extend downward. The turning point $(1,4)$ is an **absolute maximum** because $4$ is the greatest $y$-value anywhere on the graph.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]

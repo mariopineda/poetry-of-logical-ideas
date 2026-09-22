@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Exponent Laws"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Exponent Laws 2]]"
-  - "[[Exponent Laws 4]]"
 ---
 
 ## Question
@@ -27,3 +22,17 @@ Use exponent laws to simplify the following:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Exponential Functions]]
+- [[Radicals]]
+
+## Build Toward
+
+- [[Graphs of Logarithmic Functions]]
+- [[Transcendental Functions]]

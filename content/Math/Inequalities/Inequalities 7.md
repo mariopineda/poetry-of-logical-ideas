@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 6]]"
-  - "[[Inequalities 8]]"
 ---
 
 ## Question
@@ -24,3 +19,16 @@ Solve $x \leq \frac{12}{x+1}$. Answer in interval notation.
 > > https://www.youtube.com/embed/dVoJVUJ_xHg
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Zero Product Theorem]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

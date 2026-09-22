@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Integer Arithmetic 2]]"
-  - "[[Order of Operations 1]]"
 ---
 
 ## Question
@@ -59,3 +53,14 @@ Evaluate without a calculator:
 > \]
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Division by Zero]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

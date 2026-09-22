@@ -1,17 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Domain and Range - Cube Volume Model]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1]]"
-  - "[[Polynomial Functions - Reviewing a Cubic Volume Model 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -127,3 +123,17 @@ A company makes a rectangular container with interior dimensions $9$ cm by $7$ c
 > - Set-builder notation: $\{V\in\mathbb{R}\mid126\le V\le1176\}$
 > - Interval notation: $[126,1176]$
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

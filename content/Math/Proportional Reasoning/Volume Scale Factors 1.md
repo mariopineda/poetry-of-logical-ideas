@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 20-3"
 topic: "Scale Factors"
 show_solution: false
-prerequisites:
-  - "[[Surface Area and Volume 1]]"
-related:
-  - "[[Scale Factors 2]]"
-  - "[[Surface Area and Volume 1]]"
 ---
 
 ## Question
@@ -33,3 +29,12 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Proportional Reasoning]]
+- [[Radicals]]
+
+## Explore Also
+
+
+## Build Toward

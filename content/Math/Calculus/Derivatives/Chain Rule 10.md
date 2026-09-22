@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Chain Rule 9]]"
-  - "[[Chain Rule 11]]"
 ---
 
 ## Question
@@ -28,3 +23,16 @@ $$y=\frac{f(ax)}{a}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Substitution Rule]]
+- [[u-Substitution]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]

@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 1]]"
-  - "[[Linear Relations 3]]"
 ---
 
 ## Question
@@ -26,3 +21,11 @@ For each relation, algebraically determine the x- and y-intercepts. Verify your 
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

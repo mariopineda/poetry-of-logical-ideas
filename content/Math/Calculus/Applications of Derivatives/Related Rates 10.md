@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 9]]"
 ---
 
 ## Question
@@ -23,3 +19,17 @@ A rock is dropped into a pool and it begins to create a circular wave. If the ci
 > > https://www.youtube.com/embed/_YRccPEBvwQ
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]
+
+## Build Toward
+
+- [[Integral House]]
+- [[Substitution Rule]]

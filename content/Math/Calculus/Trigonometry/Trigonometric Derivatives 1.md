@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 3]]"
 ---
 
 ## Question
@@ -20,3 +15,13 @@ Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the poi
 
 ## Solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward

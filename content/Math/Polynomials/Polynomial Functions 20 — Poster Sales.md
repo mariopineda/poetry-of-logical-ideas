@@ -1,20 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 20-1
-  - Math 20-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Quadratic Equations 8]]"
-  - "[[Polynomial Functions 19 — Soccer Ball]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions 14]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -118,3 +111,17 @@ Use your graphing calculator as needed.
 >
 > which represents a monthly result from a **\$14,000 loss** to an **\$18,000 profit**.
   - "[[Polynomial Functions 19 — Soccer Ball]]"
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Polynomial Functions 13]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 15]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -56,3 +48,15 @@ The graph below shows the height of a ball during its flight.
 > From the graph, the x-intercepts are $(0,0)$ and $(8,0)$.
 >
 > Therefore, the ball is in the air for **8 s** altogether.
+
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

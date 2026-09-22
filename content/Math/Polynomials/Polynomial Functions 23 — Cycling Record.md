@@ -1,16 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 10C
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Polynomial Functions 7]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Polynomial Functions 25 — Inflating a Balloon]]"
 ---
 
 ## Question
@@ -100,3 +94,16 @@ Use your graphing calculator.
 > $$
 >
 > where $D$ is measured in kilometres.
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Adding and Subtracting Rational Expressions 3]]"
-  - "[[Adding and Subtracting Rational Expressions 5]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -38,3 +32,12 @@ $$\frac{t-2}{4} - \frac{t-3}{5}$$
 > > https://www.youtube.com/embed/13kcnVR4Dmg
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

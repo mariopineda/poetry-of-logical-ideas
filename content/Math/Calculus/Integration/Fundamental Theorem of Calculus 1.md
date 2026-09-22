@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Definite Integrals"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Definite Integrals 1]]"
 ---
 
 ## Question
@@ -19,3 +15,17 @@ Find $\int\_{1}^{4} \frac{t^2+\sqrt{t}-2}{t} dt$.
 
 ## Solution
 
+## Review First
+
+- [[Antiderivative]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[u-Substitution]]
+- [[Substitution Rule]]
+
+## Build Toward
+
+- [[Differential Equations with Initial Conditions]]
+- [[Calculus]]

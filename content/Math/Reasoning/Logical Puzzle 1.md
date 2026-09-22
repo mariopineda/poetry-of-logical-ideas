@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Logical Reasoning"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Logical Puzzle 2]]"
-  - "[[Set Theory 1]]"
 ---
 
 ## Question
@@ -25,3 +21,15 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Reasoning]]
+
+## Explore Also
+
+- [[Set Theory]]
+
+## Build Toward
+
+- [[Mathematical Proof]]
+- [[Combinatorics]]

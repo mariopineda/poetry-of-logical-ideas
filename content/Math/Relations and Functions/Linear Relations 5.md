@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 4]]"
-  - "[[Linear Relations 6]]"
 ---
 
 ## Question
@@ -27,3 +22,16 @@ An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Set Theory]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]

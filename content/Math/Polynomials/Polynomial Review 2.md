@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Review 1]]"
-  - "[[Polynomial Review 3]]"
 ---
 
 ## Question
@@ -31,3 +26,16 @@ Multiply.
 > 4. $$2x(3x-4) = 6x^2-8x$$
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Square of a Binomial]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]

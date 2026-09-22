@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Geometric Sequences 4]]"
-  - "[[Infinite Sequences 2]]"
 ---
 
 ## Question
@@ -41,3 +35,14 @@ $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 > > https://www.youtube.com/embed/Nr6bvukghtI
 >
 
+## Review First
+
+- [[Exponential Functions]]
+
+## Explore Also
+
+- [[Mind-Bending Facts About Infinity]]
+
+## Build Toward
+
+- [[Calculus]]

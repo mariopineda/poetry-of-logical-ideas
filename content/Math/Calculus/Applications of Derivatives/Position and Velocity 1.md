@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Acceleration 4]]"
-  - "[[Position and Velocity 2]]"
 ---
 
 ## Question
@@ -32,3 +27,17 @@ Determine the objects velocity when it is located 63 m South of the origin.
 > > https://www.youtube.com/embed/D1YgTKVPF8I
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

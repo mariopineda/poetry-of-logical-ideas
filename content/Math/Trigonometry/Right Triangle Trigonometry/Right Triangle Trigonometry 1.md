@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Angles and Parallel Lines 1]]"
-related:
-  - "[[Right Triangle Trigonometry 2]]"
 ---
 
 ## Question
@@ -22,3 +18,11 @@ A road rises 15 m for each 150 m of horizontal distance. What is the angle of in
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

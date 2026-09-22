@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 3]]"
-  - "[[Inequalities 5]]"
 ---
 
 ## Question
@@ -24,3 +20,17 @@ Solve $x^3>8x^2-16x$. Answer in interval notation.
 > > https://www.youtube.com/embed/XasMrKNBGwU
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

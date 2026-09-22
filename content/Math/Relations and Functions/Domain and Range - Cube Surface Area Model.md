@@ -1,22 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-2"
 topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 8"
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Fuel Tank Model]]"
-  - "[[Domain and Range - Free-Fall Speed Model]]"
-  - "[[Domain and Range - Cube Volume Model]]"
 ---
 
 ## Question
@@ -76,3 +67,15 @@ where $s$ is the edge length in units and $A$ is the surface area in square unit
 > $$
 > A=6(9)^2=486.
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]

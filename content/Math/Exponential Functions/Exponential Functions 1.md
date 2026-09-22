@@ -1,17 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-2"
 topic: "Exponential Equations"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Exponential Equations 5]]"
-  - "[[Exponential Functions 2]]"
-  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -31,3 +24,13 @@ Solve for $x$
 > > https://www.youtube.com/embed/kaQzu2Do4dA
 >
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Exponential Functions]]
+
+## Build Toward

@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
 topic: Sinusoidal Functions
 show_solution: true
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Characteristics from an Equation 2]]"
-  - "[[Sinusoidal Functions - Characteristics from an Equation 3]]"
 ---
 
 ## Question
@@ -119,3 +115,14 @@ $$
 > $$
 > \boxed{\{y\mid -2\le y\le 4,\ y\in\mathbb{R}\}}.
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

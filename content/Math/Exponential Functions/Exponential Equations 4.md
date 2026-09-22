@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Exponential Equations"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Exponential Equations 3]]"
-  - "[[Exponential Equations 5]]"
-  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -26,3 +20,17 @@ The number, $N$, of throat swab bacteria being grown in a culture after $t$ hour
 > > https://www.youtube.com/embed/IvMJ9S7Ik_Y
 >
 
+## Review First
+
+- [[Exponential Functions]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Graphs of Logarithmic Functions]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Differential Equations with Initial Conditions]]

@@ -1,8 +1,7 @@
-﻿filters:
+filters:
   and:
     - file.inFolder("Math")
     - type == "qod"
-
 properties:
   file.name:
     displayName: Question
@@ -10,7 +9,6 @@ properties:
     displayName: Topic
   courses:
     displayName: Courses
-
 views:
   - type: table
     name: All QODs
@@ -20,7 +18,6 @@ views:
     order:
       - file.name
       - courses
-
   - type: table
     name: Math 10C
     filters:
@@ -31,7 +28,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 10-3
     filters:
@@ -42,7 +38,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 20-1
     filters:
@@ -53,7 +48,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 20-2
     filters:
@@ -64,7 +58,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 20-3
     filters:
@@ -75,7 +68,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 30-1
     filters:
@@ -86,7 +78,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 30-2
     filters:
@@ -97,7 +88,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 30-3
     filters:
@@ -108,7 +98,6 @@ views:
       direction: ASC
     order:
       - file.name
-
   - type: table
     name: Math 31
     filters:

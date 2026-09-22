@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 4]]"
-  - "[[Rates of Change 6]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ Determine an expression for the slope of the general secant for the function $y=
 > > https://www.youtube.com/embed/xfY2bAhm7jQ
 >
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

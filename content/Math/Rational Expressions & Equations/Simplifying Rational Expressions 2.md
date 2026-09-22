@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Simplifying Rational Expressions 1]]"
-  - "[[Simplifying Rational Expressions 3]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -29,3 +23,18 @@ Simplify the following rational expressions.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+- [[Difference of Squares]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]

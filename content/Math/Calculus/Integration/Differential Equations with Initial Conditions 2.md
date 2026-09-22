@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Differential Equations"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Differential Equations with Initial Conditions 1]]"
-  - "[[Differential Equations with Initial Conditions 3]]"
 ---
 
 ## Question
@@ -68,3 +63,14 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 > Because the negative root has no physical significance in this problem, we see that about 4.5 s after being tossed up the stone hits the ground.
 >
 
+## Review First
+
+- [[Antiderivative]]
+
+## Explore Also
+
+- [[Differential Equations with Initial Conditions]]
+
+## Build Toward
+
+- [[Calculus]]

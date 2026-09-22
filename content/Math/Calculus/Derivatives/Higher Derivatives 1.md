@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Higher Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Higher Derivatives 2]]"
 ---
 
 ## Question
@@ -19,3 +15,17 @@ Determine the first 4 derivatives for $y=ax^3+bx^2+cx+d$ where ${a,b,c,d \in \ma
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

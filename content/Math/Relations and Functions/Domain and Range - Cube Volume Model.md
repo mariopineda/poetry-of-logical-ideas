@@ -1,20 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: Domain and Range
 show_solution: true
 aliases:
   - Domain & Range 9
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Cube Surface Area Model]]"
-  - "[[Domain and Range - Ferris Wheel Model]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
 ---
 
 ## Question
@@ -56,3 +49,17 @@ State the contextual domain and range in both **set-builder notation** and **int
 >
 > - Set-builder notation: $\{V\in\mathbb{R}\mid 0<V<1000\}$
 > - Interval notation: $(0,1000)$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Radicals]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

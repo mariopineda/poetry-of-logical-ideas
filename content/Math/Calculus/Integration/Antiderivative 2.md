@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Antiderivatives"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Antiderivative 1]]"
 ---
 
 ## Question
@@ -68,3 +64,19 @@ Evaluate and verify by differentiating the antiderivative.
 > $$
 >
 
+## Review First
+
+- [[Antiderivative]]
+- [[u-Substitution]]
+- [[Exponential Functions]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Transcendental Functions]]
+- [[Substitution Rule]]
+
+## Build Toward
+
+- [[Integral House]]

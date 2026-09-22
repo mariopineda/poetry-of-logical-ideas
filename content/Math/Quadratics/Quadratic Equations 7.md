@@ -1,18 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Quadratic Equations 6]]"
-  - "[[Quadratic Equations 8]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -23,3 +16,12 @@ A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball i
 
 ## Solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

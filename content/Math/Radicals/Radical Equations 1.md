@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Multiplying and Dividing Radicals 1]]"
-  - "[[Radicals 1]]"
 ---
 
 ## Question
@@ -24,3 +20,13 @@ Solve $x-2 = \sqrt{2x-3}+1$
 > > https://www.youtube.com/embed/Mv9_YLlG8Tw
 >
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+- [[Radical Multiplication and Division Worksheet]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward

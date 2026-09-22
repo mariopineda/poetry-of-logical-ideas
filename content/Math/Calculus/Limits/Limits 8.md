@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 7]]"
-  - "[[Limits 9]]"
 ---
 
 ## Question
@@ -29,3 +25,15 @@ x^2-1 & \mbox{, if } -2 \leq x<1 \\
 > > https://www.youtube.com/embed/auJRoRWSrU8
 >
 
+## Review First
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

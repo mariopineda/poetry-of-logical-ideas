@@ -1,14 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Integer Arithmetic 3]]"
 ---
 
 ## Question
@@ -73,3 +68,11 @@ Evaluate without a calculator:
 > $$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

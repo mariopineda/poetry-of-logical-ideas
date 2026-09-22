@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 5]]"
-  - "[[Limits 7]]"
 ---
 
 ## Question
@@ -24,3 +19,13 @@ Determine the equation of the tangent line to $y=\sqrt{3x+12}$ at $x=8$ using $m
 > > https://www.youtube.com/embed/FBqRBbZb7Uc
 >
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

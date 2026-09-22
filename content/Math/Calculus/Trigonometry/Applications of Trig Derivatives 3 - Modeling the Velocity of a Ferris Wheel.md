@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 30-2"
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Applications of Trig Derivatives 2]]"
-  - "[[Related Rates 1]]"
 ---
 
 ## Question
@@ -67,3 +63,16 @@ A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters abo
 > Therefore, the passenger's velocity at $t = 10$ seconds is approximately $-2.09$ meters per second, indicating that they are moving downwards.
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Differential Equations with Initial Conditions]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Substitution Rule]]

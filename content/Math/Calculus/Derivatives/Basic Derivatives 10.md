@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 9]]"
-  - "[[Basic Derivatives 11]]"
 ---
 
 ## Question
@@ -20,3 +15,16 @@ For the function $f(x) = 2x^3 - 5x^2 + Ax - 7$, if $f'(-1)=-6$, then determine $
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Calculus]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]

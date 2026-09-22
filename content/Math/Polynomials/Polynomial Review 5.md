@@ -1,14 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course: []
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Review 4]]"
 ---
 
 ## Question
@@ -28,3 +23,15 @@ Determine the polynomial that would have to be added to $6x^2-3x+6$ so that the 
 > \]
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]

@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Unit Circle and Trigonometric Ratios 8]]"
-  - "[[Unit Circle and Trigonometric Ratios 10]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -24,3 +18,12 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 
 ## Solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

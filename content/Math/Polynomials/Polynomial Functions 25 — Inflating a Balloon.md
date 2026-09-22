@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 30-1
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Polynomial Functions 7]]"
-  - "[[Polynomial Functions 21 — Hiking Trail]]"
-  - "[[Polynomial Functions 24 — Stopping Distance]]"
-related:
-  - "[[Polynomial Functions 23 — Cycling Record]]"
 ---
 
 ## Question
@@ -91,3 +86,17 @@ Use your graphing calculator.
 > where $t$ is measured in seconds and $V$ is measured in $\text{cm}^3$.
   - "[[Polynomial Functions 21 — Hiking Trail]]"
   - [[Math/QOD Question Bank/Polynomials/Polynomial Functions 24 — Stopping Distance]]]"
+
+## Review First
+
+- [[Polynomials]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

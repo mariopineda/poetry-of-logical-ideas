@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 6]]"
-  - "[[Linear Relations 8]]"
 ---
 
 ## Question
@@ -39,3 +34,14 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

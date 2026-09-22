@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Rational Equations"
 show_solution: false
-prerequisites:
-  - "[[Arithmetic Operations with Quotients]]"
-related:
-  - "[[Solving Rational Equations 2]]"
-  - "[[Solving Rational Equations 4]]"
-  - "[[Arithmetic Operations with Quotients]]"
 ---
 
 ## Question
@@ -30,3 +24,17 @@ $$6x^2+17x=3$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+- [[Zero Product Theorem]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

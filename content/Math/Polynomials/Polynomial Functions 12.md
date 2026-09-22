@@ -1,17 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Linear Relations 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
-  - "[[Polynomial Functions 13]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
 ---
 
 ## Question
@@ -55,3 +48,16 @@ The graph below shows the volume of water in a tank over time.
 > $$
 > 0\le V\le 600
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

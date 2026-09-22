@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Exponent Laws"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Exponent Laws 2]]"
 ---
 
 ## Question
@@ -25,3 +21,17 @@ Without using a calculator, determine the exact value of the following.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Radicals]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+
+## Build Toward
+
+- [[Exponential Functions]]
+- [[Graphs of Logarithmic Functions]]

@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 4]]"
-  - "[[Fraction Arithmetic 6]]"
 ---
 
 ## Question
@@ -26,3 +20,11 @@ Jona has a container of vanilla ice cream that is two-thirds full, and a contain
 > The new container is $\frac{17}{24}$ full.
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 4]]"
-  - "[[Permutations with Repetition 1]]"
 ---
 
 ## Question
@@ -27,3 +22,14 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Combinatorics]]
+
+## Explore Also
+
+- [[Permutations with Identical Objects]]
+- [[Combinations]]
+
+## Build Toward

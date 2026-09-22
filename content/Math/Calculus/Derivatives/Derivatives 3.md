@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 2]]"
-  - "[[Derivatives 4]]"
 ---
 
 ## Question
@@ -22,3 +17,13 @@ For the sketch of $y=f(x)$, identify the locations that are non-differentiable.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

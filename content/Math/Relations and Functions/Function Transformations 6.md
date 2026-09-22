@@ -1,14 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
 topic: "Function Transformations"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Function Transformations 5]]"
 ---
 
 ## Question
@@ -24,3 +22,18 @@ Without using technology sketch of the following functions, identifying the tran
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Radicals]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+- [[Concepts]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

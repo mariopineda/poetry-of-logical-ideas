@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 3]]"
-  - "[[Permutations 5]]"
 ---
 
 ## Question
@@ -21,3 +16,14 @@ Using the permutation formula, simplify $_nP_2$.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Fundamental Counting Principle]]
+
+## Build Toward
+
+- [[Combinations]]

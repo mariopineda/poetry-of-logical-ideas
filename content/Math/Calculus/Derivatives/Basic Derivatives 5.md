@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 4]]"
-  - "[[Basic Derivatives 6]]"
 ---
 
 ## Question
@@ -32,3 +27,16 @@ $$f(t) = \sqrt[6]{t^11}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]

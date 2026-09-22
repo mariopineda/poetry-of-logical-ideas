@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Implicit Differentiation"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-related:
-  - "[[Implicit Differentiation 2]]"
-  - "[[Implicit Differentiation 4]]"
 ---
 
 ## Question
@@ -20,3 +15,11 @@ For the function $A(t) = \pi r^2 + 2 \pi rh$, determine $\frac{dA}{dt}$ if $t=t(
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+
+## Build Toward

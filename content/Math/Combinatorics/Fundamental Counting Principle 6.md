@@ -1,14 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 5]]"
 ---
 
 ## Question
@@ -51,3 +48,15 @@ How many unique daily schedules can a household have for accessing all three uti
 > Total schedules = 12 unique daily schedules
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Fundamental Counting Principle]]
+
+## Explore Also
+
+- [[Combinatorics]]
+
+## Build Toward
+
+- [[Combinations]]

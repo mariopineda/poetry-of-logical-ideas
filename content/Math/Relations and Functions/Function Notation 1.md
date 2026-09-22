@@ -1,16 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 10C
+course:
+  - "Mathematics 10C"
+  - "Mathematics 31"
 topic: Function Notation
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -34,3 +29,16 @@ If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the follo
 > 5. $h(-1)=9.8(-1)^2-2(-1)+2 \Rightarrow h(-1)=14.8$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

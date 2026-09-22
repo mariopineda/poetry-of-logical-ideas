@@ -1,16 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Function Properties"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Properties of Functions 12]]"
 ---
 
 ## Question
@@ -24,3 +19,14 @@ If $f(x)=\frac{x+4}{1-x}$ and $g(x)\frac{5-2x}{3x+1}$, then determine:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

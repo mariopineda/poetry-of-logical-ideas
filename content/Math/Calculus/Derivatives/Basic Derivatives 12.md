@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 11]]"
-  - "[[Basic Derivatives 13]]"
 ---
 
 ## Question
@@ -28,3 +23,18 @@ $$g(x) = 6\sqrt{x^3} - \frac{1}{4}\sqrt{x} + \frac{12}{\sqrt{x}} - \frac{18}{\sq
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]

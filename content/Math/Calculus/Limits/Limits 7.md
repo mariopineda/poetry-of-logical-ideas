@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 6]]"
-  - "[[Limits 8]]"
 ---
 
 ## Question
@@ -30,3 +25,16 @@ Evaluate the limits.
 > > https://www.youtube.com/embed/iJtjXe_MINU
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Radicals]]
+- [[Difference of Squares]]
+
+## Explore Also
+
+- [[Division by Zero]]
+
+## Build Toward
+
+- [[Calculus]]

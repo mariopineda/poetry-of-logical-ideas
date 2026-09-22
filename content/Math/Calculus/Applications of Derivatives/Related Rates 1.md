@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]"
-  - "[[Related Rates 2]]"
 ---
 
 ## Question
@@ -20,3 +15,13 @@ A 6 m ladder is leaning against the wall and its foot is sliding away from the w
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]

@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Review 3]]"
-  - "[[Polynomial Review 5]]"
 ---
 
 ## Question
@@ -74,3 +70,15 @@ related:
 > Hence $AB = b+2$.
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Factoring Polynomials Work Sheet - Easy]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 4]]"
-  - "[[Position and Velocity 6]]"
 ---
 
 ## Question
@@ -28,3 +23,16 @@ Determine instantaneous velocity at $t=3$ hrs.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]

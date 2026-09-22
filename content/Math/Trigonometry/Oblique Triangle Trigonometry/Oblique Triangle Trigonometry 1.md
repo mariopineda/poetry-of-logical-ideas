@@ -1,16 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
 topic: "Oblique Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Oblique Triangle Trigonometry 2]]"
 ---
 
 ## Question
@@ -61,3 +57,11 @@ related:
 > $$
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

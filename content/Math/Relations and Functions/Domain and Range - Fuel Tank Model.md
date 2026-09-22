@@ -1,22 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 10C
-  - Math 30-2
+course:
+  - "Mathematics 10C"
 topic: Domain and Range
 show_solution: true
 aliases:
   - Domain & Range 4
-prerequisites:
-  - "[[Representing Relations 1]]"
-  - "[[Function Notation 1]]"
-  - "[[Linear Relations 1]]"
-related:
-  - "[[Domain and Range - Free-Fall Speed Model]]"
-  - "[[Domain and Range - Cube Surface Area Model]]"
-  - "[[Domain and Range - Ferris Wheel Model]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
 ---
 
 ## Question
@@ -87,3 +77,13 @@ $$
 >
 > - Set-builder notation: $\{v\in\mathbb{R}\mid 0\le v\le60.5\}$
 > - Interval notation: $[0,60.5]$
+
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Set Theory]]
+
+## Build Toward

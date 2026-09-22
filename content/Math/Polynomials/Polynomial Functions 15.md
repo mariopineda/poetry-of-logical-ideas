@@ -1,18 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
+  - "Mathematics 30-3"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Polynomial Functions 14]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions 16]]"
-  - "[[Polynomial Functions 7]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -62,3 +55,16 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 > Since $x=5$ means **500 products**, the business should sell **500 products**.
 >
 > Since $P(x)=16$ means **$16\,000$**, the maximum monthly profit is **$16\,000$**.
+
+## Review First
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]

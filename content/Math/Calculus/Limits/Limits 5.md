@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 4]]"
-  - "[[Limits 6]]"
 ---
 
 ## Question
@@ -32,3 +27,17 @@ x^2-2 & \mbox{, if } x<0 \\
 > > https://www.youtube.com/embed/0xF4Xw1DxIk
 >
 
+## Review First
+
+- [[Concepts]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Constant Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]

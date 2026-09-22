@@ -1,17 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Surface Area and Volume 1]]"
-  - "[[Surface Area and Volume 3]]"
-  - "[[Area Scale Factors 1]]"
 ---
 
 ## Question
@@ -36,3 +31,14 @@ related:
 > 2. The formula for calculating the volume of a cube is $V=x^3$. We subsitute in the side length, $V=3.41...^3=39.84... \approx 39.9$ cm$^3$.
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Build Toward

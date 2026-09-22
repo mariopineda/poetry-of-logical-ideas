@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 5]]"
-  - "[[Fraction Arithmetic 7]]"
 ---
 
 ## Question
@@ -31,3 +25,13 @@ Evaluate without a calculator.
 > 4. $$\frac{9}{5} \div \frac{20}{3} = \frac{9}{5} \times \frac{3}{20} = \frac{27}{100}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

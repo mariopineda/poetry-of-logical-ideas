@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Radical Equations 1]]"
-  - "[[Radicals 2]]"
 ---
 
 ## Question
@@ -41,3 +37,13 @@ Convert the following radicals to mixed radicals in simplest form.
 > ...
 >
 
+## Review First
+
+- [[Prime Factorization]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Radical Multiplication and Division Worksheet]]
+
+## Build Toward

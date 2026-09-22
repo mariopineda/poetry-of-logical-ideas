@@ -1,14 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Sinusoidal Functions
 show_solution: true
-prerequisites: []
-related:
-  - "[[Sinusoidal Functions - Characteristics from a Graph 1]]"
-  - "[[Sinusoidal Functions - Characteristics from a Graph 3]]"
 ---
 
 ## Question
@@ -72,3 +69,14 @@ Use the graph to determine:
 >    $$
 >    \boxed{\{y\mid -3\le y\le 5,\ y\in\mathbb{R}\}}.
 >    $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

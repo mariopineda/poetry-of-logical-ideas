@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 3]]"
-  - "[[Related Rates 5]]"
 ---
 
 ## Question
@@ -24,3 +19,15 @@ A baseball diamond is in the shape of a square 27.4 m on each side. Mary starts 
 > > https://www.youtube.com/embed/dZDDe3kmKKY
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Diagonal]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Antiderivative]]

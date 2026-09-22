@@ -1,15 +1,9 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course: []
 topic: "Foundational Algebra"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fraction Arithmetic 3]]"
-  - "[[Fraction Arithmetic 5]]"
 ---
 
 ## Question
@@ -31,3 +25,14 @@ Evaluate withouth a calculator by, when possible, reducing the fractions to lowe
 > 4. $$\frac{4}{18} \times \frac{2}{12} = \frac{2}{9} \times \frac{1}{6} = \frac{1}{9} \times \frac{1}{3} = \frac{1}{27}$$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

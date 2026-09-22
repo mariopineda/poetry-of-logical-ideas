@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 1]]"
-  - "[[Fundamental Counting Principle 3]]"
 ---
 
 ## Question
@@ -28,3 +24,16 @@ How many ways are there of getting from A to C, passing through each point at mo
 > $3 + 2 + 6 = 11$ different routes
 >
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Combinatorics]]
+
+## Explore Also
+
+- [[Set Theory]]
+
+## Build Toward
+
+- [[Combinations]]
+- [[Permutations with Identical Objects]]

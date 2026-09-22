@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 8]]"
-  - "[[Related Rates 10]]"
 ---
 
 ## Question
@@ -24,3 +19,14 @@ A water tank is built in the shape of a circular cone with height 5 m and diamet
 > > https://www.youtube.com/embed/U59ewg5oLL4
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 3]]"
-  - "[[Rates of Change 5]]"
 ---
 
 ## Question
@@ -32,3 +27,15 @@ Determine the instantaneous rate of change of volume (w.r.t. $h$) at $h=3$ cm.
 > > https://www.youtube.com/embed/eK6mytNoD74
 >
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Antiderivative]]

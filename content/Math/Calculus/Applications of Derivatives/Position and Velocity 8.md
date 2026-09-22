@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 7]]"
-  - "[[Position and Velocity 9]]"
 ---
 
 ## Question
@@ -28,3 +23,18 @@ Determine the positions when the object's velocity is 12 m/sec. West.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+- [[Polynomials]]
+- [[Zero Product Theorem]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

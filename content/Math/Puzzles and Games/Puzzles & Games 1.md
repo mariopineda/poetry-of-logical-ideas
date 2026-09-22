@@ -1,14 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
+  - "Mathematics 30-3"
 topic: "Logical Reasoning"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Logical Puzzle 2]]"
-  - "[[Set Theory 1]]"
 ---
 
 ## Question
@@ -19,3 +16,15 @@ related:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Reasoning]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Set Theory]]
+
+## Build Toward
+
+- [[Mathematical Proof]]

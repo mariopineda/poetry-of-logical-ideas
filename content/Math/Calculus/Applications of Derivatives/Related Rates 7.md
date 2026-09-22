@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Related Rates 6]]"
-  - "[[Related Rates 8]]"
 ---
 
 ## Question
@@ -24,3 +19,14 @@ A circular disk is heated and then cooled. During the cooling process, the radiu
 > > https://www.youtube.com/embed/3XVPYjcoh-Y
 >
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Antiderivative]]

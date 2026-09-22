@@ -1,14 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 20-1
-  - Math 20-2
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Polynomial Functions 7]]"
 ---
 
 ## Question
@@ -86,3 +84,17 @@ Use your graphing calculator. Use the calculator's stored regression equation fo
 > $$
 >
 > where $s$ is measured in km/h and $d$ is measured in metres.
+
+## Review First
+
+- [[Polynomials]]
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

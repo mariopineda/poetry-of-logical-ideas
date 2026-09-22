@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Definite Integrals"
 show_solution: false
-prerequisites:
-  - "[[Antiderivative 1]]"
-related:
-  - "[[Area Between Curves 1]]"
-  - "[[Area Under and Between Curves 1]]"
 ---
 
 ## Question
@@ -20,3 +15,13 @@ Use the [[Method of Exhaustion]] to estimate the area, to the nearest hundredth,
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Acceleration 3]]"
-  - "[[Position and Velocity 1]]"
 ---
 
 ## Question
@@ -32,3 +27,16 @@ Determine the position when the acceleration is 34 km/h^{2} North.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

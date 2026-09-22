@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Product and Quotient Rules"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Product and Quotient Rules 1]]"
-  - "[[Product and Quotient Rules 3]]"
 ---
 
 ## Question
@@ -24,3 +19,16 @@ Differentiate $f(x) = (x-3)(x+1)$.
 > > https://www.youtube.com/embed/709OGmGILtg
 >
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Antiderivative]]

@@ -1,22 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 2"
-prerequisites:
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Reading Graphs 1]]"
-  - "[[Domain and Range - Sketching Relations 2]]"
-  - "[[Domain and Range - Reciprocal and Quadratic Functions]]"
 ---
 
 ## Question
@@ -70,3 +61,15 @@ Determine the **domain and range** of each relation in both **set-builder notati
 >
 > - Set-builder notation: $\{y\mid y\in\mathbb{R}\}$
 > - Interval notation: $(-\infty,\infty)$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

@@ -1,18 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Quadratic Equations 7]]"
-  - "[[Quadratic Equations 9]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -30,3 +23,17 @@ Let $w$ represent the width of the enclosure. Into the area formula for a rectan
 > [!example]- Show solution
 >
 > $x=15.1$
+
+## Review First
+
+- [[Arithmetic]]
+- [[Radicals]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Zero Product Theorem]]
+
+## Build Toward

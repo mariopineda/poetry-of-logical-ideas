@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-3"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Linear Relations 2]]"
-  - "[[Linear Relations 4]]"
 ---
 
 ## Question
@@ -24,3 +19,13 @@ Given the x-value, algebraically determine the corresponding y-value for the fol
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Substitution Rule]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

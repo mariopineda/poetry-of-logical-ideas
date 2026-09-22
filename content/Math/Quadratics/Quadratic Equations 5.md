@@ -1,18 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Quadratic Equations 4]]"
-  - "[[Quadratic Equations 6]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -28,3 +21,17 @@ The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]

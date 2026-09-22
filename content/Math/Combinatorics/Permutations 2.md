@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Permutations"
 show_solution: false
-prerequisites:
-  - "[[Factorial Notation 1]]"
-related:
-  - "[[Permutations 1]]"
-  - "[[Permutations 3]]"
 ---
 
 ## Question
@@ -22,3 +17,14 @@ Using permutations, determine the number of pathways from the red to the green p
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+
+## Explore Also
+
+- [[Combinatorics]]
+
+## Build Toward
+
+- [[Combinations]]

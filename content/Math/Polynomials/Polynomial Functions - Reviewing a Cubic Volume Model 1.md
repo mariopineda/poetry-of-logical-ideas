@@ -1,17 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Domain and Range - Cube Volume Model]]"
-related:
-  - "[[Polynomial Functions - Reviewing a Cubic Volume Model 2]]"
-  - "[[Polynomial Functions - Reviewing a Cubic Volume Model 3]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -127,3 +120,17 @@ A company makes a rectangular box with interior dimensions $8$ cm by $5$ cm by $
 > - Set-builder notation: $\{V\in\mathbb{R}\mid120\le V\le756\}$
 > - Interval notation: $[120,756]$
 
+## Review First
+
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Polynomials]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

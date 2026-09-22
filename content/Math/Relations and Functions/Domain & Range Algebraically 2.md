@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
-prerequisites:
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain & Range Algebraically 1]]"
-  - "[[Domain & Range Algebraically 3]]"
 ---
 
 ## Question
@@ -76,3 +71,16 @@ State the domain in interval notation.
 > \boxed{\left(-\infty,\frac{11}{2}\right]}
 > $$
 
+## Review First
+
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Radicals]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

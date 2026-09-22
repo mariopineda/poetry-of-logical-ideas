@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-1
-  - Math 30-2
+course:
+  - "Mathematics 31"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Transformations 1]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Sketching Polynomial Functions 1]]"
-  - "[[Completing the Square 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
@@ -23,3 +15,15 @@ Sketch $y=f(x)$ where $f(0)=4$, $f(-5)=f(-1)=f(1)=f(5)=0$, $f'(0)=f'(\pm 3)=0$, 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Calculus]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Antiderivative]]

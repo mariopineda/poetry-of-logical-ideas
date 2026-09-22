@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Set Theory"
 show_solution: false
-prerequisites:
-  - "[[Puzzles & Games 1]]"
-related:
-  - "[[Set Theory 1]]"
-  - "[[Set Theory 3]]"
-  - "[[Puzzles & Games 1]]"
 ---
 
 ## Question
@@ -48,3 +42,17 @@ Consider the following sets
 > ...
 >
 
+## Review First
+
+- [[Set Theory]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Parity]]
+- [[Symmetric Difference]]
+
+## Build Toward
+
+- [[Combinatorics]]
+- [[Fundamental Counting Principle]]

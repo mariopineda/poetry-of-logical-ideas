@@ -1,17 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 5]]"
-  - "[[Non-Permissible Values 1]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -34,3 +27,17 @@ $$\frac{4a^2-1}{4a^2-16} \div \frac{2a-1}{2-a}$$
 > > https://www.youtube.com/embed/O8Cy5g3WhAY
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Difference of Squares]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Zero Product Theorem]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]
+- [[Characteristics of Polynomial Functions]]

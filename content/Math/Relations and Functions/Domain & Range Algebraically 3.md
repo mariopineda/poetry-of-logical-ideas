@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
-prerequisites:
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain & Range Algebraically 2]]"
 ---
 
 ## Question
@@ -119,3 +115,18 @@ State the domain in interval notation.
 > \boxed{(-\infty,0)\cup(0,11)}
 > $$
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

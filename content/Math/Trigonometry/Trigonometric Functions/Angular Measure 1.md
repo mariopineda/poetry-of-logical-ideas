@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: false
-prerequisites:
-  - "[[Right Triangle Trigonometry 1]]"
-related:
-  - "[[Angular Measure 2]]"
-  - "[[Amplitude and Period 1]]"
 ---
 
 ## Question
@@ -24,3 +19,12 @@ Sketch the unit circle indicating the reference angles 30$^\circ$, 45$^\circ$ an
 > > https://www.youtube.com/embed/uQmQ15GtRAU
 >
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

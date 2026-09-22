@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
 topic: "Logarithmic Functions"
 show_solution: false
-prerequisites:
-  - "[[Exponential Equations]]"
-related:
-  - "[[Logarithm Laws 2]]"
-  - "[[Exponential Equations]]"
 ---
 
 ## Question
@@ -31,3 +25,15 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 > > https://www.youtube.com/embed/eYLuNOOWzYM
 >
 
+## Review First
+
+- [[Exponential Functions]]
+
+## Explore Also
+
+- [[Graphs of Logarithmic Functions]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

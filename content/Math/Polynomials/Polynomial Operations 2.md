@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Polynomial Operations"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Polynomial Operations 1]]"
-  - "[[Polynomial Review 1]]"
 ---
 
 ## Question
@@ -47,3 +43,18 @@ related:
 > $$
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Square of a Binomial]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]

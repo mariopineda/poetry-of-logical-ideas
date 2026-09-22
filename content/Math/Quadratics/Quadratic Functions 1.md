@@ -1,18 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 20-1
-  - Math 20-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: Quadratics
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Quadratic Equations 9]]"
-  - "[[Polynomial Functions 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -28,3 +21,15 @@ Which of the following functions is not a quadratic function?
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

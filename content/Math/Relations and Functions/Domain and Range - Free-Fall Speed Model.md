@@ -1,19 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 7"
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Fuel Tank Model]]"
-  - "[[Domain and Range - Cube Surface Area Model]]"
-  - "[[Domain and Range - Ferris Wheel Model]]"
 ---
 
 ## Question
@@ -45,3 +39,15 @@ State the contextual domain and range in both **set-builder notation** and **int
 >
 > - Set-builder notation: $\{v\in\mathbb{R}\mid v\ge0\}$
 > - Interval notation: $[0,\infty)$
+
+## Review First
+
+- [[Radicals]]
+- [[Set Theory]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

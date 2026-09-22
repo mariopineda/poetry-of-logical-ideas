@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Acceleration 1]]"
-  - "[[Acceleration 3]]"
 ---
 
 ## Question
@@ -23,3 +18,13 @@ For the position-time graph shown, describe the motion (East + and West -).
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward
+
+- [[Antiderivative]]

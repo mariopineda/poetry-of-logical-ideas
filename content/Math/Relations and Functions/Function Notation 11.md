@@ -1,15 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 10]]"
-  - "[[Function Notation 12]]"
 ---
 
 ## Question
@@ -31,3 +27,14 @@ A high school student having a summer job as a sales person at a bicycle store i
 > > [Global News (June 26, 2019) Lower minimum wage for Alberta youth takes effect Wednesday](https://globalnews.ca/news/5434502/lower-minimum-wage-alberta-youth/)
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Calculus]]

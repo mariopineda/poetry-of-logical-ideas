@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Adding and Subtracting Rational Expressions 4]]"
-  - "[[Arithmetic Operations with Quotients]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -38,3 +32,13 @@ $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 > > https://www.youtube.com/embed/5a6_Vv0rwTI
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

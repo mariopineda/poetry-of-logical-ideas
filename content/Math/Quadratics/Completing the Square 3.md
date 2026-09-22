@@ -1,18 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 20-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-  - "[[Function Notation 1]]"
-related:
-  - "[[Completing the Square 2]]"
-  - "[[Completing the Square 4]]"
-  - "[[Polynomial Functions 1]]"
 ---
 
 ## Question
@@ -32,3 +26,16 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 > > https://www.youtube.com/embed/CE4U35wo4gg
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Square of a Binomial]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]

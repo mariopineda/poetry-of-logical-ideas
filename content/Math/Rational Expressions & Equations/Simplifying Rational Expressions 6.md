@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Simplifying Rational Expressions 5]]"
-  - "[[Simplifying Rational Expressions 7]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -29,3 +23,18 @@ A farmer is planing to put a fence around a rectangular field. The area of the f
 > > https://www.youtube.com/embed/AMEbT0L5Aaw
 >
 
+## Review First
+
+- [[Difference of Squares]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Rational Expressions & Equations]]
+
+## Explore Also
+
+- [[Polynomials]]
+- [[Proportional Reasoning]]
+
+## Build Toward
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

@@ -1,17 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-related:
-  - "[[Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]"
-  - "[[Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -118,3 +111,14 @@ Use a graphing calculator.
 > > [!note]
 > > A regression equation is a model of the trend in the observed data. It does not imply that the relationship will continue unchanged outside the data set.
 
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

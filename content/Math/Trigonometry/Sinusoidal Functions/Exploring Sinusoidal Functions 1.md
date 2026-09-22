@@ -1,18 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
 show_solution: false
-prerequisites:
-  - "[[Angular Measure 1]]"
-  - "[[Function Transformations 1]]"
-related:
-  - "[[Amplitude and Period 2]]"
-  - "[[Graphing Sinusoidal Functions 1]]"
-  - "[[Angular Measure 1]]"
 ---
 
 ## Question
@@ -31,3 +23,13 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 > > https://www.youtube.com/embed/1an_9UMWEjU
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

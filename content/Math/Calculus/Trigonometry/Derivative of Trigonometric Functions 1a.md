@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 1b]]"
 ---
 
 ## Question
@@ -52,3 +47,16 @@ Differentiate $\cos x$ using first principles.
 > Thus, the derivative of $\cos(x)$ with respect to $x$ is $-\sin(x)$.
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Transcendental Functions]]
+
+## Explore Also
+
+- [[Mathematical Proof]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

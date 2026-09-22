@@ -1,14 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: true
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Representing Relations 2]]"
 ---
 
 ## Question
@@ -93,3 +89,12 @@ b. What is the y-coordinate?
 > a. The x-coordinate is $-3$.
 >
 > b. The y-coordinate is $4$.
+
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

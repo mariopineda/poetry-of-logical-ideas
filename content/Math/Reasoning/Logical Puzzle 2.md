@@ -1,15 +1,13 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 20-2"
+  - "Mathematics 30-2"
+  - "Mathematics 30-3"
 topic: "Logical Reasoning"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Logical Puzzle 1]]"
-  - "[[Puzzles & Games 1]]"
-  - "[[Set Theory 1]]"
 ---
 
 ## Question
@@ -23,3 +21,15 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Reasoning]]
+
+## Explore Also
+
+- [[Parity]]
+- [[Diagonal]]
+- [[Mathematical Proof]]
+
+## Build Toward

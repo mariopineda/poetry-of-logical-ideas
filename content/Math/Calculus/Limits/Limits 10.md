@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Limits"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Limits 9]]"
-  - "[[Limits 11]]"
 ---
 
 ## Question
@@ -31,3 +26,17 @@ Evaluate the following using the graph.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Concepts]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Constant Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Differential Equations with Initial Conditions]]

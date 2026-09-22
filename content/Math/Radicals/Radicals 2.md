@@ -1,14 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
 topic: "Radicals"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Radicals 1]]"
 ---
 
 ## Question
@@ -33,3 +31,15 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 > ...
 >
 
+## Review First
+
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Radicals]]
+- [[Radical Multiplication and Division Worksheet]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 3]]"
-  - "[[Multiplying and Dividing Rational Expressions 5]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -38,3 +32,13 @@ $$\frac{r+8}{8r} \div (64-r^2)$$
 > > https://www.youtube.com/embed/zIbIiRP7gBM
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Difference of Squares]]
+
+## Build Toward

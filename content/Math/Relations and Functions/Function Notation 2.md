@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 1]]"
-  - "[[Function Notation 3]]"
 ---
 
 ## Question
@@ -40,3 +35,10 @@ $${(3,-2),(4,1),(5,1),(6,0),(7,-2)}$$
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

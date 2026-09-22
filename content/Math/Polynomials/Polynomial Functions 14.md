@@ -1,18 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Quadratic Equations 8]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
-  - "[[Polynomial Functions 13]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -52,3 +44,16 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 > The maximum value of the function is $9$.
 >
 > Since profit is measured in **thousands of dollars**, the maximum monthly profit is **$9,000**.
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Higher Degree Polynomial Functions]]

@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Trigonometric Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Chain Rule 1]]"
-  - "[[Angular Measure 1]]"
-related:
-  - "[[Derivative of Trigonometric Functions 2c]]"
-  - "[[Derivative of Trigonometric Functions 3]]"
 ---
 
 ## Question
@@ -80,3 +74,15 @@ Differentiate the following functions
 > Can be further simplified by factoring.
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Transcendental Functions]]
+- [[Rational Expressions & Equations]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
 show_solution: false
-prerequisites:
-  - "[[Angles and Parallel Lines 1]]"
-related:
-  - "[[Right Triangle Trigonometry 4]]"
-  - "[[Right Triangle Trigonometry 6]]"
 ---
 
 ## Question
@@ -21,3 +16,11 @@ The tallest tree in Canada is a Sitka spruce named the Carmanah Giant. The tree 
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Curve Sketching"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-  - "[[Higher Derivatives 1]]"
-related:
-  - "[[Curve Sketching 1]]"
 ---
 
 ## Question
@@ -20,3 +15,12 @@ Using the Second Derivative Test, find the local maximum and minimum values for 
 
 ## Solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward

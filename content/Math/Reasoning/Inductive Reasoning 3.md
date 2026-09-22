@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
+course:
+  - "Mathematics 20-2"
 topic: "Inductive Reasoning"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Inductive Reasoning 2]]"
-  - "[[Inductive Reasoning 4]]"
-  - "[[Deductive Reasoning 1]]"
 ---
 
 ## Question
@@ -40,3 +35,15 @@ $$123456789 \times 9 \times 3 = 3333333303$$
 > For example, $123456789 \times 9 \times 10 = 11111111010$
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Reasoning]]
+
+## Explore Also
+
+- [[Parity]]
+
+## Build Toward
+
+- [[Mathematical Proof]]

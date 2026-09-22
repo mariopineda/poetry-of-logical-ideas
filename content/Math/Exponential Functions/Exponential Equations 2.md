@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Exponential Equations"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Exponential Equations]]"
-  - "[[Exponential Equations 3]]"
-  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -30,3 +24,16 @@ Solve the following equations. Express the solution as an exact value in the for
 > > https://www.youtube.com/embed/Us8LatiQ4m4
 >
 
+## Review First
+
+- [[Exponential Functions]]
+
+## Explore Also
+
+- [[Graphs of Logarithmic Functions]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

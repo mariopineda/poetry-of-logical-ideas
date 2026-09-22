@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Optimization"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Optimization 2]]"
-  - "[[Optimization 4]]"
 ---
 
 ## Question
@@ -20,3 +15,18 @@ Algebraically determine the absolute and local min / max on the given interval f
 
 ## Solution
 
+## Review First
+
+- [[Calculus]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Higher Degree Polynomial Functions]]
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Integral House]]

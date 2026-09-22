@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Coordinate Geometry 6]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -51,3 +47,12 @@ related:
 > The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+
+## Build Toward

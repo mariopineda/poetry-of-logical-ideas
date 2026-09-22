@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
+course:
+  - "Mathematics 20-2"
+  - "Mathematics 20-3"
 topic: "Scale Factors"
 show_solution: false
-prerequisites:
-  - "[[Surface Area and Volume 1]]"
-related:
-  - "[[Area Scale Factors 2]]"
-  - "[[Surface Area and Volume 1]]"
 ---
 
 ## Question
@@ -27,3 +23,11 @@ Complete the table for the following rectangles.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward

@@ -1,17 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: false
-prerequisites:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Domain and Range - Cube Volume Model]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1]]"
-  - "[[Polynomial Functions - Reviewing a Cubic Volume Model 3]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -127,3 +122,16 @@ A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm
 > - Set-builder notation: $\{V\in\mathbb{R}\mid240\le V\le819\}$
 > - Interval notation: $[240,819]$
 
+## Review First
+
+- [[Polynomials]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

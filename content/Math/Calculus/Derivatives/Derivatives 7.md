@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 6]]"
-  - "[[Derivatives 8]]"
 ---
 
 ## Question
@@ -28,3 +23,16 @@ $$y=\sqrt{6-4x}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

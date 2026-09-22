@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 4]]"
-  - "[[Fundamental Counting Principle 6]]"
 ---
 
 ## Question
@@ -32,3 +28,15 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 > FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Fundamental Counting Principle]]
+- [[Combinatorics]]
+
+## Build Toward
+
+- [[Permutations with Identical Objects]]
+- [[Combinations]]

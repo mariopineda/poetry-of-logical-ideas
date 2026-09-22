@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Related Rates"
 show_solution: false
-prerequisites:
-  - "[[Implicit Differentiation 1]]"
-related:
-  - "[[Applications of Trig Derivatives 1]]"
 ---
 
 ## Question
@@ -78,3 +74,12 @@ A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is
 > Therefore, at $t=5$ seconds, the length of the shadow is approximately 1.15 meters, and it is increasing at a rate of approximately 0.23 meters per second.
 >
 
+## Review First
+
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+- [[Calculus]]
+
+## Build Toward

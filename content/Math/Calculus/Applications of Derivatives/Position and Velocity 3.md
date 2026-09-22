@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Position and Velocity 2]]"
-  - "[[Position and Velocity 4]]"
 ---
 
 ## Question
@@ -24,3 +19,17 @@ The position function of an object is $s(t)=t^3-3t^2$, where $t$ in seconds $s$ 
 > > https://www.youtube.com/embed/-JCy9St5UIs
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Adding and Subtracting Rational Expressions 2]]"
-  - "[[Adding and Subtracting Rational Expressions 4]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -34,3 +28,15 @@ $$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
 > > https://www.youtube.com/embed/G5jVilJu9A0
 >
 
+## Review First
+
+- [[Polynomials]]
+- [[Division by Zero]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Difference of Squares]]
+
+## Build Toward

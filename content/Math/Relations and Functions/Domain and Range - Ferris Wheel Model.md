@@ -1,20 +1,13 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
+  - "Mathematics 31"
 topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 10"
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Representing Relations 1]]"
-related:
-  - "[[Domain and Range - Fuel Tank Model]]"
-  - "[[Domain and Range - Free-Fall Speed Model]]"
-  - "[[Domain and Range - Cube Volume Model]]"
 ---
 
 ## Question
@@ -48,3 +41,13 @@ State the domain and range for **two complete rotations** in both **set-builder 
 >
 > - Set-builder notation: $\{h\in\mathbb{R}\mid 2\le h\le64\}$
 > - Interval notation: $[2,64]$
+
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

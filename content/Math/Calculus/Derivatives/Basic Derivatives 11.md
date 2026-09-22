@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Derivatives 1]]"
-related:
-  - "[[Basic Derivatives 10]]"
-  - "[[Basic Derivatives 12]]"
 ---
 
 ## Question
@@ -32,3 +27,18 @@ $$h(x) = \frac{1}{\sqrt[9]{x^4}}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+- [[Rational Expressions & Equations]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Exponential Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Calculus]]

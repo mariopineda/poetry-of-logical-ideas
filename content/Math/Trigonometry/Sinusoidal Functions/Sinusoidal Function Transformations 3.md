@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
 show_solution: false
-prerequisites:
-  - "[[Angular Measure 1]]"
-  - "[[Function Transformations 1]]"
-related:
-  - "[[Sinusoidal Function Transformations 2]]"
-  - "[[Angular Measure 1]]"
 ---
 
 ## Question
@@ -30,3 +24,14 @@ The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground l
 
 ## Solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Proportional Reasoning]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Calculus]]

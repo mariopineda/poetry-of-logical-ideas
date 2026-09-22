@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 20-1"
 topic: "Inequalities"
 show_solution: false
-prerequisites:
-  - "[[Completing the Square 1]]"
-related:
-  - "[[Inequalities 2]]"
-  - "[[Inequalities 4]]"
 ---
 
 ## Question
@@ -27,3 +22,14 @@ Solve each. Answer in interval notation.
 > > https://www.youtube.com/embed/b9HyLVccqcg
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Radicals]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Graphs of Polynomial Functions (Student Notes)]]

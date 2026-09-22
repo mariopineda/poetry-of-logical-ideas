@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Multiplying and Dividing Rational Expressions 2]]"
-  - "[[Multiplying and Dividing Rational Expressions 4]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -34,3 +28,16 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 > > https://www.youtube.com/embed/mmXXgluJuGk
 >
 
+## Review First
+
+- [[Factoring Polynomials Work Sheet - Medium]]
+- [[Difference of Squares]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Polynomials]]
+
+## Build Toward
+
+- [[Rational Expressions & Equations]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Logarithmic Functions"
 show_solution: false
-prerequisites:
-  - "[[Exponential Equations]]"
-related:
-  - "[[Logarithm Laws 1]]"
-  - "[[Logarithmic Functions 1]]"
-  - "[[Exponential Equations]]"
 ---
 
 ## Question
@@ -30,3 +24,16 @@ Write each expression as a single logarithm and then evaluate the expression
 > > https://www.youtube.com/embed/VdMRDSgi8IM
 >
 
+## Review First
+
+- [[Exponential Functions]]
+- [[Arithmetic]]
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Graphs of Logarithmic Functions]]

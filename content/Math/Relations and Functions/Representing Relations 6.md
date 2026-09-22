@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Representing Relations 5]]"
-  - "[[Representing Relations 7]]"
 ---
 
 ## Question
@@ -46,3 +41,15 @@ For each of the following table of values, express the relationship
 > ## Solution
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Exponential Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]

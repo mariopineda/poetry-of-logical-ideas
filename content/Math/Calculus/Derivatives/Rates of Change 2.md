@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Rates of Change 1]]"
-  - "[[Rates of Change 3]]"
 ---
 
 ## Question
@@ -32,3 +27,14 @@ With respect to time.
 > > https://www.youtube.com/embed/aXFSFrbzByQ
 >
 
+## Review First
+
+- [[Calculus]]
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Antiderivative]]
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward

@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Derivatives"
 show_solution: false
-prerequisites:
-  - "[[Limits of Trig Functions 1]]"
-related:
-  - "[[Derivatives 8]]"
-  - "[[Rates of Change 1]]"
 ---
 
 ## Question
@@ -28,3 +23,18 @@ $$y=\frac{4x-7}{8-5x}$$
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Difference of Squares]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+
+## Build Toward
+
+- [[Antiderivative]]
+- [[Differential Equations with Initial Conditions]]
+- [[Integral House]]

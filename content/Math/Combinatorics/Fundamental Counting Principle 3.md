@@ -1,15 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Fundamental Counting Principle 2]]"
-  - "[[Fundamental Counting Principle 4]]"
 ---
 
 ## Question
@@ -68,3 +64,17 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 > $3 + 2 + 6 = 11$ routes
 >
 
+## Review First
+
+- [[Fundamental Counting Principle]]
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Combinatorics]]
+- [[Set Theory]]
+
+## Build Toward
+
+- [[Permutations with Identical Objects]]
+- [[Combinations]]

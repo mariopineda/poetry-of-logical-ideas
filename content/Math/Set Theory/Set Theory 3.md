@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-2"
+course:
+  - "Mathematics 30-2"
 topic: "Set Theory"
 show_solution: false
-prerequisites:
-  - "[[Puzzles & Games 1]]"
-related:
-  - "[[Set Theory 2]]"
-  - "[[Puzzles & Games 1]]"
 ---
 
 ## Question
@@ -27,3 +22,12 @@ Consider the set of prime numbers less than 20. Let $A=\{3,5,7,11,19 \}$ and $B=
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+- [[Symmetric Difference]]
+- [[Mathematical Proof]]
+
+## Build Toward

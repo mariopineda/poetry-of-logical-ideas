@@ -1,17 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
-  - Math 30-1
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Polynomial Functions 6]]"
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
-  - "[[Polynomial Functions 25 — Inflating a Balloon]]"
 ---
 
 ## Question
@@ -97,3 +91,17 @@ Use your graphing calculator as needed.
 > $$
 >
 > where $V$ is measured in $\text{cm}^3$.
+
+## Review First
+
+- [[Graphs of Polynomial Functions (Student Notes)]]
+- [[Characteristics of Polynomial Functions]]
+
+## Explore Also
+
+- [[Higher Degree Polynomial Functions]]
+
+## Build Toward
+
+- [[Calculus]]
+- [[Antiderivative]]

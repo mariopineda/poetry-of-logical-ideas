@@ -1,15 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: false
-prerequisites:
-  - "[[Domain and Range - Reading Graphs 1]]"
-related:
-  - "[[Function Notation 6]]"
-  - "[[Function Notation 8]]"
 ---
 
 ## Question
@@ -26,3 +21,15 @@ Use exponent laws to simplify the following:
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Radicals]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+- [[Prime Factorization]]
+
+## Build Toward
+
+- [[Exponential Functions]]

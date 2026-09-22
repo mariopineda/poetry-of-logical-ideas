@@ -1,18 +1,12 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
-  - "Math 10-3"
-  - "Math 20-2"
+course:
+  - "Mathematics 10-3"
+  - "Mathematics 10C"
+  - "Mathematics 20-2"
 topic: "Scale Factors"
 show_solution: false
-prerequisites:
-  - "[[Surface Area and Volume 1]]"
-related:
-  - "[[Area Scale Factors 2]]"
-  - "[[Scale Factors 2]]"
-  - "[[Surface Area and Volume 1]]"
 ---
 
 ## Question
@@ -29,3 +23,12 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/me
 
 ## Solution
 
+## Review First
+
+- [[Proportional Reasoning]]
+- [[Arithmetic]]
+
+## Explore Also
+
+
+## Build Toward

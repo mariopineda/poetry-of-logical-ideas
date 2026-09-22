@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
+course:
+  - "Mathematics 31"
 topic: "Sequences and Series"
 show_solution: false
-prerequisites:
-  - "[[Linear Relations 1]]"
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Infinite Sequences 4]]"
 ---
 
 ## Question
@@ -36,3 +31,16 @@ $$ \lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7} $$
 > > https://www.youtube.com/embed/Vkt-rNztL4w
 >
 
+## Review First
+
+- [[Rational Expressions & Equations]]
+- [[Radicals]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Mind-Bending Facts About Infinity]]
+
+## Build Toward
+
+- [[Calculus]]

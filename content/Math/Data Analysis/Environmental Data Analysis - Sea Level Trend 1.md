@@ -1,16 +1,13 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 30-2"
+course:
+  - "Mathematics 10C"
+  - "Mathematics 20-2"
+  - "Mathematics 20-3"
+  - "Mathematics 30-3"
 topic: "Data Analysis"
 show_solution: false
-prerequisites:
-  - "[[Properties of Functions 1]]"
-related:
-  - "[[Environmental Data Analysis - Ozone Hole Size 1]]"
-  - "[[Environmental Data Analysis - Seasonal Sea Ice Extent 1]]"
 ---
 
 ## Question
@@ -30,3 +27,14 @@ Sea level is rising, in part, because of global climate change causes the meltin
 > > [NASA Jet Propulsion Laboratory / California Institute of Technology](https://www.jpl.nasa.gov/edu/teach/activity/graphing-sea-level-trends/)
 >
 
+## Review First
+
+- [[Arithmetic]]
+- [[Proportional Reasoning]]
+
+## Explore Also
+
+
+## Build Toward
+
+- [[Calculus]]

@@ -1,17 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
-prerequisites:
-  - "[[Factoring Polynomials 1]]"
-related:
-  - "[[Adding and Subtracting Rational Expressions 5]]"
-  - "[[Evaluating Rational Expressions 1]]"
-  - "[[Solving Rational Equations 1]]"
 ---
 
 ## Question
@@ -28,3 +22,14 @@ Evaluate and simplify without a calculator.
 
 > [!example]- Show solution
 
+## Review First
+
+- [[Arithmetic]]
+- [[Factoring Polynomials Work Sheet - Easy]]
+- [[Division by Zero]]
+
+## Explore Also
+
+- [[Rational Expressions & Equations]]
+
+## Build Toward

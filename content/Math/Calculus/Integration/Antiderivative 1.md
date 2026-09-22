@@ -1,14 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 31"
+course:
+  - "Mathematics 31"
 topic: "Antiderivatives"
 show_solution: false
-prerequisites:
-  - "[[Basic Derivatives 1]]"
-related:
-  - "[[Antiderivative 2]]"
 ---
 
 ## Question
@@ -39,3 +35,15 @@ Find $F(x)$ such that $F'(x) = f(x)$.
 > 9. $f(x) = \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \Rightarrow F(x) = \int \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \, dx = \int 3x^{-\frac{1}{2}} \, dx = 3 \cdot \frac{\displaystyle x^{\frac{1}{2}}}{\frac{1}{2}} + C = 6x^{\frac{1}{2}} + C = 6\sqrt{x} + C$
 >
 
+## Review First
+
+
+## Explore Also
+
+- [[Calculus]]
+- [[Transcendental Functions]]
+
+## Build Toward
+
+- [[Substitution Rule]]
+- [[Differential Equations with Initial Conditions]]

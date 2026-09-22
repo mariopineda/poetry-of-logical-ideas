@@ -1,17 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
-  - "Math 30-3"
+course:
+  - "Mathematics 30-3"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Angles and Parallel Lines 1]]"
-  - "[[Angles in Triangles 2]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -46,3 +39,12 @@ related:
 > The sum of the interior angles in a hexagon $= (6-2) \times 180 = 720^\circ$. The sixth angle measure = $720-600=120^\circ$
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Diagonal]]
+
+## Build Toward

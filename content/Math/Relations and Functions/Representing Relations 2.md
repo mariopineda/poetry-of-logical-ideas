@@ -1,15 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 10C"
+course:
+  - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: false
-prerequisites:
-  - "[[Algebraic Expressions 1]]"
-related:
-  - "[[Representing Relations 1]]"
-  - "[[Representing Relations 3]]"
 ---
 
 ## Question
@@ -26,3 +21,10 @@ Classify the following as representing discrete or continuous data.
 
 > [!example]- Show solution
 
+## Review First
+
+
+## Explore Also
+
+
+## Build Toward

@@ -1,16 +1,11 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 30-1"
-  - "Math 30-2"
+course:
+  - "Mathematics 30-1"
+  - "Mathematics 30-2"
 topic: "Exponential Equations"
 show_solution: false
-prerequisites:
-  - "[[Exponent Laws 1]]"
-related:
-  - "[[Exponential Functions 1]]"
-  - "[[Evaluating Logarithms 1]]"
 ---
 
 ## Question
@@ -29,3 +24,17 @@ Solve for $x$
 > > https://www.youtube.com/embed/_WDp9GmFzPQ
 >
 
+## Review First
+
+- [[Prime Factorization]]
+
+## Explore Also
+
+- [[Exponential Functions]]
+- [[Radicals]]
+- [[Graphs of Logarithmic Functions]]
+
+## Build Toward
+
+- [[Transcendental Functions]]
+- [[Calculus]]

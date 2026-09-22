@@ -1,17 +1,11 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 10C"
+  - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Linear Relations 1]]"
-related:
-  - "[[Polynomial Functions 8]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
-  - "[[Domain and Range - Reading Graphs 2]]"
 ---
 
 ## Question
@@ -121,3 +115,16 @@ Use your graphing calculator. Graph the function and use the graph to answer the
 > $$
 > 0\le V\le750.
 > $$
+
+## Review First
+
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]

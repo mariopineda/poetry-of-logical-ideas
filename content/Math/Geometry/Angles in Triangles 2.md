@@ -1,16 +1,10 @@
-﻿---
+---
 type: qod
 publish: true
-courses:
-  - "Math 20-2"
-  - "Math 10-3"
+course:
+  - "Mathematics 20-2"
 topic: "Angles and Geometry"
 show_solution: false
-prerequisites: []
-related:
-  - "[[Angles in Polygons 1]]"
-  - "[[Coordinate Geometry 1]]"
-  - "[[Angles in Triangles]]"
 ---
 
 ## Question
@@ -37,3 +31,14 @@ Determine the degree measure of the angles marked by letters. Explain the reason
 > - Determine $i$: $i+e+h=180 \Rightarrow i=37^{\circ}$ (Triangle Sum Theorem)
 >
 
+## Review First
+
+- [[Arithmetic]]
+
+## Explore Also
+
+- [[Reasoning]]
+
+## Build Toward
+
+- [[Mathematical Proof]]

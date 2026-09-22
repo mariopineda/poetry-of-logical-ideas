@@ -1,18 +1,12 @@
 ---
 type: qod
 publish: true
-courses:
-  - Math 30-2
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: true
-prerequisites:
-  - "[[Function Notation 1]]"
-  - "[[Domain & Range 2]]"
-related:
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 1]]"
-  - "[[Polynomial Functions - Analyzing a Polynomial Equation 2]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question
@@ -98,3 +92,17 @@ i. the range.
 > $$
 > R:\{y\mid y\le q,\ y\in\mathbb{R}\}.
 > $$
+
+## Review First
+
+- [[Polynomials]]
+
+## Explore Also
+
+- [[Characteristics of Polynomial Functions]]
+- [[Graphs of Polynomial Functions (Student Notes)]]
+
+## Build Toward
+
+- [[Higher Degree Polynomial Functions]]
+- [[Calculus]]
