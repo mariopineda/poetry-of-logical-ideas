@@ -25,15 +25,10 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 > > https://www.youtube.com/embed/eYLuNOOWzYM
 >
 
-## Review First
-
-- [[Exponential Functions]]
-
-## Explore Also
-
-- [[Graphs of Logarithmic Functions]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

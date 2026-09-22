@@ -15,13 +15,15 @@ show_solution: false
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Reasoning]]
-
-## Explore Also
-
-- [[Mathematical Proof]]
-- [[Arithmetic]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
+<!-- QOD-WEB-PRACTICE-END -->

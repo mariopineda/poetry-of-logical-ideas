@@ -97,13 +97,14 @@ Use the graph to answer the following:
 > \boxed{3}
 > $$
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 2|Sinusoidal Functions - Radian Graph Characteristics 2]]
+<!-- QOD-WEB-PRACTICE-END -->

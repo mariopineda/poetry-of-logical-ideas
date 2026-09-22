@@ -42,12 +42,9 @@ State the domain and range for **two complete rotations** in both **set-builder 
 > - Set-builder notation: $\{h\in\mathbb{R}\mid 2\le h\le64\}$
 > - Interval notation: $[2,64]$
 
-## Review First
-
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

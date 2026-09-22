@@ -94,12 +94,10 @@ Simplify the following radicals.
 > \]
 >
 
-## Review First
-
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._

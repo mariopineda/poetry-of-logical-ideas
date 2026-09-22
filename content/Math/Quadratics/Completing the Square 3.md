@@ -26,16 +26,17 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 > > https://www.youtube.com/embed/CE4U35wo4gg
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Square of a Binomial]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Quadratics/Completing the Square 2|Completing the Square 2]]
+> - **Next QOD:** [[Math/Quadratics/Completing the Square 4|Completing the Square 4]]
+<!-- QOD-WEB-PRACTICE-END -->

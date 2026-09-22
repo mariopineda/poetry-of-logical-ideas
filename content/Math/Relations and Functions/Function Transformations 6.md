@@ -22,18 +22,18 @@ Without using technology sketch of the following functions, identifying the tran
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Concepts/Concepts|Concepts]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Polynomials]]
-- [[Radicals]]
-- [[Characteristics of Polynomial Functions]]
-
-## Explore Also
-
-- [[Higher Degree Polynomial Functions]]
-- [[Concepts]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Transformations 5|Function Transformations 5]]
+<!-- QOD-WEB-PRACTICE-END -->

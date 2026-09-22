@@ -51,12 +51,16 @@ How many more hours would you have to work to earn $1000 after the roll back?
 > > [The Globe and Mail (May 27, 2019) Alberta slashes minimum wage for teen students](https://www.theglobeandmail.com/canada/alberta/article-alberta-slashes-minimum-wage-for-teen-students/)
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Representing Relations 6|Representing Relations 6]]
+> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 8|Representing Relations 8]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -24,17 +24,17 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
 
-- [[Fundamental Counting Principle]]
-- [[Arithmetic]]
-- [[Combinatorics]]
-
-## Explore Also
-
-- [[Permutations with Identical Objects]]
-- [[Combinations]]
-
-## Build Toward
-
-- [[Mathematical Proof]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Combinatorics/Permutations 2|Permutations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

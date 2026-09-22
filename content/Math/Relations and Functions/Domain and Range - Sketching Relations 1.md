@@ -34,10 +34,14 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > 3. The sideways parabola $x=y^2$ has domain $[0,\infty)$ and range $(-\infty,\infty)$.
 > 4. The ray $y=-x-4$, restricted to $x\ge-2$, has domain $[-2,\infty)$ and range $(-\infty,-2]$.
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

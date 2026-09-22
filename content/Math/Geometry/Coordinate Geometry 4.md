@@ -16,10 +16,15 @@ Determine the equation of the line that is parallel to $5x+7y-35=0$ and goes thr
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Geometry/Coordinate Geometry 3|Coordinate Geometry 3]]
+> - **Next QOD:** [[Math/Geometry/Coordinate Geometry 5|Coordinate Geometry 5]]
+<!-- QOD-WEB-PRACTICE-END -->

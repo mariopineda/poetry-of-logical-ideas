@@ -18,12 +18,15 @@ Consider a circle with five points marked on the circumference.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Fundamental Counting Principle]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Combinatorics/Combinations 2|Combinations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

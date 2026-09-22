@@ -85,16 +85,17 @@ Use your graphing calculator. Use the calculator's stored regression equation fo
 >
 > where $s$ is measured in km/h and $d$ is measured in metres.
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 23 — Cycling Record|Polynomial Functions 23 — Cycling Record]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon|Polynomial Functions 25 — Inflating a Balloon]]
+<!-- QOD-WEB-PRACTICE-END -->

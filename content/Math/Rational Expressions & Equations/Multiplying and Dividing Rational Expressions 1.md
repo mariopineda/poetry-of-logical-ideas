@@ -32,17 +32,17 @@ $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 > > https://www.youtube.com/embed/he2D6hXzL7g
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Prime Factorization]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2|Multiplying and Dividing Rational Expressions 2]]
+<!-- QOD-WEB-PRACTICE-END -->

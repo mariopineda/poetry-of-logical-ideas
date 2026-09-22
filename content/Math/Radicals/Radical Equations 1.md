@@ -20,13 +20,10 @@ Solve $x-2 = \sqrt{2x-3}+1$
 > > https://www.youtube.com/embed/Mv9_YLlG8Tw
 >
 
-## Review First
-
-- [[Radicals]]
-
-## Explore Also
-
-- [[Radical Multiplication and Division Worksheet]]
-- [[Rational Expressions & Equations]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> _None listed._

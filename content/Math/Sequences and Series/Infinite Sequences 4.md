@@ -31,18 +31,19 @@ $$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
 > > https://www.youtube.com/embed/OBdi9UbVMos
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
 
-- [[Characteristics of Polynomial Functions]]
-- [[Rational Expressions & Equations]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Higher Degree Polynomial Functions]]
-- [[Mind-Bending Facts About Infinity]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Mathematical Proof]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Sequences and Series/Infinite Sequences 3|Infinite Sequences 3]]
+> - **Next QOD:** [[Math/Sequences and Series/Infinite Sequences 5|Infinite Sequences 5]]
+<!-- QOD-WEB-PRACTICE-END -->

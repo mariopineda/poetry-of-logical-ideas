@@ -22,16 +22,17 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Proportional Reasoning]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Mathematical Proof]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 4|Unit Circle and Trigonometric Ratios 4]]
+> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 6|Unit Circle and Trigonometric Ratios 6]]
+<!-- QOD-WEB-PRACTICE-END -->

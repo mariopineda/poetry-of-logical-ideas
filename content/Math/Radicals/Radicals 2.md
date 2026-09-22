@@ -31,15 +31,15 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 > ...
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Radicals]]
-- [[Radical Multiplication and Division Worksheet]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Radicals/Radicals 1|Radicals 1]]
+<!-- QOD-WEB-PRACTICE-END -->

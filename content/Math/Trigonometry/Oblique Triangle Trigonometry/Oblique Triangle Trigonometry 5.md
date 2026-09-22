@@ -26,10 +26,14 @@ The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=
 > Find $\angle B$: $\displaystyle\frac{\sin(B)}{20.5} = \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\sin(B) = 20.5 \times \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\angle B = 70.16\ldots \approx 70^{\circ}$
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4|Oblique Triangle Trigonometry 4]]
+<!-- QOD-WEB-PRACTICE-END -->

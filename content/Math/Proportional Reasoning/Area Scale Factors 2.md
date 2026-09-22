@@ -19,12 +19,15 @@ The area of the province of Alberta is approximately 661850 $\text{km}^2$. On a 
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Proportional Reasoning]]
-- [[Radicals]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
+<!-- QOD-WEB-PRACTICE-END -->

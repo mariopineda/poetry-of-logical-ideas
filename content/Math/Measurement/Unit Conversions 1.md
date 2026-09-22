@@ -23,12 +23,15 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Measurement/Unit Conversions 2|Unit Conversions 2]]
+<!-- QOD-WEB-PRACTICE-END -->

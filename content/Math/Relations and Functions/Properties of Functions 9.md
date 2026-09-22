@@ -18,16 +18,17 @@ For $f(x)=1-2x$, determine (in simplfied form):
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Properties of Functions 8|Properties of Functions 8]]
+> - **Next QOD:** [[Math/Relations and Functions/Properties of Functions 10|Properties of Functions 10]]
+<!-- QOD-WEB-PRACTICE-END -->

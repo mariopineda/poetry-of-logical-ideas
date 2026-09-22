@@ -47,16 +47,11 @@ Differentiate $\cos x$ using first principles.
 > Thus, the derivative of $\cos(x)$ with respect to $x$ is $-\sin(x)$.
 >
 
-## Review First
-
-- [[Calculus]]
-- [[Transcendental Functions]]
-
-## Explore Also
-
-- [[Mathematical Proof]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Differential Equations with Initial Conditions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]

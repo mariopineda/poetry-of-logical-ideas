@@ -23,17 +23,18 @@ Evalue the following limits, if possible.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Rational Expressions & Equations]]
-- [[Difference of Squares]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Division by Zero]]
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Limits/Limits 13|Limits 13]]
+> - **Next QOD:** [[Math/Calculus/Limits/Limits 15|Limits 15]]
+<!-- QOD-WEB-PRACTICE-END -->

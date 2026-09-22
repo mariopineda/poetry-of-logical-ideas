@@ -74,15 +74,11 @@ Differentiate the following functions
 > Can be further simplified by factoring.
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Transcendental Functions]]
-- [[Rational Expressions & Equations]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

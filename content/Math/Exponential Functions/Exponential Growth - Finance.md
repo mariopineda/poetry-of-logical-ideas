@@ -27,14 +27,10 @@ b) How much will the bond be worth after 1 year?
 > 2. ,,,
 >
 
-## Review First
-
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Exponential Functions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]

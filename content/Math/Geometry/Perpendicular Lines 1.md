@@ -47,12 +47,9 @@ show_solution: false
 > The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
 >
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> _None listed._

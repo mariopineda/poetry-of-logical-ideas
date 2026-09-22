@@ -50,16 +50,12 @@ State the contextual domain and range in both **set-builder notation** and **int
 > - Set-builder notation: $\{V\in\mathbb{R}\mid 0<V<1000\}$
 > - Interval notation: $(0,1000)$
 
-## Review First
-
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Radicals]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Higher Degree Polynomial Functions]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]

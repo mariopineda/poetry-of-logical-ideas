@@ -27,16 +27,17 @@ Express the following rational expressions in simplest form. State the non-permi
 > > https://www.youtube.com/embed/JkEJBOs7bg0
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
 
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Characteristics of Polynomial Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
+<!-- QOD-WEB-PRACTICE-END -->

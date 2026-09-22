@@ -21,15 +21,16 @@ Use exponent laws to simplify the following:
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
 
-- [[Radicals]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-- [[Prime Factorization]]
-
-## Build Toward
-
-- [[Exponential Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 6|Function Notation 6]]
+> - **Next QOD:** [[Math/Relations and Functions/Function Notation 8|Function Notation 8]]
+<!-- QOD-WEB-PRACTICE-END -->

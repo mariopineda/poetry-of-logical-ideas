@@ -22,16 +22,17 @@ An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-- [[Set Theory]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Characteristics of Polynomial Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 4|Linear Relations 4]]
+> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 6|Linear Relations 6]]
+<!-- QOD-WEB-PRACTICE-END -->

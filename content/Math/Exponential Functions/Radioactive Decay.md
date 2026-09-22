@@ -107,16 +107,11 @@ Answer the following questions using exponential decay models:
 > 108Ã¢â‚¬â€°yearsÃ‚Â afterÃ‚Â 1986or2094\boxed{108 \, \text{years after 1986}} \quad \text{or} \quad \boxed{2094}
 >
 
-## Review First
-
-- [[Exponential Functions]]
-
-## Explore Also
-
-- [[Graphs of Logarithmic Functions]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Differential Equations with Initial Conditions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]

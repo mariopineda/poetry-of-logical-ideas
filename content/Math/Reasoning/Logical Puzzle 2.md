@@ -21,15 +21,17 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Parity|Parity]]
+> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Reasoning]]
-
-## Explore Also
-
-- [[Parity]]
-- [[Diagonal]]
-- [[Mathematical Proof]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Reasoning/Logical Puzzle 1|Logical Puzzle 1]]
+<!-- QOD-WEB-PRACTICE-END -->

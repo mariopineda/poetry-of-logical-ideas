@@ -111,14 +111,16 @@ Use a graphing calculator.
 > > [!note]
 > > A regression equation is a model of the trend in the observed data. It does not imply that the relationship will continue unchanged outside the data set.
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Higher Degree Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions|Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]
+<!-- QOD-WEB-PRACTICE-END -->

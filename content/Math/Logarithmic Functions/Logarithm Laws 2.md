@@ -24,16 +24,16 @@ Write each expression as a single logarithm and then evaluate the expression
 > > https://www.youtube.com/embed/VdMRDSgi8IM
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
 
-- [[Exponential Functions]]
-- [[Arithmetic]]
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Graphs of Logarithmic Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
+<!-- QOD-WEB-PRACTICE-END -->

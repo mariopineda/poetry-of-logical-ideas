@@ -112,16 +112,17 @@ Use your graphing calculator as needed.
 > which represents a monthly result from a **\$14,000 loss** to an **\$18,000 profit**.
   - "[[Polynomial Functions 19 — Soccer Ball]]"
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Characteristics of Polynomial Functions]]
-- [[Zero Product Theorem]]
-
-## Explore Also
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+<!-- QOD-WEB-PRACTICE-END -->

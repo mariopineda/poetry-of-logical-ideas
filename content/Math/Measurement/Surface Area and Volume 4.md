@@ -31,11 +31,15 @@ A manufacturer is designing a new cylindrial paint can with a diameter of 20 cm.
 > $$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
+> - **Next QOD:** [[Math/Measurement/Surface Area and Volume 5|Surface Area and Volume 5]]
+<!-- QOD-WEB-PRACTICE-END -->

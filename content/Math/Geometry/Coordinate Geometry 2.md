@@ -16,14 +16,15 @@ Determine the equation of the straight line that goes through the points $C(-6,5
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-- [[Reasoning]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Geometry/Coordinate Geometry 3|Coordinate Geometry 3]]
+<!-- QOD-WEB-PRACTICE-END -->

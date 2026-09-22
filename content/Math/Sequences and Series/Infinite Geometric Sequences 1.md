@@ -19,11 +19,14 @@ Evaluate $\sum\_{n=3}^{9} 8$
 > > https://www.youtube.com/embed/PEKkgRjVEqc
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
+<!-- QOD-WEB-PRACTICE-END -->

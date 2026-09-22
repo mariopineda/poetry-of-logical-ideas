@@ -15,15 +15,16 @@ The area of an equilatral triangle is decreasing at a rate of 12 cm$^2$/s. Find 
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
 
-- [[Calculus]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-- [[Radicals]]
-
-## Build Toward
-
-- [[Antiderivative]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 1|Related Rates 1]]
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 3|Related Rates 3]]
+<!-- QOD-WEB-PRACTICE-END -->

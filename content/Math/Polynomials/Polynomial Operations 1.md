@@ -38,17 +38,17 @@ Simplify and express in descending order of power:
 > \]
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Arithmetic]]
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Factoring Polynomials Work Sheet - Easy]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Polynomials/Polynomial Operations 2|Polynomial Operations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

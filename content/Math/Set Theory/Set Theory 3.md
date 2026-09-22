@@ -22,12 +22,15 @@ Consider the set of prime numbers less than 20. Let $A=\{3,5,7,11,19 \}$ and $B=
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Symmetric Difference|Symmetric Difference]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-- [[Symmetric Difference]]
-- [[Mathematical Proof]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Set Theory/Set Theory 2|Set Theory 2]]
+<!-- QOD-WEB-PRACTICE-END -->

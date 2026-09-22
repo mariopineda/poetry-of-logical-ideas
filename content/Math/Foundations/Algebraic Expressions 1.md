@@ -103,15 +103,10 @@ Evaluate without a calculator:
 > $$
 >
 
-## Review First
-
-- [[Arithmetic]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Polynomials]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]

@@ -65,17 +65,17 @@ show_solution: false
 > Since $\mbox{height} > \mbox{length} > \mbox{width}$, $\mbox{height}=5x$, $\mbox{length}=(2x+3)$ and $\mbox{width}=(x-4)$.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Difference of Squares]]
-- [[Zero Product Theorem]]
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Higher Degree Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -20,13 +20,9 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 
 > [!example]- Show solution
 
-## Review First
-
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

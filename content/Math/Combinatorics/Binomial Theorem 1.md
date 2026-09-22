@@ -20,16 +20,11 @@ Determine:
 
 > [!example]- Show solution
 
-## Review First
-
-- [[Combinations]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Square of a Binomial]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Higher Degree Polynomial Functions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]

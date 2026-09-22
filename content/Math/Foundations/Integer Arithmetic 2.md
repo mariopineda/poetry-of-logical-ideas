@@ -18,11 +18,15 @@ Evaluate without a calculator:
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Foundations/Integer Arithmetic 1|Integer Arithmetic 1]]
+> - **Next QOD:** [[Math/Foundations/Integer Arithmetic 3|Integer Arithmetic 3]]
+<!-- QOD-WEB-PRACTICE-END -->

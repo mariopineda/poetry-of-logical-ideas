@@ -21,17 +21,17 @@ Without using a calculator, determine the exact value of the following.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
 
-- [[Arithmetic]]
-- [[Radicals]]
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-
-## Build Toward
-
-- [[Exponential Functions]]
-- [[Graphs of Logarithmic Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+<!-- QOD-WEB-PRACTICE-END -->

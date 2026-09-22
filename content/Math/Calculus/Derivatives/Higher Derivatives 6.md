@@ -23,15 +23,15 @@ $$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Higher Derivatives 5|Higher Derivatives 5]]
+<!-- QOD-WEB-PRACTICE-END -->

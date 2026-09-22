@@ -19,16 +19,17 @@ Solve $x \leq \frac{12}{x+1}$. Answer in interval notation.
 > > https://www.youtube.com/embed/dVoJVUJ_xHg
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Rational Expressions & Equations]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Zero Product Theorem]]
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Inequalities/Inequalities 6|Inequalities 6]]
+> - **Next QOD:** [[Math/Inequalities/Inequalities 8|Inequalities 8]]
+<!-- QOD-WEB-PRACTICE-END -->

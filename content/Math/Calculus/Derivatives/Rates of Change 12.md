@@ -33,14 +33,15 @@ show_solution: false
 > ![[Images/Legacy/rateofchange2.png]]
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Rates of Change 11|Rates of Change 11]]
+<!-- QOD-WEB-PRACTICE-END -->

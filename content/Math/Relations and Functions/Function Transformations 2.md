@@ -24,20 +24,21 @@ Roughly sketch.
 > > https://www.youtube.com/embed/oSRw7H01FhA
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Concepts|Concepts]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
 
-- [[Concepts]]
-- [[Characteristics of Polynomial Functions]]
-- [[Radicals]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Higher Degree Polynomial Functions]]
-- [[Division by Zero]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Antiderivative]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - **Next QOD:** [[Math/Relations and Functions/Function Transformations 3|Function Transformations 3]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -27,10 +27,14 @@ Describe a possible scenario for the graphs given below.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Representing Relations 8|Representing Relations 8]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -19,13 +19,9 @@ Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq
 > > https://www.youtube.com/embed/t0fnuhPF7QM
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

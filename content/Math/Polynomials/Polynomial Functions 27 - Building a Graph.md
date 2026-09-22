@@ -71,16 +71,17 @@ No calculator is required.
 >
 > Both ends extend downward. The turning point $(1,4)$ is an **absolute maximum** because $4$ is the greatest $y$-value anywhere on the graph.
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Higher Degree Polynomial Functions]]
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
+<!-- QOD-WEB-PRACTICE-END -->

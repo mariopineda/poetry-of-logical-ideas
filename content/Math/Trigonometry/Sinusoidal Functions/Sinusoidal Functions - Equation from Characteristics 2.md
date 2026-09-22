@@ -79,12 +79,15 @@ Show how you determined the values of $a$, $b$, and $d$.
 > \boxed{y=3\sin\left(\frac{\pi}{4}x\right)+4}.
 > $$
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 1|Sinusoidal Functions - Equation from Characteristics 1]]
+> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 3|Sinusoidal Functions - Equation from Characteristics 3]]
+<!-- QOD-WEB-PRACTICE-END -->

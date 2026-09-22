@@ -41,15 +41,16 @@ For each of the following table of values, express the relationship
 > ## Solution
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Exponential Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Representing Relations 5|Representing Relations 5]]
+> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 7|Representing Relations 7]]
+<!-- QOD-WEB-PRACTICE-END -->

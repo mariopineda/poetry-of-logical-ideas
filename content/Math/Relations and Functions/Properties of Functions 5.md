@@ -20,16 +20,17 @@ If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-- [[Substitution Rule]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Properties of Functions 4|Properties of Functions 4]]
+> - **Next QOD:** [[Math/Relations and Functions/Properties of Functions 6|Properties of Functions 6]]
+<!-- QOD-WEB-PRACTICE-END -->

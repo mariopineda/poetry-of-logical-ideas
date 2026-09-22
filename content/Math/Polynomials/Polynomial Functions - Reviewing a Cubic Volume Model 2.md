@@ -122,16 +122,17 @@ A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm
 > - Set-builder notation: $\{V\in\mathbb{R}\mid240\le V\le819\}$
 > - Interval notation: $[240,819]$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Higher Degree Polynomial Functions]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1|Polynomial Functions - Reviewing a Cubic Volume Model 1]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]
+<!-- QOD-WEB-PRACTICE-END -->

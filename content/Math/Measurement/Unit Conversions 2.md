@@ -23,12 +23,16 @@ Convert the following unit as indicated using unit analysis. Provide all decimal
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
+> - **Next QOD:** [[Math/Measurement/Unit Conversions 3|Unit Conversions 3]]
+<!-- QOD-WEB-PRACTICE-END -->

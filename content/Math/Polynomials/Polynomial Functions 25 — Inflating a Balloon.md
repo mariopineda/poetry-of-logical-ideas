@@ -87,16 +87,17 @@ Use your graphing calculator.
   - "[[Polynomial Functions 21 — Hiking Trail]]"
   - [[Math/QOD Question Bank/Polynomials/Polynomial Functions 24 — Stopping Distance]]]"
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance|Polynomial Functions 24 — Stopping Distance]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+<!-- QOD-WEB-PRACTICE-END -->

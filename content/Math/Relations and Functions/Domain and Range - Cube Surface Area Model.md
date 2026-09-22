@@ -68,14 +68,10 @@ where $s$ is the edge length in units and $A$ is the surface area in square unit
 > A=6(9)^2=486.
 > $$
 
-## Review First
-
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]

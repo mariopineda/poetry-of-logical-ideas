@@ -34,14 +34,10 @@ For $f(x)=\sin(7x)$ find $f^{(101)}(x)$.
 >  $$
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Calculus]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]

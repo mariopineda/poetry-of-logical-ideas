@@ -32,13 +32,16 @@ $$\frac{r+8}{8r} \div (64-r^2)$$
 > > https://www.youtube.com/embed/zIbIiRP7gBM
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Rational Expressions & Equations]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Difference of Squares]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 3|Multiplying and Dividing Rational Expressions 3]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 5|Multiplying and Dividing Rational Expressions 5]]
+<!-- QOD-WEB-PRACTICE-END -->

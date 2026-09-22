@@ -40,14 +40,10 @@ State the contextual domain and range in both **set-builder notation** and **int
 > - Set-builder notation: $\{v\in\mathbb{R}\mid v\ge0\}$
 > - Interval notation: $[0,\infty)$
 
-## Review First
-
-- [[Radicals]]
-- [[Set Theory]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

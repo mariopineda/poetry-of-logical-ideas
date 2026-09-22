@@ -61,16 +61,16 @@ $$
 > (-\infty,\infty).
 > $$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 2|Polynomial Functions - Matching Equations and Graphs 2]]
+<!-- QOD-WEB-PRACTICE-END -->

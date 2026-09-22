@@ -22,15 +22,15 @@ Simplify the following rational expressions.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Difference of Squares]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -42,13 +42,15 @@ $$
 > \boxed{80,\ 160}
 > $$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Exponential Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
+> - **Next QOD:** [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]
+<!-- QOD-WEB-PRACTICE-END -->

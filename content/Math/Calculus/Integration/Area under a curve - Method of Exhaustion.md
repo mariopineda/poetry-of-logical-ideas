@@ -15,13 +15,10 @@ Use the [[Method of Exhaustion]] to estimate the area, to the nearest hundredth,
 
 > [!example]- Show solution
 
-## Review First
-
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

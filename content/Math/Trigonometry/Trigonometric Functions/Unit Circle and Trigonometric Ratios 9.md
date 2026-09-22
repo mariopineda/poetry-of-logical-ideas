@@ -18,12 +18,15 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 8|Unit Circle and Trigonometric Ratios 8]]
+> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 10|Unit Circle and Trigonometric Ratios 10]]
+<!-- QOD-WEB-PRACTICE-END -->

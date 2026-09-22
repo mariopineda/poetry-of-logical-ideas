@@ -27,14 +27,16 @@ Determine the infinite sum (in terms of $x$).
 > > https://www.youtube.com/embed/CiJhWgSn6hA
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Exponential Functions]]
-- [[Rational Expressions & Equations]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
+> - **Next QOD:** [[Math/Sequences and Series/Infinite Geometric Sequences 4|Infinite Geometric Sequences 4]]
+<!-- QOD-WEB-PRACTICE-END -->

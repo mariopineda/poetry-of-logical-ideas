@@ -20,14 +20,15 @@ For the linear function $32x+12y-19=0$, if $x$ decreases by 2, how does $y$ chan
 > > https://www.youtube.com/embed/jPX_3Wh_76Q
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Derivatives/Rates of Change 2|Rates of Change 2]]
+<!-- QOD-WEB-PRACTICE-END -->

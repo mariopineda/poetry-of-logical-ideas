@@ -29,16 +29,16 @@ If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the follo
 > 5. $h(-1)=9.8(-1)^2-2(-1)+2 \Rightarrow h(-1)=14.8$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Polynomials]]
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -19,14 +19,15 @@ A person's height can be estimated using the fact that height and the length of 
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 7|Linear Relations 7]]
+> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 9|Linear Relations 9]]
+<!-- QOD-WEB-PRACTICE-END -->

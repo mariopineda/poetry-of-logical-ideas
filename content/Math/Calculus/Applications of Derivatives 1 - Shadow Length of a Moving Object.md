@@ -74,12 +74,9 @@ A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is
 > Therefore, at $t=5$ seconds, the length of the shadow is approximately 1.15 meters, and it is increasing at a rate of approximately 0.23 meters per second.
 >
 
-## Review First
-
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-- [[Calculus]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!success] Build Toward
+> _None listed._

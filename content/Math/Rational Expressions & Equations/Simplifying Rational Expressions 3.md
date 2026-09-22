@@ -25,16 +25,17 @@ Express the following rational expressions in simplest form, stating the non-per
 > > https://www.youtube.com/embed/HjhknWP0o60
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Prime Factorization]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+<!-- QOD-WEB-PRACTICE-END -->

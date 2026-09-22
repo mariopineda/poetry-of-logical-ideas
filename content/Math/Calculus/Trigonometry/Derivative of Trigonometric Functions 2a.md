@@ -38,17 +38,12 @@ Find the 27th derivative of $\cos x$. Bonus points for solutions avoiding a brut
 > So, the 27th derivative of $\cos(x)$ is $\sin(x)$.
 >
 
-## Review First
-
-- [[Calculus]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Transcendental Functions]]
-- [[Mathematical Proof]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Differential Equations with Initial Conditions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]

@@ -16,15 +16,10 @@ show_solution: false
 
 > [!example]- Show solution
 
-## Review First
-
-- [[Reasoning]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Set Theory]]
-
-## Build Toward
-
-- [[Mathematical Proof]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]

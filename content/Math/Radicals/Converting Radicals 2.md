@@ -31,13 +31,15 @@ $4\sqrt{3}$, $3\sqrt{5}$, $5\sqrt{2}$, $2\sqrt{10}$, $2\sqrt{13}$, $3\sqrt{6}$
 > Rewrite sorted order using original radicals: $2\sqrt{10}$, $3\sqrt{5}$, $4\sqrt{3}$, $5\sqrt{2}$, $2\sqrt{13}$, $3\sqrt{6}$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Mathematical Proof]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]
+<!-- QOD-WEB-PRACTICE-END -->

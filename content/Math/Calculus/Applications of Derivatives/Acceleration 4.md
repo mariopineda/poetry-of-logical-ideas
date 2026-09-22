@@ -27,16 +27,16 @@ Determine the position when the acceleration is 34 km/h^{2} North.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
 
-- [[Calculus]]
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Differential Equations with Initial Conditions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Acceleration 3|Acceleration 3]]
+<!-- QOD-WEB-PRACTICE-END -->

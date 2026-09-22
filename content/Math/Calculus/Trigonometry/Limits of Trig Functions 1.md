@@ -35,15 +35,11 @@ Calculate $\displaystyle \lim_{x \to 0} x \cot x$.
 > $$
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Transcendental Functions]]
-- [[Rational Expressions & Equations]]
-- [[Mathematical Proof]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

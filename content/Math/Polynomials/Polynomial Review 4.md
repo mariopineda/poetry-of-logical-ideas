@@ -70,15 +70,16 @@ show_solution: false
 > Hence $AB = b+2$.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
 
-- [[Polynomials]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Factoring Polynomials Work Sheet - Easy]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Review 3|Polynomial Review 3]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Review 5|Polynomial Review 5]]
+<!-- QOD-WEB-PRACTICE-END -->

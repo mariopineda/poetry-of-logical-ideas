@@ -51,16 +51,11 @@ State the domain and range of each function in both **set-builder notation** and
 > - Set-builder notation: $\{y\in\mathbb{R}\mid y\ge0\}$
 > - Interval notation: $[0,\infty)$
 
-## Review First
-
-- [[Division by Zero]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

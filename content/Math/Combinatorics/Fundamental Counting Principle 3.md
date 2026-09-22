@@ -64,17 +64,18 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 > $3 + 2 + 6 = 11$ routes
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
 
-- [[Fundamental Counting Principle]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Set Theory]]
-
-## Build Toward
-
-- [[Permutations with Identical Objects]]
-- [[Combinations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
+> - **Next QOD:** [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -27,18 +27,19 @@ $$h(x) = \frac{1}{\sqrt[9]{x^4}}$$
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Radicals]]
-- [[Rational Expressions & Equations]]
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Exponential Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Basic Derivatives 10|Basic Derivatives 10]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Basic Derivatives 12|Basic Derivatives 12]]
+<!-- QOD-WEB-PRACTICE-END -->

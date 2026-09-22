@@ -27,14 +27,15 @@ A high school student having a summer job as a sales person at a bicycle store i
 > > [Global News (June 26, 2019) Lower minimum wage for Alberta youth takes effect Wednesday](https://globalnews.ca/news/5434502/lower-minimum-wage-alberta-youth/)
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 10|Function Notation 10]]
+> - **Next QOD:** [[Math/Relations and Functions/Function Notation 12|Function Notation 12]]
+<!-- QOD-WEB-PRACTICE-END -->

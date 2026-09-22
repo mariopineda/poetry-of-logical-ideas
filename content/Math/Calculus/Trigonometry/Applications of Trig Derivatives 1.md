@@ -47,15 +47,16 @@ A beacon at a lighthouse, located a perpendicular distance of 315 m from point R
 > Thus when the beam is 425 m from point R it is sweeping along the shore at at approximately 5580 m/min.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
 
-- [[Calculus]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Substitution Rule]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -15,12 +15,15 @@ A tangent line is perpendicular to $3x+2y-8=0$ and it has a y-intercept of 5. De
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Rates of Change 9|Rates of Change 9]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Rates of Change 11|Rates of Change 11]]
+<!-- QOD-WEB-PRACTICE-END -->

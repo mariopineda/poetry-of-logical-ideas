@@ -40,11 +40,15 @@ show_solution: false
 > \end{array}
 > \]
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
+> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
+<!-- QOD-WEB-PRACTICE-END -->

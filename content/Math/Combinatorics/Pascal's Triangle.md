@@ -16,15 +16,10 @@ Complete the white triangles in the following row from Pascal's Triangle.
 
 > [!example]- Show solution
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Diagonal]]
-
-## Build Toward
-
-- [[Combinations]]
-- [[Combinatorics]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]

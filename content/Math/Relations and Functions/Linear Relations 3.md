@@ -19,13 +19,16 @@ Given the x-value, algebraically determine the corresponding y-value for the fol
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Substitution Rule]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 2|Linear Relations 2]]
+> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 4|Linear Relations 4]]
+<!-- QOD-WEB-PRACTICE-END -->

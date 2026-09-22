@@ -21,15 +21,16 @@ Simplify:
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Radicals]]
-
-## Build Toward
-
-- [[Exponential Functions]]
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - **Next QOD:** [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]
+<!-- QOD-WEB-PRACTICE-END -->

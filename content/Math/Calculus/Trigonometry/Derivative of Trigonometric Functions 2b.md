@@ -47,16 +47,12 @@ For $f(x)=\sin x$ find $f^{(101)}(x)$.
 > So, the 101st derivative of \(f(x) = \sin(x)\) is \(-\cos(x)\).
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Calculus]]
-- [[Arithmetic]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Differential Equations with Initial Conditions]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]

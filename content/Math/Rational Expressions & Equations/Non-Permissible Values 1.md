@@ -23,12 +23,9 @@ In each case, write a rational expression with the given variable and non-permis
 > > https://www.youtube.com/embed/KciyRpeEqnU
 >
 
-## Review First
-
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> _None listed._

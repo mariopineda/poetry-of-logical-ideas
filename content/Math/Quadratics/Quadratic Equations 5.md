@@ -21,17 +21,18 @@ The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
 
-- [[Radicals]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Zero Product Theorem]]
-
-## Build Toward
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Higher Degree Polynomial Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Quadratics/Quadratic Equations 4|Quadratic Equations 4]]
+> - **Next QOD:** [[Math/Quadratics/Quadratic Equations 6|Quadratic Equations 6]]
+<!-- QOD-WEB-PRACTICE-END -->

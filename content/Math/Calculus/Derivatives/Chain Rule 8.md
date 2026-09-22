@@ -23,18 +23,19 @@ $$h(t) = \frac{-2}{\sqrt{16-t^4}} $$
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Polynomials]]
-- [[Radicals]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Substitution Rule]]
-- [[u-Substitution]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Chain Rule 7|Chain Rule 7]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Chain Rule 9|Chain Rule 9]]
+<!-- QOD-WEB-PRACTICE-END -->

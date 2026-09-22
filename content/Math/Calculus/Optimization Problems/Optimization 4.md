@@ -15,11 +15,15 @@ Boat A is located D km due South of boat B. Boat A moves North at $v\_A$ km/h, w
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Calculus]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Optimization Problems/Optimization 3|Optimization 3]]
+> - **Next QOD:** [[Math/Calculus/Optimization Problems/Optimization 5|Optimization 5]]
+<!-- QOD-WEB-PRACTICE-END -->

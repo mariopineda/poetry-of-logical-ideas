@@ -26,15 +26,15 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 > > https://www.youtube.com/embed/kjbk1jn4zVU
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2|Adding and Subtracting Rational Expressions 2]]
+<!-- QOD-WEB-PRACTICE-END -->

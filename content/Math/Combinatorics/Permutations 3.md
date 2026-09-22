@@ -17,13 +17,16 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Combinations]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Fundamental Counting Principle]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - **Next QOD:** [[Math/Combinatorics/Permutations 4|Permutations 4]]
+<!-- QOD-WEB-PRACTICE-END -->

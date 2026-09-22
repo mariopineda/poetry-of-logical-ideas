@@ -27,12 +27,10 @@ Due to human caused global warming glaciers in the Rocky Mountains have been shr
 > > [Kelowna Daily Courier (2019)](http://www.kelownadailycourier.ca/opinion/article_b5af49f0-b7d6-11e9-85e8-2b3fdc7116ac.html)
 >
 
-## Review First
-
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._

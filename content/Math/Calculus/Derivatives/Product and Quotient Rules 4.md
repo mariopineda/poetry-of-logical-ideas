@@ -19,11 +19,15 @@ If $f(4)=2$, $f'(4)=3$, $g(4)=-2$, and $g'(4)=7$, then evaluate $(fg)'(4)$.
 > > https://www.youtube.com/embed/KDIavN3exHQa
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Calculus]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Product and Quotient Rules 3|Product and Quotient Rules 3]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Product and Quotient Rules 5|Product and Quotient Rules 5]]
+<!-- QOD-WEB-PRACTICE-END -->

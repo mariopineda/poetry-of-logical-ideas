@@ -30,15 +30,10 @@ Evaluate...
 > 4. $\displaystyle \int_0^1 \frac{1}{x^2+1} \, dx = \tan^{-1} x \Bigr]_0^1 = \tan^{-1} 1 - \tan^{-1} 0 =\frac{\pi}{4} - 0 = \frac{\pi}{4}$
 >
 
-## Review First
-
-- [[Antiderivative]]
-
-## Explore Also
-
-- [[Calculus]]
-- [[u-Substitution]]
-
-## Build Toward
-
-- [[Differential Equations with Initial Conditions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]

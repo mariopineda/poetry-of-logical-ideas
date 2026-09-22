@@ -32,13 +32,9 @@ Evaluate without a calculator and express in lowest terms.
 >    $$ = \frac{12}{6} + \frac{15}{6} + \frac{2}{6} = \frac{29}{6}$$
 >
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]

@@ -33,10 +33,9 @@ Determine the degree measure of the angles marked by letters.
 > - Determine $b$: $a+b+c=180^{\circ} \Rightarrow b=33^{\circ}$ (Same side interior angles)
 >
 
-## Review First
-
-
-## Explore Also
-
-
-## Build Toward
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._

@@ -35,15 +35,16 @@ Find $F(x)$ such that $F'(x) = f(x)$.
 > 9. $f(x) = \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \Rightarrow F(x) = \int \frac{\displaystyle 3}{\displaystyle \sqrt{x}} \, dx = \int 3x^{-\frac{1}{2}} \, dx = 3 \cdot \frac{\displaystyle x^{\frac{1}{2}}}{\frac{1}{2}} + C = 6x^{\frac{1}{2}} + C = 6\sqrt{x} + C$
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
 
-
-## Explore Also
-
-- [[Calculus]]
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Substitution Rule]]
-- [[Differential Equations with Initial Conditions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Integration/Antiderivative 2|Antiderivative 2]]
+<!-- QOD-WEB-PRACTICE-END -->

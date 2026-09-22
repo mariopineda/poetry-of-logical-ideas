@@ -22,17 +22,18 @@ Use exponent laws to simplify the following:
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
 
-- [[Arithmetic]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Exponential Functions]]
-- [[Radicals]]
-
-## Build Toward
-
-- [[Graphs of Logarithmic Functions]]
-- [[Transcendental Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - **Next QOD:** [[Math/Exponential Functions/Exponent Laws 4|Exponent Laws 4]]
+<!-- QOD-WEB-PRACTICE-END -->

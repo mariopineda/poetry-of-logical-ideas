@@ -15,13 +15,15 @@ Find the equation of a since function with an amplitude of 3, period of $\frac{\
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1|Sinusoidal Function Transformations 1]]
+> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]
+<!-- QOD-WEB-PRACTICE-END -->

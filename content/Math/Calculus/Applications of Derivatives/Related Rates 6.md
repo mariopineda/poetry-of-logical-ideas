@@ -19,12 +19,15 @@ A circular ring is heated so that it expands. If the rate of increase of the rad
 > > https://www.youtube.com/embed/g96Qbv8a9Fs
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Calculus]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 5|Related Rates 5]]
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 7|Related Rates 7]]
+<!-- QOD-WEB-PRACTICE-END -->

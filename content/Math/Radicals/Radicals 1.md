@@ -37,13 +37,15 @@ Convert the following radicals to mixed radicals in simplest form.
 > ...
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Radical Multiplication and Division Worksheet]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Radicals/Radicals 2|Radicals 2]]
+<!-- QOD-WEB-PRACTICE-END -->

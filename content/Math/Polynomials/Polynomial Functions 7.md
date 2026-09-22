@@ -42,15 +42,16 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 >
 > ### E.
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Characteristics of Polynomial Functions]]
-
-## Explore Also
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 8|Polynomial Functions 8]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -27,17 +27,18 @@ x^2-2 & \mbox{, if } x<0 \\
 > > https://www.youtube.com/embed/0xF4Xw1DxIk
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Concepts|Concepts]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Constant Polynomial Functions|Constant Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Concepts]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Constant Polynomial Functions]]
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Limits/Limits 4|Limits 4]]
+> - **Next QOD:** [[Math/Calculus/Limits/Limits 6|Limits 6]]
+<!-- QOD-WEB-PRACTICE-END -->

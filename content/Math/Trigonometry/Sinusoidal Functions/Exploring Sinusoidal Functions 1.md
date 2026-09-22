@@ -23,13 +23,9 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 > > https://www.youtube.com/embed/1an_9UMWEjU
 >
 
-## Review First
-
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

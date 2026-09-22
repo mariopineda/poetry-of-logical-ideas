@@ -42,15 +42,10 @@ Differentiate $\tan x$ using first principles.
 > ![](https://youtu.be/JDJfmMqaDvE?si=ikvmpvdDIzYmuP6u)
 >
 
-## Review First
-
-- [[Transcendental Functions]]
-
-## Explore Also
-
-- [[Calculus]]
-- [[Mathematical Proof]]
-
-## Build Toward
-
-- [[Antiderivative]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]

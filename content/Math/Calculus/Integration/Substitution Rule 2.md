@@ -25,14 +25,16 @@ Evaluate the following integrals using the substitution rule.
 > 4. For $\displaystyle \int \frac{\sin x}{\cos^3 x} \, dx$ let $u=\cos x$, then $-du=\sin x \, dx$. So the integral becomes $\displaystyle \int \frac{-du}{u^3} = -\int u^{-3} \, du = \frac{\displaystyle -u^{-2}}{\displaystyle -2} + C = \frac{1}{2\cos^2 x} + C$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Antiderivative]]
-- [[Substitution Rule]]
-
-## Explore Also
-
-- [[u-Substitution]]
-- [[Calculus]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Integration/Substitution Rule 1|Substitution Rule 1]]
+<!-- QOD-WEB-PRACTICE-END -->

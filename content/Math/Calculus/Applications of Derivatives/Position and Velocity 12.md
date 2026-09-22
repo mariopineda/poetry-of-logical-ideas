@@ -33,16 +33,17 @@ Sketch a single continuous position-time function with the following features, l
 > > https://www.youtube.com/embed/aVE3pw9Io5g
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
 
-- [[Calculus]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Differential Equations with Initial Conditions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Position and Velocity 11|Position and Velocity 11]]
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Position and Velocity 13|Position and Velocity 13]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -44,14 +44,17 @@ Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 > Thus, the solution to the equation $\binom{n}{7} = \binom{n+1}{8}$ is $n = 7$.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Combinations]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Fundamental Counting Principle]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Combinations 1|Combinations 1]]
+> - **Next QOD:** [[Math/Combinatorics/Combinations 3|Combinations 3]]
+<!-- QOD-WEB-PRACTICE-END -->

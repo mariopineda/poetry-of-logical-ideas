@@ -42,10 +42,15 @@ For the following table of values, express the relationship
 > > [Howard & Sterner (2017)](https://link.springer.com/article/10.1007%2Fs10640-017-0166-z)
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
+> - **Next QOD:** [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
+<!-- QOD-WEB-PRACTICE-END -->

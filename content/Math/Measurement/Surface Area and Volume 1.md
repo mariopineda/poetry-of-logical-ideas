@@ -34,14 +34,15 @@ The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sher
 > ### C.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Proportional Reasoning]]
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Measurement/Surface Area and Volume 2|Surface Area and Volume 2]]
+<!-- QOD-WEB-PRACTICE-END -->

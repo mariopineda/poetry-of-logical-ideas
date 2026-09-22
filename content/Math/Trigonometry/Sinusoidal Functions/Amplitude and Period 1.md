@@ -26,13 +26,14 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 > > https://www.youtube.com/embed/ldmDtKEdqXk
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 2|Amplitude and Period 2]]
+<!-- QOD-WEB-PRACTICE-END -->

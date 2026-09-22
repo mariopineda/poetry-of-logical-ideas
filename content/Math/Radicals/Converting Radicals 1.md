@@ -48,16 +48,16 @@ Express as an entire radical.
 > 4. $3\sqrt[3]{-2}$ $=\sqrt[3]{3^3}\sqrt[3]{-2}$ $=\sqrt[3]{27}\sqrt[3]{-2}$ $=\sqrt[3]{27(-2)}$ $=\sqrt[3]{-54}$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Radical Multiplication and Division Worksheet]]
-- [[Arithmetic]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
+<!-- QOD-WEB-PRACTICE-END -->

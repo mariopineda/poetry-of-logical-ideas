@@ -28,15 +28,17 @@ $$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
 > > https://www.youtube.com/embed/-7_JFBTZOm0
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Arithmetic]]
-- [[Division by Zero]]
-- [[Factoring Polynomials Work Sheet - Easy]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 3|Adding and Subtracting Rational Expressions 3]]
+<!-- QOD-WEB-PRACTICE-END -->

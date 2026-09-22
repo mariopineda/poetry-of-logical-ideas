@@ -22,12 +22,14 @@ If set $R=\{x|x<7, x \in \mathbb{R}\}$ and set $T=\{x|x \geq -4, x \in \mathbb{R
 > > https://www.youtube.com/embed/CCB78pukpYw
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Symmetric Difference|Symmetric Difference]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Set Theory]]
-
-## Explore Also
-
-- [[Symmetric Difference]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Inequalities/Inequalities 2|Inequalities 2]]
+<!-- QOD-WEB-PRACTICE-END -->

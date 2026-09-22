@@ -22,14 +22,16 @@ Solve each. Answer in interval notation.
 > > https://www.youtube.com/embed/b9HyLVccqcg
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-
-## Explore Also
-
-- [[Radicals]]
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Inequalities/Inequalities 2|Inequalities 2]]
+> - **Next QOD:** [[Math/Inequalities/Inequalities 4|Inequalities 4]]
+<!-- QOD-WEB-PRACTICE-END -->

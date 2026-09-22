@@ -49,13 +49,15 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 > 6. $_4C_1 \times _4C_4 \times _{44}C_1$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Fundamental Counting Principle]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Set Theory]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Combinations 2|Combinations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

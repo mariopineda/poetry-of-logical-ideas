@@ -21,15 +21,15 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
 
-- [[Reasoning]]
-
-## Explore Also
-
-- [[Set Theory]]
-
-## Build Toward
-
-- [[Mathematical Proof]]
-- [[Combinatorics]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Reasoning/Logical Puzzle 2|Logical Puzzle 2]]
+<!-- QOD-WEB-PRACTICE-END -->

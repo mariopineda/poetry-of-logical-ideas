@@ -64,19 +64,19 @@ Evaluate and verify by differentiating the antiderivative.
 > $$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Integral House|Integral House]]
 
-- [[Antiderivative]]
-- [[u-Substitution]]
-- [[Exponential Functions]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Calculus]]
-- [[Transcendental Functions]]
-- [[Substitution Rule]]
-
-## Build Toward
-
-- [[Integral House]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+<!-- QOD-WEB-PRACTICE-END -->

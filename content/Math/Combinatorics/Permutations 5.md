@@ -22,14 +22,16 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Fundamental Counting Principle]]
-- [[Combinatorics]]
-
-## Explore Also
-
-- [[Permutations with Identical Objects]]
-- [[Combinations]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Permutations 4|Permutations 4]]
+<!-- QOD-WEB-PRACTICE-END -->

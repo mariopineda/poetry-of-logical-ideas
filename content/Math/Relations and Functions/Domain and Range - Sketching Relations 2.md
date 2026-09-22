@@ -33,10 +33,14 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > 3. The parabola $y=-x^2+2$ has domain $(-\infty,\infty)$ and range $(-\infty,2]$.
 > 4. The function $y=7.5\sin x+2.5$ has domain $(-\infty,\infty)$ and range $[-5,10]$.
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+<!-- QOD-WEB-PRACTICE-END -->

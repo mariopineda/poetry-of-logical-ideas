@@ -26,15 +26,16 @@ Write an equivalent form of the rational expression $\frac{2a+10}{10a-4}$
 > > https://www.youtube.com/embed/R8nOLVbTkUg
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Medium|Factoring Polynomials Work Sheet - Medium]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Factoring Polynomials Work Sheet - Medium]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+<!-- QOD-WEB-PRACTICE-END -->

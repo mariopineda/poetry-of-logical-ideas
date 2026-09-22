@@ -15,11 +15,15 @@ For the function $A(t) = \pi r^2 + 2 \pi rh$, determine $\frac{dA}{dt}$ if $t=t(
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Calculus]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 2|Implicit Differentiation 2]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 4|Implicit Differentiation 4]]
+<!-- QOD-WEB-PRACTICE-END -->

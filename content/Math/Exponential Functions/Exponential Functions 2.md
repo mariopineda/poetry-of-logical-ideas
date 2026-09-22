@@ -24,17 +24,17 @@ Solve for $x$
 > > https://www.youtube.com/embed/_WDp9GmFzPQ
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Exponential Functions]]
-- [[Radicals]]
-- [[Graphs of Logarithmic Functions]]
-
-## Build Toward
-
-- [[Transcendental Functions]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+<!-- QOD-WEB-PRACTICE-END -->

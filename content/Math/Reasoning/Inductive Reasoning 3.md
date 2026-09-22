@@ -35,15 +35,16 @@ $$123456789 \times 9 \times 3 = 3333333303$$
 > For example, $123456789 \times 9 \times 10 = 11111111010$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Parity|Parity]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
 
-- [[Arithmetic]]
-- [[Reasoning]]
-
-## Explore Also
-
-- [[Parity]]
-
-## Build Toward
-
-- [[Mathematical Proof]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
+> - **Next QOD:** [[Math/Reasoning/Inductive Reasoning 4|Inductive Reasoning 4]]
+<!-- QOD-WEB-PRACTICE-END -->

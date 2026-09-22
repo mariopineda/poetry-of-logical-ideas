@@ -35,14 +35,14 @@ $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 > > https://www.youtube.com/embed/Nr6bvukghtI
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Exponential Functions]]
-
-## Explore Also
-
-- [[Mind-Bending Facts About Infinity]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Sequences and Series/Infinite Sequences 2|Infinite Sequences 2]]
+<!-- QOD-WEB-PRACTICE-END -->

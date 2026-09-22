@@ -41,16 +41,16 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Symmetric Difference|Symmetric Difference]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
 
-- [[Set Theory]]
-
-## Explore Also
-
-- [[Symmetric Difference]]
-- [[Combinatorics]]
-
-## Build Toward
-
-- [[Combinations]]
-- [[Fundamental Counting Principle]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Set Theory/Set Theory 2|Set Theory 2]]
+<!-- QOD-WEB-PRACTICE-END -->

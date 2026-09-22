@@ -30,16 +30,17 @@ The organization wants to ensure that each family receives a unique combination 
 > There are 360 different aid packages that can be created.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
 
-- [[Fundamental Counting Principle]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Permutations with Identical Objects]]
-
-## Build Toward
-
-- [[Combinations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Fundamental Counting Principle 3|Fundamental Counting Principle 3]]
+> - **Next QOD:** [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+<!-- QOD-WEB-PRACTICE-END -->

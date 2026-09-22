@@ -19,17 +19,18 @@ Solve $\frac{x^2}{x-5} \leq \frac{16x}{x-5}$. Answer in interval notation.
 > > https://www.youtube.com/embed/ihTPyFb84k0
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
 
-- [[Rational Expressions & Equations]]
-- [[Difference of Squares]]
-- [[Zero Product Theorem]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-
-## Build Toward
-
-- [[Calculus]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Inequalities/Inequalities 4|Inequalities 4]]
+> - **Next QOD:** [[Math/Inequalities/Inequalities 6|Inequalities 6]]
+<!-- QOD-WEB-PRACTICE-END -->

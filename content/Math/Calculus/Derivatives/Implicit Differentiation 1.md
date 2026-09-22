@@ -23,11 +23,14 @@ $$4y^3-9y = x^2+3xy-2$$
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Polynomials]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 2|Implicit Differentiation 2]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -23,15 +23,16 @@ Evalue, if possible.
 > > https://www.youtube.com/embed/dPmJBDJH6zE
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Radicals]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-- [[Division by Zero]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Limits/Limits 1|Limits 1]]
+> - **Next QOD:** [[Math/Calculus/Limits/Limits 3|Limits 3]]
+<!-- QOD-WEB-PRACTICE-END -->

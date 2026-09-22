@@ -28,15 +28,17 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 > FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
 
-
-## Explore Also
-
-- [[Fundamental Counting Principle]]
-- [[Combinatorics]]
-
-## Build Toward
-
-- [[Permutations with Identical Objects]]
-- [[Combinations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
+> - **Next QOD:** [[Math/Combinatorics/Fundamental Counting Principle 6|Fundamental Counting Principle 6]]
+<!-- QOD-WEB-PRACTICE-END -->

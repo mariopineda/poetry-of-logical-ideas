@@ -72,14 +72,15 @@ Evaluate without a calculator:
 > $$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Polynomials]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
+<!-- QOD-WEB-PRACTICE-END -->

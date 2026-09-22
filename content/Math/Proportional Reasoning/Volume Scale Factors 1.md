@@ -29,12 +29,10 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 
 > [!example]- Show solution
 
-## Review First
-
-- [[Proportional Reasoning]]
-- [[Radicals]]
-
-## Explore Also
-
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._

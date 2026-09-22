@@ -19,10 +19,14 @@ Express the following without absolute values: $|x+7|$
 > > https://www.youtube.com/embed/NN4pORk7-4I
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Absolute Value Equations 2|Absolute Value Equations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

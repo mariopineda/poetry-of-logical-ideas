@@ -22,14 +22,11 @@ Evaluate and simplify without a calculator.
 
 > [!example]- Show solution
 
-## Review First
-
-- [[Arithmetic]]
-- [[Factoring Polynomials Work Sheet - Easy]]
-- [[Division by Zero]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
+> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!success] Build Toward
+> _None listed._

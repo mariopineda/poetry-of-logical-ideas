@@ -47,17 +47,12 @@ Solve the equations
 > $$
 >
 
-## Review First
-
-- [[Fundamental Counting Principle]]
-- [[Arithmetic]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Combinatorics]]
-- [[Permutations with Identical Objects]]
-
-## Build Toward
-
-- [[Combinations]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]

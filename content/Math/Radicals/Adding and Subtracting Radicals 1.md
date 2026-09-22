@@ -85,13 +85,10 @@ Simplify the following radicals.
 > \]
 >
 
-## Review First
-
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Radical Multiplication and Division Worksheet]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
+> [!success] Build Toward
+> _None listed._

@@ -19,14 +19,15 @@ A water tank is built in the shape of a circular cone with height 5 m and diamet
 > > https://www.youtube.com/embed/U59ewg5oLL4
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
 
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-- [[Calculus]]
-
-## Build Toward
-
-- [[Antiderivative]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 8|Related Rates 8]]
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 10|Related Rates 10]]
+<!-- QOD-WEB-PRACTICE-END -->

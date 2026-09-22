@@ -32,12 +32,16 @@ $$\frac{t-2}{4} - \frac{t-3}{5}$$
 > > https://www.youtube.com/embed/13kcnVR4Dmg
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Rational Expressions & Equations]]
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 3|Adding and Subtracting Rational Expressions 3]]
+> - **Next QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5|Adding and Subtracting Rational Expressions 5]]
+<!-- QOD-WEB-PRACTICE-END -->

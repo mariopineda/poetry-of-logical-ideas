@@ -68,11 +68,9 @@ Evaluate without a calculator:
 > $$
 >
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._

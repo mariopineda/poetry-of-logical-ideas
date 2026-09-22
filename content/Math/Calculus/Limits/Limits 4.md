@@ -28,12 +28,15 @@ Evaluate the following using the graph.
 > > https://www.youtube.com/embed/ItZft9Ia14g
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Limits/Limits 3|Limits 3]]
+> - **Next QOD:** [[Math/Calculus/Limits/Limits 5|Limits 5]]
+<!-- QOD-WEB-PRACTICE-END -->

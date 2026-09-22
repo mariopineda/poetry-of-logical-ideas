@@ -45,13 +45,14 @@ Determine the equations of the lines given the following information. Express th
 > We can now express the equation of the line in slope y-intercept form as $y=3x+2$ and in general form as $3x-y+2=0$.
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 9|Linear Relations 9]]
+<!-- QOD-WEB-PRACTICE-END -->

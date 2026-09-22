@@ -30,13 +30,15 @@ Evaluate the following integrals using the substitution rule.
 > $\displaystyle \int u \, du = \frac{u^2}{2} + C = \frac{(\ln(x))^2}{2} + C$
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Antiderivative]]
-
-## Explore Also
-
-- [[Rational Expressions & Equations]]
-- [[Transcendental Functions]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Integration/Substitution Rule 2|Substitution Rule 2]]
+<!-- QOD-WEB-PRACTICE-END -->

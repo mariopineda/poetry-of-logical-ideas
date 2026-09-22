@@ -21,19 +21,19 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 > > https://www.youtube.com/embed/ZhDvWV-Hhac
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Square of a Binomial]]
-- [[Zero Product Theorem]]
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Characteristics of Polynomial Functions]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Polynomials]]
-
-## Build Toward
-
-- [[Higher Degree Polynomial Functions]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

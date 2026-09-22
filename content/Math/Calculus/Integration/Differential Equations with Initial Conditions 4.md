@@ -15,13 +15,15 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Antiderivative]]
-
-## Explore Also
-
-- [[Differential Equations with Initial Conditions]]
-- [[Calculus]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]
+<!-- QOD-WEB-PRACTICE-END -->

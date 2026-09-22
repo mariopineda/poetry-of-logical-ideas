@@ -20,10 +20,15 @@ Using the graph of $f(x)$, evaluate the following.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 7|Function Notation 7]]
+> - **Next QOD:** [[Math/Relations and Functions/Function Notation 9|Function Notation 9]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -39,10 +39,15 @@ Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD
 > Find side $a$: $BD + DC = 11.7\ldots + 16.7\ldots = 28.5$ cm
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 1|Oblique Triangle Trigonometry 1]]
+> - **Next QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3|Oblique Triangle Trigonometry 3]]
+<!-- QOD-WEB-PRACTICE-END -->

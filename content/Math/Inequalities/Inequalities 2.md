@@ -18,11 +18,15 @@ Solve $5x+4 \leq 2x-11<8x+13$. Answer in interval notation.
 > > https://www.youtube.com/embed/juwVCC2E7oU
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Inequalities/Inequalities 1|Inequalities 1]]
+> - **Next QOD:** [[Math/Inequalities/Inequalities 3|Inequalities 3]]
+<!-- QOD-WEB-PRACTICE-END -->

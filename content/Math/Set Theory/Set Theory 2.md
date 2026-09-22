@@ -42,17 +42,18 @@ Consider the following sets
 > ...
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Parity|Parity]]
+> - [[Math/Supporting Notes/Concepts/Symmetric Difference|Symmetric Difference]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
 
-- [[Set Theory]]
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Parity]]
-- [[Symmetric Difference]]
-
-## Build Toward
-
-- [[Combinatorics]]
-- [[Fundamental Counting Principle]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Set Theory/Set Theory 1|Set Theory 1]]
+> - **Next QOD:** [[Math/Set Theory/Set Theory 3|Set Theory 3]]
+<!-- QOD-WEB-PRACTICE-END -->

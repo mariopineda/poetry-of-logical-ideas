@@ -21,11 +21,14 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+<!-- QOD-WEB-PRACTICE-END -->

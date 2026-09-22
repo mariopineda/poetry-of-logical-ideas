@@ -24,13 +24,15 @@ Solve for $x$
 > > https://www.youtube.com/embed/kaQzu2Do4dA
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Radicals]]
-- [[Rational Expressions & Equations]]
-
-## Explore Also
-
-- [[Exponential Functions]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
+<!-- QOD-WEB-PRACTICE-END -->

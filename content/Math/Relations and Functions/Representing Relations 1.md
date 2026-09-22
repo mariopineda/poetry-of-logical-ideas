@@ -90,11 +90,14 @@ b. What is the y-coordinate?
 >
 > b. The y-coordinate is $4$.
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 2|Representing Relations 2]]
+<!-- QOD-WEB-PRACTICE-END -->

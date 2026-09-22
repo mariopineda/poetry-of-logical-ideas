@@ -66,14 +66,15 @@ Determine the **domain and range** of each relation in both **set-builder notati
 > - Set-builder notation: $\{y\in\mathbb{R}\mid -3\le y<2\}$
 > - Interval notation: $[-3,2)$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Set Theory]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+<!-- QOD-WEB-PRACTICE-END -->

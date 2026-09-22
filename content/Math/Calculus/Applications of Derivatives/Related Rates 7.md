@@ -19,14 +19,15 @@ A circular disk is heated and then cooled. During the cooling process, the radiu
 > > https://www.youtube.com/embed/3XVPYjcoh-Y
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
 
-- [[Calculus]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Antiderivative]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 6|Related Rates 6]]
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 8|Related Rates 8]]
+<!-- QOD-WEB-PRACTICE-END -->

@@ -20,14 +20,16 @@ How many times more intense is the sound of a referee's whistle (125 dB) than a 
 > > https://www.youtube.com/embed/PJItMjIhxck
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Exponential Functions]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-- [[Graphs of Logarithmic Functions]]
-- [[Transcendental Functions]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+<!-- QOD-WEB-PRACTICE-END -->

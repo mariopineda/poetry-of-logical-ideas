@@ -31,14 +31,17 @@ show_solution: false
 > 2. The formula for calculating the volume of a cube is $V=x^3$. We subsitute in the side length, $V=3.41...^3=39.84... \approx 39.9$ cm$^3$.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Proportional Reasoning]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Arithmetic]]
-- [[Prime Factorization]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
+> - **Next QOD:** [[Math/Measurement/Surface Area and Volume 3|Surface Area and Volume 3]]
+<!-- QOD-WEB-PRACTICE-END -->

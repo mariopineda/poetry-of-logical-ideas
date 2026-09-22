@@ -116,15 +116,15 @@ $$
 > \boxed{\{y\mid 1\le y\le 5,\ y\in\mathbb{R}\}}.
 > $$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Concepts/Concepts|Concepts]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Arithmetic]]
-- [[Concepts]]
-
-## Explore Also
-
-- [[Transcendental Functions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from an Equation 2|Sinusoidal Functions - Characteristics from an Equation 2]]
+<!-- QOD-WEB-PRACTICE-END -->

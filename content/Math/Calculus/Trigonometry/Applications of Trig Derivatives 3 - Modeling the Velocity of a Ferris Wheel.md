@@ -63,16 +63,17 @@ A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters abo
 > Therefore, the passenger's velocity at $t = 10$ seconds is approximately $-2.09$ meters per second, indicating that they are moving downwards.
 >
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
 
-
-## Explore Also
-
-- [[Calculus]]
-- [[Differential Equations with Initial Conditions]]
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Substitution Rule]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
+<!-- QOD-WEB-PRACTICE-END -->

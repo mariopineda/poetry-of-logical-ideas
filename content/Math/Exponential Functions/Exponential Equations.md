@@ -36,17 +36,12 @@ Links leading hereÃ¢â‚¬Â¦ (automatically generated)
 > ...
 >
 
-## Review First
-
-- [[Prime Factorization]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Exponential Functions]]
-- [[Graphs of Logarithmic Functions]]
-
-## Build Toward
-
-- [[Transcendental Functions]]
-- [[Calculus]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

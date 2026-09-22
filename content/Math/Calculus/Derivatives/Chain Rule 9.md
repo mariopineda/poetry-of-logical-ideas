@@ -15,16 +15,17 @@ Differentiate $y \[ 4-\left( 2x+5 \right)^3\]^6$ using the chain rule more than 
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
 
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Calculus]]
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
-
-- [[Antiderivative]]
-- [[Substitution Rule]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Derivatives/Chain Rule 8|Chain Rule 8]]
+> - **Next QOD:** [[Math/Calculus/Derivatives/Chain Rule 10|Chain Rule 10]]
+<!-- QOD-WEB-PRACTICE-END -->

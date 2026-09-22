@@ -78,12 +78,9 @@ $$
 > - Set-builder notation: $\{v\in\mathbb{R}\mid 0\le v\le60.5\}$
 > - Interval notation: $[0,60.5]$
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Set Theory]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> [!success] Build Toward
+> _None listed._

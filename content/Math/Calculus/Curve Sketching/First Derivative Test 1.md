@@ -15,14 +15,16 @@ For the function $y=6x^2-x^3$, identify the local max/min. Roughly sketch.
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Characteristics of Polynomial Functions]]
-- [[Polynomials]]
-
-## Explore Also
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Higher Degree Polynomial Functions]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Curve Sketching/First Derivative Test 2|First Derivative Test 2]]
+<!-- QOD-WEB-PRACTICE-END -->

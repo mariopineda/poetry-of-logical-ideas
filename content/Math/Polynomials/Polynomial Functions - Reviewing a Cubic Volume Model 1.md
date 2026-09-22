@@ -120,17 +120,17 @@ A company makes a rectangular box with interior dimensions $8$ cm by $5$ cm by $
 > - Set-builder notation: $\{V\in\mathbb{R}\mid120\le V\le756\}$
 > - Interval notation: $[120,756]$
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Characteristics of Polynomial Functions]]
-
-## Explore Also
-
-- [[Graphs of Polynomial Functions (Student Notes)]]
-- [[Polynomials]]
-- [[Proportional Reasoning]]
-
-## Build Toward
-
-- [[Higher Degree Polynomial Functions]]
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 2|Polynomial Functions - Reviewing a Cubic Volume Model 2]]
+<!-- QOD-WEB-PRACTICE-END -->

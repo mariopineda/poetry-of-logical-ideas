@@ -39,12 +39,9 @@ show_solution: false
 > The sum of the interior angles in a hexagon $= (6-2) \times 180 = 720^\circ$. The sixth angle measure = $720-600=120^\circ$
 >
 
-## Review First
-
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Diagonal]]
-
-## Build Toward
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
+> [!success] Build Toward
+> _None listed._

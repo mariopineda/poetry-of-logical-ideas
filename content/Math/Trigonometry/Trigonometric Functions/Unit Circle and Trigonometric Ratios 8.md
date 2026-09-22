@@ -20,10 +20,15 @@ Using the unit circle, determine the exact values of:
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> _None listed._
 
-
-## Explore Also
-
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
+> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
+<!-- QOD-WEB-PRACTICE-END -->

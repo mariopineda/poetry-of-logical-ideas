@@ -27,14 +27,10 @@ Sea level is rising, in part, because of global climate change causes the meltin
 > > [NASA Jet Propulsion Laboratory / California Institute of Technology](https://www.jpl.nasa.gov/edu/teach/activity/graphing-sea-level-trends/)
 >
 
-## Review First
-
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Calculus]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]

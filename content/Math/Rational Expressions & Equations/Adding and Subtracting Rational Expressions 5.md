@@ -32,13 +32,14 @@ $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 > > https://www.youtube.com/embed/5a6_Vv0rwTI
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> _None listed._
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 
-- [[Arithmetic]]
-
-## Explore Also
-
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 4|Adding and Subtracting Rational Expressions 4]]
+<!-- QOD-WEB-PRACTICE-END -->

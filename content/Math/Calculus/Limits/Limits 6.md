@@ -19,13 +19,16 @@ Determine the equation of the tangent line to $y=\sqrt{3x+12}$ at $x=8$ using $m
 > > https://www.youtube.com/embed/FBqRBbZb7Uc
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Radicals]]
-
-## Explore Also
-
-- [[Calculus]]
-- [[Graphs of Polynomial Functions (Student Notes)]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Limits/Limits 5|Limits 5]]
+> - **Next QOD:** [[Math/Calculus/Limits/Limits 7|Limits 7]]
+<!-- QOD-WEB-PRACTICE-END -->

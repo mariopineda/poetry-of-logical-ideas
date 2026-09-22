@@ -20,14 +20,10 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 
 > [!example]- Show solution
 
-## Review First
-
-
-## Explore Also
-
-- [[Permutations with Identical Objects]]
-- [[Fundamental Counting Principle]]
-
-## Build Toward
-
-- [[Combinations]]
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]

@@ -15,13 +15,14 @@ A 6 m ladder is leaning against the wall and its foot is sliding away from the w
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> _None listed._
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
 
-
-## Explore Also
-
-- [[Calculus]]
-
-## Build Toward
-
-- [[Antiderivative]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 2|Related Rates 2]]
+<!-- QOD-WEB-PRACTICE-END -->

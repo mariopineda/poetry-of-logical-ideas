@@ -23,13 +23,16 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-- [[Proportional Reasoning]]
-
-## Explore Also
-
-- [[Prime Factorization]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Measurement/Unit Conversions 2|Unit Conversions 2]]
+> - **Next QOD:** [[Math/Measurement/Unit Conversions 4|Unit Conversions 4]]
+<!-- QOD-WEB-PRACTICE-END -->

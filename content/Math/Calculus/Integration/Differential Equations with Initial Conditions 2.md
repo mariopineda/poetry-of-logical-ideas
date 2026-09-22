@@ -63,14 +63,15 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 > Because the negative root has no physical significance in this problem, we see that about 4.5 s after being tossed up the stone hits the ground.
 >
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
 
-- [[Antiderivative]]
-
-## Explore Also
-
-- [[Differential Equations with Initial Conditions]]
-
-## Build Toward
-
-- [[Calculus]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 1|Differential Equations with Initial Conditions 1]]
+> - **Next QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]
+<!-- QOD-WEB-PRACTICE-END -->

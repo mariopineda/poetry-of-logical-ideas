@@ -22,18 +22,18 @@ Factor the following polynomials by removing the greatest common factor.
 
 ## Solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
+> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
+> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
 
-- [[Polynomials]]
-- [[Prime Factorization]]
-
-## Explore Also
-
-- [[Difference of Squares]]
-- [[Square of a Binomial]]
-- [[Zero Product Theorem]]
-
-## Build Toward
-
-- [[Rational Expressions & Equations]]
-- [[Characteristics of Polynomial Functions]]
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Next QOD:** [[Math/Polynomials/Factoring Polynomials 2|Factoring Polynomials 2]]
+<!-- QOD-WEB-PRACTICE-END -->

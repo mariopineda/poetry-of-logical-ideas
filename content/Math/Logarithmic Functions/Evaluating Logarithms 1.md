@@ -25,15 +25,10 @@ Evaluate by converting to exponential form.
 > > https://www.youtube.com/embed/xQVPzmu3SAs
 >
 
-## Review First
-
-- [[Exponential Functions]]
-- [[Radicals]]
-
-## Explore Also
-
-- [[Prime Factorization]]
-
-## Build Toward
-
-- [[Graphs of Logarithmic Functions]]
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
+> [!success] Build Toward
+> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]

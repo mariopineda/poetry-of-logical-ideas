@@ -28,12 +28,15 @@ For each of the following table of values, express the relationship (i) in words
 
 > [!example]- Show solution
 
-## Review First
+> [!abstract] Review First
+> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> [!info] Explore Also
+> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> [!success] Build Toward
+> _None listed._
 
-- [[Arithmetic]]
-
-## Explore Also
-
-- [[Proportional Reasoning]]
-
-## Build Toward
+<!-- QOD-WEB-PRACTICE-START -->
+> [!example] More QOD Practice
+> - **Previous QOD:** [[Math/Relations and Functions/Representing Relations 2|Representing Relations 2]]
+> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 4|Representing Relations 4]]
+<!-- QOD-WEB-PRACTICE-END -->
