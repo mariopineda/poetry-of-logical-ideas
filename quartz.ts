@@ -1,4 +1,4 @@
-﻿import fs from "node:fs"
+import fs from "node:fs"
 import path from "node:path"
 import { parse as parseYaml } from "yaml"
 import { graphlib, layout as dagreLayout } from "@dagrejs/dagre"
@@ -1674,27 +1674,153 @@ config.plugins.transformers.push({
 // QOD GRAPH PAGE
 // ------------------------------------------------------------
 //
-// A playful force-directed graph containing only QOD pages that
-// exist in the published Quartz content tree.
+// CANONICAL QOD GRAPH SCHEMA
 //
-// Nodes:
-//   coloured by course
-//   multicolour when a QOD belongs to multiple courses
+// The live QOD website uses:
+//   course:
+// and three rendered callout sections:
+//   Review First
+//   Explore Also
+//   Build Toward
 //
-// Edges:
-//   prerequisite -> directional
-//   related      -> undirected
+// The graph must read those published-QOD fields directly.
+// It must NOT depend on the retired frontmatter keys
+// courses / prerequisites / related.
 //
-// The page itself is intentionally hidden from the Explorer and
-// is linked only from About.
+type QodGraphEntry = {
+  name: string
+  slug: string
+  courses: string[]
+  reviewFirst: string[]
+  exploreAlso: string[]
+  buildToward: string[]
+}
+
+function qodGraphCalloutTargets(
+  source: string,
+  label: string,
+): string[] {
+  const escapedLabel = label.replace(
+    /[.*+?^${}()|[\]\\]/g,
+    "\\$&",
+  )
+
+  const marker = new RegExp(
+    `^> \\[![^\\]]+\\] ${escapedLabel}\\s*$`,
+    "m",
+  )
+
+  const match = marker.exec(source)
+  if (!match) return []
+
+  const rest = source.slice(
+    match.index + match[0].length,
+  )
+
+  const lines = rest.split(/\r?\n/)
+  const calloutLines: string[] = []
+  let sawQuotedLine = false
+
+  for (const line of lines) {
+    if (line.startsWith(">")) {
+      calloutLines.push(line)
+      sawQuotedLine = true
+      continue
+    }
+
+    if (line.trim() === "") {
+      // Blank lines are harmless inside/between callout lines.
+      continue
+    }
+
+    // The first nonblank, non-callout line terminates this block.
+    break
+  }
+
+  if (!sawQuotedLine) return []
+
+  const targets: string[] = []
+  const joined = calloutLines.join("\n")
+
+  for (
+    const link of joined.matchAll(
+      /\[\[([^\]]+)\]\]/g,
+    )
+  ) {
+    let target = link[1].split("|")[0] ?? ""
+    target = target.split("#")[0] ?? target
+    target = target.trim().replace(/\\/g, "/")
+    target = path.posix.basename(target)
+    target = target.replace(/\.md$/i, "")
+
+    if (target) {
+      targets.push(target)
+    }
+  }
+
+  return [...new Set(targets)]
+}
+
+function loadCanonicalQodGraphEntries(): QodGraphEntry[] {
+  const entries: QodGraphEntry[] = []
+
+  for (const filePath of getMarkdownFiles(QOD_ROOT)) {
+    const source = fs.readFileSync(
+      filePath,
+      "utf8",
+    )
+
+    const frontmatter =
+      extractFrontmatter(source)
+
+    if (frontmatter?.type !== "qod") {
+      continue
+    }
+
+    const relativePath = path
+      .relative(CONTENT_ROOT, filePath)
+      .split(path.sep)
+      .join("/")
+
+    entries.push({
+      name: path.basename(filePath, ".md"),
+      slug: slugifyFilePath(
+        relativePath as any,
+        true,
+      ) as string,
+      courses: stringList(
+        frontmatter.course ??
+          frontmatter.courses,
+      ),
+      reviewFirst: qodGraphCalloutTargets(
+        source,
+        "Review First",
+      ),
+      exploreAlso: qodGraphCalloutTargets(
+        source,
+        "Explore Also",
+      ),
+      buildToward: qodGraphCalloutTargets(
+        source,
+        "Build Toward",
+      ),
+    })
+  }
+
+  return entries
+}
+
 config.plugins.transformers.push({
   name: "QodGraphPage",
 
   htmlPlugins() {
-    const liveQods = [...qodBySlug.values()].filter(
-      (entry) =>
-        !entry.slug.toLowerCase().includes("backup"),
-    )
+    const liveQods =
+      loadCanonicalQodGraphEntries().filter(
+        (entry) =>
+          !entry.slug
+            .toLowerCase()
+            .includes("backup"),
+      )
 
     const liveByName = new Map(
       liveQods.map((entry) => [
@@ -1703,12 +1829,14 @@ config.plugins.transformers.push({
       ]),
     )
 
-    const graphNodes = liveQods.map((entry) => ({
-      id: entry.slug,
-      name: entry.name,
-      courses: entry.courses,
-      url: `./${entry.slug}`,
-    }))
+    const graphNodes = liveQods.map(
+      (entry) => ({
+        id: entry.slug,
+        name: entry.name,
+        courses: entry.courses,
+        url: `./${entry.slug}`,
+      }),
+    )
 
     const graphLinks: Array<{
       source: string
@@ -1716,50 +1844,115 @@ config.plugins.transformers.push({
       type: "prerequisite" | "related"
     }> = []
 
+    const directedSeen = new Set<string>()
     const relatedSeen = new Set<string>()
 
+    const addDirected = (
+      source: string,
+      target: string,
+    ) => {
+      if (
+        !source ||
+        !target ||
+        source === target
+      ) {
+        return
+      }
+
+      const key = `${source}::${target}`
+
+      if (directedSeen.has(key)) return
+      directedSeen.add(key)
+
+      graphLinks.push({
+        source,
+        target,
+        type: "prerequisite",
+      })
+    }
+
+    const addRelated = (
+      first: string,
+      second: string,
+    ) => {
+      if (
+        !first ||
+        !second ||
+        first === second
+      ) {
+        return
+      }
+
+      const pair = [first, second].sort()
+      const key = pair.join("::")
+
+      if (relatedSeen.has(key)) return
+      relatedSeen.add(key)
+
+      graphLinks.push({
+        source: pair[0],
+        target: pair[1],
+        type: "related",
+      })
+    }
+
     for (const entry of liveQods) {
+      // Review First:
+      // prerequisite QOD -> current QOD
       for (
         const prerequisiteName of
-        entry.prerequisites
+        entry.reviewFirst
       ) {
         const prerequisite =
           liveByName.get(
             prerequisiteName.toLowerCase(),
           )
 
-        if (!prerequisite) continue
-
-        graphLinks.push({
-          source: prerequisite.slug,
-          target: entry.slug,
-          type: "prerequisite",
-        })
+        if (prerequisite) {
+          addDirected(
+            prerequisite.slug,
+            entry.slug,
+          )
+        }
       }
 
-      for (const relatedName of entry.related) {
+      // Build Toward:
+      // current QOD -> later QOD
+      //
+      // These often mirror another page's Review First.
+      // addDirected() deduplicates the same edge.
+      for (
+        const laterName of entry.buildToward
+      ) {
+        const later =
+          liveByName.get(
+            laterName.toLowerCase(),
+          )
+
+        if (later) {
+          addDirected(
+            entry.slug,
+            later.slug,
+          )
+        }
+      }
+
+      // Explore Also:
+      // undirected conceptual relationship.
+      for (
+        const relatedName of entry.exploreAlso
+      ) {
         const related =
           liveByName.get(
             relatedName.toLowerCase(),
           )
 
-        if (!related) continue
-
-        const pair = [
-          entry.slug,
-          related.slug,
-        ].sort()
-
-        const key = pair.join("::")
-
-        if (relatedSeen.has(key)) continue
-        relatedSeen.add(key)
-
-        graphLinks.push({
-          source: pair[0],
-          target: pair[1],
-          type: "related",
-        })
+        if (related) {
+          addRelated(
+            entry.slug,
+            related.slug,
+          )
+        }
       }
     }
 
@@ -1785,14 +1978,17 @@ config.plugins.transformers.push({
             tagName: "div",
             properties: {
               className: ["qod-graph-page"],
-              "data-qod-graph": graphPayload,
+              "data-qod-graph":
+                graphPayload,
             },
             children: [
               {
                 type: "element",
                 tagName: "p",
                 properties: {
-                  className: ["qod-graph-intro"],
+                  className: [
+                    "qod-graph-intro",
+                  ],
                 },
                 children: [
                   {
@@ -1807,7 +2003,9 @@ config.plugins.transformers.push({
                 type: "element",
                 tagName: "div",
                 properties: {
-                  className: ["qod-graph-meta"],
+                  className: [
+                    "qod-graph-meta",
+                  ],
                 },
                 children: [
                   {
