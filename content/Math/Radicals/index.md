@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **7 Questions of the Day** · **Courses:** Not specified
+> **7 Questions of the Day** Â· **Courses:** Not specified
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
 Practice questions for **Radicals**.
 
