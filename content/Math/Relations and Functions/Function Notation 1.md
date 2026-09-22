@@ -2,15 +2,15 @@
 type: qod
 publish: true
 courses:
-  - "Math 10C"
-topic: "Function Notation"
+  - Math 10C
+topic: Function Notation
 show_solution: false
 prerequisites:
   - "[[Domain and Range - Reading Graphs 1]]"
 related:
   - "[[Function Notation 2]]"
-  - "[[Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

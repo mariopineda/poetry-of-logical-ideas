@@ -4,27 +4,27 @@ published: true
 publish: true
 show_solution: true
 courses:
-- Math 30-2
-- Math 30-1
+  - Math 30-2
+  - Math 30-1
 topic: Polynomial Functions
 tags:
-- math/30-2
-- polynomials
-- characteristics
-- math/30-1
+  - math/30-2
+  - polynomials
+  - characteristics
+  - math/30-1
 prerequisites:
-- '[[Polynomial Functions 1]]'
-- '[[Polynomial Functions 2]]'
-- '[[Polynomial Functions 4]]'
-- '[[Function Notation 1]]'
+  - "[[Polynomial Functions 1]]"
+  - "[[Polynomial Functions 2]]"
+  - "[[Polynomial Functions 4]]"
+  - "[[Function Notation 1]]"
 related:
-- '[[Polynomial Functions 27 - Building a Graph]]'
-- '[[Polynomial Functions 28 - Checking Reasoning]]'
-- '[[Polynomial Functions 5]]'
-- '[[Polynomial Functions 6]]'
-- '[[Polynomial Functions 8]]'
-- '[[Domain and Range - Sketching Relations 1]]'
-- '[[Domain and Range - Reciprocal and Quadratic Functions]]'
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Polynomial Functions 5]]"
+  - "[[Polynomial Functions 6]]"
+  - "[[Polynomial Functions 8]]"
+  - "[[Domain and Range - Sketching Relations 1]]"
+  - "[[Domain and Range - Reciprocal and Quadratic Functions]]"
 ---
 
 ## Question

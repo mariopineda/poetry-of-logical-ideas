@@ -10,8 +10,8 @@ prerequisites:
 related:
   - "[[Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity]]"
   - "[[Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]"
-  - "[[Polynomial Functions - Analyzing a Polynomial Equation 1]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

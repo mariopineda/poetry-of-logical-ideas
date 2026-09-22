@@ -2,12 +2,12 @@
 type: qod
 publish: true
 courses:
-  - "Math 10C"
-  - "Math 30-2"
-topic: "Domain and Range"
+  - Math 10C
+  - Math 30-2
+topic: Domain and Range
 show_solution: true
 aliases:
-  - "Domain & Range 4"
+  - Domain & Range 4
 prerequisites:
   - "[[Representing Relations 1]]"
   - "[[Function Notation 1]]"
@@ -16,7 +16,7 @@ related:
   - "[[Domain and Range - Free-Fall Speed Model]]"
   - "[[Domain and Range - Cube Surface Area Model]]"
   - "[[Domain and Range - Ferris Wheel Model]]"
-  - "[[Polynomial Functions 9]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
 ---
 
 ## Question

@@ -12,9 +12,9 @@ prerequisites:
   - "[[Quadratic Equations 8]]"
   - "[[Polynomial Functions 19 — Soccer Ball]]"
 related:
-  - "[[Polynomial Functions 11]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
   - "[[Polynomial Functions 14]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

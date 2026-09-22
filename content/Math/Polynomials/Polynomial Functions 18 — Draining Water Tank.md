@@ -10,7 +10,7 @@ prerequisites:
   - "[[Function Notation 1]]"
   - "[[Linear Relations 1]]"
 related:
-  - "[[Polynomial Functions 9]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
   - "[[Polynomial Functions 12]]"
 ---
 

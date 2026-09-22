@@ -2,9 +2,9 @@
 type: qod
 publish: true
 courses:
-  - "Math 20-1"
-  - "Math 20-2"
-topic: "Quadratics"
+  - Math 20-1
+  - Math 20-2
+topic: Quadratics
 show_solution: false
 prerequisites:
   - "[[Factoring Polynomials 1]]"
@@ -12,7 +12,7 @@ prerequisites:
 related:
   - "[[Quadratic Equations 9]]"
   - "[[Polynomial Functions 1]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

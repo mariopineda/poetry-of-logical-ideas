@@ -2,17 +2,17 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
+  - Math 30-2
+topic: Polynomial Functions
 show_solution: true
 prerequisites:
   - "[[Polynomial Functions 14]]"
   - "[[Domain and Range - Reading Graphs 2]]"
 related:
-  - "[[Polynomial Functions 11]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
   - "[[Polynomial Functions 16]]"
   - "[[Polynomial Functions 7]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

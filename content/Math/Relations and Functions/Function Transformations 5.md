@@ -2,15 +2,15 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-1"
-topic: "Function Transformations"
+  - Math 30-1
+topic: Function Transformations
 show_solution: false
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
   - "[[Function Transformations 4]]"
   - "[[Function Transformations 6]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

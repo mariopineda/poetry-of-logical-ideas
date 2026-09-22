@@ -10,7 +10,7 @@ prerequisites:
   - "[[Linear Relations 1]]"
 related:
   - "[[Polynomial Functions 8]]"
-  - "[[Polynomial Functions 10]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
   - "[[Domain and Range - Reading Graphs 2]]"
 ---
 

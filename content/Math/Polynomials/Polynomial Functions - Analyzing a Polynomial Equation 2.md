@@ -9,10 +9,10 @@ prerequisites:
   - "[[Function Notation 1]]"
   - "[[Domain & Range 2]]"
 related:
-  - "[[Polynomial Functions - Analyzing a Polynomial Equation 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 1]]"
   - "[[Polynomial Functions - Analyzing a Polynomial Equation 3]]"
-  - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

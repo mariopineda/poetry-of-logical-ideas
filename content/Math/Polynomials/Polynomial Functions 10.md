@@ -8,10 +8,10 @@ show_solution: true
 prerequisites:
   - "[[Function Notation 1]]"
 related:
-  - "[[Polynomial Functions 9]]"
-  - "[[Polynomial Functions 11]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 9]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
   - "[[Polynomial Functions 8]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

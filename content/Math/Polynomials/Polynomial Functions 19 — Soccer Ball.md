@@ -12,9 +12,9 @@ prerequisites:
   - "[[Quadratic Equations 7]]"
   - "[[Polynomial Functions 18 — Draining Water Tank]]"
 related:
-  - "[[Polynomial Functions 10]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
   - "[[Polynomial Functions 13]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

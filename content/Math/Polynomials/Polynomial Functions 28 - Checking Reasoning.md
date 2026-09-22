@@ -4,30 +4,30 @@ published: true
 publish: true
 show_solution: true
 courses:
-- Math 30-2
-- Math 30-1
+  - Math 30-2
+  - Math 30-1
 topic: Polynomial Functions
 tags:
-- math/30-2
-- polynomials
-- characteristics
-- math/30-1
+  - math/30-2
+  - polynomials
+  - characteristics
+  - math/30-1
 prerequisites:
-- '[[Polynomial Functions 2]]'
-- '[[Polynomial Functions 4]]'
-- '[[Function Notation 1]]'
+  - "[[Polynomial Functions 2]]"
+  - "[[Polynomial Functions 4]]"
+  - "[[Function Notation 1]]"
 related:
-- '[[Polynomial Functions 26 - Reading an Equation]]'
-- '[[Polynomial Functions 27 - Building a Graph]]'
-- '[[Polynomial Functions 1]]'
-- '[[Polynomial Functions 5]]'
-- '[[Polynomial Functions 6]]'
-- '[[Polynomial Functions 8]]'
-- '[[Polynomial Functions 21 — Hiking Trail]]'
-- '[[Domain and Range - Sketching Relations 1]]'
-- '[[Function Transformations 2]]'
-- '[[Sketching Polynomial Functions 1]]'
-- '[[Sketching Polynomial Functions 2]]'
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
+  - "[[Polynomial Functions 1]]"
+  - "[[Polynomial Functions 5]]"
+  - "[[Polynomial Functions 6]]"
+  - "[[Polynomial Functions 8]]"
+  - "[[Polynomial Functions 21 — Hiking Trail]]"
+  - "[[Domain and Range - Sketching Relations 1]]"
+  - "[[Function Transformations 2]]"
+  - "[[Sketching Polynomial Functions 1]]"
+  - "[[Sketching Polynomial Functions 2]]"
 ---
 
 ## Question

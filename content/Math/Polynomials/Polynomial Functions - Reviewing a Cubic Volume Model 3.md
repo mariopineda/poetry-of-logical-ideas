@@ -2,16 +2,16 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
+  - Math 30-2
+topic: Polynomial Functions
 show_solution: false
 prerequisites:
-  - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
   - "[[Domain and Range - Cube Volume Model]]"
 related:
-  - "[[Polynomial Functions - Reviewing a Cubic Volume Model 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1]]"
   - "[[Polynomial Functions - Reviewing a Cubic Volume Model 2]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

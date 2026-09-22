@@ -90,4 +90,4 @@ Use your graphing calculator.
 >
 > where $t$ is measured in seconds and $V$ is measured in $\text{cm}^3$.
   - "[[Polynomial Functions 21 — Hiking Trail]]"
-  - "[[Polynomial Functions 24 — Stopping Distance]]"
+  - [[Math/QOD Question Bank/Polynomials/Polynomial Functions 24 — Stopping Distance]]]"

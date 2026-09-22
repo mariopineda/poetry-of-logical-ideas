@@ -10,7 +10,7 @@ prerequisites:
   - "[[Polynomial Functions 6]]"
   - "[[Factoring Polynomials 1]]"
 related:
-  - "[[Polynomial Functions 17]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
   - "[[Polynomial Functions 25 — Inflating a Balloon]]"
 ---
 

@@ -2,17 +2,17 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-2"
-topic: "Polynomial Functions"
+  - Math 30-2
+topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Quadratic Equations 8]]"
 related:
-  - "[[Polynomial Functions 11]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
   - "[[Polynomial Functions 13]]"
-  - "[[Polynomial Functions 17]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

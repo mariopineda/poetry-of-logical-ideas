@@ -2,15 +2,15 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-1"
-topic: "Function Transformations"
+  - Math 30-1
+topic: Function Transformations
 show_solution: false
 prerequisites:
   - "[[Properties of Functions 1]]"
 related:
   - "[[Function Transformations 1]]"
   - "[[Function Transformations 3]]"
-  - "[[Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

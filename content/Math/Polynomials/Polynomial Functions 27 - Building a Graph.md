@@ -4,44 +4,44 @@ published: true
 publish: true
 show_solution: true
 courses:
-- Math 30-2
-- Math 20-1
-- Math 20-2
-- Math 30-1
+  - Math 30-2
+  - Math 20-1
+  - Math 20-2
+  - Math 30-1
 topic: Polynomial Functions
 tags:
-- math/30-2
-- polynomials
-- characteristics
-- math/20-1
-- math/20-2
-- math/30-1
+  - math/30-2
+  - polynomials
+  - characteristics
+  - math/20-1
+  - math/20-2
+  - math/30-1
 prerequisites:
-- '[[Domain and Range - Reading Graphs 1]]'
-- '[[Polynomial Functions 8]]'
+  - "[[Domain and Range - Reading Graphs 1]]"
+  - "[[Polynomial Functions 8]]"
 related:
-- '[[Polynomial Functions 26 - Reading an Equation]]'
-- '[[Polynomial Functions 28 - Checking Reasoning]]'
-- '[[Polynomial Functions 4]]'
-- '[[Polynomial Functions 5]]'
-- '[[Polynomial Functions 6]]'
-- '[[Polynomial Functions 10]]'
-- '[[Polynomial Functions 11]]'
-- '[[Polynomial Functions 13]]'
-- '[[Polynomial Functions 14]]'
-- '[[Polynomial Functions 15]]'
-- '[[Polynomial Functions 16]]'
-- '[[Polynomial Functions 17]]'
-- '[[Polynomial Functions 19 — Soccer Ball]]'
-- '[[Polynomial Functions 20 — Poster Sales]]'
-- '[[Domain and Range - Sketching Relations 1]]'
-- '[[Domain and Range - Sketching Relations 2]]'
-- '[[Function Transformations 1]]'
-- '[[Function Transformations 3]]'
-- '[[Function Transformations 4]]'
-- '[[Function Transformations 5]]'
-- '[[Completing the Square 4]]'
-- '[[Quadratic Functions 1]]'
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Polynomial Functions 4]]"
+  - "[[Polynomial Functions 5]]"
+  - "[[Polynomial Functions 6]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 11]]"
+  - "[[Polynomial Functions 13]]"
+  - "[[Polynomial Functions 14]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 15]]"
+  - "[[Polynomial Functions 16]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 17]]"
+  - "[[Polynomial Functions 19 — Soccer Ball]]"
+  - "[[Polynomial Functions 20 — Poster Sales]]"
+  - "[[Domain and Range - Sketching Relations 1]]"
+  - "[[Domain and Range - Sketching Relations 2]]"
+  - "[[Function Transformations 1]]"
+  - "[[Function Transformations 3]]"
+  - "[[Function Transformations 4]]"
+  - "[[Function Transformations 5]]"
+  - "[[Completing the Square 4]]"
+  - "[[Quadratic Functions 1]]"
 ---
 
 ## Question

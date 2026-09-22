@@ -2,8 +2,8 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-1"
-topic: "Polynomial Functions"
+  - Math 30-1
+topic: Polynomial Functions
 show_solution: false
 prerequisites:
   - "[[Function Transformations 1]]"
@@ -12,8 +12,8 @@ related:
   - "[[Polynomial Functions 1]]"
   - "[[Polynomial Functions 3]]"
   - "[[Completing the Square 1]]"
-  - "[[Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question

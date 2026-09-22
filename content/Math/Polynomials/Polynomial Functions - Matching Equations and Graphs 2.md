@@ -6,13 +6,13 @@ courses:
 topic: Polynomial Functions
 show_solution: true
 prerequisites:
-  - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
   - "[[Domain and Range - Reading Graphs 1]]"
 related:
-  - "[[Polynomial Functions - Matching Equations and Graphs 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Matching Equations and Graphs 1]]"
   - "[[Polynomial Functions - Matching Equations and Graphs 3]]"
-  - "[[Polynomial Functions 26 - Reading an Equation]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 26 - Reading an Equation]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

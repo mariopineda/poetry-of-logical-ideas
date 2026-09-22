@@ -2,19 +2,19 @@
 type: qod
 publish: true
 courses:
-  - "Math 30-1"
-  - "Math 30-2"
-topic: "Domain and Range"
+  - Math 30-1
+  - Math 30-2
+topic: Domain and Range
 show_solution: true
 aliases:
-  - "Domain & Range 9"
+  - Domain & Range 9
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Representing Relations 1]]"
 related:
   - "[[Domain and Range - Cube Surface Area Model]]"
   - "[[Domain and Range - Ferris Wheel Model]]"
-  - "[[Polynomial Functions - Analyzing a Cubic Function 1]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1]]"
 ---
 
 ## Question

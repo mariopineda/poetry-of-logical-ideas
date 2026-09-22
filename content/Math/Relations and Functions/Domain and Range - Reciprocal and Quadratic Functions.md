@@ -2,21 +2,21 @@
 type: qod
 publish: true
 courses:
-  - "Math 20-1"
-  - "Math 20-2"
-  - "Math 30-1"
-  - "Math 30-2"
-topic: "Domain and Range"
+  - Math 20-1
+  - Math 20-2
+  - Math 30-1
+  - Math 30-2
+topic: Domain and Range
 show_solution: true
 aliases:
-  - "Domain & Range 6"
+  - Domain & Range 6
 prerequisites:
   - "[[Function Notation 1]]"
   - "[[Representing Relations 1]]"
 related:
   - "[[Domain and Range - Reading Graphs 1]]"
   - "[[Domain and Range - Reading Graphs 2]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

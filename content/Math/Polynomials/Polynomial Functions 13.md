@@ -9,10 +9,10 @@ prerequisites:
   - "[[Function Notation 1]]"
   - "[[Quadratic Equations 7]]"
 related:
-  - "[[Polynomial Functions 10]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 10]]"
   - "[[Polynomial Functions 12]]"
   - "[[Polynomial Functions 14]]"
-  - "[[Polynomial Functions 27 - Building a Graph]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 27 - Building a Graph]]"
 ---
 
 ## Question

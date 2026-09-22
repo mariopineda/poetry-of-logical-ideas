@@ -12,7 +12,7 @@ prerequisites:
   - "[[Polynomial Functions 20 — Poster Sales]]"
 related:
   - "[[Polynomial Functions 7]]"
-  - "[[Polynomial Functions 28 - Checking Reasoning]]"
+  - "[[Math/QOD Question Bank/Polynomials/Polynomial Functions 28 - Checking Reasoning]]"
 ---
 
 ## Question
