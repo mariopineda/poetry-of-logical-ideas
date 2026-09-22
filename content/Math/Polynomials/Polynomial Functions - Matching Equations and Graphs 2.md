@@ -62,16 +62,7 @@ $$
 > $$
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 1|Polynomial Functions - Matching Equations and Graphs 1]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 3|Polynomial Functions - Matching Equations and Graphs 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 3|Polynomial Functions - Matching Equations and Graphs 3]]

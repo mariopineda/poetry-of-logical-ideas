@@ -23,15 +23,7 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Measurement/Unit Conversions 2|Unit Conversions 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Measurement/Surface Area and Volume 5|Surface Area and Volume 5]]
+> - [[Math/Measurement/Unit Conversions 2|Unit Conversions 2]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

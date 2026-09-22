@@ -91,13 +91,22 @@ b. What is the y-coordinate?
 > b. The y-coordinate is $4$.
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 2|Representing Relations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Representing Relations 2|Representing Relations 2]]
+
+> [!success] Build Toward
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 2|Domain & Range Algebraically 2]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 3|Domain & Range Algebraically 3]]
+> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
+> - [[Math/Relations and Functions/Domain and Range - Cube Volume Model|Domain and Range - Cube Volume Model]]
+> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
+> - [[Math/Relations and Functions/Domain and Range - Free-Fall Speed Model|Domain and Range - Free-Fall Speed Model]]
+> - [[Math/Relations and Functions/Domain and Range - Fuel Tank Model|Domain and Range - Fuel Tank Model]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]

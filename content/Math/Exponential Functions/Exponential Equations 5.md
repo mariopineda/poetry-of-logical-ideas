@@ -21,15 +21,9 @@ How many times more intense is the sound of a referee's whistle (125 dB) than a 
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]

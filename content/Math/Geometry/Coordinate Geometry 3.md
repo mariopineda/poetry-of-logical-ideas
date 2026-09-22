@@ -21,15 +21,7 @@ Roughly sketch.
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Geometry/Coordinate Geometry 2|Coordinate Geometry 2]]
-> - **Next QOD:** [[Math/Geometry/Coordinate Geometry 4|Coordinate Geometry 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Geometry/Coordinate Geometry 2|Coordinate Geometry 2]]
+> - [[Math/Geometry/Coordinate Geometry 4|Coordinate Geometry 4]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]

@@ -22,13 +22,9 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 ## Solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 1|Unit Circle and Trigonometric Ratios 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

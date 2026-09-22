@@ -64,14 +64,8 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 1|Differential Equations with Initial Conditions 1]]
-> - **Next QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 1|Differential Equations with Initial Conditions 1]]
+> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]

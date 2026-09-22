@@ -20,15 +20,6 @@ Jona has a container of vanilla ice cream that is two-thirds full, and a contain
 > The new container is $\frac{17}{24}$ full.
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Foundations/Fraction Arithmetic 4|Fraction Arithmetic 4]]
-> - **Next QOD:** [[Math/Foundations/Fraction Arithmetic 6|Fraction Arithmetic 6]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Fraction Arithmetic 4|Fraction Arithmetic 4]]
+> - [[Math/Foundations/Fraction Arithmetic 6|Fraction Arithmetic 6]]

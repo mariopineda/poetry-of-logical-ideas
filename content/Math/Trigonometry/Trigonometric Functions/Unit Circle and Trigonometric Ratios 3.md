@@ -16,14 +16,9 @@ A $30^\circ-60^\circ-90^\circ$ triangle may be created by drawing an altitude in
 ## Solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 2|Unit Circle and Trigonometric Ratios 2]]
-> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 4|Unit Circle and Trigonometric Ratios 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 2|Unit Circle and Trigonometric Ratios 2]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 4|Unit Circle and Trigonometric Ratios 4]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

@@ -18,15 +18,8 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Combinatorics/Permutations 2|Permutations 2]]
-> - **Next QOD:** [[Math/Combinatorics/Permutations 4|Permutations 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - [[Math/Combinatorics/Permutations 4|Permutations 4]]

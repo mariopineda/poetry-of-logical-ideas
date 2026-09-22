@@ -39,11 +39,9 @@ Find the 27th derivative of $\cos x$. Bonus points for solutions avoiding a brut
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1b|Derivative of Trigonometric Functions 1b]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b|Derivative of Trigonometric Functions 2b]]

@@ -28,16 +28,9 @@ $$\frac{7}{4}, \frac{8}{5}, \frac{9}{6}, \frac{10}{7}, \ldots$$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Sequences and Series/Infinite Sequences 1|Infinite Sequences 1]]
-> - **Next QOD:** [[Math/Sequences and Series/Infinite Sequences 3|Infinite Sequences 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Sequences and Series/Infinite Sequences 1|Infinite Sequences 1]]
+> - [[Math/Sequences and Series/Infinite Sequences 3|Infinite Sequences 3]]

@@ -25,16 +25,9 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
-> - **Next QOD:** [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]

@@ -19,16 +19,7 @@ Simplify. Express in exponential form.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]

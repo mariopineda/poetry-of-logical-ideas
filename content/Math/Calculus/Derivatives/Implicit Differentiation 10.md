@@ -16,14 +16,8 @@ Find the two tangent slopes to the hyperbola $x^2-y^2 = -64$ at $x=-6$.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 9|Implicit Differentiation 9]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 11|Implicit Differentiation 11]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 9|Implicit Differentiation 9]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 11|Implicit Differentiation 11]]

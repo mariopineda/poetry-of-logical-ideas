@@ -16,9 +16,8 @@ Use the [[Method of Exhaustion]] to estimate the area, to the nearest hundredth,
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Integration/Area Between Curves 1|Area Between Curves 1]]
+> - [[Math/Calculus/Integration/Area Under and Between Curves 1|Area Under and Between Curves 1]]

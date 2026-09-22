@@ -24,14 +24,8 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/me
 ## Solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Proportional Reasoning/Scale Factors 2|Scale Factors 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Proportional Reasoning/Area Scale Factors 2|Area Scale Factors 2]]
+> - [[Math/Proportional Reasoning/Scale Factors 2|Scale Factors 2]]

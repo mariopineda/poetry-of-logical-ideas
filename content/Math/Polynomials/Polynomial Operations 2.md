@@ -44,17 +44,8 @@ show_solution: false
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Polynomials/Polynomial Review 1|Polynomial Review 1]]

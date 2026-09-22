@@ -20,13 +20,7 @@ Express the following without absolute values: $|x+7|$
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Absolute Value Equations 2|Absolute Value Equations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Absolute Value Equations 2|Absolute Value Equations 2]]

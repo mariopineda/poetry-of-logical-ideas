@@ -20,14 +20,7 @@ The curve with equation $x^\frac{2}{3} + y^\frac{2}{3}=1$ is called an astroid a
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 11|Implicit Differentiation 11]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 11|Implicit Differentiation 11]]

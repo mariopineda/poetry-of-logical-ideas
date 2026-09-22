@@ -88,16 +88,8 @@ Round non-integer coordinates to the nearest hundredth.
 > - Local minimum: $(1,2)$
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1|Polynomial Functions - Analyzing a Cubic Function 1]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 3|Polynomial Functions - Analyzing a Cubic Function 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 3|Polynomial Functions - Analyzing a Cubic Function 3]]

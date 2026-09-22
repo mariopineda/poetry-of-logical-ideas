@@ -95,9 +95,8 @@ Simplify the following radicals.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
+> - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]

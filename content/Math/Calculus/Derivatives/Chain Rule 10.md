@@ -24,16 +24,8 @@ $$y=\frac{f(ax)}{a}$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
-> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Integration/Integral House|Integral House]]
+> - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Chain Rule 9|Chain Rule 9]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Chain Rule 11|Chain Rule 11]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Chain Rule 9|Chain Rule 9]]
+> - [[Math/Calculus/Derivatives/Chain Rule 11|Chain Rule 11]]

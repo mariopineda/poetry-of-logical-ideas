@@ -35,15 +35,8 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 6|Linear Relations 6]]
-> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 8|Linear Relations 8]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Linear Relations 6|Linear Relations 6]]
+> - [[Math/Relations and Functions/Linear Relations 8|Linear Relations 8]]

@@ -58,13 +58,7 @@ show_solution: false
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 2|Oblique Triangle Trigonometry 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 2|Oblique Triangle Trigonometry 2]]

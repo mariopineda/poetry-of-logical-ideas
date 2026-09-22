@@ -24,17 +24,14 @@ For each polynomial, state the name, degree, leading coefficient, constant, doma
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Constant Polynomial Functions|Constant Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 3|Polynomial Functions 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> - [[Math/Polynomials/Polynomial Functions 3|Polynomial Functions 3]]
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+> - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]

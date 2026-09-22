@@ -23,10 +23,16 @@ Evaluate and simplify without a calculator.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5|Adding and Subtracting Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Evaluating Rational Expressions 1|Evaluating Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
+
 > [!success] Build Toward
-> _None listed._
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 2|Solving Rational Equations 2]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 3|Solving Rational Equations 3]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 4|Solving Rational Equations 4]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 5|Solving Rational Equations 5]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 6|Solving Rational Equations 6]]

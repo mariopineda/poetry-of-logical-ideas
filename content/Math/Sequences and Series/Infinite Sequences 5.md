@@ -32,15 +32,8 @@ $$ \lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7} $$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Sequences and Series/Infinite Sequences 4|Infinite Sequences 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Sequences and Series/Infinite Sequences 4|Infinite Sequences 4]]

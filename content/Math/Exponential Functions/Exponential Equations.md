@@ -37,11 +37,15 @@ Links leading hereÃ¢â‚¬Â¦ (automatically generated)
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+
 > [!success] Build Toward
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]

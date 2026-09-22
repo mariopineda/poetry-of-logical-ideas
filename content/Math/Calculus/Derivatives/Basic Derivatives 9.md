@@ -16,14 +16,8 @@ Determine the x-coordinates of the point on the curve $y=-\frac{2}{x}+4$ that ar
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Basic Derivatives 8|Basic Derivatives 8]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Basic Derivatives 10|Basic Derivatives 10]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Basic Derivatives 8|Basic Derivatives 8]]
+> - [[Math/Calculus/Derivatives/Basic Derivatives 10|Basic Derivatives 10]]

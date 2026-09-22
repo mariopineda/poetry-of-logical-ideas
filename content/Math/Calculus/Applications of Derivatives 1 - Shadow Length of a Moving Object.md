@@ -75,8 +75,7 @@ A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]

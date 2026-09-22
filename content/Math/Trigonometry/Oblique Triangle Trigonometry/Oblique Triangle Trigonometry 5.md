@@ -27,13 +27,7 @@ The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4|Oblique Triangle Trigonometry 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4|Oblique Triangle Trigonometry 4]]

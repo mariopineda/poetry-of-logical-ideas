@@ -21,15 +21,10 @@ Solve $2x^2=6x-3$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
-> - **Next QOD:** [[Math/Quadratics/Quadratic Equations 4|Quadratic Equations 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
+> - [[Math/Quadratics/Quadratic Equations 4|Quadratic Equations 4]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]

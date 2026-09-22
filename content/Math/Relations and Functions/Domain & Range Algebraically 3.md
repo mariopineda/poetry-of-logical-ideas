@@ -116,17 +116,7 @@ State the domain in interval notation.
 > $$
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Domain & Range Algebraically 2|Domain & Range Algebraically 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain & Range Algebraically 2|Domain & Range Algebraically 2]]

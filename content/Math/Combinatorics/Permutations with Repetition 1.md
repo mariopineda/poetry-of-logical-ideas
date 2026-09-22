@@ -21,9 +21,7 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Combinatorics/Permutations 5|Permutations 5]]

@@ -69,14 +69,6 @@ Use the graph to determine:
 >    \boxed{\{y\mid -4\le y\le 2,\ y\in\mathbb{R}\}}.
 >    $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1|Sinusoidal Functions - Characteristics from a Graph 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]

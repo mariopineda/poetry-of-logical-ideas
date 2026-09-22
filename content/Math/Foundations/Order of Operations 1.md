@@ -68,9 +68,5 @@ Evaluate without a calculator:
 > $$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Foundations/Integer Arithmetic 3|Integer Arithmetic 3]]

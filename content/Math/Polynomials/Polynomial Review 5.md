@@ -24,14 +24,7 @@ Determine the polynomial that would have to be added to $6x^2-3x+6$ so that the 
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Review 4|Polynomial Review 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Review 4|Polynomial Review 4]]

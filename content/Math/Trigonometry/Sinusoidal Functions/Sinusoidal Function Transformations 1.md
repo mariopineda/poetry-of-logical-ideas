@@ -20,13 +20,9 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Equations 1|Sinusoidal Equations 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]

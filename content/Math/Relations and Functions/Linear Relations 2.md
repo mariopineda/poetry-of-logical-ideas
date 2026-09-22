@@ -22,14 +22,8 @@ For each relation, algebraically determine the x- and y-intercepts. Verify your 
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
-> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 3|Linear Relations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Relations and Functions/Linear Relations 3|Linear Relations 3]]

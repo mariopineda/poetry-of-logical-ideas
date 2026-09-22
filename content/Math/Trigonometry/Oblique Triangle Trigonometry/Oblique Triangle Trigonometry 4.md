@@ -26,14 +26,8 @@ Using only the Cosine Law, solve $\triangle ABC$ where $\angle BAC = 25^{\circ}$
 > Find $\angle B$: $\displaystyle\frac{\sin(B)}{20.5} = \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\sin(B) = 20.5 \times \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\angle B = 70.16\ldots \approx 70^{\circ}$
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3|Oblique Triangle Trigonometry 3]]
-> - **Next QOD:** [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 5|Oblique Triangle Trigonometry 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3|Oblique Triangle Trigonometry 3]]
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 5|Oblique Triangle Trigonometry 5]]

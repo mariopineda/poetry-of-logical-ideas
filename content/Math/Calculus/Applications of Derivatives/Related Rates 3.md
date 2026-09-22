@@ -20,15 +20,8 @@ Water is being poured out of a funnel at a rate of 15 cm$^3$/min. The right circ
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 2|Related Rates 2]]
-> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 4|Related Rates 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 2|Related Rates 2]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 4|Related Rates 4]]

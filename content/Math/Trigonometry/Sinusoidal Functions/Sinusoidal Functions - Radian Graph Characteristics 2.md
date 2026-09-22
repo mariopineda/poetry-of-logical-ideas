@@ -96,15 +96,6 @@ Use the graph to answer the following:
 > \boxed{4}
 > $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 1|Sinusoidal Functions - Radian Graph Characteristics 1]]
-> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 3|Sinusoidal Functions - Radian Graph Characteristics 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 1|Sinusoidal Functions - Radian Graph Characteristics 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 3|Sinusoidal Functions - Radian Graph Characteristics 3]]

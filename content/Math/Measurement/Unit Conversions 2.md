@@ -23,16 +23,7 @@ Convert the following unit as indicated using unit analysis. Provide all decimal
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
-> - **Next QOD:** [[Math/Measurement/Unit Conversions 3|Unit Conversions 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
+> - [[Math/Measurement/Unit Conversions 3|Unit Conversions 3]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

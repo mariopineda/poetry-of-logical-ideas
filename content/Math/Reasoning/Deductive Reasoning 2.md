@@ -19,15 +19,7 @@ Use deductive reasoning to prove that the sum of three consecutive even numbers 
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Concepts/Parity|Parity]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Reasoning/Inductive Reasoning 1|Inductive Reasoning 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]

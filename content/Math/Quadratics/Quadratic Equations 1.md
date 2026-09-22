@@ -21,15 +21,10 @@ When the equation $6x^2-12x-18$ is fully factored, one factor is:
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Quadratics/Completing the Square 4|Completing the Square 4]]
+> - [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]

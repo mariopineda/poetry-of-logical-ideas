@@ -48,15 +48,5 @@ How many unique daily schedules can a household have for accessing all three uti
 > Total schedules = 12 unique daily schedules
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]

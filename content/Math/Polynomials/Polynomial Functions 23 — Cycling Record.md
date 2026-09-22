@@ -96,16 +96,8 @@ Use your graphing calculator.
 > where $D$ is measured in kilometres.
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box|Polynomial Functions 22 — Redesigning a Box]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 24 — Stopping Distance|Polynomial Functions 24 — Stopping Distance]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 25 — Inflating a Balloon|Polynomial Functions 25 — Inflating a Balloon]]

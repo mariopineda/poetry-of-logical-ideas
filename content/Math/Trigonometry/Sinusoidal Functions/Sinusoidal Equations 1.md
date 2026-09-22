@@ -21,8 +21,9 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Graphing Sinusoidal Functions 1|Graphing Sinusoidal Functions 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1|Sinusoidal Function Transformations 1]]

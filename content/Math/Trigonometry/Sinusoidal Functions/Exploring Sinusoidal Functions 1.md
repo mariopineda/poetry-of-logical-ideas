@@ -24,8 +24,9 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 >
 
 > [!abstract] Review First
-> _None listed._
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 2|Amplitude and Period 2]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Graphing Sinusoidal Functions 1|Graphing Sinusoidal Functions 1]]

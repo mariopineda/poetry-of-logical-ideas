@@ -122,15 +122,6 @@ For this model, the highest point of the wheel is **550 ft above the ground**, t
 > \boxed{60\text{ min}}.
 > $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 2|Sinusoidal Functions - Ferris Wheel 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 1|Sinusoidal Functions - Ferris Wheel 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 2|Sinusoidal Functions - Ferris Wheel 2]]

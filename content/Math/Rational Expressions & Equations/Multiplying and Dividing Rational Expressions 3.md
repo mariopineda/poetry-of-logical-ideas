@@ -29,16 +29,9 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Medium|Factoring Polynomials Work Sheet - Medium]]
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2|Multiplying and Dividing Rational Expressions 2]]
-> - **Next QOD:** [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 4|Multiplying and Dividing Rational Expressions 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2|Multiplying and Dividing Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 4|Multiplying and Dividing Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

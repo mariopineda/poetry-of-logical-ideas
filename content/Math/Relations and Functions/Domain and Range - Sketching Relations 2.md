@@ -34,13 +34,8 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > 4. The function $y=7.5\sin x+2.5$ has domain $(-\infty,\infty)$ and range $[-5,10]$.
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]

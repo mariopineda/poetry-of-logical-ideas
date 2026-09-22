@@ -24,14 +24,8 @@ For $A=2 \pi r^2 +2 \pi rh$, find $\frac{dA}{dt}$.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 10|Implicit Differentiation 10]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 12|Implicit Differentiation 12]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 10|Implicit Differentiation 10]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 12|Implicit Differentiation 12]]

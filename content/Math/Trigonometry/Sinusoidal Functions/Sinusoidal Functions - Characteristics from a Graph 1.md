@@ -70,14 +70,6 @@ Use the graph to determine:
 >    \boxed{\{y\mid -3\le y\le 7,\ y\in\mathbb{R}\}}.
 >    $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 3|Sinusoidal Functions - Characteristics from a Graph 3]]

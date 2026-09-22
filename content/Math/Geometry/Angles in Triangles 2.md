@@ -31,9 +31,6 @@ Determine the degree measure of the angles marked by letters. Explain the reason
 > - Determine $i$: $i+e+h=180 \Rightarrow i=37^{\circ}$ (Triangle Sum Theorem)
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Geometry/Angles in Polygons 1|Angles in Polygons 1]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]

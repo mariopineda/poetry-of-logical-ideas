@@ -19,16 +19,8 @@ Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \fr
 ## Solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
-> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]

@@ -25,15 +25,8 @@ Write each expression as a single logarithm and then evaluate the expression
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]

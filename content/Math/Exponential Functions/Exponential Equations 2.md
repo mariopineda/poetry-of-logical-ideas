@@ -25,15 +25,9 @@ Solve the following equations. Express the solution as an exact value in the for
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]

@@ -72,16 +72,23 @@ No calculator is required.
 > Both ends extend downward. The turning point $(1,4)$ is an **absolute maximum** because $4$ is the greatest $y$-value anywhere on the graph.
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+> - [[Math/Polynomials/Polynomial Functions 8|Polynomial Functions 8]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 4|Polynomial Functions 4]]
+> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
+> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+> - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+> - [[Math/Polynomials/Polynomial Functions 16|Polynomial Functions 16]]
+> - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
+> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Relations and Functions/Function Transformations 3|Function Transformations 3]]
+> - [[Math/Relations and Functions/Function Transformations 4|Function Transformations 4]]
+> - [[Math/Relations and Functions/Function Transformations 5|Function Transformations 5]]
+> - [[Math/Quadratics/Completing the Square 4|Completing the Square 4]]
+> - [[Math/Quadratics/Quadratic Functions 1|Quadratic Functions 1]]

@@ -49,15 +49,8 @@ Express as an entire radical.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Radicals/Adding and Subtracting Radicals 1|Adding and Subtracting Radicals 1]]
+> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]

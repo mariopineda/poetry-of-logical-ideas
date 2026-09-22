@@ -20,16 +20,8 @@ A baseball diamond is in the shape of a square 27.4 m on each side. Mary starts 
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 3|Related Rates 3]]
-> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 5|Related Rates 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 3|Related Rates 3]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 5|Related Rates 5]]

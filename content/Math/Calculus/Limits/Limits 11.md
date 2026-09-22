@@ -19,18 +19,8 @@ Numerically estimate the following limits. Answer to 3 decimal places.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Limits/Limits 10|Limits 10]]
-> - **Next QOD:** [[Math/Calculus/Limits/Limits 12|Limits 12]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Limits/Limits 10|Limits 10]]
+> - [[Math/Calculus/Limits/Limits 12|Limits 12]]

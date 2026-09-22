@@ -42,14 +42,6 @@ $$
 > \boxed{48,\ 96}
 > $$
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
+> - [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]

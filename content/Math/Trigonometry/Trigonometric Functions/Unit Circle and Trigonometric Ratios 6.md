@@ -16,14 +16,9 @@ Skecth a diagram of the unit circle including the multiples of $\frac{\pi}{2}$, 
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 5|Unit Circle and Trigonometric Ratios 5]]
-> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 5|Unit Circle and Trigonometric Ratios 5]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

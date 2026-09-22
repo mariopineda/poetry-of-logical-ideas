@@ -20,14 +20,8 @@ Evalue $\displaystyle\lim\_{x \to 0} \frac{\sqrt{19x+121}-11}{x} = \frac{ab}{cd}
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Limits/Limits 14|Limits 14]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Limits/Limits 14|Limits 14]]
+> - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]

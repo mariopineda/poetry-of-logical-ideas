@@ -113,16 +113,12 @@ Use your graphing calculator as needed.
   - "[[Polynomial Functions 19 — Soccer Ball]]"
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
+> - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]

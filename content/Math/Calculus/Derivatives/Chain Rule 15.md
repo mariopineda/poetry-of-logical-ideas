@@ -24,15 +24,8 @@ $$y=f(g(x^3))$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Chain Rule 14|Chain Rule 14]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Chain Rule 16|Chain Rule 16]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Chain Rule 14|Chain Rule 14]]
+> - [[Math/Calculus/Derivatives/Chain Rule 16|Chain Rule 16]]

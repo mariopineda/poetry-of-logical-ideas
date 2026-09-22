@@ -20,14 +20,8 @@ Given the y-value, algebraically determine the corresponding x-value for the fol
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 3|Linear Relations 3]]
-> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 5|Linear Relations 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Linear Relations 3|Linear Relations 3]]
+> - [[Math/Relations and Functions/Linear Relations 5|Linear Relations 5]]

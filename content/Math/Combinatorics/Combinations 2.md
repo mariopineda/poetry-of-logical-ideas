@@ -45,16 +45,8 @@ Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Combinatorics/Combinations 1|Combinations 1]]
-> - **Next QOD:** [[Math/Combinatorics/Combinations 3|Combinations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]

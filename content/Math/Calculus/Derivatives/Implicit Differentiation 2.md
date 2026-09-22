@@ -16,14 +16,8 @@ Find the two tangent slopes for the circle $x^2+y^2=100$ at $x=-8$.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 3|Implicit Differentiation 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 3|Implicit Differentiation 3]]

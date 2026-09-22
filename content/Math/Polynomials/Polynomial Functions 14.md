@@ -46,16 +46,11 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 > Since profit is measured in **thousands of dollars**, the maximum monthly profit is **$9,000**.
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]

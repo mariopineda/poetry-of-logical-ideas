@@ -20,13 +20,7 @@ Two forest fires are spotted on opposite sides of an observation tower. From the
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7|Right Triangle Trigonometry 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7|Right Triangle Trigonometry 7]]

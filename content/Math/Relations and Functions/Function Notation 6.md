@@ -23,14 +23,8 @@ Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. deter
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 5|Function Notation 5]]
-> - **Next QOD:** [[Math/Relations and Functions/Function Notation 7|Function Notation 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Notation 5|Function Notation 5]]
+> - [[Math/Relations and Functions/Function Notation 7|Function Notation 7]]

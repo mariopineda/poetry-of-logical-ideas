@@ -19,14 +19,8 @@ For the position-time graph shown, describe the motion (East + and West -).
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Acceleration 1|Acceleration 1]]
-> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Acceleration 3|Acceleration 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives/Acceleration 1|Acceleration 1]]
+> - [[Math/Calculus/Applications of Derivatives/Acceleration 3|Acceleration 3]]

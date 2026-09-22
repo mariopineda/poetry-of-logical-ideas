@@ -25,14 +25,8 @@ The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground l
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]

@@ -31,9 +31,8 @@ Evaluate...
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Integration/Area Under and Between Curves 1|Area Under and Between Curves 1]]
+> - [[Math/Calculus/Integration/Fundamental Theorem of Calculus 1|Fundamental Theorem of Calculus 1]]

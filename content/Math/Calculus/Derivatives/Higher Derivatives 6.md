@@ -24,14 +24,7 @@ $$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Higher Derivatives 5|Higher Derivatives 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Higher Derivatives 5|Higher Derivatives 5]]

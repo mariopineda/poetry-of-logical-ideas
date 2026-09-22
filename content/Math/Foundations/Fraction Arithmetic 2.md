@@ -25,15 +25,6 @@ Evaluate without a calculator.
 > 4. $$\displaystyle\frac{5}{17} - \displaystyle\frac{2}{7} = \frac{35}{119} - \frac{34}{119} = \frac{1}{119}$$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Foundations/Fraction Arithmetic 1|Fraction Arithmetic 1]]
-> - **Next QOD:** [[Math/Foundations/Fraction Arithmetic 3|Fraction Arithmetic 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Fraction Arithmetic 1|Fraction Arithmetic 1]]
+> - [[Math/Foundations/Fraction Arithmetic 3|Fraction Arithmetic 3]]

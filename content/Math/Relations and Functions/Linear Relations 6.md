@@ -22,14 +22,8 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Linear Relations 5|Linear Relations 5]]
-> - **Next QOD:** [[Math/Relations and Functions/Linear Relations 7|Linear Relations 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Linear Relations 5|Linear Relations 5]]
+> - [[Math/Relations and Functions/Linear Relations 7|Linear Relations 7]]

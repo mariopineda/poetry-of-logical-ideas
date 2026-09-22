@@ -25,18 +25,8 @@ $$x^2-10x-24=0$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
-> - **Next QOD:** [[Math/Rational Expressions & Equations/Solving Rational Equations 3|Solving Rational Equations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 3|Solving Rational Equations 3]]

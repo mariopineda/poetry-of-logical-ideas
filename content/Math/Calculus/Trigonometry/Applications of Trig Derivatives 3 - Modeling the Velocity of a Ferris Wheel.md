@@ -64,16 +64,8 @@ A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters abo
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 1|Related Rates 1]]

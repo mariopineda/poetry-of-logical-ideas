@@ -18,14 +18,8 @@ Using permutations, determine the number of pathways from the red to the green p
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Combinatorics/Permutations 1|Permutations 1]]
-> - **Next QOD:** [[Math/Combinatorics/Permutations 3|Permutations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Permutations 3|Permutations 3]]

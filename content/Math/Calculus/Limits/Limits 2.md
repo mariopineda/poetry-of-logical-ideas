@@ -24,15 +24,8 @@ Evalue, if possible.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Limits/Limits 1|Limits 1]]
-> - **Next QOD:** [[Math/Calculus/Limits/Limits 3|Limits 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Limits/Limits 1|Limits 1]]
+> - [[Math/Calculus/Limits/Limits 3|Limits 3]]

@@ -25,16 +25,12 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Combinatorics/Permutations 2|Permutations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+> - [[Math/Combinatorics/Combinations 2|Combinations 2]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]

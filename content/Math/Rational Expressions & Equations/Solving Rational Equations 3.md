@@ -25,17 +25,8 @@ $$6x^2+17x=3$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Medium|Factoring Polynomials Work Sheet - Medium]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Rational Expressions & Equations/Solving Rational Equations 2|Solving Rational Equations 2]]
-> - **Next QOD:** [[Math/Rational Expressions & Equations/Solving Rational Equations 4|Solving Rational Equations 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 2|Solving Rational Equations 2]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 4|Solving Rational Equations 4]]

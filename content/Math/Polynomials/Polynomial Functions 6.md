@@ -95,17 +95,14 @@ Round decimals to the nearest hundreth.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+> - [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box|Polynomial Functions 22 — Redesigning a Box]]

@@ -27,14 +27,8 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2|Adding and Subtracting Rational Expressions 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2|Adding and Subtracting Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

@@ -66,15 +66,8 @@ Two sides of a triangle have lengths 15 m and 20 m. The angle between the sides 
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
-> - **Next QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel|Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 1|Applications of Trig Derivatives 1]]
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel|Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]

@@ -25,16 +25,8 @@ Solve for $x$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]

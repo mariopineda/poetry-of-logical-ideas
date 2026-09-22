@@ -17,9 +17,7 @@ Complete the white triangles in the following row from Pascal's Triangle.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+
 > [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
+> - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]

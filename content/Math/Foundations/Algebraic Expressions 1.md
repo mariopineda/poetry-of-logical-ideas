@@ -103,10 +103,27 @@ Evaluate without a calculator:
 > $$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Foundations/Fraction Arithmetic 1|Fraction Arithmetic 1]]
+
 > [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]
+> - [[Math/Exponential Functions/Exponent Laws 4|Exponent Laws 4]]
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Polynomials/Polynomial Operations 2|Polynomial Operations 2]]
+> - [[Math/Polynomials/Polynomial Review 1|Polynomial Review 1]]
+> - [[Math/Polynomials/Polynomial Review 2|Polynomial Review 2]]
+> - [[Math/Polynomials/Polynomial Review 3|Polynomial Review 3]]
+> - [[Math/Polynomials/Polynomial Review 4|Polynomial Review 4]]
+> - [[Math/Polynomials/Polynomial Review 5|Polynomial Review 5]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
+> - [[Math/Relations and Functions/Representing Relations 2|Representing Relations 2]]
+> - [[Math/Relations and Functions/Representing Relations 3|Representing Relations 3]]
+> - [[Math/Relations and Functions/Representing Relations 4|Representing Relations 4]]
+> - [[Math/Relations and Functions/Representing Relations 5|Representing Relations 5]]
+> - [[Math/Relations and Functions/Representing Relations 6|Representing Relations 6]]
+> - [[Math/Relations and Functions/Representing Relations 7|Representing Relations 7]]
+> - [[Math/Relations and Functions/Representing Relations 8|Representing Relations 8]]
+> - [[Math/Relations and Functions/Representing Relations 9|Representing Relations 9]]

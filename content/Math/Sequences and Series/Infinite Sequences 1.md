@@ -36,13 +36,9 @@ $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Sequences and Series/Infinite Sequences 2|Infinite Sequences 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 4|Infinite Geometric Sequences 4]]
+> - [[Math/Sequences and Series/Infinite Sequences 2|Infinite Sequences 2]]

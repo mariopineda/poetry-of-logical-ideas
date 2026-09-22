@@ -35,14 +35,8 @@ Determine the missing values in the table.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Representing Relations 3|Representing Relations 3]]
-> - **Next QOD:** [[Math/Relations and Functions/Representing Relations 5|Representing Relations 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Representing Relations 3|Representing Relations 3]]
+> - [[Math/Relations and Functions/Representing Relations 5|Representing Relations 5]]

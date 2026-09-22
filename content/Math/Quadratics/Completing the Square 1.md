@@ -26,15 +26,19 @@ Write each quadratic equation in vertex form by completing the square. State the
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Quadratics/Completing the Square 2|Completing the Square 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Quadratics/Completing the Square 2|Completing the Square 2]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+
+> [!success] Build Toward
+> - [[Math/Inequalities/Inequalities 1|Inequalities 1]]
+> - [[Math/Inequalities/Inequalities 2|Inequalities 2]]
+> - [[Math/Inequalities/Inequalities 3|Inequalities 3]]
+> - [[Math/Inequalities/Inequalities 4|Inequalities 4]]
+> - [[Math/Inequalities/Inequalities 5|Inequalities 5]]
+> - [[Math/Inequalities/Inequalities 6|Inequalities 6]]
+> - [[Math/Inequalities/Inequalities 7|Inequalities 7]]
+> - [[Math/Inequalities/Inequalities 8|Inequalities 8]]

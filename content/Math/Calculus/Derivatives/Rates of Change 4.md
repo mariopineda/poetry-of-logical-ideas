@@ -28,15 +28,8 @@ Determine the instantaneous rate of change of volume (w.r.t. $h$) at $h=3$ cm.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Rates of Change 3|Rates of Change 3]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Rates of Change 5|Rates of Change 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Rates of Change 3|Rates of Change 3]]
+> - [[Math/Calculus/Derivatives/Rates of Change 5|Rates of Change 5]]

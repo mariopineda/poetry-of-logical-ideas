@@ -32,18 +32,9 @@ $$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Sequences and Series/Infinite Sequences 3|Infinite Sequences 3]]
-> - **Next QOD:** [[Math/Sequences and Series/Infinite Sequences 5|Infinite Sequences 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Sequences and Series/Infinite Sequences 3|Infinite Sequences 3]]
+> - [[Math/Sequences and Series/Infinite Sequences 5|Infinite Sequences 5]]

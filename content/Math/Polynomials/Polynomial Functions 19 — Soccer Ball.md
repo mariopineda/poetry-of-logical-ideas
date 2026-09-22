@@ -90,17 +90,12 @@ Use your graphing calculator as needed.
   - "[[Polynomial Functions 18 — Draining Water Tank]]"
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 7|Quadratic Equations 7]]
+> - [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank|Polynomial Functions 18 — Draining Water Tank]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank|Polynomial Functions 18 — Draining Water Tank]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]

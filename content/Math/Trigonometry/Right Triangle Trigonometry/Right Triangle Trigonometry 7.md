@@ -17,14 +17,8 @@ A lighthouse lookout is 10 m tall. The lighthouse is situated on a cliff that is
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6|Right Triangle Trigonometry 6]]
-> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8|Right Triangle Trigonometry 8]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6|Right Triangle Trigonometry 6]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8|Right Triangle Trigonometry 8]]

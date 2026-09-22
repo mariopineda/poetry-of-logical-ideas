@@ -97,14 +97,6 @@ Use the graph to answer the following:
 > \boxed{2}
 > $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 2|Sinusoidal Functions - Radian Graph Characteristics 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 1|Sinusoidal Functions - Radian Graph Characteristics 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Radian Graph Characteristics 2|Sinusoidal Functions - Radian Graph Characteristics 2]]

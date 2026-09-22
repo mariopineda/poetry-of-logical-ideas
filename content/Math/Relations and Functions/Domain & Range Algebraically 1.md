@@ -70,17 +70,8 @@ Algebraically determine the domain of:
 > - Interval notation: $[-7,0]\cup[7,\infty)$
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Domain & Range Algebraically 2|Domain & Range Algebraically 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 2|Domain & Range Algebraically 2]]

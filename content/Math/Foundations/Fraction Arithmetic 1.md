@@ -33,15 +33,6 @@ Convert each of the improper fractions below into a decimal to nearest hundreth,
 >    Equivalen fraction: $$\frac{48}{36} = \frac{32}{24}$$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Foundations/Fraction Arithmetic 2|Fraction Arithmetic 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
+> - [[Math/Foundations/Fraction Arithmetic 2|Fraction Arithmetic 2]]

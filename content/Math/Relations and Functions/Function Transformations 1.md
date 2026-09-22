@@ -22,18 +22,27 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
+
+> [!success] Build Toward
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 2|Amplitude and Period 2]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Exploring Sinusoidal Functions 1|Exploring Sinusoidal Functions 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Graphing Sinusoidal Functions 1|Graphing Sinusoidal Functions 1]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> - [[Math/Polynomials/Polynomial Functions 2|Polynomial Functions 2]]
+> - [[Math/Polynomials/Polynomial Functions 3|Polynomial Functions 3]]
+> - [[Math/Polynomials/Polynomial Functions 4|Polynomial Functions 4]]
+> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
+> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Polynomials/Polynomial Functions 8|Polynomial Functions 8]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Equations 1|Sinusoidal Equations 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1|Sinusoidal Function Transformations 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]
+> - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
+> - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]

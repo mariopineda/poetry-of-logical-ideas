@@ -23,14 +23,8 @@ Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evalu
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
-> - **Next QOD:** [[Math/Relations and Functions/Function Notation 6|Function Notation 6]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
+> - [[Math/Relations and Functions/Function Notation 6|Function Notation 6]]

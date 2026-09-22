@@ -19,15 +19,7 @@ Use deductive reasoning to prove that the sum of three consecutive integers is a
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Parity|Parity]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Reasoning/Inductive Reasoning 1|Inductive Reasoning 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]

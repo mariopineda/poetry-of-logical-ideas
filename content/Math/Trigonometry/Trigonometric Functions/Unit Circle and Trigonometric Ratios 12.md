@@ -19,15 +19,9 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 11|Unit Circle and Trigonometric Ratios 11]]
-> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 13|Unit Circle and Trigonometric Ratios 13]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 11|Unit Circle and Trigonometric Ratios 11]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 13|Unit Circle and Trigonometric Ratios 13]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

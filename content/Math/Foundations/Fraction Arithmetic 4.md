@@ -25,16 +25,6 @@ Evaluate withouth a calculator by, when possible, reducing the fractions to lowe
 > 4. $$\frac{4}{18} \times \frac{2}{12} = \frac{2}{9} \times \frac{1}{6} = \frac{1}{9} \times \frac{1}{3} = \frac{1}{27}$$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Foundations/Fraction Arithmetic 3|Fraction Arithmetic 3]]
-> - **Next QOD:** [[Math/Foundations/Fraction Arithmetic 5|Fraction Arithmetic 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Fraction Arithmetic 3|Fraction Arithmetic 3]]
+> - [[Math/Foundations/Fraction Arithmetic 5|Fraction Arithmetic 5]]

@@ -16,10 +16,10 @@ show_solution: false
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
+> - [[Math/Reasoning/Logical Puzzle 2|Logical Puzzle 2]]
+> - [[Math/Set Theory/Set Theory 1|Set Theory 1]]
+
 > [!success] Build Toward
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
+> - [[Math/Set Theory/Set Theory 2|Set Theory 2]]
+> - [[Math/Set Theory/Set Theory 3|Set Theory 3]]

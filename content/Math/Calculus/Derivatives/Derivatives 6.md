@@ -18,14 +18,8 @@ Given the sketches of $y=f(x)$, roughly sketch the derivative function $y=f'(x)$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Derivatives 5|Derivatives 5]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Derivatives 7|Derivatives 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Derivatives 5|Derivatives 5]]
+> - [[Math/Calculus/Derivatives/Derivatives 7|Derivatives 7]]

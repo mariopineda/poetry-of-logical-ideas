@@ -29,14 +29,8 @@ Evaluate the following using the graph.
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Limits/Limits 3|Limits 3]]
-> - **Next QOD:** [[Math/Calculus/Limits/Limits 5|Limits 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Limits/Limits 3|Limits 3]]
+> - [[Math/Calculus/Limits/Limits 5|Limits 5]]

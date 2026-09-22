@@ -16,14 +16,9 @@ The point $\left( -\frac{1}{2},\frac{\sqrt{3}}{2} \right)$ lies at the intersect
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
-> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 11|Unit Circle and Trigonometric Ratios 11]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 11|Unit Circle and Trigonometric Ratios 11]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

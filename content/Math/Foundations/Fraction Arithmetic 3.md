@@ -25,16 +25,6 @@ Convert each of the mixed fractions below into an improper fraction and simplify
 > 4. $$17\frac{2}{4} = \frac{70}{4} = \frac{35}{2}$$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Foundations/Fraction Arithmetic 2|Fraction Arithmetic 2]]
-> - **Next QOD:** [[Math/Foundations/Fraction Arithmetic 4|Fraction Arithmetic 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Fraction Arithmetic 2|Fraction Arithmetic 2]]
+> - [[Math/Foundations/Fraction Arithmetic 4|Fraction Arithmetic 4]]

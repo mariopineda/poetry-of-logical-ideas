@@ -86,9 +86,7 @@ Simplify the following radicals.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]

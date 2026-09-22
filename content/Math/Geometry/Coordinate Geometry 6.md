@@ -18,14 +18,7 @@ Determine the equation of the line. Answer in general form.
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Geometry/Coordinate Geometry 5|Coordinate Geometry 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Geometry/Coordinate Geometry 5|Coordinate Geometry 5]]
+> - [[Math/Geometry/Perpendicular Lines 1|Perpendicular Lines 1]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]

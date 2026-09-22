@@ -24,14 +24,8 @@ For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 6|Implicit Differentiation 6]]
-> - **Next QOD:** [[Math/Calculus/Derivatives/Implicit Differentiation 8|Implicit Differentiation 8]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 6|Implicit Differentiation 6]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 8|Implicit Differentiation 8]]

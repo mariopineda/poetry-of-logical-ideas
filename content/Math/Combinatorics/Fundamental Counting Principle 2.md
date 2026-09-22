@@ -24,17 +24,6 @@ How many ways are there of getting from A to C, passing through each point at mo
 > $3 + 2 + 6 = 11$ different routes
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
-> - **Next QOD:** [[Math/Combinatorics/Fundamental Counting Principle 3|Fundamental Counting Principle 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 3|Fundamental Counting Principle 3]]

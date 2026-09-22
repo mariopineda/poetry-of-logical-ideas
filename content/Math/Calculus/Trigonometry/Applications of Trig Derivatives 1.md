@@ -48,15 +48,8 @@ A beacon at a lighthouse, located a perpendicular distance of 315 m from point R
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives 1 - Shadow Length of a Moving Object|Applications of Derivatives 1 - Shadow Length of a Moving Object]]
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 2|Applications of Trig Derivatives 2]]

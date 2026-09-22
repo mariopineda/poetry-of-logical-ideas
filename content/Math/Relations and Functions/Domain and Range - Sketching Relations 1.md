@@ -35,13 +35,8 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > 4. The ray $y=-x-4$, restricted to $x\ge-2$, has domain $[-2,\infty)$ and range $(-\infty,-2]$.
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

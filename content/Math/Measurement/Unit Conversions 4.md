@@ -98,15 +98,6 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 > Solution: $8 \mbox{ yd, } 2 \mbox{ ft and } 4\frac{\displaystyle 4}{\displaystyle 5} \mbox{ in}$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Measurement/Unit Conversions 3|Unit Conversions 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Measurement/Unit Conversions 3|Unit Conversions 3]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

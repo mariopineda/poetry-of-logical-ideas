@@ -26,9 +26,7 @@ Evaluate by converting to exponential form.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Logarithmic Functions/Graphs of Logarithmic Functions|Graphs of Logarithmic Functions]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]

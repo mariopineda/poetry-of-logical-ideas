@@ -26,15 +26,8 @@ Evaluate the following integrals using the substitution rule.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Integration/Substitution Rule|Substitution Rule]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Integration/u-Substitution|u-Substitution]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Integration/Substitution Rule 1|Substitution Rule 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Substitution Rule 1|Substitution Rule 1]]

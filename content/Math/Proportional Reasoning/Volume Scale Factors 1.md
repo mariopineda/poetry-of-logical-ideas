@@ -30,9 +30,7 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Proportional Reasoning/Scale Factors 2|Scale Factors 2]]

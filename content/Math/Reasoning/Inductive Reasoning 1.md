@@ -15,15 +15,9 @@ show_solution: false
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
+> - [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!success] Build Toward
+> - [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]

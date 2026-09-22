@@ -25,17 +25,10 @@ $x+2$ is a factor of
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Easy|Factoring Polynomials Work Sheet - Easy]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
-> - **Next QOD:** [[Math/Quadratics/Quadratic Equations 3|Quadratic Equations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
+> - [[Math/Quadratics/Quadratic Equations 3|Quadratic Equations 3]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]

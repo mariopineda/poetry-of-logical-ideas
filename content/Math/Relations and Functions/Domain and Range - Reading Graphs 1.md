@@ -67,14 +67,40 @@ Determine the **domain and range** of each relation in both **set-builder notati
 > - Interval notation: $[-3,2)$
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+
+> [!success] Build Toward
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Function Notation 10|Function Notation 10]]
+> - [[Math/Relations and Functions/Function Notation 11|Function Notation 11]]
+> - [[Math/Relations and Functions/Function Notation 12|Function Notation 12]]
+> - [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
+> - [[Math/Relations and Functions/Function Notation 3|Function Notation 3]]
+> - [[Math/Relations and Functions/Function Notation 4|Function Notation 4]]
+> - [[Math/Relations and Functions/Function Notation 5|Function Notation 5]]
+> - [[Math/Relations and Functions/Function Notation 6|Function Notation 6]]
+> - [[Math/Relations and Functions/Function Notation 7|Function Notation 7]]
+> - [[Math/Relations and Functions/Function Notation 8|Function Notation 8]]
+> - [[Math/Relations and Functions/Function Notation 9|Function Notation 9]]
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 1|Polynomial Functions - Matching Equations and Graphs 1]]
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 2|Polynomial Functions - Matching Equations and Graphs 2]]
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 3|Polynomial Functions - Matching Equations and Graphs 3]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Relations and Functions/Properties of Functions 10|Properties of Functions 10]]
+> - [[Math/Relations and Functions/Properties of Functions 11|Properties of Functions 11]]
+> - [[Math/Relations and Functions/Properties of Functions 12|Properties of Functions 12]]
+> - [[Math/Relations and Functions/Properties of Functions 13|Properties of Functions 13]]
+> - [[Math/Relations and Functions/Properties of Functions 2|Properties of Functions 2]]
+> - [[Math/Relations and Functions/Properties of Functions 3|Properties of Functions 3]]
+> - [[Math/Relations and Functions/Properties of Functions 4|Properties of Functions 4]]
+> - [[Math/Relations and Functions/Properties of Functions 5|Properties of Functions 5]]
+> - [[Math/Relations and Functions/Properties of Functions 6|Properties of Functions 6]]
+> - [[Math/Relations and Functions/Properties of Functions 7|Properties of Functions 7]]
+> - [[Math/Relations and Functions/Properties of Functions 8|Properties of Functions 8]]
+> - [[Math/Relations and Functions/Properties of Functions 9|Properties of Functions 9]]

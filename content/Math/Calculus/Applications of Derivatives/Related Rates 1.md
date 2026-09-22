@@ -16,13 +16,8 @@ A 6 m ladder is leaning against the wall and its foot is sliding away from the w
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 2|Related Rates 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel|Applications of Trig Derivatives 3 - Modeling the Velocity of a Ferris Wheel]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 2|Related Rates 2]]

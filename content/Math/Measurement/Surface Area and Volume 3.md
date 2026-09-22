@@ -25,16 +25,7 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 
 > [!example]- Show solution
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Measurement/Surface Area and Volume 2|Surface Area and Volume 2]]
-> - **Next QOD:** [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Measurement/Surface Area and Volume 2|Surface Area and Volume 2]]
+> - [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

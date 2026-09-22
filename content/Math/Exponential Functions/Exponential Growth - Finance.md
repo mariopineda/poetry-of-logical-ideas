@@ -28,9 +28,7 @@ b) How much will the bond be worth after 1 year?
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
+> - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]

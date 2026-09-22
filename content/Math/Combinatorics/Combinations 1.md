@@ -19,14 +19,11 @@ Consider a circle with five points marked on the circumference.
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Combinatorics/Combinations 2|Combinations 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations 2|Combinations 2]]
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]
+> - [[Math/Combinatorics/Pascal's Triangle|Pascal's Triangle]]

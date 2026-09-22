@@ -32,14 +32,8 @@ $4\sqrt{3}$, $3\sqrt{5}$, $5\sqrt{2}$, $2\sqrt{10}$, $2\sqrt{13}$, $3\sqrt{6}$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]
+> - [[Math/Radicals/Multiplying and Dividing Radicals 1|Multiplying and Dividing Radicals 1]]

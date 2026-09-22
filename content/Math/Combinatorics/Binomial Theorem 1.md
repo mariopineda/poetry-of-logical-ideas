@@ -21,10 +21,5 @@ Determine:
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
+> - [[Math/Combinatorics/Pascal's Triangle|Pascal's Triangle]]
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]

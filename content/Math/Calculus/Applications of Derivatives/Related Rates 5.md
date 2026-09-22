@@ -20,16 +20,8 @@ Joe is driving east at 60 km/h, Dave is driving south at 70 km/h. Both cars are 
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
+> - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 4|Related Rates 4]]
-> - **Next QOD:** [[Math/Calculus/Applications of Derivatives/Related Rates 6|Related Rates 6]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 4|Related Rates 4]]
+> - [[Math/Calculus/Applications of Derivatives/Related Rates 6|Related Rates 6]]

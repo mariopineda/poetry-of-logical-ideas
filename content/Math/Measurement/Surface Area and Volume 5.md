@@ -52,15 +52,7 @@ show_solution: false
 > 0.9 m
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
+> - [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

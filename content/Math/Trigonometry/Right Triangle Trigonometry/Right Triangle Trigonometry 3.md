@@ -27,15 +27,8 @@ The shorter side of a rectangle is 5.7 cm. The angle between this side and a dia
 >
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2|Right Triangle Trigonometry 2]]
-> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4|Right Triangle Trigonometry 4]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2|Right Triangle Trigonometry 2]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4|Right Triangle Trigonometry 4]]

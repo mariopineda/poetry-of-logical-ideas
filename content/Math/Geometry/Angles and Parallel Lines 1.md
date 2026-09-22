@@ -33,9 +33,16 @@ Determine the degree measure of the angles marked by letters.
 > - Determine $b$: $a+b+c=180^{\circ} \Rightarrow b=33^{\circ}$ (Same side interior angles)
 >
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> _None listed._
+> - [[Math/Geometry/Angles in Polygons 1|Angles in Polygons 1]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
 > [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 2|Right Triangle Trigonometry 2]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 4|Right Triangle Trigonometry 4]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 6|Right Triangle Trigonometry 6]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7|Right Triangle Trigonometry 7]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 8|Right Triangle Trigonometry 8]]

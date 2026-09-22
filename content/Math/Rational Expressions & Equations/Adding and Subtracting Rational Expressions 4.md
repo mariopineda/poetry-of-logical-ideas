@@ -33,15 +33,9 @@ $$\frac{t-2}{4} - \frac{t-3}{5}$$
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 3|Adding and Subtracting Rational Expressions 3]]
-> - **Next QOD:** [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5|Adding and Subtracting Rational Expressions 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 3|Adding and Subtracting Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5|Adding and Subtracting Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

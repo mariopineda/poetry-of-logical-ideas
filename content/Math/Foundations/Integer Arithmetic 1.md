@@ -72,15 +72,6 @@ Evaluate without a calculator:
 > $$
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Fraction Arithmetic 7|Fraction Arithmetic 7]]
+> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]

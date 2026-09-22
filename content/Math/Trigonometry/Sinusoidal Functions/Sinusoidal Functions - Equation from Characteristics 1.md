@@ -79,14 +79,6 @@ Show how you determined the values of $a$, $b$, and $d$.
 > \boxed{y=4\sin\left(\frac{\pi}{2}x\right)+2}.
 > $$
 
-> [!abstract] Review First
-> _None listed._
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 2|Sinusoidal Functions - Equation from Characteristics 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 2|Sinusoidal Functions - Equation from Characteristics 2]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 3|Sinusoidal Functions - Equation from Characteristics 3]]

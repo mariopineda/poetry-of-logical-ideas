@@ -22,9 +22,9 @@ Which of the following functions is not a quadratic function?
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Quadratics/Quadratic Equations 9|Quadratic Equations 9]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]

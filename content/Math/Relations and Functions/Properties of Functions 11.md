@@ -20,16 +20,9 @@ show_solution: false
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Properties of Functions 10|Properties of Functions 10]]
-> - **Next QOD:** [[Math/Relations and Functions/Properties of Functions 12|Properties of Functions 12]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Properties of Functions 10|Properties of Functions 10]]
+> - [[Math/Relations and Functions/Properties of Functions 12|Properties of Functions 12]]

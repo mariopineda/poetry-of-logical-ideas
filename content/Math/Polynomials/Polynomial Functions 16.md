@@ -50,15 +50,5 @@ The graph below shows the height of a ball during its flight.
 > Therefore, the ball is in the air for **8 s** altogether.
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 17|Polynomial Functions 17]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]

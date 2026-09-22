@@ -21,14 +21,9 @@ Using the unit circle, determine the exact values of:
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
-> - **Next QOD:** [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
+> - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

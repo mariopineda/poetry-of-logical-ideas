@@ -48,18 +48,8 @@ Factor:
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-> - **Next QOD:** [[Math/Polynomials/Factoring Polynomials 5|Factoring Polynomials 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+> - [[Math/Polynomials/Factoring Polynomials 5|Factoring Polynomials 5]]

@@ -42,14 +42,6 @@ $$
 > \boxed{112,\ 224}
 > $$
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
+> - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]

@@ -28,9 +28,8 @@ Sea level is rising, in part, because of global climate change causes the meltin
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1|Environmental Data Analysis - Seasonal Sea Ice Extent 1]]

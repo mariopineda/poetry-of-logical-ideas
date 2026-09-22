@@ -26,16 +26,8 @@ Evaluate the limits.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Polynomials/Difference of Squares|Difference of Squares]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Calculus/Limits/Limits 6|Limits 6]]
-> - **Next QOD:** [[Math/Calculus/Limits/Limits 8|Limits 8]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Limits/Limits 6|Limits 6]]
+> - [[Math/Calculus/Limits/Limits 8|Limits 8]]

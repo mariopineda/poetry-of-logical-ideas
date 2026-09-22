@@ -36,14 +36,8 @@ $${(3,-2),(4,1),(5,1),(6,0),(7,-2)}$$
 > [!example]- Show solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - **Next QOD:** [[Math/Relations and Functions/Function Notation 3|Function Notation 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Function Notation 3|Function Notation 3]]

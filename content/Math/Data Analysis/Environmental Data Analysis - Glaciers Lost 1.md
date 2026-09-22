@@ -28,9 +28,7 @@ Due to human caused global warming glaciers in the Rocky Mountains have been shr
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
 > [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]

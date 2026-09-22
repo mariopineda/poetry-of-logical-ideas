@@ -20,14 +20,9 @@ A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Exponential Functions/Exponential Functions|Exponential Functions]]
-> - [[Math/Supporting Notes/Mathematical Curiosities/Mind-Bending Facts About Infinity|Mind-Bending Facts About Infinity]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Sequences and Series/Infinite Geometric Sequences 3|Infinite Geometric Sequences 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 3|Infinite Geometric Sequences 3]]
+> - [[Math/Sequences and Series/Infinite Sequences 1|Infinite Sequences 1]]

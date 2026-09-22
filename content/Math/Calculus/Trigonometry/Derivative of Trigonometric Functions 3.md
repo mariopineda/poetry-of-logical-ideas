@@ -42,10 +42,9 @@ Prove that $y=\sec x + \tan x$ is concave up on the following interval $\left( -
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> - [[Math/Supporting Notes/Polynomials/Square of a Binomial|Square of a Binomial]]
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2d|Derivative of Trigonometric Functions 2d]]
+> - [[Math/Calculus/Trigonometry/Trigonometric Derivatives 1|Trigonometric Derivatives 1]]

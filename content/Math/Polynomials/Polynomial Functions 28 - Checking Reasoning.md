@@ -76,17 +76,17 @@ C) Sketch your function from part **B**. Label the $y$-intercept and clearly sho
 > Accept a different correct sketch when it matches the student's valid equation in part **b)**.
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Concepts/Mathematical Proof|Mathematical Proof]]
-> - [[Math/Supporting Notes/Reasoning/Reasoning|Reasoning]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Polynomials/Polynomial Functions 2|Polynomial Functions 2]]
+> - [[Math/Polynomials/Polynomial Functions 4|Polynomial Functions 4]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
+> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - [[Math/Polynomials/Polynomial Functions 8|Polynomial Functions 8]]
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+> - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
+> - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
+> - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
+> - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]

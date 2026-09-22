@@ -40,14 +40,8 @@ Complete the following table. Do not answer with decimals unless the given scale
 > | $\sqrt[3]{\displaystyle\frac{1}{1000}} = \displaystyle\frac{1}{10}$ | $\left(\displaystyle\frac{1}{10}\right)^2 = \displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{1000}$ |
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> _None listed._
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
+> - [[Math/Proportional Reasoning/Volume Scale Factors 1|Volume Scale Factors 1]]

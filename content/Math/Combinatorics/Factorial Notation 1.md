@@ -48,11 +48,12 @@ Solve the equations
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Combinatorics/Fundamental Counting Principle|Fundamental Counting Principle]]
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Combinatorics/Combinatorics|Combinatorics]]
-> - [[Math/Supporting Notes/Combinatorics/Permutations with Identical Objects|Permutations with Identical Objects]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+
 > [!success] Build Toward
-> - [[Math/Supporting Notes/Combinatorics/Combinations|Combinations]]
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
+> - [[Math/Combinatorics/Permutations 4|Permutations 4]]
+> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+> - [[Math/Combinatorics/Permutations with Repetition 1|Permutations with Repetition 1]]

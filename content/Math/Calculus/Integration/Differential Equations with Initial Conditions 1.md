@@ -19,13 +19,7 @@ On the surface of the moon, the acceleration due to gravity is 1.6 m/s$^2$ downw
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Integration/Antiderivative|Antiderivative]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Calculus/Differential Equations with Initial Conditions|Differential Equations with Initial Conditions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Calculus/Integration/Differential Equations with Initial Conditions 2|Differential Equations with Initial Conditions 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 2|Differential Equations with Initial Conditions 2]]

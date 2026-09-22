@@ -35,17 +35,13 @@ Without using technology, determine the following characteristics of the given f
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Constant Polynomial Functions|Constant Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 9|Polynomial Functions 9]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]

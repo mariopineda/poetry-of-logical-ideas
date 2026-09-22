@@ -24,8 +24,9 @@ In each case, write a rational expression with the given variable and non-permis
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 6|Multiplying and Dividing Rational Expressions 6]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

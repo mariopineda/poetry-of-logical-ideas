@@ -16,14 +16,9 @@ Find the equation of a since function with an amplitude of 3, period of $\frac{\
 ## Solution
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1|Sinusoidal Function Transformations 1]]
-> - **Next QOD:** [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 1|Sinusoidal Function Transformations 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]

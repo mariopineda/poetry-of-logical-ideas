@@ -41,14 +41,8 @@ show_solution: false
 > \]
 
 > [!abstract] Review First
-> _None listed._
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Proportional Reasoning/Proportional Reasoning|Proportional Reasoning]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
-> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 3|Right Triangle Trigonometry 3]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]

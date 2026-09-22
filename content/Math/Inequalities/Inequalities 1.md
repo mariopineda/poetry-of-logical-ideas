@@ -23,13 +23,7 @@ If set $R=\{x|x<7, x \in \mathbb{R}\}$ and set $T=\{x|x \geq -4, x \in \mathbb{R
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Set Theory/Set Theory|Set Theory]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Symmetric Difference|Symmetric Difference]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Inequalities/Inequalities 2|Inequalities 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Inequalities/Inequalities 2|Inequalities 2]]

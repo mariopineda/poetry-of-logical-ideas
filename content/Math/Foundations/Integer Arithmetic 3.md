@@ -53,14 +53,6 @@ Evaluate without a calculator:
 > \]
 >
 
-> [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Division by Zero|Division by Zero]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
+> - [[Math/Foundations/Order of Operations 1|Order of Operations 1]]

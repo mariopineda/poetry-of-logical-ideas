@@ -38,14 +38,8 @@ Convert the following radicals to mixed radicals in simplest form.
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Concepts/Prime Factorization|Prime Factorization]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Radicals/Radical Multiplication and Division Worksheet|Radical Multiplication and Division Worksheet]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Next QOD:** [[Math/Radicals/Radicals 2|Radicals 2]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]
+> - [[Math/Radicals/Radicals 2|Radicals 2]]

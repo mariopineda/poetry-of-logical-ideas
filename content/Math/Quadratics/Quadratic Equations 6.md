@@ -20,18 +20,10 @@ Using the quadratic formula the positive root, to the nearest tenth, of the foll
 >
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
-> - [[Math/Supporting Notes/Polynomials/Polynomials|Polynomials]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Zero Product Theorem|Zero Product Theorem]]
-> - [[Math/Supporting Notes/Polynomials/Factoring Polynomials Work Sheet - Medium|Factoring Polynomials Work Sheet - Medium]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Quadratics/Quadratic Equations 5|Quadratic Equations 5]]
-> - **Next QOD:** [[Math/Quadratics/Quadratic Equations 7|Quadratic Equations 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Quadratics/Quadratic Equations 5|Quadratic Equations 5]]
+> - [[Math/Quadratics/Quadratic Equations 7|Quadratic Equations 7]]
+> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]

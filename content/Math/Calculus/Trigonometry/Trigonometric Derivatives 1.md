@@ -16,9 +16,8 @@ Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the poi
 ## Solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
 > [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Transcendental Functions|Transcendental Functions]]
-> - [[Math/Supporting Notes/Rational Expressions & Equations/Rational Expressions & Equations|Rational Expressions & Equations]]
-> [!success] Build Toward
-> _None listed._
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 3|Derivative of Trigonometric Functions 3]]

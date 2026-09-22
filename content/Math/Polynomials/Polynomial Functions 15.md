@@ -57,15 +57,9 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 > Since $P(x)=16$ means **$16\,000$**, the maximum monthly profit is **$16\,000$**.
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Polynomials/Graphs of Polynomial Functions (Student Notes)|Graphs of Polynomial Functions (Student Notes)]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Polynomials/Characteristics of Polynomial Functions|Characteristics of Polynomial Functions]]
-> - [[Math/Supporting Notes/Polynomials/Higher Degree Polynomial Functions|Higher Degree Polynomial Functions]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Calculus/Calculus|Calculus]]
+> - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
-> - **Next QOD:** [[Math/Polynomials/Polynomial Functions 16|Polynomial Functions 16]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 16|Polynomial Functions 16]]
+> - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]

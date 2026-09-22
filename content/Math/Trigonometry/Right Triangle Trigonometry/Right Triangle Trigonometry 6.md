@@ -17,14 +17,8 @@ How much shorter is it to diagonally cross a rectangular field than around the s
 > [!example]- Show solution
 
 > [!abstract] Review First
-> - [[Math/Supporting Notes/Arithmetic/Arithmetic|Arithmetic]]
-> [!info] Explore Also
-> - [[Math/Supporting Notes/Concepts/Diagonal|Diagonal]]
-> [!success] Build Toward
-> - [[Math/Supporting Notes/Radicals/Radicals|Radicals]]
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
 
-<!-- QOD-WEB-PRACTICE-START -->
-> [!example] More QOD Practice
-> - **Previous QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
-> - **Next QOD:** [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7|Right Triangle Trigonometry 7]]
-<!-- QOD-WEB-PRACTICE-END -->
+> [!info] Explore Also
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 5|Right Triangle Trigonometry 5]]
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 7|Right Triangle Trigonometry 7]]
