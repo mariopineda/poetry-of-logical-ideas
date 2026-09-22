@@ -106,8 +106,12 @@ Use your graphing calculator as needed.
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 12|Polynomial Functions 12]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]

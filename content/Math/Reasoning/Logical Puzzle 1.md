@@ -21,6 +21,16 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 > [!example]- Show solution
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Reasoning/Logical Puzzle 2|Logical Puzzle 2]]
 > - [[Math/Set Theory/Set Theory 1|Set Theory 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

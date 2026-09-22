@@ -32,8 +32,12 @@ If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the follo
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Relations and Functions/Function Notation 2|Function Notation 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]

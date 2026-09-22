@@ -24,8 +24,12 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Trigonometry/Sinusoidal Functions/Amplitude and Period 1|Amplitude and Period 1]]

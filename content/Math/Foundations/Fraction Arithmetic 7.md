@@ -29,6 +29,16 @@ Evaluate without a calculator.
 > 6. $$\displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8} + \displaystyle\frac{2}{4} \right) = \displaystyle\frac{1}{4} \div \left( \displaystyle\frac{5}{8}+\displaystyle\frac{4}{8} \right) = \displaystyle\frac{1}{4} \div \displaystyle\frac{9}{8} = \displaystyle\frac{1}{4} \times \displaystyle\frac{8}{9} = \displaystyle\frac{8}{36} = \displaystyle\frac{2}{9}$$
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Foundations/Fraction Arithmetic 6|Fraction Arithmetic 6]]
 > - [[Math/Foundations/Integer Arithmetic 1|Integer Arithmetic 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

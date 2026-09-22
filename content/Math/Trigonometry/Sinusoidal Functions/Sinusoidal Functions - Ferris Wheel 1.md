@@ -122,6 +122,16 @@ For this model, the highest point of the wheel is **135 m above the ground**, th
 > \boxed{60\text{ min}}.
 > $$
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 2|Sinusoidal Functions - Ferris Wheel 2]]
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Ferris Wheel 3|Sinusoidal Functions - Ferris Wheel 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

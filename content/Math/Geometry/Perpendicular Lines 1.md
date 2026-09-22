@@ -47,6 +47,16 @@ show_solution: false
 > The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Geometry/Coordinate Geometry 6|Coordinate Geometry 6]]
 > - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -25,6 +25,16 @@ Evaluate withouth a calculator by, when possible, reducing the fractions to lowe
 > 4. $$\frac{4}{18} \times \frac{2}{12} = \frac{2}{9} \times \frac{1}{6} = \frac{1}{9} \times \frac{1}{3} = \frac{1}{27}$$
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Foundations/Fraction Arithmetic 3|Fraction Arithmetic 3]]
 > - [[Math/Foundations/Fraction Arithmetic 5|Fraction Arithmetic 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

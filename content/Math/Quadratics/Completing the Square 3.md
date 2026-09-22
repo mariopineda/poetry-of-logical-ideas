@@ -30,7 +30,14 @@ Indicate which of the following functions are quadratic. For the quadratic funct
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Quadratics/Completing the Square 2|Completing the Square 2]]
 > - [[Math/Quadratics/Completing the Square 4|Completing the Square 4]]
 > - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -27,9 +27,13 @@ State whether or not each of the following functions is a polynomial function? E
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 2|Polynomial Functions 2]]
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]

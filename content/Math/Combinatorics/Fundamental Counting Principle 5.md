@@ -28,6 +28,16 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 > FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 6|Fundamental Counting Principle 6]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

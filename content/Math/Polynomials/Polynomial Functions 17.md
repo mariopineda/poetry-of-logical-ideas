@@ -70,7 +70,14 @@ A farmer is building a rectangular pen using **40 m** of fencing. The graph belo
 > [!abstract] Review First
 > - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 16|Polynomial Functions 16]]
 > - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

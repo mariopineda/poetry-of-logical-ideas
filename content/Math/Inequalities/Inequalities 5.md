@@ -22,6 +22,13 @@ Solve $\frac{x^2}{x-5} \leq \frac{16x}{x-5}$. Answer in interval notation.
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Inequalities/Inequalities 4|Inequalities 4]]
 > - [[Math/Inequalities/Inequalities 6|Inequalities 6]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

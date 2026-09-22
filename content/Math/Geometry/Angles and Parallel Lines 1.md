@@ -33,9 +33,16 @@ Determine the degree measure of the angles marked by letters.
 > - Determine $b$: $a+b+c=180^{\circ} \Rightarrow b=33^{\circ}$ (Same side interior angles)
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Geometry/Angles in Polygons 1|Angles in Polygons 1]]
 > - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

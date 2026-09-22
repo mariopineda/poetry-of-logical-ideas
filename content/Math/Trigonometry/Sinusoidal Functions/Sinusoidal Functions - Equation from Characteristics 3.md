@@ -79,6 +79,16 @@ Show how you determined the values of $a$, $b$, and $d$.
 > \boxed{y=4\sin\left(\frac{\pi}{5}x\right)-1}.
 > $$
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 1|Sinusoidal Functions - Equation from Characteristics 1]]
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Equation from Characteristics 2|Sinusoidal Functions - Equation from Characteristics 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

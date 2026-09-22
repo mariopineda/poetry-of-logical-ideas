@@ -29,7 +29,14 @@ Write each quadratic equation in vertex form by completing the square. State the
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
 > - [[Math/Quadratics/Completing the Square 3|Completing the Square 3]]
 > - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

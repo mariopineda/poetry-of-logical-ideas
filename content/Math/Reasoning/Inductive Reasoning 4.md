@@ -32,6 +32,16 @@ Given the following conjecture: "The sum of two prime numbers is an even number"
 > The sum of two prime numbers, which are not 2, is an even nuber.
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Reasoning/Inductive Reasoning 3|Inductive Reasoning 3]]
 > - [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

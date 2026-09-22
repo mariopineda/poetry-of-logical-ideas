@@ -20,7 +20,17 @@ Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.
 > > https://www.youtube.com/embed/d91cAqbqSv0
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Geometry/Coordinate Geometry 4|Coordinate Geometry 4]]
 > - [[Math/Geometry/Coordinate Geometry 6|Coordinate Geometry 6]]
 > - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

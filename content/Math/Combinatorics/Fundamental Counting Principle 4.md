@@ -30,6 +30,16 @@ The organization wants to ensure that each family receives a unique combination 
 > There are 360 different aid packages that can be created.
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 3|Fundamental Counting Principle 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

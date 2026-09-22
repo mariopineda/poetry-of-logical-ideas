@@ -20,6 +20,13 @@ Using Pascal's Triangle, determine the number of pathways from the red to the gr
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations 2|Permutations 2]]
 > - [[Math/Combinatorics/Permutations 4|Permutations 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -58,8 +58,15 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 > - There are 720 ways of arranging the Harry Potter books side by side on a shelf with the book with the red cover in the middle
 >
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]

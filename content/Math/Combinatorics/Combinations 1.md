@@ -21,8 +21,12 @@ Consider a circle with five points marked on the circumference.
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]

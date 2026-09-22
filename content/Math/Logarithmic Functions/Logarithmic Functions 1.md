@@ -28,5 +28,12 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -59,5 +59,12 @@ Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Calculus/Integration/Area under a curve - Method of Exhaustion|Area under a curve - Method of Exhaustion]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

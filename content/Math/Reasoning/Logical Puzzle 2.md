@@ -21,7 +21,17 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 
 > [!example]- Show solution
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Reasoning/Logical Puzzle 1|Logical Puzzle 1]]
 > - [[Math/Puzzles and Games/Puzzles & Games 1|Puzzles & Games 1]]
 > - [[Math/Set Theory/Set Theory 1|Set Theory 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

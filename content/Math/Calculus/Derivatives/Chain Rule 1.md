@@ -22,8 +22,12 @@ Differentiate $f(x) = (x^3-8x+2)^6$.
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Calculus/Derivatives/Chain Rule 2|Chain Rule 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1a|Derivative of Trigonometric Functions 1a]]

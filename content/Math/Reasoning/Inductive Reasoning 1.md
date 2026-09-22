@@ -15,9 +15,16 @@ show_solution: false
 
 > [!example]- Show solution
 
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
 > - [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]

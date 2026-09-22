@@ -38,10 +38,14 @@ Without using technology, determine the following characteristics of the given f
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]

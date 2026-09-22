@@ -21,5 +21,12 @@ Use deductive reasoning to prove that the sum of three consecutive even numbers 
 > [!abstract] Review First
 > - [[Math/Reasoning/Inductive Reasoning 1|Inductive Reasoning 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Reasoning/Deductive Reasoning 1|Deductive Reasoning 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

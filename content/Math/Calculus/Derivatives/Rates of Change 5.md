@@ -22,6 +22,13 @@ Determine an expression for the slope of the general secant for the function $y=
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
 > [!info] Explore Also
 > - [[Math/Calculus/Derivatives/Rates of Change 4|Rates of Change 4]]
 > - [[Math/Calculus/Derivatives/Rates of Change 6|Rates of Change 6]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
