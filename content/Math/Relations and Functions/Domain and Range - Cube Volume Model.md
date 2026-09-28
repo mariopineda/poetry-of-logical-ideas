@@ -2,10 +2,10 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-1"
-  - "Mathematics 31"
+  - Mathematics 30-1
+  - Mathematics 31
 topic: Domain and Range
-show_solution: true
+show_solution: false
 aliases:
   - Domain & Range 9
 ---
@@ -21,6 +21,23 @@ $$
 where $s$ is the edge length in units and $V$ is the volume in cubic units. Consider cubes with edge lengths greater than $0$ units but less than $10$ units.
 
 State the contextual domain and range in both **set-builder notation** and **interval notation**.
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
+> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1|Polynomial Functions - Reviewing a Cubic Volume Model 1]]
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 2|Polynomial Functions - Reviewing a Cubic Volume Model 2]]
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]
 
 ## Solution
 
@@ -49,20 +66,3 @@ State the contextual domain and range in both **set-builder notation** and **int
 >
 > - Set-builder notation: $\{V\in\mathbb{R}\mid 0<V<1000\}$
 > - Interval notation: $(0,1000)$
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
-> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1|Polynomial Functions - Reviewing a Cubic Volume Model 1]]
-> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 2|Polynomial Functions - Reviewing a Cubic Volume Model 2]]
-> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]

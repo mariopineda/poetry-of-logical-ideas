@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **9 Questions of the Day** Â· **Courses:** Not specified
+> **10 Questions of the Day** Â· **Courses:** Math 20-3
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -26,4 +26,5 @@ Practice questions for **Geometry**.
 | [[Math/Geometry/Coordinate Geometry 5\|Coordinate Geometry 5]] | Not specified |
 | [[Math/Geometry/Coordinate Geometry 6\|Coordinate Geometry 6]] | Not specified |
 | [[Math/Geometry/Perpendicular Lines 1\|Perpendicular Lines 1]] | Not specified |
+| [[Math/Geometry/Surface Area and Volume - From Net to Surface Area\|Surface Area and Volume - From Net to Surface Area]] | Math 20-3 |
 
