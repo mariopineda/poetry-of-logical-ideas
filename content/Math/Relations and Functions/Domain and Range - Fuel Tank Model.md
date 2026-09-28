@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 10C
 topic: Domain and Range
-show_solution: false
+show_solution: true
 aliases:
   - Domain & Range 4
 ---
@@ -21,23 +21,6 @@ $$
 2. Determine how much fuel remains after the car has travelled $165$ km. Round to the nearest hundredth of a litre.
 3. If $15$ L of fuel remains, determine how far the car has travelled. Round to the nearest tenth of a kilometre.
 4. State the domain and range for this context in both set notation and interval notation. Round to the nearest tenth where necessary.
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Domain and Range - Free-Fall Speed Model|Domain and Range - Free-Fall Speed Model]]
-> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
-> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -94,3 +77,20 @@ $$
 >
 > - Set notation: $\{v\in\mathbb{R}\mid 0\le v\le60.5\}$
 > - Interval notation: $[0,60.5]$
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Free-Fall Speed Model|Domain and Range - Free-Fall Speed Model]]
+> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
+> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
