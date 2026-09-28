@@ -5,7 +5,7 @@ course:
   - Mathematics 30-1
   - Mathematics 31
 topic: Domain and Range
-show_solution: false
+show_solution: true
 aliases:
   - Domain & Range 7
 ---
@@ -19,22 +19,6 @@ v=4.4\sqrt{h}.
 $$
 
 State the contextual domain and range in both **set notation** and **interval notation**. Explain each restriction.
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Domain and Range - Fuel Tank Model|Domain and Range - Fuel Tank Model]]
-> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
-> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -75,3 +59,19 @@ State the contextual domain and range in both **set notation** and **interval no
 >
 > - Set notation: $\{v\mid 0\le v\le44,\ v\in\mathbb{R}\}$
 > - Interval notation: $[0,44]$
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Relations and Functions/Representing Relations 1|Representing Relations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Domain and Range - Fuel Tank Model|Domain and Range - Fuel Tank Model]]
+> - [[Math/Relations and Functions/Domain and Range - Cube Surface Area Model|Domain and Range - Cube Surface Area Model]]
+> - [[Math/Relations and Functions/Domain and Range - Ferris Wheel Model|Domain and Range - Ferris Wheel Model]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
