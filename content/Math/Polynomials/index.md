@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **58 Questions of the Day** Â· **Courses:** Not specified
+> **64 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -17,6 +17,12 @@ Practice questions for **Polynomials**.
 
 | Question | Course(s) |
 | --- | --- |
+| [[Math/Polynomials/Exponent and Polynomial Skills 1\|Exponent and Polynomial Skills 1]] | Not specified |
+| [[Math/Polynomials/Exponent and Polynomial Skills 2\|Exponent and Polynomial Skills 2]] | Not specified |
+| [[Math/Polynomials/Exponent and Polynomial Skills 3\|Exponent and Polynomial Skills 3]] | Not specified |
+| [[Math/Polynomials/Exponent and Polynomial Skills 4\|Exponent and Polynomial Skills 4]] | Not specified |
+| [[Math/Polynomials/Exponent and Polynomial Skills 5\|Exponent and Polynomial Skills 5]] | Not specified |
+| [[Math/Polynomials/Exponent and Polynomial Skills 6\|Exponent and Polynomial Skills 6]] | Not specified |
 | [[Math/Polynomials/Factoring Polynomials 1\|Factoring Polynomials 1]] | Not specified |
 | [[Math/Polynomials/Factoring Polynomials 2\|Factoring Polynomials 2]] | Not specified |
 | [[Math/Polynomials/Factoring Polynomials 3\|Factoring Polynomials 3]] | Not specified |
