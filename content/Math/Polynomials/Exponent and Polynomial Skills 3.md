@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10C"
-topic: "Exponent and Polynomial Skills"
-show_solution: false
+  - Mathematics 10C
+topic: Exponent and Polynomial Skills
+show_solution: true
 ---
 
 ## Question
@@ -32,28 +32,6 @@ Factor fully.
 $$
 50x^3-98x
 $$
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
-> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
-> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
-> - [[Math/Polynomials/Factoring Polynomials 2|Factoring Polynomials 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
 
 ## Solution
 
@@ -113,3 +91,25 @@ $$
 > $$
 >
 > **Answer:** $\boxed{2x(5x-7)(5x+7)}$
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - [[Math/Polynomials/Factoring Polynomials 2|Factoring Polynomials 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
