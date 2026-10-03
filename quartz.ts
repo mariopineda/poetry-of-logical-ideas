@@ -1,7 +1,6 @@
 import fs from "node:fs"
 import path from "node:path"
 import { parse as parseYaml } from "yaml"
-import { graphlib, layout as dagreLayout } from "@dagrejs/dagre"
 
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { componentRegistry } from "./quartz/components/registry"
@@ -643,21 +642,16 @@ config.plugins.transformers.push({
 
 
 // ------------------------------------------------------------
-// QOD MAP
+// QOD LEARNING PATH
 // ------------------------------------------------------------
 //
-// Responsive learning-path map:
+// Students choose a course and topic, then receive one ordered
+// progression from foundational QODs toward more advanced QODs.
 //
-// Desktop:
-//   prerequisite -> later idea
-//
-// Mobile:
-//   prerequisite
-//        ↓
-//   later idea
-//
-// Both layouts are generated automatically from the same
-// QOD relationship metadata.
+// Ordering is based primarily on the canonical QOD relationship
+// graph (Review First / Build Toward). QOD numbers are used only
+// by the browser as a deterministic tie-breaker for questions at
+// the same prerequisite depth.
 //
 config.plugins.transformers.push({
   name: "QodMap",
@@ -675,726 +669,269 @@ config.plugins.transformers.push({
           return
         }
 
-        const calculusQods = [...qodBySlug.values()]
-          .sort((a, b) => a.name.localeCompare(b.name))
+        const liveQods =
+          loadCanonicalQodGraphEntries()
+            .filter(
+              (entry) =>
+                !entry.slug
+                  .toLowerCase()
+                  .includes("backup"),
+            )
+            .sort((a, b) =>
+              a.name.localeCompare(
+                b.name,
+                undefined,
+                { numeric: true },
+              ),
+            )
 
-        if (calculusQods.length === 0) return
+        if (liveQods.length === 0) return
 
-        const calculusSlugs = new Set(
-          calculusQods.map((entry) => entry.slug),
+        const liveByName = new Map(
+          liveQods.map((entry) => [
+            entry.name.toLowerCase(),
+            entry,
+          ]),
         )
 
-        const root = pathToRoot(currentSlug as any)
+        const prerequisitesBySlug =
+          new Map<string, Set<string>>(
+            liveQods.map((entry) => [
+              entry.slug,
+              new Set<string>(),
+            ]),
+          )
 
-        const makeLayout = (
-          mode: "desktop" | "mobile",
+        const addDirected = (
+          prerequisiteSlug: string,
+          laterSlug: string,
         ) => {
-          const isMobile = mode === "mobile"
-
-          const NODE_WIDTH = isMobile ? 190 : 220
-          const NODE_HEIGHT = isMobile ? 76 : 82
-
-          const graph = new graphlib.Graph()
-
-          graph.setGraph({
-            rankdir: isMobile ? "TB" : "LR",
-            nodesep: isMobile ? 22 : 30,
-            ranksep: isMobile ? 55 : 80,
-            marginx: isMobile ? 18 : 30,
-            marginy: isMobile ? 18 : 30,
-          })
-
-          graph.setDefaultEdgeLabel(() => ({}))
-
-          for (const entry of calculusQods) {
-            graph.setNode(entry.slug, {
-              width: NODE_WIDTH,
-              height: NODE_HEIGHT,
-            })
+          if (
+            !prerequisiteSlug ||
+            !laterSlug ||
+            prerequisiteSlug === laterSlug ||
+            !prerequisitesBySlug.has(
+              prerequisiteSlug,
+            ) ||
+            !prerequisitesBySlug.has(
+              laterSlug,
+            )
+          ) {
+            return
           }
 
-          // Prerequisite -> QOD
-          for (const entry of calculusQods) {
-            for (const prerequisiteName of entry.prerequisites) {
-              const prerequisite = qodByName.get(
+          prerequisitesBySlug
+            .get(laterSlug)!
+            .add(prerequisiteSlug)
+        }
+
+        for (const entry of liveQods) {
+          for (
+            const prerequisiteName of
+            entry.reviewFirst
+          ) {
+            const prerequisite =
+              liveByName.get(
                 prerequisiteName.toLowerCase(),
               )
 
-              if (
-                prerequisite &&
-                calculusSlugs.has(prerequisite.slug)
-              ) {
-                graph.setEdge(
-                  prerequisite.slug,
-                  entry.slug,
-                )
-              }
+            if (prerequisite) {
+              addDirected(
+                prerequisite.slug,
+                entry.slug,
+              )
             }
           }
 
-          dagreLayout(graph)
+          for (
+            const laterName of
+            entry.buildToward
+          ) {
+            const later =
+              liveByName.get(
+                laterName.toLowerCase(),
+              )
 
-          const graphInfo = graph.graph() as any
-
-          const canvasWidth = Math.max(
-            isMobile ? 320 : 900,
-            Math.ceil(graphInfo.width ?? 900),
-          )
-
-          const canvasHeight = Math.max(
-            isMobile ? 500 : 400,
-            Math.ceil(graphInfo.height ?? 400),
-          )
-
-          const markerId =
-            mode === "mobile"
-              ? "qod-map-arrow-mobile"
-              : "qod-map-arrow-desktop"
-
-          const edgeNodes = graph.edges().map((edge: any) => {
-            const edgeData = graph.edge(edge) as any
-            const points = edgeData?.points ?? []
-
-            return {
-              type: "element",
-              tagName: "polyline",
-              properties: {
-                points: points
-                  .map(
-                    (point: any) =>
-                      `${point.x},${point.y}`,
-                  )
-                  .join(" "),
-                fill: "none",
-                stroke: "var(--gray)",
-                strokeWidth: 2,
-                markerEnd: `url(#${markerId})`,
-                "data-source": edge.v,
-                "data-target": edge.w,
-              },
-              children: [],
+            if (later) {
+              addDirected(
+                entry.slug,
+                later.slug,
+              )
             }
-          })
+          }
+        }
 
-          const qodNodes = calculusQods
-            .map((entry) => {
-              const position = graph.node(entry.slug) as any
+        const depthMemo =
+          new Map<string, number>()
 
-              if (!position) return null
+        const learningDepth = (
+          slug: string,
+          visiting = new Set<string>(),
+        ): number => {
+          const cached = depthMemo.get(slug)
+          if (cached !== undefined) {
+            return cached
+          }
 
-              const left =
-                position.x - NODE_WIDTH / 2
+          if (visiting.has(slug)) {
+            return 0
+          }
 
-              const top =
-                position.y - NODE_HEIGHT / 2
+          const next = new Set(visiting)
+          next.add(slug)
 
-              const children: any[] = [
-                {
-                  type: "element",
-                  tagName: "span",
-                  properties: {
-                    style: [
-                      "font-weight:600",
-                      "line-height:1.2",
-                      "color:var(--secondary)",
-                      isMobile
-                        ? "font-size:0.88rem"
-                        : "",
-                    ]
-                      .filter(Boolean)
-                      .join(";"),
-                  },
-                  children: [
-                    {
-                      type: "text",
-                      value: entry.name,
-                    },
-                  ],
-                },
-              ]
+          const parents = [
+            ...(
+              prerequisitesBySlug.get(slug) ??
+              new Set<string>()
+            ),
+          ]
 
-              if (entry.courses.length > 0) {
-                children.push({
-                  type: "element",
-                  tagName: "span",
-                  properties: {
-                    style:
-                      "margin-top:0.35rem;font-size:0.72rem;line-height:1.2;color:var(--gray);",
-                  },
-                  children: [
-                    {
-                      type: "text",
-                      value: entry.courses.join(" · "),
-                    },
-                  ],
-                })
-              }
+          const depth =
+            parents.length === 0
+              ? 0
+              : Math.max(
+                  ...parents.map(
+                    (parentSlug) =>
+                      learningDepth(
+                        parentSlug,
+                        next,
+                      ) + 1,
+                  ),
+                )
 
-              return {
+          depthMemo.set(slug, depth)
+          return depth
+        }
+
+        const root =
+          pathToRoot(currentSlug as any)
+
+        const qodItems = liveQods.map(
+          (entry) => {
+            const reviewFirst =
+              entry.reviewFirst.filter(
+                (name) =>
+                  liveByName.has(
+                    name.toLowerCase(),
+                  ),
+              )
+
+            const itemChildren: any[] = [
+              {
                 type: "element",
                 tagName: "a",
                 properties: {
                   href: `${root}/${entry.slug}`,
                   className: [
-                    "qod-map-node",
-                    `qod-map-node-${mode}`,
+                    "qod-learning-path-link",
                   ],
-                  "data-qod-slug": entry.slug,
-                  "data-qod-courses": entry.courses.join("|"),
-                  "data-qod-topic": entry.topic,
-                  style: [
-                    "position:absolute",
-                    `left:${left}px`,
-                    `top:${top}px`,
-                    `width:${NODE_WIDTH}px`,
-                    `height:${NODE_HEIGHT}px`,
-                    "box-sizing:border-box",
-                    "display:flex",
-                    "flex-direction:column",
-                    "justify-content:center",
-                    "padding:10px 12px",
-                    "border:1px solid var(--lightgray)",
-                    "border-radius:10px",
-                    "background:var(--light)",
-                    "text-decoration:none",
-                    "box-shadow:0 1px 4px rgba(0,0,0,0.08)",
-                  ].join(";"),
-                },
-                children,
-              }
-            })
-            .filter(Boolean)
-
-          return {
-            type: "element",
-            tagName: "div",
-            properties: {
-              className: [
-                "qod-map-layout",
-                `qod-map-${mode}`,
-              ],
-            },
-            children: [
-              {
-                type: "element",
-                tagName: "div",
-                properties: {
-                  className: ["qod-map-scroll"],
                 },
                 children: [
                   {
                     type: "element",
-                    tagName: "div",
+                    tagName: "span",
                     properties: {
-                      className: ["qod-map-canvas"],
-                      style: [
-                        "position:relative",
-                        `width:${canvasWidth}px`,
-                        `height:${canvasHeight}px`,
-                        `min-width:${canvasWidth}px`,
-                      ].join(";"),
+                      className: [
+                        "qod-learning-step",
+                      ],
+                      ariaHidden: "true",
                     },
                     children: [
                       {
                         type: "element",
-                        tagName: "svg",
+                        tagName: "span",
                         properties: {
-                          width: canvasWidth,
-                          height: canvasHeight,
-                          viewBox:
-                            `0 0 ${canvasWidth} ${canvasHeight}`,
-                          style:
-                            "position:absolute;left:0;top:0;overflow:visible;pointer-events:none;",
-                          ariaHidden: "true",
+                          className: [
+                            "qod-learning-step-number",
+                          ],
+                        },
+                        children: [],
+                      },
+                    ],
+                  },
+                  {
+                    type: "element",
+                    tagName: "span",
+                    properties: {
+                      className: [
+                        "qod-learning-path-main",
+                      ],
+                    },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "span",
+                        properties: {
+                          className: [
+                            "qod-learning-path-title",
+                          ],
                         },
                         children: [
                           {
-                            type: "element",
-                            tagName: "defs",
-                            properties: {},
-                            children: [
-                              {
-                                type: "element",
-                                tagName: "marker",
-                                properties: {
-                                  id: markerId,
-                                  viewBox: "0 0 10 10",
-                                  refX: 9,
-                                  refY: 5,
-                                  markerWidth: 6,
-                                  markerHeight: 6,
-                                  orient: "auto",
-                                },
-                                children: [
-                                  {
-                                    type: "element",
-                                    tagName: "path",
-                                    properties: {
-                                      d:
-                                        "M 0 0 L 10 5 L 0 10 z",
-                                      fill: "var(--gray)",
-                                    },
-                                    children: [],
-                                  },
-                                ],
-                              },
-                            ],
+                            type: "text",
+                            value: entry.name,
                           },
-
-                          ...edgeNodes,
                         ],
                       },
-
-                      ...qodNodes,
+                      {
+                        type: "element",
+                        tagName: "span",
+                        properties: {
+                          className: [
+                            "qod-learning-path-status",
+                          ],
+                        },
+                        children: [],
+                      },
                     ],
-                  },
-                ],
-              },
-            ],
-          }
-        }
-
-
-        const makeMobilePathList = () => {
-          const primaryChildren = new Map<string, string[]>()
-          const primaryParent = new Map<string, string>()
-          const allParents = new Map<string, string[]>()
-
-          for (const entry of calculusQods) {
-            primaryChildren.set(entry.slug, [])
-            allParents.set(entry.slug, [])
-          }
-
-          // ----------------------------------------------------
-          // Determine prerequisite parents.
-          //
-          // A QOD may genuinely have more than one prerequisite.
-          // For the visual tree, the first prerequisite becomes
-          // the primary branch. Any additional prerequisites are
-          // still displayed inside the QOD card.
-          // ----------------------------------------------------
-
-          for (const entry of calculusQods) {
-            const parents = entry.prerequisites
-              .map((name) =>
-                qodByName.get(name.toLowerCase()),
-              )
-              .filter(
-                (candidate): candidate is QodEntry =>
-                  Boolean(
-                    candidate &&
-                    calculusSlugs.has(candidate.slug),
-                  ),
-              )
-
-            allParents.set(
-              entry.slug,
-              parents.map((parent) => parent.slug),
-            )
-
-            if (parents.length > 0) {
-              const mainParent = parents[0]
-
-              primaryParent.set(
-                entry.slug,
-                mainParent.slug,
-              )
-
-              primaryChildren
-                .get(mainParent.slug)!
-                .push(entry.slug)
-            }
-          }
-
-          // Keep branches alphabetically predictable.
-          for (const [slug, children] of primaryChildren) {
-            children.sort((a, b) => {
-              const aName =
-                qodBySlug.get(a)?.name ?? a
-
-              const bName =
-                qodBySlug.get(b)?.name ?? b
-
-              return aName.localeCompare(bName)
-            })
-
-            primaryChildren.set(slug, children)
-          }
-
-          const roots = calculusQods
-            .filter(
-              (entry) =>
-                !primaryParent.has(entry.slug),
-            )
-            .sort((a, b) =>
-              a.name.localeCompare(b.name),
-            )
-
-          const pathwayRoots = roots.filter(
-            (entry) =>
-              (primaryChildren.get(entry.slug) ?? [])
-                .length > 0,
-          )
-
-          const standaloneRoots = roots.filter(
-            (entry) =>
-              (primaryChildren.get(entry.slug) ?? [])
-                .length === 0,
-          )
-
-          const relatedOnly = standaloneRoots.filter(
-            (entry) =>
-              (relatedBothWays.get(entry.slug)?.size ?? 0) > 0,
-          )
-
-          const isolated = standaloneRoots.filter(
-            (entry) =>
-              (relatedBothWays.get(entry.slug)?.size ?? 0) === 0,
-          )
-
-          // ----------------------------------------------------
-          // QOD CARD
-          // ----------------------------------------------------
-
-          const makeMobileNode = (slug: string) => {
-            const entry = qodBySlug.get(slug)
-
-            if (!entry) return null
-
-            const parents =
-              allParents.get(slug) ?? []
-
-            const additionalParents =
-              parents.slice(1)
-
-            const children: any[] = [
-              {
-                type: "element",
-                tagName: "a",
-                properties: {
-                  href: `${root}/${entry.slug}`,
-                  className: ["qod-mobile-path-title"],
-                },
-                children: [
-                  {
-                    type: "text",
-                    value: entry.name,
                   },
                 ],
               },
             ]
 
-            if (entry.courses.length > 0) {
-              children.push({
-                type: "element",
-                tagName: "div",
-                properties: {
-                  className: ["qod-course-list"],
-                },
-                children: entry.courses.map(
-                  (course) => ({
-                    type: "element",
-                    tagName: "span",
-                    properties: {
-                      className: ["qod-course-badge"],
-                    },
-                    children: [
-                      {
-                        type: "text",
-                        value: course,
-                      },
-                    ],
-                  }),
-                ),
-              })
-            }
-
-            const relatedSlugs = [
-              ...(relatedBothWays.get(slug) ?? []),
-            ].filter((relatedSlug) =>
-              calculusSlugs.has(relatedSlug),
-            )
-
-            if (relatedSlugs.length > 0) {
-              children.push({
+            if (reviewFirst.length > 0) {
+              itemChildren.push({
                 type: "element",
                 tagName: "div",
                 properties: {
                   className: [
-                    "qod-mobile-related",
+                    "qod-learning-review-first",
                   ],
                 },
                 children: [
                   {
-                    type: "element",
-                    tagName: "span",
-                    properties: {
-                      className: [
-                        "qod-mobile-related-label",
-                      ],
-                    },
-                    children: [
-                      {
-                        type: "text",
-                        value: "Explore also:",
-                      },
-                    ],
-                  },
-
-                  {
-                    type: "element",
-                    tagName: "div",
-                    properties: {
-                      className: [
-                        "qod-mobile-related-links",
-                      ],
-                    },
-                    children: relatedSlugs
-                      .map((relatedSlug) => {
-                        const related =
-                          qodBySlug.get(relatedSlug)
-
-                        if (!related) return null
-
-                        return {
-                          type: "element",
-                          tagName: "a",
-                          properties: {
-                            href:
-                              `${root}/${related.slug}`,
-                            className: [
-                              "qod-mobile-related-link",
-                            ],
-                          },
-                          children: [
-                            {
-                              type: "text",
-                              value: related.name,
-                            },
-                          ],
-                        }
-                      })
-                      .filter(Boolean),
+                    type: "text",
+                    value:
+                      `Review first: ${reviewFirst.join(", ")}`,
                   },
                 ],
               })
             }
-            if (additionalParents.length > 0) {
-              const names = additionalParents
-                .map(
-                  (parentSlug) =>
-                    qodBySlug.get(parentSlug)?.name,
-                )
-                .filter(Boolean)
-
-              if (names.length > 0) {
-                children.push({
-                  type: "element",
-                  tagName: "div",
-                  properties: {
-                    className: [
-                      "qod-mobile-extra-prerequisite",
-                    ],
-                  },
-                  children: [
-                    {
-                      type: "text",
-                      value:
-                        `Also requires: ${names.join(", ")}`,
-                    },
-                  ],
-                })
-              }
-            }
 
             return {
               type: "element",
-              tagName: "div",
+              tagName: "li",
               properties: {
-                className: ["qod-mobile-path-node"],
+                className: [
+                  "qod-learning-path-item",
+                ],
+                hidden: true,
                 "data-qod-slug": entry.slug,
-                "data-qod-courses": entry.courses.join("|"),
+                "data-qod-name": entry.name,
+                "data-qod-courses":
+                  entry.courses.join("|"),
                 "data-qod-topic": entry.topic,
+                "data-qod-depth":
+                  String(
+                    learningDepth(entry.slug),
+                  ),
               },
-              children,
+              children: itemChildren,
             }
-          }
+          },
+        )
 
-          // ----------------------------------------------------
-          // RECURSIVE BRANCH
-          // ----------------------------------------------------
-
-          const makeBranch = (
-            slug: string,
-            seen = new Set<string>(),
-          ): any => {
-            if (seen.has(slug)) return null
-
-            const nextSeen = new Set(seen)
-            nextSeen.add(slug)
-
-            const node = makeMobileNode(slug)
-
-            if (!node) return null
-
-            const childSlugs =
-              primaryChildren.get(slug) ?? []
-
-            const branchChildren = childSlugs
-              .map((childSlug) => {
-                const branch = makeBranch(
-                  childSlug,
-                  nextSeen,
-                )
-
-                if (!branch) return null
-
-                return {
-                  type: "element",
-                  tagName: "div",
-                  properties: {
-                    className: [
-                      "qod-mobile-tree-child",
-                    ],
-                  },
-                  children: [branch],
-                }
-              })
-              .filter(Boolean)
-
-            const children: any[] = [node]
-
-            if (branchChildren.length > 0) {
-              children.push({
-                type: "element",
-                tagName: "div",
-                properties: {
-                  className: [
-                    "qod-mobile-tree-children",
-                  ],
-                },
-                children: branchChildren,
-              })
-            }
-
-            return {
-              type: "element",
-              tagName: "div",
-              properties: {
-                className: ["qod-mobile-tree"],
-              },
-              children,
-            }
-          }
-
-          const mobileChildren: any[] = []
-
-          if (pathwayRoots.length > 0) {
-            mobileChildren.push({
-              type: "element",
-              tagName: "h3",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value: "Learning pathways",
-                },
-              ],
-            })
-
-            mobileChildren.push({
-              type: "element",
-              tagName: "div",
-              properties: {
-                className: [
-                  "qod-mobile-tree-list",
-                ],
-              },
-              children: pathwayRoots
-                .map((entry) =>
-                  makeBranch(entry.slug),
-                )
-                .filter(Boolean),
-            })
-          }
-
-          if (relatedOnly.length > 0) {
-            mobileChildren.push({
-              type: "element",
-              tagName: "h3",
-              properties: {
-                className: [
-                  "qod-mobile-related-heading",
-                ],
-              },
-              children: [
-                {
-                  type: "text",
-                  value: "Related Mathematical Ideas",
-                },
-              ],
-            })
-
-            mobileChildren.push({
-              type: "element",
-              tagName: "div",
-              properties: {
-                className: [
-                  "qod-mobile-other-list",
-                ],
-              },
-              children: relatedOnly
-                .map((entry) =>
-                  makeMobileNode(entry.slug),
-                )
-                .filter(Boolean),
-            })
-          }
-          if (isolated.length > 0) {
-            mobileChildren.push({
-              type: "element",
-              tagName: "h3",
-              properties: {
-                className: [
-                  "qod-mobile-other-heading",
-                ],
-              },
-              children: [
-                {
-                  type: "text",
-                  value: "Other QODs",
-                },
-              ],
-            })
-
-            mobileChildren.push({
-              type: "element",
-              tagName: "div",
-              properties: {
-                className: [
-                  "qod-mobile-other-list",
-                ],
-              },
-              children: isolated
-                .map((entry) =>
-                  makeMobileNode(entry.slug),
-                )
-                .filter(Boolean),
-            })
-          }
-
-          return {
-            type: "element",
-            tagName: "div",
-            properties: {
-              className: [
-                "qod-map-layout",
-                "qod-map-mobile",
-              ],
-            },
-            children: mobileChildren,
-          }
-        }
         const filterControls = {
           type: "element",
           tagName: "div",
@@ -1437,7 +974,8 @@ config.plugins.transformers.push({
                       children: [
                         {
                           type: "text",
-                          value: "All Courses",
+                          value:
+                            "Choose a course",
                         },
                       ],
                     },
@@ -1445,7 +983,6 @@ config.plugins.transformers.push({
                 },
               ],
             },
-
             {
               type: "element",
               tagName: "label",
@@ -1470,6 +1007,7 @@ config.plugins.transformers.push({
                   properties: {
                     id: "qod-map-topic-filter",
                     className: ["qod-map-select"],
+                    disabled: true,
                   },
                   children: [
                     {
@@ -1481,7 +1019,8 @@ config.plugins.transformers.push({
                       children: [
                         {
                           type: "text",
-                          value: "All Topics",
+                          value:
+                            "Choose a topic",
                         },
                       ],
                     },
@@ -1489,7 +1028,6 @@ config.plugins.transformers.push({
                 },
               ],
             },
-
             {
               type: "element",
               tagName: "button",
@@ -1497,15 +1035,15 @@ config.plugins.transformers.push({
                 id: "qod-map-reset",
                 type: "button",
                 className: ["qod-map-reset"],
+                disabled: true,
               },
               children: [
                 {
                   type: "text",
-                  value: "Reset filters",
+                  value: "Reset",
                 },
               ],
             },
-
             {
               type: "element",
               tagName: "span",
@@ -1513,10 +1051,17 @@ config.plugins.transformers.push({
                 id: "qod-map-count",
                 className: ["qod-map-count"],
               },
-              children: [],
+              children: [
+                {
+                  type: "text",
+                  value:
+                    `${liveQods.length} QODs in bank`,
+                },
+              ],
             },
           ],
         }
+
         const mapSection = {
           type: "element",
           tagName: "section",
@@ -1531,11 +1076,10 @@ config.plugins.transformers.push({
               children: [
                 {
                   type: "text",
-                  value: "QOD Learning Map",
+                  value: "QOD Learning Path",
                 },
               ],
             },
-
             {
               type: "element",
               tagName: "p",
@@ -1544,21 +1088,130 @@ config.plugins.transformers.push({
                 {
                   type: "text",
                   value:
-                    "Follow the arrows from foundational questions toward questions that build on those ideas. Click any question to open it.",
+                    "Choose a course and topic to generate a recommended progression from foundational QODs to more advanced questions.",
                 },
               ],
             },
-
             filterControls,
-
-            makeLayout("desktop"),
-            makeMobilePathList(),
-
+            {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-map-selection-prompt",
+                ],
+                id: "qod-learning-path-prompt",
+              },
+              children: [
+                {
+                  type: "element",
+                  tagName: "strong",
+                  properties: {},
+                  children: [
+                    {
+                      type: "text",
+                      value:
+                        "Choose a course and a topic to generate your learning path.",
+                    },
+                  ],
+                },
+                {
+                  type: "element",
+                  tagName: "span",
+                  properties: {},
+                  children: [
+                    {
+                      type: "text",
+                      value:
+                        "Questions are ordered from foundational to more advanced using their prerequisite relationships.",
+                    },
+                  ],
+                },
+              ],
+            },
+            {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-learning-path-results",
+                ],
+                id: "qod-learning-path-results",
+                hidden: true,
+              },
+              children: [
+                {
+                  type: "element",
+                  tagName: "div",
+                  properties: {
+                    className: [
+                      "qod-learning-path-heading",
+                    ],
+                  },
+                  children: [
+                    {
+                      type: "element",
+                      tagName: "h3",
+                      properties: {},
+                      children: [
+                        {
+                          type: "text",
+                          value:
+                            "Recommended progression",
+                        },
+                      ],
+                    },
+                    {
+                      type: "element",
+                      tagName: "p",
+                      properties: {},
+                      children: [
+                        {
+                          type: "text",
+                          value:
+                            "Complete the QODs in this order.",
+                        },
+                      ],
+                    },
+                  ],
+                },
+                {
+                  type: "element",
+                  tagName: "ol",
+                  properties: {
+                    className: [
+                      "qod-learning-path-list",
+                    ],
+                    id: "qod-learning-path-list",
+                  },
+                  children: qodItems,
+                },
+              ],
+            },
+            {
+              type: "element",
+              tagName: "div",
+              properties: {
+                className: [
+                  "qod-learning-path-empty",
+                ],
+                id: "qod-learning-path-empty",
+                hidden: true,
+              },
+              children: [
+                {
+                  type: "text",
+                  value:
+                    "No QODs currently match this course and topic.",
+                },
+              ],
+            },
             {
               type: "element",
               tagName: "script",
               properties: {
-                src: `${root}/static/qod-map-filter.js`,
+                src:
+                  `${root}/static/qod-map-filter.js`,
               },
               children: [],
             },
@@ -1570,7 +1223,6 @@ config.plugins.transformers.push({
     ]
   },
 } as any)
-
 //
 // ------------------------------------------------------------
 // Internal navigation should open pages at the top.
@@ -1694,6 +1346,7 @@ type QodGraphEntry = {
   name: string
   slug: string
   courses: string[]
+  topic: string
   reviewFirst: string[]
   exploreAlso: string[]
   buildToward: string[]
@@ -1795,6 +1448,10 @@ function loadCanonicalQodGraphEntries(): QodGraphEntry[] {
         frontmatter.course ??
           frontmatter.courses,
       ),
+      topic:
+        typeof frontmatter.topic === "string"
+          ? frontmatter.topic.trim()
+          : "",
       reviewFirst: qodGraphCalloutTargets(
         source,
         "Review First",

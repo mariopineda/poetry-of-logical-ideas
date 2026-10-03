@@ -1,4 +1,4 @@
-﻿@use "./variables.scss" as *;
+@use "./variables.scss" as *;
 
 // ------------------------------------------------------------
 // EXPLORER
@@ -577,3 +577,126 @@ html[saved-theme="light"] body:has(.about-page-marker)
 }
 
 /* ABOUT PAGE LIGHT MODE CALLOUTS:END */
+
+/* QOD ORDERED LEARNING PATH */
+
+.qod-learning-path-results {
+  margin-top: 1.5rem;
+}
+
+.qod-learning-path-heading {
+  margin-bottom: 1rem;
+}
+
+.qod-learning-path-heading h3 {
+  margin-bottom: 0.2rem;
+}
+
+.qod-learning-path-heading p {
+  margin: 0;
+  color: var(--gray);
+}
+
+.qod-learning-path-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.7rem;
+  counter-reset: none;
+}
+
+.qod-learning-path-item {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--qod-card-border);
+  border-radius: 0.75rem;
+  background: var(--light);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.qod-learning-path-link {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.9rem 1rem;
+  text-decoration: none;
+}
+
+.qod-learning-path-link:hover
+.qod-learning-path-title {
+  text-decoration: underline;
+}
+
+.qod-learning-step {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 999px;
+  background: var(--lightgray);
+  color: var(--dark);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.qod-learning-path-main {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+}
+
+.qod-learning-path-title {
+  color: var(--secondary);
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.qod-learning-path-status {
+  min-height: 1em;
+  color: var(--gray);
+  font-size: 0.78rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.qod-learning-review-first {
+  margin: -0.2rem 1rem 0.8rem 4.1rem;
+  padding-top: 0.55rem;
+  border-top: 1px solid var(--lightgray);
+  color: var(--gray);
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.qod-learning-path-empty {
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.65rem;
+  color: var(--gray);
+  background: var(--light);
+}
+
+@media all and (max-width: 600px) {
+  .qod-learning-path-link {
+    gap: 0.75rem;
+    padding: 0.8rem;
+  }
+
+  .qod-learning-step {
+    width: 2rem;
+    height: 2rem;
+    font-size: 0.9rem;
+  }
+
+  .qod-learning-review-first {
+    margin-left: 3.55rem;
+    margin-right: 0.8rem;
+  }
+}
