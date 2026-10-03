@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **27 Questions of the Day** Â· **Courses:** Not specified
+> **34 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -31,6 +31,13 @@ Practice questions for **Rational Expressions & Equations**.
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 5\|Multiplying and Dividing Rational Expressions 5]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 6\|Multiplying and Dividing Rational Expressions 6]] | Not specified |
 | [[Math/Rational Expressions & Equations/Non-Permissible Values 1\|Non-Permissible Values 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Expressions - Error Analysis 1\|Rational Expressions - Error Analysis 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1\|Rational Expressions - Field Model 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1\|Rational Functions - Equivalent Rules and Domains 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Functions - Holes and Vertical Asymptotes 1\|Rational Functions - Holes and Vertical Asymptotes 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1\|Rational Functions - Multiple Holes and Restrictions 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1\|Rational Functions - Parameter and Removable Discontinuity 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1\|Rational Functions - Reciprocal Form and Asymptotes 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1\|Simplifying Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2\|Simplifying Rational Expressions 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3\|Simplifying Rational Expressions 3]] | Not specified |

@@ -3,7 +3,6 @@ type: qod
 publish: true
 course:
   - "Mathematics 20-1"
-  - "Mathematics 30-2"
 topic: "Rational Expressions"
 show_solution: false
 ---
@@ -32,6 +31,7 @@ Express the following rational expressions in simplest form, stating the non-per
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1|Rational Functions - Equivalent Rules and Domains 1]]
 > - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
 > - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
