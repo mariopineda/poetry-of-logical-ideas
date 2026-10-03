@@ -122,7 +122,10 @@ for (const filePath of getMarkdownFiles(QOD_ROOT)) {
   const entry: QodEntry = {
     name,
     slug,
-    courses: stringList(frontmatter.courses),
+    courses: stringList(
+      frontmatter.course ??
+        frontmatter.courses,
+    ),
     topic:
       typeof frontmatter.topic === "string"
         ? frontmatter.topic.trim()
