@@ -12,29 +12,10 @@ show_solution: false
 
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.
 
-### A.
-
-$$
-\frac{8x+16}{2x}
-$$
-
-### B.
-
-$$
-\frac{5x}{10x+40}
-$$
-
-### C.
-
-$$
-\frac{6y+9}{3y-12}
-$$
-
-### D.
-
-$$
-\frac{8-6x}{4+12x}
-$$
+1. $$\frac{8x+16}{2x}$$
+2. $$\frac{5x}{10x+40}$$
+3. $$\frac{6y+9}{3y-12}$$
+4. $$\frac{8-6x}{4+12x}$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
@@ -60,7 +41,7 @@ $$
 
 > [!example]- Show solution
 >
-> ### A.
+> ### 1.
 >
 > The original denominator gives
 >
@@ -82,7 +63,7 @@ $$
 > \boxed{\frac{4(x+2)}{x}},\qquad \boxed{x\ne0}.
 > $$
 >
-> ### B.
+> ### 2.
 >
 > The original denominator cannot equal zero:
 >
@@ -109,7 +90,7 @@ $$
 > \boxed{\frac{x}{2(x+4)}},\qquad \boxed{x\ne-4}.
 > $$
 >
-> ### C.
+> ### 3.
 >
 > The denominator factors as
 >
@@ -137,7 +118,7 @@ $$
 > \boxed{\frac{2y+3}{y-4}},\qquad \boxed{y\ne4}.
 > $$
 >
-> ### D.
+> ### 4.
 >
 > The denominator factors as
 >

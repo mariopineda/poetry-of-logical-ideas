@@ -11,10 +11,10 @@ show_solution: false
 
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.
 
-1. $\displaystyle\frac{18a^4}{24a^2}$
-2. $\displaystyle\frac{(x+5)(x-2)}{(x+1)(x-2)}$
-3. $\displaystyle\frac{3m+6}{6m}$
-4. $\displaystyle\frac{y^2-16}{(y-4)(y+2)}$
+1. $$\displaystyle\frac{18a^4}{24a^2}$$
+2. $$\displaystyle\frac{(x+5)(x-2)}{(x+1)(x-2)}$$
+3. $$\displaystyle\frac{3m+6}{6m}$$
+4. $$\displaystyle\frac{y^2-16}{(y-4)(y+2)}$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]

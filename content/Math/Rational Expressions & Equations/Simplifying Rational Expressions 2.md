@@ -11,10 +11,10 @@ show_solution: false
 
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.
 
-1. $\displaystyle\frac{(a+1)(a-6)}{(a+7)(a+1)}$
-2. $\displaystyle\frac{8y+2}{8y}$
-3. $\displaystyle\frac{3t^2-75}{(t+3)(t-5)}$
-4. $\displaystyle\frac{c-4}{4-c}$
+1. $$\displaystyle\frac{(a+1)(a-6)}{(a+7)(a+1)}$$
+2. $$\displaystyle\frac{8y+2}{8y}$$
+3. $$\displaystyle\frac{3t^2-75}{(t+3)(t-5)}$$
+4. $$\displaystyle\frac{c-4}{4-c}$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
