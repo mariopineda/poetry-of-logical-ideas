@@ -35,10 +35,7 @@
 
 .qod-relationship-grid {
   display: grid;
-  grid-template-columns: repeat(
-    auto-fit,
-    minmax(220px, 1fr)
-  );
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1rem;
   align-items: start;
 }
@@ -295,11 +292,7 @@
 // it works in both light and dark mode.
 //
 :root {
-  --qod-card-border: color-mix(
-    in srgb,
-    var(--gray) 75%,
-    var(--darkgray) 25%
-  );
+  --qod-card-border: color-mix(in srgb, var(--gray) 75%, var(--darkgray) 25%);
 }
 
 .qod-relationship-card,
@@ -366,7 +359,6 @@ html[saved-theme="dark"] .page-title > a {
   }
 }
 
-
 /* Osculatorium top-of-page branding */
 body[data-slug="index"] .page-header::before {
   content: "";
@@ -392,7 +384,6 @@ html[saved-theme="dark"] body[data-slug="index"] .page-header::before {
     margin-bottom: 1rem;
   }
 }
-
 
 /* Match light-mode page background to Osculatorium branding */
 html[saved-theme="light"] body {
@@ -511,7 +502,9 @@ body[data-slug="index"] .article-title {
 }
 
 /* Hide Quartz folder listing on generated QOD topic pages */
-body:has(.qod-topic-page-marker) .page-listing { display: none; }
+body:has(.qod-topic-page-marker) .page-listing {
+  display: none;
+}
 
 /* ------------------------------------------------------------
    TEACHER QOD CONTROL PANEL
@@ -567,10 +560,8 @@ body[data-slug="teacher-control-panel"] iframe {
    In light mode, use a neutral high-contrast treatment instead
    of Quartz's bright cyan callout colours.
 */
-html[saved-theme="light"] body:has(.about-page-marker)
-.callout[data-callout="info"],
-html[saved-theme="light"] body:has(.about-page-marker)
-.callout[data-callout="abstract"] {
+html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="info"],
+html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="abstract"] {
   --color: var(--darkgray);
   --border: color-mix(in srgb, var(--darkgray) 38%, var(--light));
   --bg: color-mix(in srgb, var(--darkgray) 7%, var(--light));
@@ -624,8 +615,7 @@ html[saved-theme="light"] body:has(.about-page-marker)
   text-decoration: none;
 }
 
-.qod-learning-path-link:hover
-.qod-learning-path-title {
+.qod-learning-path-link:hover .qod-learning-path-title {
   text-decoration: underline;
 }
 
@@ -700,3 +690,104 @@ html[saved-theme="light"] body:has(.about-page-marker)
     margin-right: 0.8rem;
   }
 }
+/* QOD INLINE ACCORDION:START */
+
+.qod-learning-path-link {
+  cursor: pointer;
+}
+
+.qod-learning-path-action {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding-left: 0.75rem;
+  color: var(--gray);
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.qod-learning-path-item.is-open {
+  border-color: var(--secondary);
+}
+
+.qod-inline-panel {
+  margin: 0 1rem 1rem 4.1rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.qod-inline-body {
+  min-width: 0;
+}
+
+.qod-inline-content {
+  overflow-wrap: anywhere;
+}
+
+.qod-inline-content > :first-child {
+  margin-top: 0;
+}
+
+.qod-inline-content > :last-child {
+  margin-bottom: 0;
+}
+
+.qod-inline-content img,
+.qod-inline-content video,
+.qod-inline-content svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.qod-inline-loading,
+.qod-inline-error {
+  margin: 0;
+  padding: 0.8rem 0;
+  color: var(--gray);
+}
+
+.qod-inline-error {
+  color: var(--darkgray);
+}
+
+.qod-inline-footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.qod-inline-full-page {
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.qod-inline-content .callout.is-collapsible > .callout-title {
+  cursor: pointer;
+}
+
+@media all and (max-width: 600px) {
+  .qod-learning-path-link {
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .qod-learning-path-main {
+    flex: 1 1 calc(100% - 3rem);
+  }
+
+  .qod-learning-path-action {
+    flex-basis: 100%;
+    margin-left: 2.75rem;
+    padding-left: 0;
+  }
+
+  .qod-inline-panel {
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+  }
+}
+
+/* QOD INLINE ACCORDION:END */

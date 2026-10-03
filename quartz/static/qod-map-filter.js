@@ -1,38 +1,25 @@
-(() => {
-  const section =
-    document.querySelector(".qod-map-section")
+;(() => {
+  const section = document.querySelector(".qod-map-section")
 
   if (!section) return
 
-  const courseSelect =
-    section.querySelector("#qod-map-course-filter")
+  const courseSelect = section.querySelector("#qod-map-course-filter")
 
-  const topicSelect =
-    section.querySelector("#qod-map-topic-filter")
+  const topicSelect = section.querySelector("#qod-map-topic-filter")
 
-  const resetButton =
-    section.querySelector("#qod-map-reset")
+  const resetButton = section.querySelector("#qod-map-reset")
 
-  const count =
-    section.querySelector("#qod-map-count")
+  const count = section.querySelector("#qod-map-count")
 
-  const prompt =
-    section.querySelector("#qod-learning-path-prompt")
+  const prompt = section.querySelector("#qod-learning-path-prompt")
 
-  const results =
-    section.querySelector("#qod-learning-path-results")
+  const results = section.querySelector("#qod-learning-path-results")
 
-  const empty =
-    section.querySelector("#qod-learning-path-empty")
+  const empty = section.querySelector("#qod-learning-path-empty")
 
-  const list =
-    section.querySelector("#qod-learning-path-list")
+  const list = section.querySelector("#qod-learning-path-list")
 
-  const items = [
-    ...section.querySelectorAll(
-      ".qod-learning-path-item"
-    ),
-  ]
+  const items = [...section.querySelectorAll(".qod-learning-path-item")]
 
   if (
     !courseSelect ||
@@ -48,70 +35,44 @@
     return
   }
 
-  const coursesFor = (item) =>
-    (item.dataset.qodCourses || "")
-      .split("|")
-      .filter(Boolean)
+  const coursesFor = (item) => (item.dataset.qodCourses || "").split("|").filter(Boolean)
 
-  const topicFor = (item) =>
-    item.dataset.qodTopic || ""
+  const topicFor = (item) => item.dataset.qodTopic || ""
 
   const qodNumber = (item) => {
-    const name =
-      item.dataset.qodName || ""
+    const name = item.dataset.qodName || ""
 
-    const match =
-      name.match(/(\d+)(?!.*\d)/)
+    const match = name.match(/(\d+)(?!.*\d)/)
 
-    return match
-      ? Number(match[1])
-      : Number.MAX_SAFE_INTEGER
+    return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER
   }
 
-  const allCourses = [
-    ...new Set(
-      items.flatMap(coursesFor)
-    ),
-  ].sort((a, b) =>
-    a.localeCompare(
-      b,
-      undefined,
-      { numeric: true }
-    )
+  const allCourses = [...new Set(items.flatMap(coursesFor))].sort((a, b) =>
+    a.localeCompare(b, undefined, { numeric: true }),
   )
 
-  const topicsForCourse = (course) => [
-    ...new Set(
-      items
-        .filter((item) =>
-          coursesFor(item).includes(course)
-        )
-        .map(topicFor)
-        .filter(Boolean)
-    ),
-  ].sort((a, b) =>
-    a.localeCompare(
-      b,
-      undefined,
-      { numeric: true }
-    )
-  )
+  const topicsForCourse = (course) =>
+    [
+      ...new Set(
+        items
+          .filter((item) => coursesFor(item).includes(course))
+          .map(topicFor)
+          .filter(Boolean),
+      ),
+    ].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
 
   const fillCourseOptions = () => {
     courseSelect.innerHTML = ""
 
-    const first =
-      document.createElement("option")
+    const first = document.createElement("option")
 
     first.value = ""
-    first.textContent =
-      "Choose a course"
+    first.textContent = "Choose a course"
 
     courseSelect.appendChild(first)
 
     allCourses.forEach((course) => {
-      const option =
-        document.createElement("option")
+      const option = document.createElement("option")
 
       option.value = course
       option.textContent = course
@@ -120,20 +81,13 @@
     })
   }
 
-  const fillTopicOptions = (
-    course,
-    requested = ""
-  ) => {
+  const fillTopicOptions = (course, requested = "") => {
     topicSelect.innerHTML = ""
 
-    const first =
-      document.createElement("option")
+    const first = document.createElement("option")
 
     first.value = ""
-    first.textContent =
-      course
-        ? "Choose a topic"
-        : "Choose a course first"
+    first.textContent = course ? "Choose a topic" : "Choose a course first"
 
     topicSelect.appendChild(first)
 
@@ -142,12 +96,10 @@
       return
     }
 
-    const topics =
-      topicsForCourse(course)
+    const topics = topicsForCourse(course)
 
     topics.forEach((topic) => {
-      const option =
-        document.createElement("option")
+      const option = document.createElement("option")
 
       option.value = topic
       option.textContent = topic
@@ -162,15 +114,328 @@
     }
   }
 
+  // ----------------------------------------------------------
+  // Inline QOD panels
+  // ----------------------------------------------------------
+
+  const relationshipLabels = new Set(["review first", "explore also", "build toward"])
+
+  const toAbsoluteUrl = (value, baseUrl) => {
+    if (
+      !value ||
+      value.startsWith("#") ||
+      value.startsWith("data:") ||
+      value.startsWith("mailto:") ||
+      value.startsWith("tel:") ||
+      value.startsWith("javascript:")
+    ) {
+      return value
+    }
+
+    try {
+      return new URL(value, baseUrl).href
+    } catch {
+      return value
+    }
+  }
+
+  const rewriteRelativeUrls = (container, baseUrl) => {
+    container.querySelectorAll("[href]").forEach((element) => {
+      const value = element.getAttribute("href")
+
+      element.setAttribute("href", toAbsoluteUrl(value, baseUrl))
+    })
+
+    container.querySelectorAll("[src]").forEach((element) => {
+      const value = element.getAttribute("src")
+
+      element.setAttribute("src", toAbsoluteUrl(value, baseUrl))
+    })
+
+    container.querySelectorAll("[poster]").forEach((element) => {
+      const value = element.getAttribute("poster")
+
+      element.setAttribute("poster", toAbsoluteUrl(value, baseUrl))
+    })
+
+    container.querySelectorAll("[srcset]").forEach((element) => {
+      const value = element.getAttribute("srcset")
+
+      if (!value) return
+
+      const rewritten = value
+        .split(",")
+        .map((candidate) => {
+          const parts = candidate.trim().split(/\s+/)
+
+          const url = parts.shift()
+
+          if (!url) {
+            return candidate
+          }
+
+          return [toAbsoluteUrl(url, baseUrl), ...parts].join(" ")
+        })
+        .join(", ")
+
+      element.setAttribute("srcset", rewritten)
+    })
+  }
+
+  const removeRelationshipContent = (container) => {
+    container.querySelectorAll(".qod-relationships").forEach((node) => node.remove())
+
+    container.querySelectorAll(".callout").forEach((callout) => {
+      const title =
+        callout.querySelector(".callout-title-inner")?.textContent ??
+        callout.querySelector(".callout-title")?.textContent ??
+        ""
+
+      if (relationshipLabels.has(title.trim().toLowerCase())) {
+        callout.remove()
+      }
+    })
+
+    container.querySelectorAll("script, style, link, meta").forEach((node) => node.remove())
+  }
+
+  const activateInjectedCallouts = (container) => {
+    container.querySelectorAll(".callout.is-collapsible").forEach((callout) => {
+      const title = callout.querySelector(".callout-title")
+
+      if (!title) return
+
+      title.setAttribute("role", "button")
+
+      if (!title.hasAttribute("tabindex")) {
+        title.setAttribute("tabindex", "0")
+      }
+
+      const syncExpanded = () => {
+        title.setAttribute("aria-expanded", String(!callout.classList.contains("is-collapsed")))
+      }
+
+      const toggle = () => {
+        callout.classList.toggle("is-collapsed")
+
+        syncExpanded()
+      }
+
+      title.addEventListener("click", toggle)
+
+      title.addEventListener("keydown", (event) => {
+        if (event.key !== "Enter" && event.key !== " ") {
+          return
+        }
+
+        event.preventDefault()
+        toggle()
+      })
+
+      syncExpanded()
+    })
+  }
+
+  const createInlinePanel = (item, link) => {
+    const panel = document.createElement("div")
+
+    const slug = item.dataset.qodSlug || ""
+
+    const safeId = slug.replace(/[^a-zA-Z0-9_-]+/g, "-").replace(/^[-_]+|[-_]+$/g, "")
+
+    panel.id = `qod-inline-${safeId}`
+
+    panel.className = "qod-inline-panel"
+
+    panel.hidden = true
+
+    const body = document.createElement("div")
+
+    body.className = "qod-inline-body"
+
+    panel.appendChild(body)
+
+    const footer = document.createElement("div")
+
+    footer.className = "qod-inline-footer"
+
+    const fullPage = document.createElement("a")
+
+    fullPage.className = "qod-inline-full-page"
+
+    fullPage.href = link.href
+
+    fullPage.target = "_blank"
+    fullPage.rel = "noopener noreferrer"
+
+    fullPage.textContent = "Open full QOD page â†—"
+
+    footer.appendChild(fullPage)
+    panel.appendChild(footer)
+
+    item.appendChild(panel)
+
+    link.setAttribute("aria-controls", panel.id)
+
+    link.setAttribute("aria-expanded", "false")
+
+    return panel
+  }
+
+  const panelForItem = (item, link) =>
+    item.querySelector(".qod-inline-panel") || createInlinePanel(item, link)
+
+  const setToggleLabel = (link, open, loading = false) => {
+    let action = link.querySelector(".qod-learning-path-action")
+
+    if (!action) {
+      action = document.createElement("span")
+
+      action.className = "qod-learning-path-action"
+
+      link.appendChild(action)
+    }
+
+    if (loading) {
+      action.textContent = "Loadingâ€¦"
+    } else {
+      action.textContent = open ? "Close question â–²" : "Open question â–¼"
+    }
+  }
+
+  const loadQodIntoPanel = async (item, link, panel) => {
+    if (item.dataset.qodLoaded === "true") {
+      return
+    }
+
+    const body = panel.querySelector(".qod-inline-body")
+
+    if (!body) return
+
+    setToggleLabel(link, true, true)
+
+    body.innerHTML = '<p class="qod-inline-loading">Loading questionâ€¦</p>'
+
+    try {
+      const response = await fetch(link.href, {
+        credentials: "same-origin",
+      })
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`)
+      }
+
+      const html = await response.text()
+
+      const parsed = new DOMParser().parseFromString(html, "text/html")
+
+      const article = parsed.querySelector("article")
+
+      if (!article) {
+        throw new Error("QOD article content was not found.")
+      }
+
+      const content = document.createElement("div")
+
+      content.className = "qod-inline-content"
+
+      content.innerHTML = article.innerHTML
+
+      removeRelationshipContent(content)
+
+      rewriteRelativeUrls(content, response.url)
+
+      body.replaceChildren(content)
+
+      activateInjectedCallouts(content)
+
+      item.dataset.qodLoaded = "true"
+    } catch (error) {
+      body.innerHTML = ""
+
+      const errorBox = document.createElement("div")
+
+      errorBox.className = "qod-inline-error"
+
+      errorBox.textContent =
+        "The question could not be loaded here. Use â€œOpen full QOD pageâ€ below."
+
+      body.appendChild(errorBox)
+
+      console.error("Unable to load inline QOD:", error)
+    } finally {
+      setToggleLabel(link, !panel.hidden)
+    }
+  }
+
+  const prepareInlinePanels = () => {
+    items.forEach((item) => {
+      const link = item.querySelector(".qod-learning-path-link")
+
+      if (!link) return
+
+      const panel = panelForItem(item, link)
+
+      setToggleLabel(link, false)
+
+      link.addEventListener("click", async (event) => {
+        // Ctrl/Cmd-click, Shift-click, etc. retain normal
+        // browser link behavior.
+        if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) {
+          return
+        }
+
+        event.preventDefault()
+
+        const opening = panel.hidden
+
+        panel.hidden = !opening
+
+        link.setAttribute("aria-expanded", String(opening))
+
+        item.classList.toggle("is-open", opening)
+
+        setToggleLabel(link, opening)
+
+        if (opening) {
+          await loadQodIntoPanel(item, link, panel)
+        }
+      })
+    })
+  }
+
+  const closeAllPanels = () => {
+    items.forEach((item) => {
+      const panel = item.querySelector(".qod-inline-panel")
+
+      const link = item.querySelector(".qod-learning-path-link")
+
+      if (panel) {
+        panel.hidden = true
+      }
+
+      if (link) {
+        link.setAttribute("aria-expanded", "false")
+
+        setToggleLabel(link, false)
+      }
+
+      item.classList.remove("is-open")
+    })
+  }
+
+  // ----------------------------------------------------------
+  // Course/topic learning-path ordering
+  // ----------------------------------------------------------
+
   const updatePath = () => {
-    const course =
-      courseSelect.value
+    const course = courseSelect.value
 
-    const topic =
-      topicSelect.value
+    const topic = topicSelect.value
 
-    resetButton.disabled =
-      !course && !topic
+    resetButton.disabled = !course && !topic
+
+    closeAllPanels()
 
     if (!course || !topic) {
       prompt.hidden = false
@@ -181,43 +446,33 @@
         item.hidden = true
       })
 
-      count.textContent =
-        `${items.length} QODs in bank`
+      count.textContent = `${items.length} QODs in bank`
 
       return
     }
 
     const selected = items
-      .filter(
-        (item) =>
-          coursesFor(item).includes(course) &&
-          topicFor(item) === topic
-      )
+      .filter((item) => coursesFor(item).includes(course) && topicFor(item) === topic)
       .sort((a, b) => {
-        const depthA =
-          Number(a.dataset.qodDepth || 0)
+        const depthA = Number(a.dataset.qodDepth || 0)
 
-        const depthB =
-          Number(b.dataset.qodDepth || 0)
+        const depthB = Number(b.dataset.qodDepth || 0)
 
         if (depthA !== depthB) {
           return depthA - depthB
         }
 
         const numberA = qodNumber(a)
+
         const numberB = qodNumber(b)
 
         if (numberA !== numberB) {
           return numberA - numberB
         }
 
-        return (
-          a.dataset.qodName || ""
-        ).localeCompare(
-          b.dataset.qodName || "",
-          undefined,
-          { numeric: true }
-        )
+        return (a.dataset.qodName || "").localeCompare(b.dataset.qodName || "", undefined, {
+          numeric: true,
+        })
       })
 
     prompt.hidden = true
@@ -230,6 +485,7 @@
       results.hidden = true
       empty.hidden = false
       count.textContent = "0 QODs"
+
       return
     }
 
@@ -240,72 +496,46 @@
       item.hidden = false
       list.appendChild(item)
 
-      const step =
-        item.querySelector(
-          ".qod-learning-step-number"
-        )
+      const step = item.querySelector(".qod-learning-step-number")
 
-      const status =
-        item.querySelector(
-          ".qod-learning-path-status"
-        )
+      const status = item.querySelector(".qod-learning-path-status")
 
       if (step) {
-        step.textContent =
-          String(index + 1)
+        step.textContent = String(index + 1)
       }
 
       if (status) {
         if (index === 0) {
-          status.textContent =
-            "Start here"
-        } else if (
-          index ===
-          selected.length - 1
-        ) {
-          status.textContent =
-            "Most advanced"
+          status.textContent = "Start here"
+        } else if (index === selected.length - 1) {
+          status.textContent = "Most advanced"
         } else {
           status.textContent = ""
         }
       }
     })
 
-    count.textContent =
-      `${selected.length} QOD${
-        selected.length === 1
-          ? ""
-          : "s"
-      }`
+    count.textContent = `${selected.length} QOD${selected.length === 1 ? "" : "s"}`
   }
 
   fillCourseOptions()
   fillTopicOptions("")
+  prepareInlinePanels()
 
-  courseSelect.addEventListener(
-    "change",
-    () => {
-      fillTopicOptions(
-        courseSelect.value
-      )
+  courseSelect.addEventListener("change", () => {
+    fillTopicOptions(courseSelect.value)
 
-      updatePath()
-    }
-  )
+    updatePath()
+  })
 
-  topicSelect.addEventListener(
-    "change",
-    updatePath
-  )
+  topicSelect.addEventListener("change", updatePath)
 
-  resetButton.addEventListener(
-    "click",
-    () => {
-      courseSelect.value = ""
-      fillTopicOptions("")
-      updatePath()
-    }
-  )
+  resetButton.addEventListener("click", () => {
+    courseSelect.value = ""
+
+    fillTopicOptions("")
+    updatePath()
+  })
 
   updatePath()
 })()
