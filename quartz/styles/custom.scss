@@ -791,3 +791,55 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
 }
 
 /* QOD INLINE ACCORDION:END */
+
+/* QOD INLINE SOLUTION:START */
+
+.qod-inline-solution-block {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.qod-inline-solution {
+  margin: 0;
+  border: 1px solid var(--qod-card-border);
+  border-radius: 0.65rem;
+  background: color-mix(in srgb, var(--light) 94%, var(--lightgray) 6%);
+  overflow: hidden;
+}
+
+.qod-inline-solution > summary {
+  cursor: pointer;
+  padding: 0.8rem 0.9rem;
+  color: var(--secondary);
+  font-weight: 650;
+  user-select: none;
+}
+
+.qod-inline-solution[open] > summary {
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.qod-inline-solution-content {
+  padding: 0.9rem 1rem 1rem;
+}
+
+.qod-inline-solution-content > :first-child {
+  margin-top: 0;
+}
+
+.qod-inline-solution-content > :last-child {
+  margin-bottom: 0;
+}
+
+.qod-inline-no-solution {
+  margin: 0;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.65rem;
+  background: var(--light);
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+/* QOD INLINE SOLUTION:END */

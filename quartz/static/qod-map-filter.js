@@ -182,21 +182,124 @@
     })
   }
 
+  const calloutTitle = (callout) =>
+    (
+      callout.querySelector(".callout-title-inner")?.textContent ??
+      callout.querySelector(".callout-title")?.textContent ??
+      ""
+    )
+      .trim()
+      .toLowerCase()
+
   const removeRelationshipContent = (container) => {
     container.querySelectorAll(".qod-relationships").forEach((node) => node.remove())
 
     container.querySelectorAll(".callout").forEach((callout) => {
-      const title =
-        callout.querySelector(".callout-title-inner")?.textContent ??
-        callout.querySelector(".callout-title")?.textContent ??
-        ""
-
-      if (relationshipLabels.has(title.trim().toLowerCase())) {
+      if (relationshipLabels.has(calloutTitle(callout))) {
         callout.remove()
       }
     })
 
     container.querySelectorAll("script, style, link, meta").forEach((node) => node.remove())
+  }
+
+  const extractSolutionSource = (content) => {
+    const holder = document.createElement("div")
+
+    const hidden = content.querySelector("template.qod-hidden-solution-source")
+
+    if (hidden) {
+      holder.appendChild(hidden.content.cloneNode(true))
+
+      hidden.remove()
+
+      return holder
+    }
+
+    const marked = content.querySelector(".qod-solution-source")
+
+    if (marked) {
+      holder.appendChild(marked.cloneNode(true))
+
+      marked.remove()
+
+      return holder
+    }
+
+    // Backward-compatible fallback for previously generated pages.
+    const candidate = [...content.querySelectorAll(".callout")].find(
+      (callout) => calloutTitle(callout) === "show solution",
+    )
+
+    if (candidate) {
+      holder.appendChild(candidate.cloneNode(true))
+
+      candidate.remove()
+    }
+
+    return holder
+  }
+
+  const solutionHasContent = (container) => {
+    const text = container.textContent?.replace(/\s+/g, " ").trim() ?? ""
+
+    if (text) {
+      return true
+    }
+
+    return Boolean(
+      container.querySelector(
+        ["img", "svg", "table", "math", "mjx-container", ".katex", "video", "audio"].join(","),
+      ),
+    )
+  }
+
+  const makeSolutionBlock = (solutionSource, baseUrl) => {
+    const block = document.createElement("div")
+
+    block.className = "qod-inline-solution-block"
+
+    const callout = solutionSource.querySelector(".qod-solution-source, .callout")
+
+    const calloutContent = callout?.querySelector(".callout-content")
+
+    const source = calloutContent ?? solutionSource
+
+    rewriteRelativeUrls(source, baseUrl)
+
+    if (!solutionHasContent(source)) {
+      const unavailable = document.createElement("p")
+
+      unavailable.className = "qod-inline-no-solution"
+
+      unavailable.textContent = "No solution is currently available for this QOD."
+
+      block.appendChild(unavailable)
+
+      return block
+    }
+
+    const details = document.createElement("details")
+
+    details.className = "qod-inline-solution"
+
+    const summary = document.createElement("summary")
+
+    summary.textContent = "Show solution"
+
+    const body = document.createElement("div")
+
+    body.className = "qod-inline-solution-content"
+
+    ;[...source.childNodes].forEach((node) => {
+      body.appendChild(node.cloneNode(true))
+    })
+
+    details.appendChild(summary)
+    details.appendChild(body)
+    block.appendChild(details)
+
+    return block
   }
 
   const activateInjectedCallouts = (container) => {
@@ -268,7 +371,7 @@
     fullPage.target = "_blank"
     fullPage.rel = "noopener noreferrer"
 
-    fullPage.textContent = "Open full QOD page â†—"
+    fullPage.textContent = "Open full QOD page (new tab)"
 
     footer.appendChild(fullPage)
     panel.appendChild(footer)
@@ -296,10 +399,11 @@
       link.appendChild(action)
     }
 
+    // ASCII-only UI text prevents the mojibake seen previously.
     if (loading) {
-      action.textContent = "Loadingâ€¦"
+      action.textContent = "Loading..."
     } else {
-      action.textContent = open ? "Close question â–²" : "Open question â–¼"
+      action.textContent = open ? "Close question" : "Open question"
     }
   }
 
@@ -314,7 +418,7 @@
 
     setToggleLabel(link, true, true)
 
-    body.innerHTML = '<p class="qod-inline-loading">Loading questionâ€¦</p>'
+    body.innerHTML = '<p class="qod-inline-loading">Loading question...</p>'
 
     try {
       const response = await fetch(link.href, {
@@ -341,9 +445,15 @@
 
       content.innerHTML = article.innerHTML
 
+      const solutionSource = extractSolutionSource(content)
+
       removeRelationshipContent(content)
 
       rewriteRelativeUrls(content, response.url)
+
+      const solutionBlock = makeSolutionBlock(solutionSource, response.url)
+
+      content.appendChild(solutionBlock)
 
       body.replaceChildren(content)
 
@@ -357,8 +467,7 @@
 
       errorBox.className = "qod-inline-error"
 
-      errorBox.textContent =
-        "The question could not be loaded here. Use â€œOpen full QOD pageâ€ below."
+      errorBox.textContent = "The question could not be loaded here. Use the full-page link below."
 
       body.appendChild(errorBox)
 
@@ -379,8 +488,6 @@
       setToggleLabel(link, false)
 
       link.addEventListener("click", async (event) => {
-        // Ctrl/Cmd-click, Shift-click, etc. retain normal
-        // browser link behavior.
         if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) {
           return
         }

@@ -319,59 +319,28 @@ const config = await loadQuartzConfig()
 // QOD SOLUTION VISIBILITY
 // ------------------------------------------------------------
 //
-// If:
+// Standalone QOD behaviour:
 //
 // show_solution: false
+//   -> keep the rendered solution inside an inert <template>.
+//      It remains invisible on the standalone QOD page.
 //
-// remove the Solution heading and everything after it
-// before Quartz renders the page.
+// show_solution: true (or omitted)
+//   -> render the solution normally.
 //
-// When the solution is visible, keep the Markdown heading as an
-// internal marker but remove the heading from the rendered HTML.
-// The collapsed "Show solution" callout becomes the visible label.
+// The hidden template allows the QOD Learning Path to offer the
+// existing solution as a nested collapsible without changing the
+// standalone QOD page's visible behaviour.
+//
 config.plugins.transformers.push({
   name: "QodSolutionVisibility",
-
-  markdownPlugins() {
-    return [
-      () => (tree: any, file: any) => {
-        const frontmatter = file.data.frontmatter
-
-        if (
-          frontmatter?.type !== "qod" ||
-          frontmatter?.show_solution !== false
-        ) {
-          return
-        }
-
-        const children = tree.children ?? []
-
-        const solutionIndex = children.findIndex((node: any) => {
-          if (node.type !== "heading" || node.depth !== 2) {
-            return false
-          }
-
-          const text = (node.children ?? [])
-            .filter((child: any) => child.type === "text")
-            .map((child: any) => child.value)
-            .join("")
-            .trim()
-            .toLowerCase()
-
-          return text === "solution"
-        })
-
-        if (solutionIndex !== -1) {
-          children.splice(solutionIndex)
-        }
-      },
-    ]
-  },
 
   htmlPlugins() {
     return [
       () => (tree: any, file: any) => {
-        if (file.data.frontmatter?.type !== "qod") {
+        const frontmatter = file.data.frontmatter
+
+        if (frontmatter?.type !== "qod") {
           return
         }
 
@@ -394,9 +363,67 @@ config.plugins.transformers.push({
             getText(node).trim().toLowerCase() === "solution",
         )
 
-        if (solutionHeadingIndex !== -1) {
-          children.splice(solutionHeadingIndex, 1)
+        if (solutionHeadingIndex === -1) {
+          return
         }
+
+        const solutionNodes = children.splice(
+          solutionHeadingIndex,
+        )
+
+        // The nested solution control supplies its own heading.
+        solutionNodes.shift()
+
+        const markSolutionCallout = (
+          node: any,
+        ) => {
+          if (node?.type === "element") {
+            const classes =
+              node.properties?.className
+
+            if (
+              Array.isArray(classes) &&
+              classes.includes("callout") &&
+              !classes.includes(
+                "qod-solution-source",
+              )
+            ) {
+              classes.push(
+                "qod-solution-source",
+              )
+            }
+          }
+
+          for (
+            const child of
+            node?.children ?? []
+          ) {
+            markSolutionCallout(child)
+          }
+        }
+
+        for (const node of solutionNodes) {
+          markSolutionCallout(node)
+        }
+
+        if (
+          frontmatter?.show_solution === false
+        ) {
+          children.push({
+            type: "element",
+            tagName: "template",
+            properties: {
+              className: [
+                "qod-hidden-solution-source",
+              ],
+            },
+            children: solutionNodes,
+          })
+
+          return
+        }
+
+        children.push(...solutionNodes)
       },
     ]
   },
