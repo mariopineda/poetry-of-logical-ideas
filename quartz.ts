@@ -949,6 +949,10 @@ config.plugins.transformers.push({
                 "data-qod-courses":
                   entry.courses.join("|"),
                 "data-qod-topic": entry.topic,
+                "data-qod-review-first":
+                  entry.reviewFirst.join("|"),
+                "data-qod-build-toward":
+                  entry.buildToward.join("|"),
                 "data-qod-depth":
                   String(
                     learningDepth(entry.slug),

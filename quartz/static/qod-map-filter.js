@@ -558,29 +558,105 @@
       return
     }
 
-    const selected = items
-      .filter((item) => coursesFor(item).includes(course) && topicFor(item) === topic)
-      .sort((a, b) => {
-        const depthA = Number(a.dataset.qodDepth || 0)
+    const selected = items.filter(
+      (item) => coursesFor(item).includes(course) && topicFor(item) === topic,
+    )
 
-        const depthB = Number(b.dataset.qodDepth || 0)
+    // Build a prerequisite graph using ONLY QODs in the
+    // currently selected course/topic. External prerequisites
+    // remain visible as "Review first", but they no longer
+    // push a QOD farther down this topic's learning path.
+    const selectedByName = new Map(
+      selected.map((item) => [(item.dataset.qodName || "").toLowerCase(), item]),
+    )
 
-        if (depthA !== depthB) {
-          return depthA - depthB
-        }
+    const prerequisitesByName = new Map(
+      selected.map((item) => [(item.dataset.qodName || "").toLowerCase(), new Set()]),
+    )
 
-        const numberA = qodNumber(a)
+    const relationshipNamesFor = (item, key) =>
+      (item.dataset[key] || "")
+        .split("|")
+        .map((name) => name.trim())
+        .filter(Boolean)
 
-        const numberB = qodNumber(b)
+    const addLocalDirected = (prerequisiteName, laterName) => {
+      const prerequisiteKey = prerequisiteName.toLowerCase()
+      const laterKey = laterName.toLowerCase()
 
-        if (numberA !== numberB) {
-          return numberA - numberB
-        }
+      if (
+        prerequisiteKey === laterKey ||
+        !selectedByName.has(prerequisiteKey) ||
+        !selectedByName.has(laterKey)
+      ) {
+        return
+      }
 
-        return (a.dataset.qodName || "").localeCompare(b.dataset.qodName || "", undefined, {
-          numeric: true,
-        })
+      prerequisitesByName.get(laterKey)?.add(prerequisiteKey)
+    }
+
+    selected.forEach((item) => {
+      const currentName = item.dataset.qodName || ""
+
+      relationshipNamesFor(item, "qodReviewFirst").forEach((prerequisiteName) => {
+        addLocalDirected(prerequisiteName, currentName)
       })
+
+      relationshipNamesFor(item, "qodBuildToward").forEach((laterName) => {
+        addLocalDirected(currentName, laterName)
+      })
+    })
+
+    const localDepthMemo = new Map()
+
+    const localLearningDepth = (name, visiting = new Set()) => {
+      const key = name.toLowerCase()
+
+      if (localDepthMemo.has(key)) {
+        return localDepthMemo.get(key)
+      }
+
+      if (visiting.has(key)) {
+        return 0
+      }
+
+      const next = new Set(visiting)
+      next.add(key)
+
+      const parents = [...(prerequisitesByName.get(key) || [])]
+
+      const depth =
+        parents.length === 0
+          ? 0
+          : Math.max(
+              ...parents.map(
+                (parentKey) => localLearningDepth(parentKey, next) + 1,
+              ),
+            )
+
+      localDepthMemo.set(key, depth)
+      return depth
+    }
+
+    selected.sort((a, b) => {
+      const depthA = localLearningDepth(a.dataset.qodName || "")
+      const depthB = localLearningDepth(b.dataset.qodName || "")
+
+      if (depthA !== depthB) {
+        return depthA - depthB
+      }
+
+      const numberA = qodNumber(a)
+      const numberB = qodNumber(b)
+
+      if (numberA !== numberB) {
+        return numberA - numberB
+      }
+
+      return (a.dataset.qodName || "").localeCompare(b.dataset.qodName || "", undefined, {
+        numeric: true,
+      })
+    })
 
     prompt.hidden = true
 
