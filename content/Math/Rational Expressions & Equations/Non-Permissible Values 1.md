@@ -1,8 +1,11 @@
 ---
 type: qod
 publish: true
-course: []
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
+learning_order: 30
 show_solution: true
 ---
 
@@ -34,6 +37,92 @@ In each case, write a rational expression with the given variable and non-permis
 
 > [!example]- Show solution
 >
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/KciyRpeEqnU
+> A non-permissible value is a value that makes the denominator equal to zero. Many answers are possible; one simple choice in each case is:
 >
+> ### 1. Non-permissible value \(x=0\)
+>
+> Choose a denominator that is zero when \(x=0\):
+>
+> $
+> \boxed{\frac{1}{x}}
+> $
+>
+> Since the denominator is zero at \(x=0\),
+>
+> $
+> \boxed{x\ne0}.
+> $
+>
+> ### 2. Non-permissible value \(b=1\)
+>
+> Choose
+>
+> $
+> \boxed{\frac{1}{b-1}}.
+> $
+>
+> Since
+>
+> $
+> b-1=0
+> $
+>
+> when \(b=1\),
+>
+> $
+> \boxed{b\ne1}.
+> $
+>
+> ### 3. Non-permissible value \(a=-8\)
+>
+> Choose
+>
+> $
+> \boxed{\frac{1}{a+8}}.
+> $
+>
+> Since
+>
+> $
+> a+8=0
+> $
+>
+> when \(a=-8\),
+>
+> $
+> \boxed{a\ne-8}.
+> $
+>
+> ### 4. Non-permissible value \(m=\frac34\)
+>
+> Choose
+>
+> $
+> \boxed{\frac{1}{4m-3}}.
+> $
+>
+> The denominator is zero when
+>
+> $
+> 4m-3=0
+> $
+>
+> so
+>
+> $
+> m=\frac34.
+> $
+>
+> Therefore,
+>
+> $
+> \boxed{m\ne\frac34}.
+> $
+>
+> > [!info]- Legacy video solution
+> >
+> > <div class="qod-legacy-video">
+> > <iframe src="https://www.youtube.com/embed/KciyRpeEqnU" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> > </div>
+> >
+> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=KciyRpeEqnU)

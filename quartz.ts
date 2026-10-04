@@ -949,6 +949,10 @@ config.plugins.transformers.push({
                 "data-qod-courses":
                   entry.courses.join("|"),
                 "data-qod-topic": entry.topic,
+                "data-qod-learning-order":
+                  entry.learningOrder === null
+                    ? ""
+                    : String(entry.learningOrder),
                 "data-qod-review-first":
                   entry.reviewFirst.join("|"),
                 "data-qod-build-toward":
@@ -1378,6 +1382,7 @@ type QodGraphEntry = {
   slug: string
   courses: string[]
   topic: string
+  learningOrder: number | null
   reviewFirst: string[]
   exploreAlso: string[]
   buildToward: string[]
@@ -1483,6 +1488,10 @@ function loadCanonicalQodGraphEntries(): QodGraphEntry[] {
         typeof frontmatter.topic === "string"
           ? frontmatter.topic.trim()
           : "",
+      learningOrder:
+        typeof frontmatter.learning_order === "number"
+          ? frontmatter.learning_order
+          : null,
       reviewFirst: qodGraphCalloutTargets(
         source,
         "Review First",

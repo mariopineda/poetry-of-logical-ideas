@@ -47,6 +47,19 @@
     return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER
   }
 
+  const learningOrderFor = (item) => {
+    const raw = item.dataset.qodLearningOrder
+
+    if (!raw) {
+      return Number.POSITIVE_INFINITY
+    }
+
+    const value = Number(raw)
+
+    return Number.isFinite(value)
+      ? value
+      : Number.POSITIVE_INFINITY
+  }
   const allCourses = [...new Set(items.flatMap(coursesFor))].sort((a, b) =>
     a.localeCompare(b, undefined, { numeric: true }),
   )
@@ -209,9 +222,8 @@
     const hidden = content.querySelector("template.qod-hidden-solution-source")
 
     if (hidden) {
-      holder.appendChild(hidden.content.cloneNode(true))
-
       hidden.remove()
+      holder.dataset.solutionHidden = "true"
 
       return holder
     }
@@ -264,6 +276,17 @@
     const calloutContent = callout?.querySelector(".callout-content")
 
     const source = calloutContent ?? solutionSource
+
+    if (solutionSource.dataset.solutionHidden === "true") {
+      const hiddenNotice = document.createElement("p")
+
+      hiddenNotice.className = "qod-inline-no-solution"
+      hiddenNotice.textContent = "Solution is not shown for this QOD."
+
+      block.appendChild(hiddenNotice)
+
+      return block
+    }
 
     rewriteRelativeUrls(source, baseUrl)
 
@@ -639,6 +662,13 @@
     }
 
     selected.sort((a, b) => {
+      const explicitOrderA = learningOrderFor(a)
+      const explicitOrderB = learningOrderFor(b)
+
+      if (explicitOrderA !== explicitOrderB) {
+        return explicitOrderA - explicitOrderB
+      }
+
       const depthA = localLearningDepth(a.dataset.qodName || "")
       const depthB = localLearningDepth(b.dataset.qodName || "")
 

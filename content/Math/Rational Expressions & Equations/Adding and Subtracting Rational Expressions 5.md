@@ -5,6 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
+learning_order: 200
 show_solution: true
 ---
 
@@ -43,6 +44,64 @@ $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 
 > [!example]- Show solution
 >
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/5a6_Vv0rwTI
+> ### A.
 >
+> Use a common denominator of \(28\):
+>
+> $
+> \frac{2y-3}{4}-\frac{y+4}{7}
+> =
+> \frac{7(2y-3)-4(y+4)}{28}.
+> $
+>
+> Therefore,
+>
+> $
+> \frac{14y-21-4y-16}{28}
+> =
+> \boxed{\frac{10y-37}{28}}.
+> $
+>
+> ### B.
+>
+> Use a common denominator of \(9\):
+>
+> $
+> \frac{2x-3}{3}-\frac{5-2x}{9}
+> =
+> \frac{3(2x-3)-(5-2x)}{9}.
+> $
+>
+> Hence,
+>
+> $
+> \frac{6x-9-5+2x}{9}
+> =
+> \boxed{\frac{8x-14}{9}}.
+> $
+>
+> ### C.
+>
+> Use a common denominator of \(12\):
+>
+> $
+> \frac{x}{4}+\frac{x+3}{6}+\frac{3x}{2}
+> =
+> \frac{3x+2(x+3)+18x}{12}.
+> $
+>
+> Simplify:
+>
+> $
+> \boxed{\frac{23x+6}{12}}.
+> $
+>
+> There are no variable restrictions because all original denominators are non-zero constants.
+>
+> > [!info]- Legacy video solution
+> >
+> > <div class="qod-legacy-video">
+> > <iframe src="https://www.youtube.com/embed/5a6_Vv0rwTI" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> > </div>
+> >
+> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=5a6_Vv0rwTI)

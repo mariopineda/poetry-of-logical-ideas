@@ -5,6 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
+learning_order: 130
 show_solution: true
 ---
 
@@ -39,6 +40,78 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 
 > [!example]- Show solution
 >
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/mmXXgluJuGk
+> ### A.
 >
+> Factor:
+>
+> $
+> x^2-9=(x-3)(x+3),
+> $
+>
+> $
+> 6x+24=6(x+4),
+> $
+>
+> and
+>
+> $
+> 10x+40=10(x+4).
+> $
+>
+> From the original denominators,
+>
+> $
+> x\ne-4,\qquad x\ne0,\qquad x\ne-3.
+> $
+>
+> Then
+>
+> $
+> \frac{(x-3)(x+3)}{6(x+4)}
+> \times
+> \frac{10(x+4)}{x(x+3)}
+> =
+> \boxed{\frac{5(x-3)}{3x}}.
+> $
+>
+> Thus,
+>
+> $
+> \boxed{\frac{5(x-3)}{3x}},
+> \qquad
+> \boxed{x\ne-4,-3,0}.
+> $
+>
+> ### B.
+>
+> The original denominator \(3x\) requires
+>
+> $
+> x\ne0.
+> $
+>
+> Over the real numbers,
+>
+> $
+> x^2+9>0,
+> $
+>
+> so it creates no additional restriction.
+>
+> Multiply and cancel:
+>
+> $
+> \frac{x+3}{3x}\times\frac{6x}{x^2+9}
+> =
+> \boxed{\frac{2(x+3)}{x^2+9}},
+> \qquad
+> \boxed{x\ne0}.
+> $
+>
+> > [!info]- Legacy video solution
+> >
+> > <div class="qod-legacy-video">
+> > <iframe src="https://www.youtube.com/embed/mmXXgluJuGk" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> > </div>
+> >
+> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=mmXXgluJuGk)
