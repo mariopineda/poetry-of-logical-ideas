@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-1"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

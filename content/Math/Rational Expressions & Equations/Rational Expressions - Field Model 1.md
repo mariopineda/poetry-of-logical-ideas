@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 ---
 
 

@@ -6,7 +6,7 @@ course:
   - "Mathematics 20-3"
   - "Mathematics 30-3"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

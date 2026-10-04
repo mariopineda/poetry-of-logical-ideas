@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 31"
 topic: "Function Properties"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

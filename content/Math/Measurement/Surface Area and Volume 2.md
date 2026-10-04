@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-2"
   - "Mathematics 30-3"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

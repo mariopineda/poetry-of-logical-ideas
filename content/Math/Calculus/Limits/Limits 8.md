@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-1"
 topic: Function Transformations
-show_solution: false
+show_solution: true
 ---
 
 ## Question

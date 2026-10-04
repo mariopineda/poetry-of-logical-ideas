@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

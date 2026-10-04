@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

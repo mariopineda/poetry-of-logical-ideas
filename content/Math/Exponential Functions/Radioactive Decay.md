@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Exponential Growth and Decay"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

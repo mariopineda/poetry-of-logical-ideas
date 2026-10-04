@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

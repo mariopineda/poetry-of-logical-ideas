@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

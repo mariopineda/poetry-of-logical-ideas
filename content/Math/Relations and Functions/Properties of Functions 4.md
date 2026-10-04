@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Function Properties"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

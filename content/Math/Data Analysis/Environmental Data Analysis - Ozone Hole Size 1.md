@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-2"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

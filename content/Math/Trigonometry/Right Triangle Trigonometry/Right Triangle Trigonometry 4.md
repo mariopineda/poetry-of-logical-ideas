@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-1"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10-3"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

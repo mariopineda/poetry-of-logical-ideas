@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-2"
   - "Mathematics 20-3"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

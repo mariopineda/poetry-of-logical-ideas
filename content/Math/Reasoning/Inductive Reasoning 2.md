@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-2"
 topic: "Inductive Reasoning"
-show_solution: false
+show_solution: true
 ---
 
 ## Question

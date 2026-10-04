@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 20-3"
 topic: "Surface Area and Volume"
-show_solution: false
+show_solution: true
 prerequisites: []
 related: []
 ---
