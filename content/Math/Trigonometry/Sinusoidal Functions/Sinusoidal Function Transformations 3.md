@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -22,6 +22,8 @@ The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground l
 
 <!--
 
+## Solution
+
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -35,5 +37,3 @@ The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground l
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

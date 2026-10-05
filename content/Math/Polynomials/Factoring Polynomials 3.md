@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-1"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -21,6 +21,14 @@ Write the following expressions in fully factored form.
 7. $16x-4x^2$
 8. $16x-4x^3$
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/BEilauoxSA0
+>
+
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
 
@@ -34,11 +42,3 @@ Write the following expressions in fully factored form.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/BEilauoxSA0
->

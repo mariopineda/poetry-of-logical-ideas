@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-2"
 topic: "Scale Factors"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -23,20 +23,6 @@ Complete the following table. Do not answer with decimals unless the given scale
 |  |  | 25 |  |
 |  |  |  | $\displaystyle\frac{1}{1000}$ |
 
-> [!abstract] Review First
-> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
-> - [[Math/Proportional Reasoning/Volume Scale Factors 1|Volume Scale Factors 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
-
 ## Solution
 
 > [!example]- Show solution
@@ -52,3 +38,17 @@ Complete the following table. Do not answer with decimals unless the given scale
 > | $0.3$ | $0.3^2=0.09$ | $0.09$ | $0.3^3=0.027$ |
 > | $\sqrt{25}=5$ | $25$ | $25$ | $5^3=125$ |
 > | $\sqrt[3]{\displaystyle\frac{1}{1000}} = \displaystyle\frac{1}{10}$ | $\left(\displaystyle\frac{1}{10}\right)^2 = \displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{100}$ | $\displaystyle\frac{1}{1000}$ |
+
+> [!abstract] Review First
+> - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
+> - [[Math/Proportional Reasoning/Volume Scale Factors 1|Volume Scale Factors 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

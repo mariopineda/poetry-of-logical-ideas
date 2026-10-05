@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Higher Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Determine the second derivative of $h(x) = \frac{5-4x}{3x-7}$.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -24,7 +28,3 @@ Determine the second derivative of $h(x) = \frac{5-4x}{3x-7}$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

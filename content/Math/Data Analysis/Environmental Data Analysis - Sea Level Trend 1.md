@@ -7,7 +7,7 @@ course:
   - "Mathematics 20-3"
   - "Mathematics 30-3"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,14 @@ Sea level is rising, in part, because of global climate change causes the meltin
 2. Determine the linear equation describing the sea level change.
 3. Determine the sea level change since 1993 in 2000. Answer to the nearest tenth of a mm.
 4. Using you model, predict the sea level change in 2100. Answer to the nearest centimeter.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Source
+> > [NASA Jet Propulsion Laboratory / California Institute of Technology](https://www.jpl.nasa.gov/edu/teach/activity/graphing-sea-level-trends/)
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -32,11 +40,3 @@ Sea level is rising, in part, because of global climate change causes the meltin
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Source
-> > [NASA Jet Propulsion Laboratory / California Institute of Technology](https://www.jpl.nasa.gov/edu/teach/activity/graphing-sea-level-trends/)
->

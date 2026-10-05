@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ For each relation, algebraically determine the x- and y-intercepts. Verify your 
 2. $y=\frac{3}{4}x+12$
 3. $-2x-4y+6=0$
 4. $-3y-45+18x=0$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -30,7 +34,3 @@ For each relation, algebraically determine the x- and y-intercepts. Verify your 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

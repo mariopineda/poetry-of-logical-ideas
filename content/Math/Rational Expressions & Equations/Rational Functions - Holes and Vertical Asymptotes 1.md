@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-1"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 ---
 
 
@@ -21,25 +21,6 @@ $$
 2. Classify each non-permissible value as either a **removable discontinuity (hole)** or a **vertical asymptote**.
 3. Determine the coordinates of the hole.
 4. Determine the $x$-intercept of the graph.
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
-> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]
-> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
-> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -97,3 +78,22 @@ $$
 > $$
 > \boxed{(2,0)}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

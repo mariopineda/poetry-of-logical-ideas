@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: "Set Theory"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -37,6 +37,10 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 
 ```
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Puzzles and Games/Puzzles & Games 1|Puzzles & Games 1]]
 
@@ -49,7 +53,3 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

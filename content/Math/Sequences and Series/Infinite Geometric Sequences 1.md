@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 20-1"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Evaluate $\sum\_{n=3}^{9} 8$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/PEKkgRjVEqc
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
@@ -24,11 +32,3 @@ Evaluate $\sum\_{n=3}^{9} 8$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/PEKkgRjVEqc
->

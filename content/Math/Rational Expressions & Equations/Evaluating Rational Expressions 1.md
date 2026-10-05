@@ -5,7 +5,9 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+
+learning_order: 10
+show_solution: true
 ---
 
 ## Question
@@ -16,21 +18,6 @@ Evaluate without a calculator and express in lowest terms.
 2. $$\frac{1}{2} \left( \frac{2}{3}-\frac{5}{4} \right)$$
 3. $$15 \div [(-4)(-4)+(-11)]$$
 4. $$ 2+\frac{5}{8} \div \frac{1}{4}-\left( -\frac{1}{3} \right)$$
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -46,3 +33,18 @@ Evaluate without a calculator and express in lowest terms.
 >    $$ = 2+\frac{5}{2} + \frac{1}{3}$$
 >    $$ = \frac{12}{6} + \frac{15}{6} + \frac{2}{6} = \frac{29}{6}$$
 >
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

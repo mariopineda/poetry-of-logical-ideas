@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Exponent Laws"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ Without using a calculator, determine the exact value of the following.
 3. $\left( \frac{\displaystyle 4}{\displaystyle 9} \right)^{\frac{1}{2}}$
 4. $125^{\frac{1}{3}} - 10^0$
 5. $\left( \frac{\displaystyle 1}{\displaystyle 4} \right)^{-2}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
@@ -51,7 +55,3 @@ Without using a calculator, determine the exact value of the following.
 > - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]
 > - [[Math/Radicals/Radicals 1|Radicals 1]]
 > - [[Math/Radicals/Radicals 2|Radicals 2]]
-
-## Solution
-
-> [!example]- Show solution

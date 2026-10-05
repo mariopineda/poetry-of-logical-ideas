@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-1"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 ---
 
 
@@ -23,25 +23,6 @@ The student's solution contains both an algebraic error and a domain error.
 2. Give the correct simplified expression and all restrictions.
 3. Determine the coordinates of any hole.
 4. State the vertical asymptote.
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
-> - [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1|Rational Functions - Equivalent Rules and Domains 1]]
-> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
-> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -105,3 +86,22 @@ The student's solution contains both an algebraic error and a domain error.
 > $$
 > \boxed{x=2}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1|Rational Functions - Equivalent Rules and Domains 1]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 At which x-value(s) does the function $y=(3x-1)^4 (7-2x)^5$ have a horizontal tangent?
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/bqFdt6xOrjk
+>
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -24,11 +32,3 @@ At which x-value(s) does the function $y=(3x-1)^4 (7-2x)^5$ have a horizontal ta
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/bqFdt6xOrjk
->

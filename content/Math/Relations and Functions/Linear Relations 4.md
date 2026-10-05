@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -14,6 +14,10 @@ Given the y-value, algebraically determine the corresponding x-value for the fol
 
 1. $3x+1=4y$ for $y=4$
 2. $-\frac{3}{5}x+2y-1=0$ for $y=5$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -28,7 +32,3 @@ Given the y-value, algebraically determine the corresponding x-value for the fol
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

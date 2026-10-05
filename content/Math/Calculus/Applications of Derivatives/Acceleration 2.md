@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -13,6 +13,10 @@ For the position-time graph shown, describe the motion (East + and West -).
 
 > [!warning]- Legacy diagram unavailable
 > The original QOD referenced `images/acceleration-1.png`, but that file is not present in the archived repository. The question text has been preserved for later repair.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -27,7 +31,3 @@ For the position-time graph shown, describe the motion (East + and West -).
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

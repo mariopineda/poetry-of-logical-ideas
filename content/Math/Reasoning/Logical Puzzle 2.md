@@ -7,7 +7,7 @@ course:
   - "Mathematics 30-2"
   - "Mathematics 30-3"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 
 ![[Images/Legacy/magic-square-3.png]]
 ![[Images/Legacy/magic-square-4.png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -31,7 +35,3 @@ Complete the following magic squares using the numbers 1-9 for the 3x3 square an
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

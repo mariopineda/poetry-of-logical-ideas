@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ is the radius of the circle. Write this function as a linear function in two variables.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
@@ -24,7 +28,3 @@ The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

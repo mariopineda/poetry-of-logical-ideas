@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Factorial Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -20,24 +20,6 @@ Solve the equations
 
 ![[Page Break]]
 %%
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
-> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
-> - [[Math/Combinatorics/Permutations 4|Permutations 4]]
-> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
-> - [[Math/Combinatorics/Permutations with Repetition 1|Permutations with Repetition 1]]
 
 ## Solution
 
@@ -64,3 +46,21 @@ Solve the equations
 > \end{align*}
 > $$
 >
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
+> - [[Math/Combinatorics/Permutations 4|Permutations 4]]
+> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+> - [[Math/Combinatorics/Permutations with Repetition 1|Permutations with Repetition 1]]

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,8 @@ show_solution: false
 If 2700 cm$^2$ of material is available to make a box with a square base and open top, find the largest possible volume of the box.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -26,5 +28,3 @@ If 2700 cm$^2$ of material is available to make a box with a square base and ope
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

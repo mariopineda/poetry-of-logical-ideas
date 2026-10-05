@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 2. The Mponeng Gold Mine in South Africa is currently the world's deepest mine. At its deepest point the mine reaches 4 km below the Earth's surface. Determine the temperature at the bottom of the mine.
 3. Determine the depth, to one decimal, below the surface for when the temperature is 45$^\circ$C.
 4. State the domain and range, in interval notation, for the function in this context.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -30,7 +34,3 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

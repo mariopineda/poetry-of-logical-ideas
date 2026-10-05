@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,14 @@ Determine the average rate of change (w.r.t. $h$) from $h=2$ cm to $h=5$ cm.
 
 Determine the instantaneous rate of change of volume (w.r.t. $h$) at $h=3$ cm.
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/eK6mytNoD74
+>
+
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -32,11 +40,3 @@ Determine the instantaneous rate of change of volume (w.r.t. $h$) at $h=3$ cm.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/eK6mytNoD74
->

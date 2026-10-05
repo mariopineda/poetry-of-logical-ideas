@@ -3,8 +3,10 @@ type: qod
 publish: true
 course:
   - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+learning_order: 40
+show_solution: true
 ---
 
 ## Question
@@ -15,26 +17,6 @@ Express each rational expression in simplest form. State all non-permissible val
 2. $$\displaystyle\frac{(x+5)(x-2)}{(x+1)(x-2)}$$
 3. $$\displaystyle\frac{3m+6}{6m}$$
 4. $$\displaystyle\frac{y^2-16}{(y-4)(y+2)}$$
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Rational Functions - Holes and Vertical Asymptotes 1|Rational Functions - Holes and Vertical Asymptotes 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -148,3 +130,23 @@ Express each rational expression in simplest form. State all non-permissible val
 > $$
 > \boxed{\frac{y+4}{y+2}},\qquad \boxed{y\ne-2,4}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Rational Functions - Holes and Vertical Asymptotes 1|Rational Functions - Holes and Vertical Asymptotes 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,19 +17,6 @@ In a war zone, households experience severe shortages of electricity, water, and
 - Fuel:Ã‚Â Available for cooking in 1 time slot (either 12 PM or 6 PM).
 
 How many unique daily schedules can a household have for accessing all three utilities?
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -60,3 +47,16 @@ How many unique daily schedules can a household have for accessing all three uti
 >
 > Total schedules = 12 unique daily schedules
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Optimization"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,10 @@ x^2-4 & x < 0 \\
 2-5x & 1 \leq x \leq 3 \\
 \end{array}
 \right. $, identify absolute / local max / min by sketching.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -29,7 +33,3 @@ x^2-4 & x < 0 \\
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

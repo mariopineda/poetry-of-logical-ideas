@@ -5,7 +5,8 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+learning_order: 90
+show_solution: true
 ---
 
 ## Question
@@ -14,26 +15,6 @@ A farmer is planning to put a fence around a rectangular field. The area of the 
 
 1. Write and simplify an expression for the length of the field. State any restriction on $a$ that comes from the original rational expression.
 2. If the farmer requires $88$ m of fencing, determine the value of $a$ and the length and width of the field.
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1|Rational Expressions - Field Model 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -162,3 +143,23 @@ A farmer is planning to put a fence around a rectangular field. The area of the 
 > $$
 > \boxed{a=5,\qquad L=28\text{ m},\qquad W=16\text{ m}}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1|Rational Expressions - Field Model 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -30,6 +30,13 @@ Convert the following radicals to mixed radicals in simplest form.
 > [!info]- Hint 1
 > When factoring the radicand you want one of the factors to be the largest possible perfect square.
 
+## Solution
+
+> [!example]- Show solution
+>
+> ...
+>
+
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 
@@ -43,10 +50,3 @@ Convert the following radicals to mixed radicals in simplest form.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> ...
->

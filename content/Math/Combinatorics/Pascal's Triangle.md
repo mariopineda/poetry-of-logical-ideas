@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Pascal's Triangle"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -11,6 +11,10 @@ show_solution: false
 Complete the white triangles in the following row from Pascal's Triangle.
 
 ![[Pascal's Triangle.png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
@@ -24,7 +28,3 @@ Complete the white triangles in the following row from Pascal's Triangle.
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]
-
-## Solution
-
-> [!example]- Show solution

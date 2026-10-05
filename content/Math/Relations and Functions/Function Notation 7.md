@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ Use exponent laws to simplify the following:
 3. $\left( 2x^{\frac{1}{3}} \right) \left( -4x^{\frac{5}{3}} \right)$
 4. $\frac{x^{\frac{1}{2}}}{x^{\frac{1}{2}}}$
 5. $\left( \frac{16x^8}{y^{-2}} \right)^{\frac{3}{4}}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
@@ -30,7 +34,3 @@ Use exponent laws to simplify the following:
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

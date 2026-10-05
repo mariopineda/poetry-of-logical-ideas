@@ -5,12 +5,20 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 31"
 topic: "Inequalities"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Solve $x^3>8x^2-16x$. Answer in interval notation.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/XasMrKNBGwU
+>
 
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
@@ -25,11 +33,3 @@ Solve $x^3>8x^2-16x$. Answer in interval notation.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/XasMrKNBGwU
->

@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,17 @@ A humanitarian organization is preparing to distribute aid packages to families 
 - There are 3 different types of first-aid kits.
 
 The organization wants to ensure that each family receives a unique combination of items to maximize variety and meet diverse needs.If each package contains one item from each category, how many different aid packages can be created?
+
+## Solution
+
+> [!example]- Show solution
+>
+> To find the number of different aid packages that can be created with one item from each category, we use the fundamental counting principle:
+>
+> FCP: $4 \times 6 \times 5 \times 3 = 360$
+>
+> There are 360 different aid packages that can be created.
+>
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -32,14 +43,3 @@ The organization wants to ensure that each family receives a unique combination 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> To find the number of different aid packages that can be created with one item from each category, we use the fundamental counting principle:
->
-> FCP: $4 \times 6 \times 5 \times 3 = 360$
->
-> There are 360 different aid packages that can be created.
->

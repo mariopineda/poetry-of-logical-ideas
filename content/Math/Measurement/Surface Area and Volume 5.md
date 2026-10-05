@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,21 +18,6 @@ show_solution: false
 5. The surface area of a cone is 400.2 ft$^2$. The radius of the cone is 6.0 ft. Determine the slant height of the cone, rounded to the nearest tenth?
 6. A sphere has a surface area of 6.4 m$^2$. What is the diameter of the sphere, rounded to the nearest hundreth?
 7. A sphere has a surface area of 10.1 m$^2$. What is the radius, rounded to the nearest tenth?
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
-> - [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
-> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -66,3 +51,18 @@ show_solution: false
 >
 > 0.9 m
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Measurement/Surface Area and Volume 4|Surface Area and Volume 4]]
+> - [[Math/Measurement/Unit Conversions 1|Unit Conversions 1]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

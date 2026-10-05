@@ -5,12 +5,16 @@ course:
   - "Mathematics 30-2"
   - "Mathematics 30-3"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 ![[Balance Puzzle.png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -26,7 +30,3 @@ show_solution: false
 > [!success] Build Toward
 > - [[Math/Set Theory/Set Theory 2|Set Theory 2]]
 > - [[Math/Set Theory/Set Theory 3|Set Theory 3]]
-
-## Solution
-
-> [!example]- Show solution

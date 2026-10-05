@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Sketch the unit circle indicating the reference angles 30$^\circ$, 45$^\circ$ and 60$^\circ$ in each quadrant. Label each angle in both degrees and in radians.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/uQmQ15GtRAU
+>
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -38,11 +46,3 @@ Sketch the unit circle indicating the reference angles 30$^\circ$, 45$^\circ$ an
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 2|Sinusoidal Function Transformations 2]]
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]
 > - [[Math/Calculus/Trigonometry/Trigonometric Derivatives 1|Trigonometric Derivatives 1]]
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/uQmQ15GtRAU
->

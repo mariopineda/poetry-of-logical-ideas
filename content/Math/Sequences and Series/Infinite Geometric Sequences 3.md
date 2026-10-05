@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,14 @@ Determine $x$ such that the sum is covergent.
 #### B.
 
 Determine the infinite sum (in terms of $x$).
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/CiJhWgSn6hA
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
@@ -33,11 +41,3 @@ Determine the infinite sum (in terms of $x$).
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/CiJhWgSn6hA
->

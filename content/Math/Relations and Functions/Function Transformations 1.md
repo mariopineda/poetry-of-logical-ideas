@@ -6,12 +6,20 @@ course:
   - "Mathematics 20-2"
   - "Mathematics 30-1"
 topic: Function Transformations
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/ZhDvWV-Hhac
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -42,11 +50,3 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 > - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Function Transformations 3|Sinusoidal Function Transformations 3]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/ZhDvWV-Hhac
->

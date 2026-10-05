@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Definite Integrals"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,19 +19,6 @@ Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.
 > 3. Determine $h(x)$ as a difference between the "upper" and "lower" curves 
 > 4. Determine $H(x)$
 > 5. Determine the area $_aA_b = H(b) - H(a)$ where $b>a$.
-
-> [!abstract] Review First
-> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Integration/Area under a curve - Method of Exhaustion|Area under a curve - Method of Exhaustion]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -68,3 +55,16 @@ Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.
 > \end{align*}
 > $$
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Area under a curve - Method of Exhaustion|Area under a curve - Method of Exhaustion]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

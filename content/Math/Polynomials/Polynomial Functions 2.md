@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,10 @@ For each polynomial, state the name, degree, leading coefficient, constant, doma
 5. $m(y)=-7y^4-2y^2+y-\sqrt{5}$
 6. $y=\frac{\displaystyle x^2}{\displaystyle 5}-\frac{\displaystyle 2}{\displaystyle 5}$
 7. $f(x) = 3(x-3)^2$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -35,7 +39,3 @@ For each polynomial, state the name, degree, leading coefficient, constant, doma
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
 > - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
-
-## Solution
-
-> [!example]- Show solution

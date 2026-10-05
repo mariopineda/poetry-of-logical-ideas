@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,20 +18,6 @@ Simplify the following radicals.
 4. $\displaystyle\frac{3\sqrt{80}}{2\sqrt{2}}$
 5. $\displaystyle\frac{8\sqrt{39} + 8\sqrt{75}}{4\sqrt{4}}$
 6. $\displaystyle\frac{20\sqrt{12}}{12\sqrt{20}}$
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
-> - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -107,3 +93,17 @@ Simplify the following radicals.
 > \end{align}
 > \]
 >
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Radicals/Converting Radicals 2|Converting Radicals 2]]
+> - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

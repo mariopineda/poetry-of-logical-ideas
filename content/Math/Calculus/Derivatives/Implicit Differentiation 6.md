@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Find the slope of the two tangent lines to $x^2+y^2=169$ at $x=5$.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
@@ -24,7 +28,3 @@ Find the slope of the two tangent lines to $x^2+y^2=169$ at $x=5$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

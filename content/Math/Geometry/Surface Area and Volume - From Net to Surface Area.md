@@ -4,7 +4,7 @@ publish: true
 courses:
   - "Math 20-3"
 topic: "Surface Area and Volume"
-show_solution: false
+show_solution: true
 prerequisites: []
 related: []
 ---
@@ -19,19 +19,6 @@ The diagram below is the **net of a 3D object**.
 2. **Label the dimensions on the net.**
 3. Draw the **3D object** represented by the net and **label its dimensions**.
 4. Calculate the **surface area** of the 3D object. Show your work and include units.
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -68,3 +55,16 @@ The diagram below is the **net of a 3D object**.
 > $$
 > \boxed{SA=100.3\text{ cm}^2}
 > $$
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

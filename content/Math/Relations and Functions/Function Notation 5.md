@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,10 @@ Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evalu
 4. $f \left( \frac{1}{4} \right) $
 5. $g(-2)$
 6. $h(0)$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
@@ -31,7 +35,3 @@ Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evalu
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

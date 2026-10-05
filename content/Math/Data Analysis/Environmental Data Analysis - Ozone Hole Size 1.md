@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-2"
 topic: "Data Analysis"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,20 +16,6 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 2. Determine the size of the ozon hole in 1979 and in 2018. How many times larger was it in 2018 compared to 1979? Round your answer to the nearest whole number.
 3. What is an appropriate domain and range for this context?
 4. Which year did the size of the ozon hole become larger than the land area of Canada? The total land area of Canada is 9093507 $\mbox{km}^2$.
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
-> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -56,3 +42,17 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 > > [!info]- Source
 > > [NASA Ozone Watch (2019)](https://ozonewatch.gsfc.nasa.gov/)
 >
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

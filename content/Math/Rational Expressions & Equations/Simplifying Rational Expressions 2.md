@@ -3,8 +3,10 @@ type: qod
 publish: true
 course:
   - "Mathematics 20-1"
+  - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+learning_order: 50
+show_solution: true
 ---
 
 ## Question
@@ -15,26 +17,6 @@ Express each rational expression in simplest form. State all non-permissible val
 2. $$\displaystyle\frac{8y+2}{8y}$$
 3. $$\displaystyle\frac{3t^2-75}{(t+3)(t-5)}$$
 4. $$\displaystyle\frac{c-4}{4-c}$$
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -159,3 +141,23 @@ Express each rational expression in simplest form. State all non-permissible val
 > $$
 > \boxed{-1},\qquad \boxed{c\ne4}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

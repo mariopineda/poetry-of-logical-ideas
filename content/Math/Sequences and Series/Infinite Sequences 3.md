@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Evaluate $\lim\_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/g9uD7PQ6RDg
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
@@ -25,11 +33,3 @@ Evaluate $\lim\_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/g9uD7PQ6RDg
->

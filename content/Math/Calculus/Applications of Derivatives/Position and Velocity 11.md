@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ Determine (to one decimal place) its maximum height.
 
 Determine (to one decimal place) when it hits the ground.
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -32,7 +36,3 @@ Determine (to one decimal place) when it hits the ground.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

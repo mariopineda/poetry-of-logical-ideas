@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Factoring Polynomials"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,8 @@ Factor the following polynomials by removing the greatest common factor.
 6. $18x^2y^2-45xy+9x$
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
@@ -77,5 +79,3 @@ Factor the following polynomials by removing the greatest common factor.
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]
-
-## Solution

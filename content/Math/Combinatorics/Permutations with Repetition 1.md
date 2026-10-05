@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Permutations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,10 @@ A race at the Olympics has 8 runners. In how many orders can their countries fin
 a) there are 2 Canadians, 1 Swedish, 1 German, 1 South African and 3 runners from USA.
 
 b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runners.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
@@ -28,7 +32,3 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

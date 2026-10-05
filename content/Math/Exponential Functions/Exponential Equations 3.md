@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Exponential Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,14 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 1. determine, to the nearest million, the approximate population 6 years from now
 2. determine the number of complete years required for the population to double.
 3. Suggest an appropriate domain and range within the context of this problem.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/zC3IUFWbKCs
+>
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -30,11 +38,3 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/zC3IUFWbKCs
->

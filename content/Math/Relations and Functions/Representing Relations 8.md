@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -53,6 +53,10 @@ revenue from selling eggs at the Farmer's market.
 
 your level as you start the campain in a new game on your XBox.
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -66,7 +70,3 @@ your level as you start the campain in a new game on your XBox.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

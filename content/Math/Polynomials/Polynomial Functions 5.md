@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,22 +16,6 @@ Determine the number of x-intercepts, the type of turning point(s) and the end b
 3. $h(x)=-5x^2+bx-2$
 4. $k(x)=2x^2-bx$
 5. $l(x)=-ax$
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 4|Polynomial Functions 4]]
-> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
-> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -57,3 +41,19 @@ Determine the number of x-intercepts, the type of turning point(s) and the end b
 >
 > Linear function. Number of x-intercepts: 1, Turning points: none, End behaviour: $Q2 \rightarrow Q4$.
 >
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 4|Polynomial Functions 4]]
+> - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
+> - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

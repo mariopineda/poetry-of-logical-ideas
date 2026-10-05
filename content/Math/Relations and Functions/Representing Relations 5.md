@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Relations and Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -28,6 +28,10 @@ List the ordered pairs of the relation.
 
 Represent the table of values on graph. Give the graph a title and label the axes. State the independent and dependent variables.
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -41,7 +45,3 @@ Represent the table of values on graph. Give the graph a title and label the axe
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

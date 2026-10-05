@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,20 +18,6 @@ Evaluate without a calculator:
 6. $$ -2+3 \times 5 $$
 7. $$ (-3)(4)-(-7) $$
 8. $$ (-4+1)-(-2 \times 5) $$
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Foundations/Fraction Arithmetic 7|Fraction Arithmetic 7]]
-> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -85,3 +71,17 @@ Evaluate without a calculator:
 > (-4+1)-(-2 \times 5) = -3-(-10)=-3+10=7
 > $$
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Foundations/Fraction Arithmetic 7|Fraction Arithmetic 7]]
+> - [[Math/Foundations/Integer Arithmetic 2|Integer Arithmetic 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

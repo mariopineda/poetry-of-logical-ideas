@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Polynomial Operations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -14,20 +14,6 @@ show_solution: false
 
 1. Determine a simplified expression for the area of the shaded region.
 2. Determine a simplified expression for the perimeter of the shaded region.
-
-> [!abstract] Review First
-> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-> - [[Math/Polynomials/Polynomial Review 1|Polynomial Review 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -56,3 +42,17 @@ show_solution: false
 > \end{align}
 > $$
 >
+
+> [!abstract] Review First
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Polynomials/Polynomial Review 1|Polynomial Review 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

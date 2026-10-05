@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: Function Transformations
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,14 @@ Roughly sketch.
 2. $y=-x^3+5$
 3. $y=\frac{-1}{x+6}$
 4. $y=\sqrt{7-x}$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/oSRw7H01FhA
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -29,11 +37,3 @@ Roughly sketch.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/oSRw7H01FhA
->

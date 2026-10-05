@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Product and Quotient Rules"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Differentiate $y = \frac{3x-5}{1-2x}$. Then, determine the tangent slope at $x=6$.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/dGjb8GN1I4c
+>
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -23,11 +31,3 @@ Differentiate $y = \frac{3x-5}{1-2x}$. Then, determine the tangent slope at $x=6
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/dGjb8GN1I4c
->

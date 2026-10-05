@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,10 @@ Consider the function $ f(x) =
 ax^2-1 & \mbox{, } x > 3 \\
 \end{cases}$
 , where $a \in \mathbb{R}$. Determine the value(s) for $a$ to make $f'(x)$ continuous at $x=3$.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -29,7 +33,3 @@ ax^2-1 & \mbox{, } x > 3 \\
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

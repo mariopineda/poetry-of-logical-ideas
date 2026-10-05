@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,10 @@ show_solution: false
 For the sketch of $y=f(x)$, identify the locations that are non-differentiable.
 
 ![[Images/Legacy/derivatives-3.png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
@@ -26,7 +30,3 @@ For the sketch of $y=f(x)$, identify the locations that are non-differentiable.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: "Logical Reasoning"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 3. Each stream must contain different numbers.
 
 ![[Images/Legacy/strimko.png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -30,7 +34,3 @@ The object of the puzzle is to fully fill in the given grid with the numbers 1 t
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

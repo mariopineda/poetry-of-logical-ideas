@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Differential Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,20 +18,6 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 >  - Initial velocity ($v_0$Ã¢â‚¬â€¹) = 8 m/s (upward)
 >  - Height of the cliff ($Ã¢â€žÅ½_0$Ã¢â‚¬â€¹) = 63 m
 >  - Acceleration due to gravity = -9.8 m/s$^2$ (downward)
-
-> [!abstract] Review First
-> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 1|Differential Equations with Initial Conditions 1]]
-> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -76,3 +62,17 @@ A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m 
 > $$
 > Because the negative root has no physical significance in this problem, we see that about 4.5 s after being tossed up the stone hits the ground.
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 1|Differential Equations with Initial Conditions 1]]
+> - [[Math/Calculus/Integration/Differential Equations with Initial Conditions 3|Differential Equations with Initial Conditions 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

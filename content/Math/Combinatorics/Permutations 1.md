@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Permutations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 
 > [!info]- Hint 
 > What is the smallest number of digits that a number smaller than 3000 can have?
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
@@ -34,7 +38,3 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
 > - [[Math/Combinatorics/Combinations 3|Combinations 3]]
-
-## Solution
-
-> [!example]- Show solution

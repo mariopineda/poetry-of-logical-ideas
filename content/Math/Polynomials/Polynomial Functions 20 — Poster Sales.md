@@ -7,7 +7,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -30,21 +30,6 @@ where $n$ represents the number of **hundreds of posters sold** and $P$ represen
 5. State the **domain and range in context**, including units.
 
 Use your graphing calculator as needed.
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
-> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
-> - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
 
 ## Solution
 
@@ -126,3 +111,18 @@ Use your graphing calculator as needed.
 >
 > which represents a monthly result from a **\$14,000 loss** to an **\$18,000 profit**.
   - "[[Polynomial Functions 19 — Soccer Ball]]"
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Quadratics/Quadratic Equations 8|Quadratic Equations 8]]
+> - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]

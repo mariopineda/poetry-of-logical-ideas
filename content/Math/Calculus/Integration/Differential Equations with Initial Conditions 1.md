@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Differential Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -13,6 +13,10 @@ On the surface of the moon, the acceleration due to gravity is 1.6 m/s$^2$ downw
 
 1. its maximum height
 2. its velocity when it hits the moon's surface
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
@@ -26,7 +30,3 @@ On the surface of the moon, the acceleration due to gravity is 1.6 m/s$^2$ downw
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

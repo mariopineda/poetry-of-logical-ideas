@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Exponent and Polynomial Skills"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -32,27 +32,6 @@ Factor fully.
 $$
 12x^4-75x^2
 $$
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
-> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
-> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
-> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
-> - [[Math/Polynomials/Polynomial Operations 2|Polynomial Operations 2]]
-> - [[Math/Polynomials/Factoring Polynomials 2|Factoring Polynomials 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
 
 ## Solution
 
@@ -118,3 +97,24 @@ $$
 > $$
 >
 > **Answer:** $\boxed{3x^2(2x-5)(2x+5)}$
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Polynomials/Polynomial Operations 2|Polynomial Operations 2]]
+> - [[Math/Polynomials/Factoring Polynomials 2|Factoring Polynomials 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]

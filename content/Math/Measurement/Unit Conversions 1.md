@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,10 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 4. $572 \mbox{ mm} \Rightarrow \mbox{m}$
 5. $5 \mbox{ m} \Rightarrow \mbox{mm}$
 6. $98 \mbox{ m} \Rightarrow \mbox{km}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -33,7 +37,3 @@ Convert the following unit as indicated, rounded to the nearest hundredth when a
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

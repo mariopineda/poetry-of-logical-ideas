@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,8 @@ show_solution: false
 Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the point where $x=\frac{\pi}{6}$.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
@@ -26,5 +28,3 @@ Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the poi
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

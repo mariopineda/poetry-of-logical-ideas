@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Polynomial Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,20 @@ Simplify the following polynomials.
 6. $(7a-14b)-(2a-8b)$
 7. $(4m^2-9m+7)-(6m^2+5m-1)$
 8. $(5x^2-3y^2)-(7x^2+y^2)+(3x^2-2y^2)$
+
+## Solution
+
+> [!example]- Show solution
+>
+> 1. $8x+9$
+> 2. $-4a^2-5ab+2b^2$
+> 3. $-22x^2y-4x^2-7+8xy^2$
+> 4. $7a^2-7ab+2b^2$
+> 5. $-x^3-4xy^2-x^2y^2+2x^2y$
+> 6. $5a-6b$
+> 7. $-2m^2-14m+8$
+> 8. $x^2-6y^2$
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -33,17 +47,3 @@ Simplify the following polynomials.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> 1. $8x+9$
-> 2. $-4a^2-5ab+2b^2$
-> 3. $-22x^2y-4x^2-7+8xy^2$
-> 4. $7a^2-7ab+2b^2$
-> 5. $-x^3-4xy^2-x^2y^2+2x^2y$
-> 6. $5a-6b$
-> 7. $-2m^2-14m+8$
-> 8. $x^2-6y^2$
->

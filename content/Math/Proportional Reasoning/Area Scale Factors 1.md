@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-2"
   - "Mathematics 20-3"
 topic: "Scale Factors"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ Complete the table for the following rectangles.
 |$14\times 10$ | $21\times 15$ | | |
 |$9 \times 6$ | $26 \times 24$ | | |
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
 
@@ -31,7 +35,3 @@ Complete the table for the following rectangles.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

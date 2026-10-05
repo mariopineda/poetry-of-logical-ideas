@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ $$y=\sqrt{x-3}$$
 
 $$y=\frac{1}{x+2}$$
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
 
@@ -32,7 +36,3 @@ $$y=\frac{1}{x+2}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

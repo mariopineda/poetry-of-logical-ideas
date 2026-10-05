@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -14,6 +14,8 @@ Sketch the graph of the function $f(x) = \frac{x^2}{1-x^2}$.
 > Determine the following characteristics: domain, intercepts, asymptotes, local max/min (1st derivative test), concavity and points of inflection (2nd derivative test.)
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -29,5 +31,3 @@ Sketch the graph of the function $f(x) = \frac{x^2}{1-x^2}$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

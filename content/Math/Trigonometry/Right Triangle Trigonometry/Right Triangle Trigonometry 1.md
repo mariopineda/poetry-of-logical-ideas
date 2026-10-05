@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -13,6 +13,10 @@ show_solution: false
 A road rises 15 m for each 150 m of horizontal distance. What is the angle of inclination of the road to the nearest degree?
 > [!info]- Hint
 > Sketch the scenario and label with provided information.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
@@ -45,7 +49,3 @@ A road rises 15 m for each 150 m of horizontal distance. What is the angle of in
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 7|Unit Circle and Trigonometric Ratios 7]]
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 8|Unit Circle and Trigonometric Ratios 8]]
 > - [[Math/Trigonometry/Trigonometric Functions/Unit Circle and Trigonometric Ratios 9|Unit Circle and Trigonometric Ratios 9]]
-
-## Solution
-
-> [!example]- Show solution

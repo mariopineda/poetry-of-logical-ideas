@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Right Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,8 @@ Draw and label the Unit Circle, each quadrant should include three exact angles 
 Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \frac{9\pi}{4} + 3\sin(-7\pi)$ exactly.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
@@ -29,5 +31,3 @@ Use your Unit Circle to evaluate $\cos^2 \left( \frac{\pi}{6} \right) -2\tan \fr
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

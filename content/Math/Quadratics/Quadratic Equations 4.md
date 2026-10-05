@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,10 @@ The roots of the equation $x(x-1)=2$ are
 2. 2 and 3
 3. -1 and 2
 4. -2 and 1
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -32,7 +36,3 @@ The roots of the equation $x(x-1)=2$ are
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

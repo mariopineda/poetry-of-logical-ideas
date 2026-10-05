@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,10 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 4. $6 \mbox{ m} \Rightarrow \mbox{ft}$
 5. $41.2 \mbox{ km} \Rightarrow \mbox{mi}$
 6. $7 \mbox{ ft} 2 \mbox{ in} \Rightarrow \mbox{m}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -33,7 +37,3 @@ Convert the following unit as indicated using unit analysis. Round answers to th
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

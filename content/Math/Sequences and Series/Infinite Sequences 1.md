@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -27,6 +27,14 @@ $$\lim\_{n \to \infty} \left( \frac{100}{n^3} \right)$$
 
 $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/Nr6bvukghtI
+>
+
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -41,11 +49,3 @@ $$\lim\_{n \to \infty} \left( \frac{7}{6} \right)^n$$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/Nr6bvukghtI
->

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Curve Sketching"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,8 @@ show_solution: false
 Using the Second Derivative Test, find the local maximum and minimum values for $f(x) = x^3-12x+5$.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -26,5 +28,3 @@ Using the Second Derivative Test, find the local maximum and minimum values for 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

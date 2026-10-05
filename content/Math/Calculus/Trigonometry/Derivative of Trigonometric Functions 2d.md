@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,21 +17,6 @@ Differentiate the following functions
 ### 5. $Z(v)=\frac{\displaystyle v+\tan(v)}{\displaystyle 1+\csc(v)}$
 ### 6. $y=5\sin(x)\cos(x)+4\csc(x)$
 ### 7. $R(t)=\frac{\displaystyle 1}{\displaystyle 2\sin(t)Ã¢Ë†â€™4\cos(t)}$
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
-> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2c|Derivative of Trigonometric Functions 2c]]
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 3|Derivative of Trigonometric Functions 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -88,3 +73,18 @@ Differentiate the following functions
 > $$
 > Can be further simplified by factoring.
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2c|Derivative of Trigonometric Functions 2c]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 3|Derivative of Trigonometric Functions 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

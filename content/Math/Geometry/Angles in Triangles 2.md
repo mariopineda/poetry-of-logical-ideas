@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-2"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,20 +12,6 @@ show_solution: false
 Determine the degree measure of the angles marked by letters. Explain the reasoning behind the determined angle measures.
 
 ![[Images/Legacy/angles-in-triangles.png]]
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Geometry/Angles in Polygons 1|Angles in Polygons 1]]
-> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -44,3 +30,17 @@ Determine the degree measure of the angles marked by letters. Explain the reason
 > - Determine $h$: $48+h+85=180 \Rightarrow h=47^{\circ}$ (Straight line angles)
 > - Determine $i$: $i+e+h=180 \Rightarrow i=37^{\circ}$ (Triangle Sum Theorem)
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Geometry/Angles in Polygons 1|Angles in Polygons 1]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

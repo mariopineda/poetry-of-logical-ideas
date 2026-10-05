@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,14 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 4. Period
 5. Maximum value
 6. Minimum value
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/ldmDtKEdqXk
+>
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
@@ -31,11 +39,3 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/ldmDtKEdqXk
->

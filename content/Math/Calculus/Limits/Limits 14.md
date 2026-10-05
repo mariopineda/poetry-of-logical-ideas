@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ Evalue the following limits, if possible.
 6. $$\lim\_{x \to 1} \frac{x-1}{\sqrt[3]{x}-1}$$
 7. If $\lim\_{x \to a} \frac{\frac{1}{a}-\frac{1}{x}}{x-a} = \frac{9}{16}$, then determine the value(s) of $a$.
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
 
@@ -32,7 +36,3 @@ Evalue the following limits, if possible.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

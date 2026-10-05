@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Foundational Algebra"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -14,19 +14,6 @@ Evaluate without a calculator:
 2. $$ 10+8-6^2 \div (3^2 \times 4) $$
 3. $$ 8 \div (10-9)^3 \times 7 + 4^2 $$
 4. $$ (10 \times (6+4)) \div (2^3-7)^2 $$
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Foundations/Integer Arithmetic 3|Integer Arithmetic 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -80,3 +67,16 @@ Evaluate without a calculator:
 > \end{array}
 > $$
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Foundations/Integer Arithmetic 3|Integer Arithmetic 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

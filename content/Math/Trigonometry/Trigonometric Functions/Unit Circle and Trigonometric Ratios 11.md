@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,8 @@ show_solution: false
 The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the terminal arm of an angle $\theta$ in standard position. What is $\theta$, to the nearest degree?
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -27,5 +29,3 @@ The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

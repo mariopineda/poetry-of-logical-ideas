@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-3"
 topic: "Measurement"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -20,6 +20,10 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 3. Determine the amount, rounded to the nearest litre, of paint that will be required to paint the classroom. Remember that the classroom needs two coats of paint.
 4. How many cans of paint, rounded up to the nearest can, do you need to buy?
 5. If each can of paint costs $38.97, how much will all the paint cost?
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -35,7 +39,3 @@ Work in pairs (2 students) using metre sticks to measure the dimensions of the c
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

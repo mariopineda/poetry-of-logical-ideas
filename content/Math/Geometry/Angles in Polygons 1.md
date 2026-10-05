@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-3"
 topic: "Angles and Geometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,21 +12,6 @@ show_solution: false
 1. Determine the sum of the interior angles of a decagon.
 2. Determine the number of sides of a polygon whose interior angle sum equals $4140^\circ$.
 3. The sum of five of the interior angles of a hexagon equals $600^\circ$. What is the measure of the sixth angle?
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
-> - [[Math/Geometry/Angles in Triangles 2|Angles in Triangles 2]]
-> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -53,3 +38,18 @@ show_solution: false
 >
 > The sum of the interior angles in a hexagon $= (6-2) \times 180 = 720^\circ$. The sixth angle measure = $720-600=120^\circ$
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]
+> - [[Math/Geometry/Angles in Triangles 2|Angles in Triangles 2]]
+> - [[Math/Reasoning/Angles in Triangles|Angles in Triangles]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

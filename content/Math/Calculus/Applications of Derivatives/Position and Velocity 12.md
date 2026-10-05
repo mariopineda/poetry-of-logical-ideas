@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -25,6 +25,14 @@ Sketch a single continuous position-time function with the following features, l
 - Point at $v(t) = 0 \cap s(t) > 0$
 - Point at $v(t) = 0 \cap s(t) < 0$
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/aVE3pw9Io5g
+>
+
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -38,11 +46,3 @@ Sketch a single continuous position-time function with the following features, l
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/aVE3pw9Io5g
->

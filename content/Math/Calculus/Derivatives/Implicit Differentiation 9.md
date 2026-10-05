@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Implicit Differentiation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,10 @@ show_solution: false
 Find tangent slope of $y=\frac{2x}{x+y}$ at the point $(1,-2)$.
 > [!info]- Hint
 > Cross multiply first.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
@@ -26,7 +30,3 @@ Find tangent slope of $y=\frac{2x}{x+y}$ at the point $(1,-2)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

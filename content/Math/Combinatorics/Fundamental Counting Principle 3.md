@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -24,20 +24,6 @@ a) How many different routes can a delivery truck take to deliver vaccines from 
 b) How many different routes can a delivery truck take to deliver vaccines from the central warehouse to Distribution Hub C using any combination of routes?
 
 _Hint: Draw a schematic of the hubs and their connecting routes_
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
-> - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -77,3 +63,17 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 >
 > $3 + 2 + 6 = 11$ routes
 >
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,8 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ in general form.
 Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain $-4\pi \leq \theta \leq 4\pi$.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -33,5 +35,3 @@ Identify the angles coterminal with $\frac{4\pi}{3}$ that satistfies the domain 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

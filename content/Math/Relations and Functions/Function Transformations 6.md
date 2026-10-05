@@ -6,7 +6,7 @@ course:
   - "Mathematics 20-2"
   - "Mathematics 30-1"
 topic: "Function Transformations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,10 @@ Without using technology sketch of the following functions, identifying the tran
 2. $y=-\frac{1}{4}x^2-9$
 3. $y=\sqrt{25-x}+3$
 4. $y=|x^2-4|$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -30,7 +34,3 @@ Without using technology sketch of the following functions, identifying the tran
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

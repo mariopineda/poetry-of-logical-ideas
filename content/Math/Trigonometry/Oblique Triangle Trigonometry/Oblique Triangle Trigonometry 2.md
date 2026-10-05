@@ -7,26 +7,12 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-3"
 topic: "Oblique Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD = 55^{\circ}$, $\angle DCA=35^{\circ}$ and $c=12.5$ cm. Round angles to the nearest degree and sides to nearest tenth.
-
-> [!abstract] Review First
-> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 1|Oblique Triangle Trigonometry 1]]
-> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3|Oblique Triangle Trigonometry 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -52,3 +38,17 @@ Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD
 >
 > Find side $a$: $BD + DC = 11.7\ldots + 16.7\ldots = 28.5$ cm
 >
+
+> [!abstract] Review First
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 1|Oblique Triangle Trigonometry 1]]
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 3|Oblique Triangle Trigonometry 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

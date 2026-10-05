@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Antiderivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,19 +15,6 @@ Evaluate and verify by differentiating the antiderivative.
 2. $\displaystyle \int \sin(4x - 1) \, dx$
 3. $\displaystyle \int e^{3x + 2} \, dx$
 4. $\displaystyle \int (7x + 4)^{1/2} \, dx$
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -76,3 +63,16 @@ Evaluate and verify by differentiating the antiderivative.
 > \end{align*}
 > $$
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

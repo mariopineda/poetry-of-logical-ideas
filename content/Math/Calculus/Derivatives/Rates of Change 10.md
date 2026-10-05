@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 A tangent line is perpendicular to $3x+2y-8=0$ and it has a y-intercept of 5. Determine its equation in general form.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
@@ -24,7 +28,3 @@ A tangent line is perpendicular to $3x+2y-8=0$ and it has a y-intercept of 5. De
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

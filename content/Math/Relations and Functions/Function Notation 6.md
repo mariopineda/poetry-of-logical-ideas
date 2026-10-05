@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,10 @@ Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. deter
 4. $k(x)=0$
 5. $m(x)=\frac{1}{2}$
 6. $n(x)=-\frac{3}{4}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
@@ -31,7 +35,3 @@ Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. deter
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

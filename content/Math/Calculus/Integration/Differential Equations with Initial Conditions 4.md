@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Differential Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,8 @@ show_solution: false
 Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx} = 6x^2+6x$.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]
@@ -25,5 +27,3 @@ Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

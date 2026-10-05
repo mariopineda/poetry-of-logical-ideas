@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -20,20 +20,6 @@ Use the graph to determine:
 3. the **amplitude**;
 4. the **period**;
 5. the **range**.
-
-> [!abstract] Review First
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1|Sinusoidal Functions - Characteristics from a Graph 1]]
-> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -82,3 +68,17 @@ Use the graph to determine:
 >    $$
 >    \boxed{\{y\mid -4\le y\le 2,\ y\in\mathbb{R}\}}.
 >    $$
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1|Sinusoidal Functions - Characteristics from a Graph 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 2|Sinusoidal Functions - Characteristics from a Graph 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

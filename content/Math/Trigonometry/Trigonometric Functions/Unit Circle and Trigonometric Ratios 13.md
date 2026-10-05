@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,8 @@ The point $(-4,3)$ lies on the terminal arm of an angle $\theta$ in standard pos
 2. Find the exact value of the six trigonometric ratios as rational numbers.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -29,5 +31,3 @@ The point $(-4,3)$ lies on the terminal arm of an angle $\theta$ in standard pos
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

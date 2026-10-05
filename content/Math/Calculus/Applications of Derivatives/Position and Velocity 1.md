@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,14 @@ Determine the objects average velocity from $t=2$ s to $t=5$ s.
 
 Determine the objects velocity when it is located 63 m South of the origin.
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/D1YgTKVPF8I
+>
+
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -32,11 +40,3 @@ Determine the objects velocity when it is located 63 m South of the origin.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/D1YgTKVPF8I
->

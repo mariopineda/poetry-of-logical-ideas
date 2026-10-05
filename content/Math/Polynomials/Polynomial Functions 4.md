@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -12,6 +12,10 @@ show_solution: false
 Use the chart below to summarize how the sign pf the leading coefficient and degree can be used to determine the end behavior of a polynomial function.
 
 ![[Polynomial Functions 4.png .png]]
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -29,7 +33,3 @@ Use the chart below to summarize how the sign pf the leading coefficient and deg
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
 > - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
-
-## Solution
-
-> [!example]- Show solution

@@ -5,7 +5,8 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-show_solution: false
+learning_order: 100
+show_solution: true
 ---
 
 ## Question
@@ -16,26 +17,6 @@ Express each rational expression in simplest form. State all non-permissible val
 2. $$\frac{5x}{10x+40}$$
 3. $$\frac{6y+9}{3y-12}$$
 4. $$\frac{8-6x}{4+12x}$$
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1|Rational Functions - Reciprocal Form and Asymptotes 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -152,3 +133,23 @@ Express each rational expression in simplest form. State all non-permissible val
 > \boxed{\frac{4-3x}{2(1+3x)}},\qquad
 > \boxed{x\ne-\frac13}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1|Rational Functions - Reciprocal Form and Asymptotes 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

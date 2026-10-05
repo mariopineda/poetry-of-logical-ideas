@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,6 +18,10 @@ State whether or not each of the following functions is a polynomial function? E
 ### 5. $f(x) = x(x^2+x^{-2}-17)$
 ### 6. $y=3x$
 ### 7. $g(x) = 3^x+11$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -33,7 +37,3 @@ State whether or not each of the following functions is a polynomial function? E
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
-
-## Solution
-
-> [!example]- Show solution

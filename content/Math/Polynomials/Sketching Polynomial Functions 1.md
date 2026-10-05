@@ -5,12 +5,16 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 31"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
@@ -27,7 +31,3 @@ Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

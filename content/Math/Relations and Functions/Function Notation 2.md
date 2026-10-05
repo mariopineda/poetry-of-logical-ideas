@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Function Notation"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -31,6 +31,10 @@ $${(2,1),(3,5),(3,6),(4,-2),(5,-1)}$$
 
 $${(3,-2),(4,1),(5,1),(6,0),(7,-2)}$$
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 
@@ -44,7 +48,3 @@ $${(3,-2),(4,1),(5,1),(6,0),(7,-2)}$$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

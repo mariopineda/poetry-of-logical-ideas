@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Differentiate $y=\frac{1}{4(8-7x^3-x^5)}.$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -24,7 +28,3 @@ Differentiate $y=\frac{1}{4(8-7x^3-x^5)}.$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,10 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 2. Graph three complete cycles using your graphing calculator and state the window settings used.
 3. Determine, to the nearest tenth, the value of the function when $x=4.5$.
 4. Determine, to the nearest hundreth, two values of $x$ between 3 and 4 for which $f(x)=-8.5.$.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
@@ -30,7 +34,3 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

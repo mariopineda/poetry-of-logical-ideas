@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -20,6 +20,10 @@ $$x^2-10x+24=0$$
 
 $$x^2-10x-24=0$$
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
 
@@ -33,7 +37,3 @@ $$x^2-10x-24=0$$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,8 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 2. Find the exact value of $\csc \theta$. Rationalize the denominator.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -30,5 +32,3 @@ For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $18
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

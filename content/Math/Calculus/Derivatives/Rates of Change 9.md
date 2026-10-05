@@ -6,12 +6,16 @@ course:
   - "Mathematics 20-3"
   - "Mathematics 30-3"
 topic: "Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 For the linear function $6x+8y+48=0$, if $x$ decreases by 24, then what is the change in $y$?
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
@@ -26,7 +30,3 @@ For the linear function $6x+8y+48=0$, if $x$ decreases by 24, then what is the c
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

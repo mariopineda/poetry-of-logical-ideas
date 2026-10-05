@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Logarithmic Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,14 @@ Evaluate by converting to exponential form.
 2. $$\log\_{3} \sqrt{27}$$
 3. $$\log\_{\frac{1}{2}} \left( \frac{1}{4} \right)$$
 4. $$\log\_{\frac{1}{2}} 4$$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/xQVPzmu3SAs
+>
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
@@ -29,11 +37,3 @@ Evaluate by converting to exponential form.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/xQVPzmu3SAs
->

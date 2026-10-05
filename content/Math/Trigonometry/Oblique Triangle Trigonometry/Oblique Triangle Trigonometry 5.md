@@ -6,25 +6,12 @@ course:
   - "Mathematics 20-2"
   - "Mathematics 30-3"
 topic: "Oblique Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=7.3$ cm, $SR=4.8$ cm, $QR=5.2$ cm, $\angle PSQ=71^{\circ}$ and $\angle PQS=50^{\circ}$. Solve both triangles. Round side lengths to the nearest tenth and angles to the nearest degree.
-
-> [!abstract] Review First
-> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4|Oblique Triangle Trigonometry 4]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -38,3 +25,16 @@ The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=
 >
 > Find $\angle B$: $\displaystyle\frac{\sin(B)}{20.5} = \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\sin(B) = 20.5 \times \displaystyle\frac{\sin(35^{\circ})}{12.5}$, $\angle B = 70.16\ldots \approx 70^{\circ}$
 >
+
+> [!abstract] Review First
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 4|Oblique Triangle Trigonometry 4]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

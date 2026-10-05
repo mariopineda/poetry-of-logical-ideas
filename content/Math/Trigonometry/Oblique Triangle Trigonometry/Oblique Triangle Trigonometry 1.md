@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-1"
 topic: "Oblique Triangle Trigonometry"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,19 +15,6 @@ show_solution: false
 2. Determine $c$ to the nearest tenth.
 3. Determine $\angle C$ to the nearest whole degree.
 4. Determine $b$ to the nearest tenth.
-
-> [!abstract] Review First
-> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 2|Oblique Triangle Trigonometry 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -69,3 +56,16 @@ show_solution: false
 > \end{array}
 > $$
 >
+
+> [!abstract] Review First
+> - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Trigonometry/Oblique Triangle Trigonometry/Oblique Triangle Trigonometry 2|Oblique Triangle Trigonometry 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

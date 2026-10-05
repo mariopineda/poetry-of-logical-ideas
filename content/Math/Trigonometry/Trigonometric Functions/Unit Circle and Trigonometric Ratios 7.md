@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,8 @@ Using the unit circle, determine the exact values of:
 4. $$\sec \frac{7\pi}{4}$$
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -32,5 +34,3 @@ Using the unit circle, determine the exact values of:
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

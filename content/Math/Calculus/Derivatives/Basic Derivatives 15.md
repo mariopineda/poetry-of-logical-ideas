@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Find the point on the curve $y=x^2+6x-8$ that is perpendicular to the linear function $x+4y+11=0$.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
@@ -24,7 +28,3 @@ Find the point on the curve $y=x^2+6x-8$ that is perpendicular to the linear fun
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

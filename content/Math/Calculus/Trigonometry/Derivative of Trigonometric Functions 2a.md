@@ -4,27 +4,12 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Find the 27th derivative of $\cos x$. Bonus points for solutions avoiding a brute force approach.
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
-> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1b|Derivative of Trigonometric Functions 1b]]
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b|Derivative of Trigonometric Functions 2b]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -52,3 +37,18 @@ Find the 27th derivative of $\cos x$. Bonus points for solutions avoiding a brut
 >
 > So, the 27th derivative of $\cos(x)$ is $\sin(x)$.
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 1b|Derivative of Trigonometric Functions 1b]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b|Derivative of Trigonometric Functions 2b]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

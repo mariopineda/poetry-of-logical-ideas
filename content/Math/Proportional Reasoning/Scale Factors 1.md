@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-2"
 topic: "Scale Factors"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -21,6 +21,8 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/me
 
 <!--
 
+## Solution
+
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
 
@@ -34,5 +36,3 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/me
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

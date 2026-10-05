@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: "Set Theory"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -35,6 +35,13 @@ Consider the following sets
 > [!info]- Hint 1
 > ...
 
+## Solution
+
+> [!example]- Show solution
+>
+> ...
+>
+
 > [!abstract] Review First
 > - [[Math/Puzzles and Games/Puzzles & Games 1|Puzzles & Games 1]]
 
@@ -48,10 +55,3 @@ Consider the following sets
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> ...
->

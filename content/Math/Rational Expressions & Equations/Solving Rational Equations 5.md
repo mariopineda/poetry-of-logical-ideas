@@ -5,12 +5,20 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Solve $\frac{2x-1}{x} - \frac{x+1}{x+4} = \frac{5x+8}{x^2+4x}$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/XZ_9pD46cVI
+>
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
@@ -25,11 +33,3 @@ Solve $\frac{2x-1}{x} - \frac{x+1}{x+4} = \frac{5x+8}{x^2+4x}$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/XZ_9pD46cVI
->

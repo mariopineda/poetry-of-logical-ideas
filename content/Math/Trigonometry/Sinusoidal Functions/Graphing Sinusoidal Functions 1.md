@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq 360^{\circ}$. Give your answers to two decimal places when necessary. Plot the points. Graph $y=\cos{x}$ on your graphing calculator using the following window settings: $X:[-360,540,30]$ and $Y:[-1.2,1.2,0.2]$ and complete the graph by joining the points.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/t0fnuhPF7QM
+>
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
@@ -25,11 +33,3 @@ Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/t0fnuhPF7QM
->

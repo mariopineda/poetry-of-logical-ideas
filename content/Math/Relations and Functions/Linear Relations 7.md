@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -30,6 +30,10 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 6. Determine, to the nearest tenth, the altitude at which the temperature is -56$^\circ$C.
 7. Above 10 km, the temperature remains fairly constant at -56$^\circ$C. Show this on the graph.
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 
@@ -43,7 +47,3 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

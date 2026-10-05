@@ -5,12 +5,20 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 31"
 topic: "Function Properties"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/dk09Qh3EnUw
+>
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
@@ -52,11 +60,3 @@ If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.
 > - [[Math/Calculus/Limits/Limits 8|Limits 8]]
 > - [[Math/Calculus/Limits/Limits 9|Limits 9]]
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/dk09Qh3EnUw
->

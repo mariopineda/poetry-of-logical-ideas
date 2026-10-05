@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 30-3"
 topic: "Linear Relations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -14,6 +14,10 @@ Given the x-value, algebraically determine the corresponding y-value for the fol
 
 1. $y=3x-\frac{1}{2}$ for $x=2$
 2. $8x+2y-10=0$ for $x=-\frac{3}{4}$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -28,7 +32,3 @@ Given the x-value, algebraically determine the corresponding y-value for the fol
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

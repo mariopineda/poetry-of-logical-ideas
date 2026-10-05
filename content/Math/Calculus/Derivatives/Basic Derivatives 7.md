@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Basic Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ $y=7-3x+2x^2$ at $x=4$
 
 $y=fraction{1}{x}-\frac{3}{x^2}$ at $x=-2$
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]
 
@@ -32,7 +36,3 @@ $y=fraction{1}{x}-\frac{3}{x^2}$ at $x=-2$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

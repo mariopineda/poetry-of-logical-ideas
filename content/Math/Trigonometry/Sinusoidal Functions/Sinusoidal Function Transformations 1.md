@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,8 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 3. Compare the following characteristice between $y= \cos x$ and $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$: amplitude, vertical displacement, range, phase shift, period and domain.
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
@@ -31,5 +33,3 @@ Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Systems of Linear Equations"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -23,19 +23,6 @@ show_solution: false
    8x-3y & = & -9
    \end{array}
    $$
-
-> [!abstract] Review First
-> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Systems of Linear Equations 1|Systems of Linear Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -138,3 +125,16 @@ show_solution: false
 >    \end{array}
 >    $$
 >
+
+> [!abstract] Review First
+> - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Systems of Linear Equations 1|Systems of Linear Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

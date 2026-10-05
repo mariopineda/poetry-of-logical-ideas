@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Sequences and Series"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -23,6 +23,14 @@ $$ \lim\_{n \to \infty} \frac{n^4-5n^3+7}{n(11-n^4)} $$
 
 $$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
 
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/OBdi9UbVMos
+>
+
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -37,11 +45,3 @@ $$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/OBdi9UbVMos
->

@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-1"
 topic: "Rational Expressions"
-show_solution: false
+show_solution: true
 ---
 
 
@@ -27,25 +27,6 @@ $$
 2. State the domain restriction for $B(x)$.
 3. Are $A$ and $B$ the same function? Justify your answer precisely.
 4. Describe how the graph of $A$ differs from the graph of $B$.
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]
-> - [[Math/Rational Expressions & Equations/Rational Expressions - Error Analysis 1|Rational Expressions - Error Analysis 1]]
-> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
-> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -106,3 +87,22 @@ $$
 > $$
 > \boxed{\left(2,\frac35\right)}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Error Analysis 1|Rational Expressions - Error Analysis 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
+> - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 Differentiate $y=2x \left( 4x-1 \right)^3$ using more than one rule. Factor the answer.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -24,7 +28,3 @@ Differentiate $y=2x \left( 4x-1 \right)^3$ using more than one rule. Factor the 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

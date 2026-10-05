@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,14 @@ Write each quadratic equation in vertex form by completing the square. State the
 2. $y=x^2+12x+20$
 3. $y=-x^2+8x-7$
 4. $y=-x^2-10x-31$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/7sx_BdG8tZs
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -38,11 +46,3 @@ Write each quadratic equation in vertex form by completing the square. State the
 > - [[Math/Inequalities/Inequalities 6|Inequalities 6]]
 > - [[Math/Inequalities/Inequalities 7|Inequalities 7]]
 > - [[Math/Inequalities/Inequalities 8|Inequalities 8]]
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/7sx_BdG8tZs
->

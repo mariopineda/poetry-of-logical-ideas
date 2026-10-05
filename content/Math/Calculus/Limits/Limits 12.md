@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Limits"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -13,6 +13,10 @@ Sketch a function $y=f(x)$ that satisfies the conditions given (Answers will var
 
 1. $\lim\_{x \to 2} f(x) = -3$ buy $f(2) = \varnothing$
 2. $\lim\_{x \to -4} f(x)$ does not exist, but $f(-4)=6$
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -27,7 +31,3 @@ Sketch a function $y=f(x)$ that satisfies the conditions given (Answers will var
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

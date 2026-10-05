@@ -4,12 +4,16 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Related Rates"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 A 6 m ladder is leaning against the wall and its foot is sliding away from the wall at a speed of 1 m/s. Find the rate at which the top of the ladder is falling when the foot of the ladder is 3 m from the wall. Assume that the wall and the floor are perpendicular.
+
+## Solution
+
+> [!example]- Show solution
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]
@@ -24,7 +28,3 @@ A 6 m ladder is leaning against the wall and its foot is sliding away from the w
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution

@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,14 @@ Write each quadratic equation in vertex form by completing the square. State the
 2. $y=5x^2-60x+166$
 3. $y=-4x^2+24x-21$
 4. $y=-7x^2-42x+3$
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/DSe83YiGloo
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -32,11 +40,3 @@ Write each quadratic equation in vertex form by completing the square. State the
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/DSe83YiGloo
->

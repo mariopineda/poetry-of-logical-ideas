@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: Polynomial Functions
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,20 +16,6 @@ The graph below shows the height of a ball during its flight.
 1. What is the **maximum height** of the ball, and when does it occur?
 2. During what time interval is the ball **at least 12 m above the ground**?
 3. How long is the ball in the air altogether?
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
-> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -62,3 +48,17 @@ The graph below shows the height of a ball during its flight.
 > From the graph, the x-intercepts are $(0,0)$ and $(8,0)$.
 >
 > Therefore, the ball is in the air for **8 s** altogether.
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+> - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

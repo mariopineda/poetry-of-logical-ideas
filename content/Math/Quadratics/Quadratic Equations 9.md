@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Quadratics"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -17,6 +17,10 @@ Find the roots of the following quadratic equations using the Quadratic Formula.
 3. $9x^2-30x+25=0$
 
 <!--
+
+## Solution
+
+...
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -33,7 +37,3 @@ Find the roots of the following quadratic equations using the Quadratic Formula.
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-...

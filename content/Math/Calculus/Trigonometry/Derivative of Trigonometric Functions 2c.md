@@ -4,27 +4,12 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Trigonometric Derivatives"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 For $f(x)=\sin(7x)$ find $f^{(101)}(x)$.
-
-> [!abstract] Review First
-> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
-> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b|Derivative of Trigonometric Functions 2b]]
-> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2d|Derivative of Trigonometric Functions 2d]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -48,3 +33,18 @@ For $f(x)=\sin(7x)$ find $f^{(101)}(x)$.
 > \frac{d^{101}}{dx^{101}}[\sin(7x)] = (-7)^{101}\sin(7x) = -7^{101}\sin(7x)
 >  $$
 >
+
+> [!abstract] Review First
+> - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]
+> - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2b|Derivative of Trigonometric Functions 2b]]
+> - [[Math/Calculus/Trigonometry/Derivative of Trigonometric Functions 2d|Derivative of Trigonometric Functions 2d]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

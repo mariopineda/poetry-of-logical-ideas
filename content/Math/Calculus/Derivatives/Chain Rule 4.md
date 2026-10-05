@@ -4,12 +4,20 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
 
 If $g(3)=6$, $g'(3)=5$, $f(5)=2$, and $f'(6)=8$, then evaluate $(f \circ g)'(3)$.
+
+## Solution
+
+> [!example]- Show solution
+>
+> > [!info]- Legacy video solution
+> > https://www.youtube.com/embed/t8hzjFVLKss
+>
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
@@ -24,11 +32,3 @@ If $g(3)=6$, $g'(3)=5$, $f(5)=2$, and $f'(6)=8$, then evaluate $(f \circ g)'(3)$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
->
-> > [!info]- Legacy video solution
-> > https://www.youtube.com/embed/t8hzjFVLKss
->

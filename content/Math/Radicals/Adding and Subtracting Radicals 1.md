@@ -6,7 +6,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Radicals"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -18,19 +18,6 @@ Simplify the following radicals.
 3. $2\sqrt{90} - 4\sqrt{40} - \sqrt{1000}$
 4. $\sqrt{900} - 1 + \sqrt{1}$
 5. $\displaystyle\frac{1}{3}\sqrt{63} + \displaystyle\frac{2}{5}\sqrt{700}-\displaystyle\frac{3}{2}\sqrt{28}$
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -97,3 +84,16 @@ Simplify the following radicals.
 > \end{align}
 > \]
 >
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Radicals/Converting Radicals 1|Converting Radicals 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._

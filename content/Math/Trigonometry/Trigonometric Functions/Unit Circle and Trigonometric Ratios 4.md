@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -16,6 +16,8 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 3. $$\tan(60^\circ) = \tan \left( \frac{\pi}{3} \right)$$
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -31,5 +33,3 @@ Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ra
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

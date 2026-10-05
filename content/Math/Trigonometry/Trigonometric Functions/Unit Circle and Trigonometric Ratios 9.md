@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -15,6 +15,8 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 2. $$\csc (173^\circ)$$
 
 <!--
+
+## Solution
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
@@ -30,5 +32,3 @@ Use technology to find the approximate value for each trigonometric ratio. Answe
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution

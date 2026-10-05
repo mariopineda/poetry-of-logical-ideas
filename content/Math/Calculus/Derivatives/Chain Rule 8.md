@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Chain Rule"
-show_solution: false
+show_solution: true
 ---
 
 ## Question
@@ -19,6 +19,10 @@ $$f(x) = \frac{1}{\left( 5x^3 + 7x -9\right)^2}$$
 
 $$h(t) = \frac{-2}{\sqrt{16-t^4}} $$
 
+## Solution
+
+> [!example]- Show solution
+
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]
 
@@ -32,7 +36,3 @@ $$h(t) = \frac{-2}{\sqrt{16-t^4}} $$
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
