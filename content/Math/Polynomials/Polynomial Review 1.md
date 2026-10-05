@@ -10,11 +10,31 @@ show_solution: true
 
 For each polynomial, state the leading coefficient, degree and constant.
 
-1. $$8x+9$$
-2. $$8x^3y^2+6x^2y^2-10xy^2$$
-3. $$9y+6x+7x^2y^2-10x^4y^2-x^3$$
-4. $$\sqrt{3}x-19$$
-5. $$-7x^4-2x^2+x-\sqrt{5}$$
+1.
+
+$$
+8x+9
+$$
+2.
+
+$$
+8x^3y^2+6x^2y^2-10xy^2
+$$
+3.
+
+$$
+9y+6x+7x^2y^2-10x^4y^2-x^3
+$$
+4.
+
+$$
+\sqrt{3}x-19
+$$
+5.
+
+$$
+-7x^4-2x^2+x-\sqrt{5}
+$$
 
 ## Solution
 

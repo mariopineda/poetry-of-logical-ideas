@@ -10,14 +10,46 @@ show_solution: true
 
 Evaluate without a calculator:
 
-1. $$ x+5=14 $$
-2. $$ 3x=-18 $$
-3. $$ 2x+1=7 $$
-4. $$ -2 = \frac{\displaystyle n}{\displaystyle 5}+7 $$
-5. $$ \frac{\displaystyle -3}{\displaystyle 4} = \frac{\displaystyle 6}{\displaystyle 4x} $$
-6. $$ -7 = \frac{\displaystyle x}{\displaystyle 2} - 2 $$
-7. $$ -5x-3=-8 $$
-8. $$ \frac{\displaystyle n}{\displaystyle 4} = 0 $$
+1.
+
+$$
+x+5=14
+$$
+2.
+
+$$
+3x=-18
+$$
+3.
+
+$$
+2x+1=7
+$$
+4.
+
+$$
+-2 = \frac{\displaystyle n}{\displaystyle 5}+7
+$$
+5.
+
+$$
+\frac{\displaystyle -3}{\displaystyle 4} = \frac{\displaystyle 6}{\displaystyle 4x}
+$$
+6.
+
+$$
+-7 = \frac{\displaystyle x}{\displaystyle 2} - 2
+$$
+7.
+
+$$
+-5x-3=-8
+$$
+8.
+
+$$
+\frac{\displaystyle n}{\displaystyle 4} = 0
+$$
 
 ## Solution
 

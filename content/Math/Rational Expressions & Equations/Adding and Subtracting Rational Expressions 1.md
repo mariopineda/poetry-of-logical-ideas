@@ -14,11 +14,31 @@ show_solution: true
 
 Simplify. Express answers in lowest terms and indicate non-permissible values as restriction on the variable.
 
-1. $$\frac{2}{y}+\frac{3}{y}+\frac{4}{y}$$
-2. $$\frac{1}{2x}+\frac{3}{2x}-\frac{5}{2x}$$
-3. $$\frac{7y}{3y+8}+\frac{4y}{3y+8}$$
-4. $$\frac{a+2}{a^2}-\frac{2-a}{a^2}$$
-5. $$\frac{4b+1}{b+3}-\frac{2b-5}{3+b}$$
+1.
+
+$$
+\frac{2}{y}+\frac{3}{y}+\frac{4}{y}
+$$
+2.
+
+$$
+\frac{1}{2x}+\frac{3}{2x}-\frac{5}{2x}
+$$
+3.
+
+$$
+\frac{7y}{3y+8}+\frac{4y}{3y+8}
+$$
+4.
+
+$$
+\frac{a+2}{a^2}-\frac{2-a}{a^2}
+$$
+5.
+
+$$
+\frac{4b+1}{b+3}-\frac{2b-5}{3+b}
+$$
 
 ## Solution
 
@@ -106,13 +126,12 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 >
 > The restriction remains even though the factor \(b+3\) cancels.
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/kjbk1jn4zVU" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=kjbk1jn4zVU)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=kjbk1jn4zVU)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

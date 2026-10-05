@@ -11,10 +11,26 @@ show_solution: true
 
 Simplify:
 
-1. $$\left( \frac{m^5}{m} \right) \left( \frac{m^7}{m^9} \right)$$
-2. $$\left( \frac{10a^7}{b^5} \right) \left( \frac{b^9}{2a^6} \right)$$
-3. $$\left( \frac{f}{f^{-3}} \right) \left( \frac{f^{-2}}{f^5} \right)$$
-4. $$\left( \frac{q^7r^{-1}}{s^{-2}t^5} \right)^{-3}$$
+1.
+
+$$
+\left( \frac{m^5}{m} \right) \left( \frac{m^7}{m^9} \right)
+$$
+2.
+
+$$
+\left( \frac{10a^7}{b^5} \right) \left( \frac{b^9}{2a^6} \right)
+$$
+3.
+
+$$
+\left( \frac{f}{f^{-3}} \right) \left( \frac{f^{-2}}{f^5} \right)
+$$
+4.
+
+$$
+\left( \frac{q^7r^{-1}}{s^{-2}t^5} \right)^{-3}
+$$
 
 ## Solution
 

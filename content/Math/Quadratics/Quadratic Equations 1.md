@@ -11,10 +11,26 @@ show_solution: true
 
 When the equation $6x^2-12x-18$ is fully factored, one factor is:
 
-1. $$x-1$$
-2. $$x+3$$
-3. $$x+6$$
-4. $$x-3$$
+1.
+
+$$
+x-1
+$$
+2.
+
+$$
+x+3
+$$
+3.
+
+$$
+x+6
+$$
+4.
+
+$$
+x-3
+$$
 
 ## Solution
 

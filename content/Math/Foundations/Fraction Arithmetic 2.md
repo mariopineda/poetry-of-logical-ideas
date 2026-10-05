@@ -10,10 +10,26 @@ show_solution: true
 
 Evaluate without a calculator.
 
-1. $$\displaystyle\frac{3}{12} + \displaystyle\frac{5}{12}$$
-2. $$\displaystyle\frac{11}{6} + \displaystyle\frac{2}{6}$$
-3. $$\displaystyle\frac{5}{2} - \displaystyle\frac{7}{3}$$
-4. $$\displaystyle\frac{5}{17} - \displaystyle\frac{2}{7}$$
+1.
+
+$$
+\displaystyle\frac{3}{12} + \displaystyle\frac{5}{12}
+$$
+2.
+
+$$
+\displaystyle\frac{11}{6} + \displaystyle\frac{2}{6}
+$$
+3.
+
+$$
+\displaystyle\frac{5}{2} - \displaystyle\frac{7}{3}
+$$
+4.
+
+$$
+\displaystyle\frac{5}{17} - \displaystyle\frac{2}{7}
+$$
 
 ## Solution
 

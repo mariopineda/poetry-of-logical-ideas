@@ -11,9 +11,21 @@ show_solution: true
 
 Evalue, if possible.
 
-1. $$\lim\_{x \to 9^{+}} \sqrt{9-x}$$
-2. $$\lim\_{x \to 9^{-}} \sqrt{9-x}$$
-3. $$\lim\_{x \to -5^{-}} \frac{x+5}{|x+5|}$$
+1.
+
+$$
+\lim\_{x \to 9^{+}} \sqrt{9-x}
+$$
+2.
+
+$$
+\lim\_{x \to 9^{-}} \sqrt{9-x}
+$$
+3.
+
+$$
+\lim\_{x \to -5^{-}} \frac{x+5}{|x+5|}
+$$
 
 ## Solution
 

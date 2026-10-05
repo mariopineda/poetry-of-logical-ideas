@@ -12,10 +12,26 @@ show_solution: true
 
 Evaluate by converting to exponential form.
 
-1. $$\log\_{5} \sqrt{5}$$
-2. $$\log\_{3} \sqrt{27}$$
-3. $$\log\_{\frac{1}{2}} \left( \frac{1}{4} \right)$$
-4. $$\log\_{\frac{1}{2}} 4$$
+1.
+
+$$
+\log\_{5} \sqrt{5}
+$$
+2.
+
+$$
+\log\_{3} \sqrt{27}
+$$
+3.
+
+$$
+\log\_{\frac{1}{2}} \left( \frac{1}{4} \right)
+$$
+4.
+
+$$
+\log\_{\frac{1}{2}} 4
+$$
 
 ## Solution
 

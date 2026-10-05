@@ -12,9 +12,21 @@ show_solution: true
 
 Write each expression as a single logarithm and then evaluate the expression
 
-1. $$4 \log\_{2} 2 - \frac{1}{3} \log\_{2} 64$$
-2. $$4 \log\_{5} 2 - \log\_{5} \left( \frac{16}{5} \right)$$
-3. $$8 \log\_{8} 2 + 2 \log\_{8} 0.5$$
+1.
+
+$$
+4 \log\_{2} 2 - \frac{1}{3} \log\_{2} 64
+$$
+2.
+
+$$
+4 \log\_{5} 2 - \log\_{5} \left( \frac{16}{5} \right)
+$$
+3.
+
+$$
+8 \log\_{8} 2 + 2 \log\_{8} 0.5
+$$
 
 ## Solution
 

@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 110
 show_solution: true
 ---
@@ -90,13 +89,12 @@ $$\left( \frac{x}{24x^5} \right) (-14x^2)$$
 > \boxed{x\ne0}.
 > $$
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/he2D6hXzL7g" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=he2D6hXzL7g)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=he2D6hXzL7g)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

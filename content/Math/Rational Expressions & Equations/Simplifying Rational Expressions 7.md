@@ -13,10 +13,26 @@ show_solution: true
 
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.
 
-1. $$\frac{8x+16}{2x}$$
-2. $$\frac{5x}{10x+40}$$
-3. $$\frac{6y+9}{3y-12}$$
-4. $$\frac{8-6x}{4+12x}$$
+1.
+
+$$
+\frac{8x+16}{2x}
+$$
+2.
+
+$$
+\frac{5x}{10x+40}
+$$
+3.
+
+$$
+\frac{6y+9}{3y-12}
+$$
+4.
+
+$$
+\frac{8-6x}{4+12x}
+$$
 
 ## Solution
 

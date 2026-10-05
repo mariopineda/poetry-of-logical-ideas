@@ -13,10 +13,26 @@ show_solution: false
 
 Express the following rational expressions in simplest form, stating the non-permissible values as restrictions.
 
-1. $$\displaystyle\frac{9c^2}{27c}$$
-2. $$\displaystyle\frac{35n^5}{15n^{10}}$$
-3. $$\displaystyle\frac{(q-6)(q+2)}{(q+5)(q+2)}$$
-4. $$\displaystyle\frac{(r-4)(r+9)}{r(r+9)(r-12)}$$
+1.
+
+$$
+\displaystyle\frac{9c^2}{27c}
+$$
+2.
+
+$$
+\displaystyle\frac{35n^5}{15n^{10}}
+$$
+3.
+
+$$
+\displaystyle\frac{(q-6)(q+2)}{(q+5)(q+2)}
+$$
+4.
+
+$$
+\displaystyle\frac{(r-4)(r+9)}{r(r+9)(r-12)}
+$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]

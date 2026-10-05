@@ -11,10 +11,26 @@ show_solution: true
 
 Using the unit circle, determine the exact values of:
 
-1. $$\sin \frac{2\pi}{3}$$
-2. $$\cos \frac{7\pi}{6}$$
-3. $$\csc \frac{11\pi}{6}$$
-4. $$\tan \frac{4\pi}{3}$$
+1.
+
+$$
+\sin \frac{2\pi}{3}
+$$
+2.
+
+$$
+\cos \frac{7\pi}{6}
+$$
+3.
+
+$$
+\csc \frac{11\pi}{6}
+$$
+4.
+
+$$
+\tan \frac{4\pi}{3}
+$$
 
 <!--
 

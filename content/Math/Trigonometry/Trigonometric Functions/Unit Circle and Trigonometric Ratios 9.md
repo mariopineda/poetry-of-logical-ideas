@@ -11,8 +11,16 @@ show_solution: true
 
 Use technology to find the approximate value for each trigonometric ratio. Answer to the nearest ten thousandth.
 
-1. $$\cos \frac{7\pi}{5}$$
-2. $$\csc (173^\circ)$$
+1.
+
+$$
+\cos \frac{7\pi}{5}
+$$
+2.
+
+$$
+\csc (173^\circ)
+$$
 
 <!--
 

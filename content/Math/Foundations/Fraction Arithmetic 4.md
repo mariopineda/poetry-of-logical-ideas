@@ -10,10 +10,26 @@ show_solution: true
 
 Evaluate withouth a calculator by, when possible, reducing the fractions to lowest terms before multiplying.
 
-1. $$\frac{10}{12} \times \frac{9}{18}$$
-2. $$\frac{3}{20} \times \frac{8}{12}$$
-3. $$\frac{2}{4} \times \frac{5}{10}$$
-4. $$\frac{4}{18} \times \frac{2}{12}$$
+1.
+
+$$
+\frac{10}{12} \times \frac{9}{18}
+$$
+2.
+
+$$
+\frac{3}{20} \times \frac{8}{12}
+$$
+3.
+
+$$
+\frac{2}{4} \times \frac{5}{10}
+$$
+4.
+
+$$
+\frac{4}{18} \times \frac{2}{12}
+$$
 
 ## Solution
 

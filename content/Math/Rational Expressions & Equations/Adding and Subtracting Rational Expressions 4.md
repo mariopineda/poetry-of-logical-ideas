@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 190
 show_solution: true
 ---
@@ -82,13 +81,12 @@ $$\frac{t-2}{4} - \frac{t-3}{5}$$
 >
 > There are no variable restrictions in these three expressions because all original denominators are non-zero constants.
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/13kcnVR4Dmg" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=13kcnVR4Dmg)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=13kcnVR4Dmg)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

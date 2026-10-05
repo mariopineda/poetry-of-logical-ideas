@@ -11,11 +11,31 @@ show_solution: true
 ## Question
 
 Solve the equations
-1. $$\displaystyle \frac{(n+1)!}{n!}=6$$
-2. $$\displaystyle (n+1)!=6(n-1)!$$
-3. $$\displaystyle \frac{(n+2)!}{n!}=12$$
-4. $$\displaystyle \frac{(n+1)!}{(n-2)!}=20(n-1)$$
-5. $$_{n-1}P_2=90$$
+1.
+
+$$
+\displaystyle \frac{(n+1)!}{n!}=6
+$$
+2.
+
+$$
+\displaystyle (n+1)!=6(n-1)!
+$$
+3.
+
+$$
+\displaystyle \frac{(n+2)!}{n!}=12
+$$
+4.
+
+$$
+\displaystyle \frac{(n+1)!}{(n-2)!}=20(n-1)
+$$
+5.
+
+$$
+_{n-1}P_2=90
+$$
 
 
 ![[Page Break]]

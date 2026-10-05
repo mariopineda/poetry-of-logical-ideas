@@ -10,9 +10,21 @@ show_solution: true
 
 Evaluate without a calculator:
 
-1. $$8 \div (7-9) \times (4+(4+(-4)))$$
-2. $$(8 \times (-4)-(-9)+(-7)) \div 3$$
-3. $$10+5 \div ((-7)-(-5)) \times ((-10)+5)$$
+1.
+
+$$
+8 \div (7-9) \times (4+(4+(-4)))
+$$
+2.
+
+$$
+(8 \times (-4)-(-9)+(-7)) \div 3
+$$
+3.
+
+$$
+10+5 \div ((-7)-(-5)) \times ((-10)+5)
+$$
 
 ## Solution
 

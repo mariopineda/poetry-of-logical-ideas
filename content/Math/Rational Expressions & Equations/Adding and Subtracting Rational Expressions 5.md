@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 200
 show_solution: true
 ---
@@ -84,13 +83,12 @@ $$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
 >
 > There are no variable restrictions because all original denominators are non-zero constants.
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/5a6_Vv0rwTI" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=5a6_Vv0rwTI)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=5a6_Vv0rwTI)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

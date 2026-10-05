@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 170
 show_solution: true
 ---
@@ -96,13 +95,12 @@ $$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
 > \boxed{p\ne-2,-3}.
 > $$
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/-7_JFBTZOm0" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=-7_JFBTZOm0)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=-7_JFBTZOm0)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

@@ -12,10 +12,26 @@ show_solution: true
 
 The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 
-1. $$ \frac{-1 \pm \sqrt{14}}{6} $$
-2. $$ \frac{-1 \pm 2\sqrt{7}}{6} $$
-3. $$ \frac{-1 \pm \sqrt{7}}{6} $$
-4. $$ \frac{-2 \pm \sqrt{7}}{6} $$
+1.
+
+$$
+\frac{-1 \pm \sqrt{14}}{6}
+$$
+2.
+
+$$
+\frac{-1 \pm 2\sqrt{7}}{6}
+$$
+3.
+
+$$
+\frac{-1 \pm \sqrt{7}}{6}
+$$
+4.
+
+$$
+\frac{-2 \pm \sqrt{7}}{6}
+$$
 
 ## Solution
 

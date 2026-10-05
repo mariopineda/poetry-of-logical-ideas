@@ -14,9 +14,21 @@ show_solution: true
 
 Use the $45^circ-45^\circ-90^\circ$ triangle to find the exact trigonometric ratios of the following angles.
 
-1. $$\sin(45^\circ) = \sin \left( \frac{\pi}{4} \right)$$
-2. $$\cos(45^\circ) = \cos \left( \frac{\pi}{4} \right)$$
-3. $$\tan(45^\circ) = \tan \left( \frac{\pi}{4} \right)$$
+1.
+
+$$
+\sin(45^\circ) = \sin \left( \frac{\pi}{4} \right)
+$$
+2.
+
+$$
+\cos(45^\circ) = \cos \left( \frac{\pi}{4} \right)
+$$
+3.
+
+$$
+\tan(45^\circ) = \tan \left( \frac{\pi}{4} \right)
+$$
 
 <!--
 

@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 150
 show_solution: true
 ---

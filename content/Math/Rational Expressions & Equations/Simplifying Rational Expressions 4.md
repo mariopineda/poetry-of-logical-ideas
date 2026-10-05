@@ -13,10 +13,26 @@ show_solution: false
 
 Express the following rational expressions in simplest form, stating the non-permissible values as restrictions.
 
-1. $$\displaystyle\frac{6b^2}{18b}$$
-2. $$\displaystyle\frac{21m^4}{14m^9}$$
-3. $$\displaystyle\frac{(p+4)(p-7)}{(p-2)(p-7)}$$
-4. $$\displaystyle\frac{(t+5)(t-3)}{t(t-3)(t+10)}$$
+1.
+
+$$
+\displaystyle\frac{6b^2}{18b}
+$$
+2.
+
+$$
+\displaystyle\frac{21m^4}{14m^9}
+$$
+3.
+
+$$
+\displaystyle\frac{(p+4)(p-7)}{(p-2)(p-7)}
+$$
+4.
+
+$$
+\displaystyle\frac{(t+5)(t-3)}{t(t-3)(t+10)}
+$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]

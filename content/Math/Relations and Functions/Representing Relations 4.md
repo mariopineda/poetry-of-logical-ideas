@@ -20,7 +20,11 @@ Determine the missing values in the table.
    | $0$ |  |
    |  | $-7$ |
    |  | $17$ |
-2. $$y=-\frac{1}{2}x+6$$
+2.
+
+$$
+y=-\frac{1}{2}x+6
+$$
 
    |  |  |
    | --- | --- |

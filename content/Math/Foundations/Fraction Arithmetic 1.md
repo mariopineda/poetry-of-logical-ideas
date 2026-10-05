@@ -10,10 +10,26 @@ show_solution: true
 
 Convert each of the improper fractions below into a decimal to nearest hundreth, a mixed fraction and find an equivalent fraction that has a denominator of 24.
 
-1. $$\frac{15}{6}$$
-2. $$\frac{7}{2}$$
-3. $$\frac{100}{48}$$
-4. $$\frac{48}{36}$$
+1.
+
+$$
+\frac{15}{6}
+$$
+2.
+
+$$
+\frac{7}{2}
+$$
+3.
+
+$$
+\frac{100}{48}
+$$
+4.
+
+$$
+\frac{48}{36}
+$$
 
 ## Solution
 

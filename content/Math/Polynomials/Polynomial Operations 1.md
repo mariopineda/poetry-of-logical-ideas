@@ -10,8 +10,16 @@ show_solution: true
 
 Simplify and express in descending order of power:
 
-1. $$ (3-a-2a^2)+(9-4a+5a^2) $$
-2. $$ (5x^2-8x+3)-(3x^3-3x-1) $$
+1.
+
+$$
+(3-a-2a^2)+(9-4a+5a^2)
+$$
+2.
+
+$$
+(5x^2-8x+3)-(3x^3-3x-1)
+$$
 3. Subtract the sum of $ 2x^3-7x^2-6x+1 $ and $ 8-3x+5x^2-4x^3 $ from $ 2x^3-7x+9 $.
 
 ## Solution

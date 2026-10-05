@@ -12,10 +12,26 @@ show_solution: true
 
 Which of the following functions is not a quadratic function?
 
-1. $$f(x) = x^2-5x+8$$
-2. $$g(x) = -3(x+5)^2-7$$
-3. $$h(x) = x(x^2+4)-2$$
-4. $$P(X) = 1-x^2$$
+1.
+
+$$
+f(x) = x^2-5x+8
+$$
+2.
+
+$$
+g(x) = -3(x+5)^2-7
+$$
+3.
+
+$$
+h(x) = x(x^2+4)-2
+$$
+4.
+
+$$
+P(X) = 1-x^2
+$$
 
 ## Solution
 

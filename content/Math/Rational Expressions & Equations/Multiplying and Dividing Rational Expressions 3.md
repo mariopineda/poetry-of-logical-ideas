@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 130
 show_solution: true
 ---
@@ -94,13 +93,12 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 > \boxed{x\ne0}.
 > $$
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/mmXXgluJuGk" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=mmXXgluJuGk)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=mmXXgluJuGk)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

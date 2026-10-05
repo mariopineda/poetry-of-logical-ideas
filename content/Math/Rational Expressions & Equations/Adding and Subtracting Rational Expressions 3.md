@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 180
 show_solution: true
 ---
@@ -97,13 +96,12 @@ $$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
 > \boxed{y\ne\frac23,-\frac13}.
 > $$
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/G5jVilJu9A0" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=G5jVilJu9A0)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=G5jVilJu9A0)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

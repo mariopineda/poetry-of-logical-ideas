@@ -11,12 +11,36 @@ show_solution: true
 
 Evaluate the following using the graph.
 
-1. $$\lim\_{x \to -1} f(x)$$
-2. $$\lim\_{x \to 9} f(x)$$
-3. $$f(-5)$$
-4. $$\lim\_{x \to -5} f(x)$$
-5. $$f(2)$$
-6. $$\lim\_{x \to 2} f(x)$$
+1.
+
+$$
+\lim\_{x \to -1} f(x)
+$$
+2.
+
+$$
+\lim\_{x \to 9} f(x)
+$$
+3.
+
+$$
+f(-5)
+$$
+4.
+
+$$
+\lim\_{x \to -5} f(x)
+$$
+5.
+
+$$
+f(2)
+$$
+6.
+
+$$
+\lim\_{x \to 2} f(x)
+$$
 
 ![[Images/Legacy/limits-2.png]]
 

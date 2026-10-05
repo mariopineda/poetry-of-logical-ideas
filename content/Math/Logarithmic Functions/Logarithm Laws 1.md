@@ -12,9 +12,21 @@ show_solution: true
 
 Evaluate by converting to exponential form.
 
-1. $$4\log\_{10} 0.001$$
-2. $$6^{\log\_{6} 36}$$
-3. $$3 \log\_{\frac{1}{10}} 10 - 2 \log\_{\frac{1}{10}} \left( \frac{1}{100} \right)$$
+1.
+
+$$
+4\log\_{10} 0.001
+$$
+2.
+
+$$
+6^{\log\_{6} 36}
+$$
+3.
+
+$$
+3 \log\_{\frac{1}{10}} 10 - 2 \log\_{\frac{1}{10}} \left( \frac{1}{100} \right)
+$$
 
 ## Solution
 

@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 10
 show_solution: true
 ---
@@ -14,10 +13,26 @@ show_solution: true
 
 Evaluate without a calculator and express in lowest terms.
 
-1. $$(-12)(-2) \times [-4+(-3)(-1)]$$
-2. $$\frac{1}{2} \left( \frac{2}{3}-\frac{5}{4} \right)$$
-3. $$15 \div [(-4)(-4)+(-11)]$$
-4. $$ 2+\frac{5}{8} \div \frac{1}{4}-\left( -\frac{1}{3} \right)$$
+1.
+
+$$
+(-12)(-2) \times [-4+(-3)(-1)]
+$$
+2.
+
+$$
+\frac{1}{2} \left( \frac{2}{3}-\frac{5}{4} \right)
+$$
+3.
+
+$$
+15 \div [(-4)(-4)+(-11)]
+$$
+4.
+
+$$
+2+\frac{5}{8} \div \frac{1}{4}-\left( -\frac{1}{3} \right)
+$$
 
 ## Solution
 

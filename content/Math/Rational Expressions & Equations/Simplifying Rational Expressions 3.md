@@ -14,10 +14,26 @@ show_solution: false
 Express the following rational expressions in simplest form, stating the non-permissible values as restrictions.
 
 
-1. $$\frac{4a^2}{16a}$$
-2. $$\frac{25y^4}{10y^9}$$
-3. $$\frac{(a+3)(a-8)}{(a+1)(a-8)}$$
-4. $$\frac{(x+7)(x-2)}{x(x-2)(x+14)}$$
+1.
+
+$$
+\frac{4a^2}{16a}
+$$
+2.
+
+$$
+\frac{25y^4}{10y^9}
+$$
+3.
+
+$$
+\frac{(a+3)(a-8)}{(a+1)(a-8)}
+$$
+4.
+
+$$
+\frac{(x+7)(x-2)}{x(x-2)(x+14)}
+$$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]

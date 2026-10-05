@@ -10,10 +10,26 @@ show_solution: true
 
 Convert each of the mixed fractions below into an improper fraction and simplify to lowest terms.
 
-1. $$3\frac{4}{6}$$
-2. $$1\frac{8}{12}$$
-3. $$5\frac{5}{10}$$
-4. $$17\frac{2}{4}$$
+1.
+
+$$
+3\frac{4}{6}
+$$
+2.
+
+$$
+1\frac{8}{12}
+$$
+3.
+
+$$
+5\frac{5}{10}
+$$
+4.
+
+$$
+17\frac{2}{4}
+$$
 
 ## Solution
 

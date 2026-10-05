@@ -5,7 +5,6 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-
 learning_order: 120
 show_solution: true
 ---
@@ -100,13 +99,12 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 > \boxed{y\ne0,1,5}.
 > $$
 >
+> >
+> >
+>
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/6dwnyRrPWpU" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=6dwnyRrPWpU)
+> > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=6dwnyRrPWpU)
+>
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

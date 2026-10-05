@@ -10,10 +10,26 @@ show_solution: true
 
 Evaluate without a calculator.
 
-1. $$\frac{1}{6} \div \frac{8}{11}$$
-2. $$\frac{1}{3} \div \frac{13}{9}$$
-3. $$\frac{3}{2} \div \frac{9}{4}$$
-4. $$\frac{9}{5} \div \frac{20}{3}$$
+1.
+
+$$
+\frac{1}{6} \div \frac{8}{11}
+$$
+2.
+
+$$
+\frac{1}{3} \div \frac{13}{9}
+$$
+3.
+
+$$
+\frac{3}{2} \div \frac{9}{4}
+$$
+4.
+
+$$
+\frac{9}{5} \div \frac{20}{3}
+$$
 
 ## Solution
 

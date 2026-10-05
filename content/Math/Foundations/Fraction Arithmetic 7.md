@@ -10,12 +10,36 @@ show_solution: true
 
 Evaluate without a calculator.
 
-1. $$\displaystyle\frac{3}{12} + \displaystyle\frac{5}{12}$$
-2. $$\displaystyle\frac{19}{12} - \displaystyle\frac{4}{3}$$
-3. $$\displaystyle\frac{5}{8} \times \displaystyle\frac{3}{2}$$
-4. $$\displaystyle\frac{6}{5} \div \displaystyle\frac{2}{8}$$
-5. $$\displaystyle\frac{14}{4} - \displaystyle\frac{8}{6}$$
-6. $$\displaystyle\frac{1}{4} \div \displaystyle\left( \displaystyle\frac{5}{8} + \displaystyle\frac{2}{4} \right)$$
+1.
+
+$$
+\displaystyle\frac{3}{12} + \displaystyle\frac{5}{12}
+$$
+2.
+
+$$
+\displaystyle\frac{19}{12} - \displaystyle\frac{4}{3}
+$$
+3.
+
+$$
+\displaystyle\frac{5}{8} \times \displaystyle\frac{3}{2}
+$$
+4.
+
+$$
+\displaystyle\frac{6}{5} \div \displaystyle\frac{2}{8}
+$$
+5.
+
+$$
+\displaystyle\frac{14}{4} - \displaystyle\frac{8}{6}
+$$
+6.
+
+$$
+\displaystyle\frac{1}{4} \div \displaystyle\left( \displaystyle\frac{5}{8} + \displaystyle\frac{2}{4} \right)
+$$
 
 ## Solution
 
