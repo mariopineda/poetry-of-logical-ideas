@@ -2,11 +2,11 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 20-1"
-  - "Mathematics 30-2"
-topic: "Rational Expressions"
+  - Mathematics 20-1
+  - Mathematics 30-2
+topic: Rational Expressions
 learning_order: 130
-show_solution: true
+show_solution: false
 ---
 
 ## Question
@@ -20,6 +20,21 @@ $$\frac{x^2-9}{6x+24} \times \frac{10x+40}{x(x+3)}$$
 #### B.
 
 $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2|Multiplying and Dividing Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 4|Multiplying and Dividing Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
 
 ## Solution
 
@@ -99,18 +114,3 @@ $$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
 > > [!info]- Legacy video solution
 > > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=mmXXgluJuGk)
 >
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2|Multiplying and Dividing Rational Expressions 2]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 4|Multiplying and Dividing Rational Expressions 4]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

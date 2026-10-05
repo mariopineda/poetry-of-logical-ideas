@@ -2,11 +2,11 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 20-1"
-  - "Mathematics 30-2"
-topic: "Rational Expressions"
+  - Mathematics 20-1
+  - Mathematics 30-2
+topic: Rational Expressions
 learning_order: 120
-show_solution: true
+show_solution: false
 ---
 
 ## Question
@@ -20,6 +20,21 @@ $$\frac{3x(2x-3)}{x-6} \times \frac{4(x-6)}{6x}$$
 #### B.
 
 $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 3|Multiplying and Dividing Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
 
 ## Solution
 
@@ -105,18 +120,3 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 > > [!info]- Legacy video solution
 > > [Watch the legacy video on YouTube](https://www.youtube.com/watch?v=6dwnyRrPWpU)
 >
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
-> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 3|Multiplying and Dividing Rational Expressions 3]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
