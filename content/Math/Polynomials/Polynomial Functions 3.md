@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Polynomial Functions"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

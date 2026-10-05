@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 20-1"
 topic: "Trigonometric Functions"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

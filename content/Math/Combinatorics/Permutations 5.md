@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Permutations"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

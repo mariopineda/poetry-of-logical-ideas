@@ -5,7 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Rational Equations"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

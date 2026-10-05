@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 10C"
 topic: "Relations and Functions"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

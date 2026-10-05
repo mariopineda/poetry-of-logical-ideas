@@ -5,8 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
 topic: "Rational Expressions"
-learning_order: 120
-show_solution: true
+show_solution: false
 ---
 
 ## Question
@@ -40,84 +39,6 @@ $$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
 
 > [!example]- Show solution
 >
-> ### A.
->
-> From the original denominators,
->
-> $
-> x\ne6,\qquad x\ne0.
-> $
->
-> Multiply:
->
-> $
-> \frac{3x(2x-3)}{x-6}\times\frac{4(x-6)}{6x}.
-> $
->
-> Cancel the common factors \(x-6\) and \(x\):
->
-> $
-> \frac{3(2x-3)\cdot4}{6}
-> =
-> 2(2x-3)
-> =
-> \boxed{4x-6}.
-> $
->
-> Therefore,
->
-> $
-> \boxed{4x-6},
-> \qquad
-> \boxed{x\ne0,6}.
-> $
->
-> ### B.
->
-> Factor:
->
-> $
-> 6y-30=6(y-5),
-> $
->
-> $
-> 5y-5=5(y-1),
-> $
->
-> and
->
-> $
-> 3y^2-15y=3y(y-5).
-> $
->
-> The original denominators require
->
-> $
-> y\ne1,\qquad y\ne0,\qquad y\ne5.
-> $
->
-> Then
->
-> $
-> \frac{6(y-5)}{y-1}
-> \times
-> \frac{5(y-1)}{3y(y-5)}
-> =
-> \boxed{\frac{10}{y}}.
-> $
->
-> Therefore,
->
-> $
-> \boxed{\frac{10}{y}},
-> \qquad
-> \boxed{y\ne0,1,5}.
-> $
->
 > > [!info]- Legacy video solution
-> >
-> > <div class="qod-legacy-video">
-> > <iframe src="https://www.youtube.com/embed/6dwnyRrPWpU" title="Legacy video solution" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> > </div>
-> >
-> > [Open the legacy video on YouTube](https://www.youtube.com/watch?v=6dwnyRrPWpU)
+> > https://www.youtube.com/embed/6dwnyRrPWpU
+>

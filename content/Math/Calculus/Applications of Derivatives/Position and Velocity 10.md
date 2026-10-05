@@ -3,7 +3,7 @@ type: qod
 publish: true
 course: []
 topic: "Motion and Derivatives"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-2"
   - "Mathematics 31"
 topic: "Related Rates"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

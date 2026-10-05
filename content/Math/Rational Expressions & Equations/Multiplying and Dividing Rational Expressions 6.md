@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
 topic: "Rational Expressions"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

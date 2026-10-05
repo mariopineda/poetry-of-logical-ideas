@@ -5,7 +5,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 31"
 topic: "Basic Derivatives"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

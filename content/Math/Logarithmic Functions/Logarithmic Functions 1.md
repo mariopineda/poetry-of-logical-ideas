@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
 topic: "Logarithmic Functions"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

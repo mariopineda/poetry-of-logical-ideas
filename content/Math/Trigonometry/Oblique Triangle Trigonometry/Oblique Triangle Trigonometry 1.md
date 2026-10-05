@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-1"
 topic: "Oblique Triangle Trigonometry"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

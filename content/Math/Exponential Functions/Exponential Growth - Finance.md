@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 20-3"
 topic: "Exponential Growth and Decay"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

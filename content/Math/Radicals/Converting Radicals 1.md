@@ -6,7 +6,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
 topic: "Radicals"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

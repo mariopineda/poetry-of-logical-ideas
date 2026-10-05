@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Derivatives"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

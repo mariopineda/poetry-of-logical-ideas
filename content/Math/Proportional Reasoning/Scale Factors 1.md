@@ -6,7 +6,7 @@ course:
   - "Mathematics 10C"
   - "Mathematics 20-2"
 topic: "Scale Factors"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

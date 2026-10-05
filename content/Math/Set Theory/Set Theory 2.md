@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-2"
 topic: "Set Theory"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

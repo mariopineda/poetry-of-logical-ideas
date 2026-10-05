@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 31"
 topic: "Definite Integrals"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

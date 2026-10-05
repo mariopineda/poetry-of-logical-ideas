@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 31"
 topic: "Derivatives"
-show_solution: true
+show_solution: false
 ---
 
 ## Question

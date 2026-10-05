@@ -5,7 +5,7 @@ course:
   - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Polynomial Operations"
-show_solution: true
+show_solution: false
 ---
 
 ## Question
