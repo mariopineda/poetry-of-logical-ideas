@@ -35,6 +35,17 @@
     return
   }
 
+  const copyLinkButton = document.createElement("button")
+
+  copyLinkButton.id = "qod-map-copy-link"
+  copyLinkButton.type = "button"
+  copyLinkButton.className = "qod-map-reset"
+  copyLinkButton.textContent = "Copy link"
+  copyLinkButton.disabled = true
+  copyLinkButton.hidden = true
+
+  resetButton.insertAdjacentElement("afterend", copyLinkButton)
+
   const coursesFor = (item) => (item.dataset.qodCourses || "").split("|").filter(Boolean)
 
   const topicFor = (item) => item.dataset.qodTopic || ""
@@ -125,6 +136,89 @@
     if (topics.includes(requested)) {
       topicSelect.value = requested
     }
+  }
+
+  // ----------------------------------------------------------
+  // Shareable course/topic filter URLs
+  // ----------------------------------------------------------
+
+  const filtersFromUrl = () => {
+    const params = new URLSearchParams(window.location.search)
+
+    return {
+      course: params.get("course") || "",
+      topic: params.get("topic") || "",
+    }
+  }
+
+  const urlForCurrentFilters = () => {
+    const url = new URL(window.location.href)
+
+    const course = courseSelect.value
+    const topic = topicSelect.value
+
+    if (course) {
+      url.searchParams.set("course", course)
+    } else {
+      url.searchParams.delete("course")
+    }
+
+    if (course && topic) {
+      url.searchParams.set("topic", topic)
+    } else {
+      url.searchParams.delete("topic")
+    }
+
+    return url
+  }
+
+  const syncUrlFromFilters = () => {
+    const url = urlForCurrentFilters()
+
+    window.history.replaceState(
+      null,
+      "",
+      `${url.pathname}${url.search}${url.hash}`,
+    )
+  }
+
+  const copyCurrentFilterUrl = async () => {
+    if (!courseSelect.value || !topicSelect.value) {
+      return
+    }
+
+    const shareUrl = urlForCurrentFilters().href
+
+    try {
+      await navigator.clipboard.writeText(shareUrl)
+    } catch {
+      const fallback = document.createElement("textarea")
+
+      fallback.value = shareUrl
+      fallback.setAttribute("readonly", "")
+      fallback.style.position = "fixed"
+      fallback.style.opacity = "0"
+
+      document.body.appendChild(fallback)
+      fallback.select()
+
+      const copied = document.execCommand("copy")
+
+      fallback.remove()
+
+      if (!copied) {
+        window.prompt("Copy this Learning Path link:", shareUrl)
+        return
+      }
+    }
+
+    const original = copyLinkButton.textContent
+
+    copyLinkButton.textContent = "Copied!"
+
+    window.setTimeout(() => {
+      copyLinkButton.textContent = original
+    }, 1500)
   }
 
   // ----------------------------------------------------------
@@ -565,6 +659,11 @@
 
     resetButton.disabled = !course && !topic
 
+    const hasShareableSelection = Boolean(course && topic)
+
+    copyLinkButton.disabled = !hasShareableSelection
+    copyLinkButton.hidden = !hasShareableSelection
+
     closeAllPanels()
 
     if (!course || !topic) {
@@ -732,23 +831,45 @@
   }
 
   fillCourseOptions()
-  fillTopicOptions("")
+
+  const requestedFilters = filtersFromUrl()
+
+  if (allCourses.includes(requestedFilters.course)) {
+    courseSelect.value = requestedFilters.course
+
+    fillTopicOptions(
+      requestedFilters.course,
+      requestedFilters.topic,
+    )
+  } else {
+    fillTopicOptions("")
+  }
+
   prepareInlinePanels()
 
   courseSelect.addEventListener("change", () => {
     fillTopicOptions(courseSelect.value)
 
+    syncUrlFromFilters()
     updatePath()
   })
 
-  topicSelect.addEventListener("change", updatePath)
+  topicSelect.addEventListener("change", () => {
+    syncUrlFromFilters()
+    updatePath()
+  })
 
   resetButton.addEventListener("click", () => {
     courseSelect.value = ""
 
     fillTopicOptions("")
+    syncUrlFromFilters()
     updatePath()
   })
 
+  copyLinkButton.addEventListener("click", copyCurrentFilterUrl)
+
+  // Canonicalize the URL if it contained an invalid course/topic.
+  syncUrlFromFilters()
   updatePath()
 })()
