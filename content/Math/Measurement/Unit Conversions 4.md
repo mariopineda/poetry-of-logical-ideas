@@ -12,12 +12,36 @@ show_solution: true
 
 Convert the following unit as indicated, rounded to the nearest hundredth when applicable. For metric units, provide answer in decimal and in scientific notation when above or below $\times 1000$ the base unit (i.e. if you answer has three or more leading or trailing zeros).
 
-1. $1140 \mbox{ m} \Rightarrow \mbox{km}$
-2. $0.0611 \mbox{ m} \Rightarrow \mbox{dm}$
-3. $0.000075 \mbox{ L} \Rightarrow \mbox{mL}$
-4. $640000 \mbox{ m} \Rightarrow \mbox{hm}$
-5. $90 \mbox{ in} \Rightarrow \mbox{ft and in}$
-6. $0.005 \mbox{ mi} \Rightarrow \mbox{yd and feet and in}$
+1.
+
+$$
+1140 \mbox{ m} \Rightarrow \mbox{km}
+$$
+2.
+
+$$
+0.0611 \mbox{ m} \Rightarrow \mbox{dm}
+$$
+3.
+
+$$
+0.000075 \mbox{ L} \Rightarrow \mbox{mL}
+$$
+4.
+
+$$
+640000 \mbox{ m} \Rightarrow \mbox{hm}
+$$
+5.
+
+$$
+90 \mbox{ in} \Rightarrow \mbox{ft and in}
+$$
+6.
+
+$$
+0.005 \mbox{ mi} \Rightarrow \mbox{yd and feet and in}
+$$
 
 ## Solution
 

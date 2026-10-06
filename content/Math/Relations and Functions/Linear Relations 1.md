@@ -17,11 +17,31 @@ For each relation:
 - Identify relation as linear or non-linear
 - Visually identify the x and y-intercepts
 
-1. $y=4-x$
-2. $y=x^2+3x-5$
-3. $y=\displaystyle\frac{1}{4}x$
-4. $y=(x+3)(x-2)$
-5. $-3y+2x=9$
+1.
+
+$$
+y=4-x
+$$
+2.
+
+$$
+y=x^2+3x-5
+$$
+3.
+
+$$
+y=\displaystyle\frac{1}{4}x
+$$
+4.
+
+$$
+y=(x+3)(x-2)
+$$
+5.
+
+$$
+-3y+2x=9
+$$
 
 ## Solution
 

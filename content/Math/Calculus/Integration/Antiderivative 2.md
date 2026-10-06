@@ -11,10 +11,26 @@ show_solution: true
 
 Evaluate and verify by differentiating the antiderivative. 
 
-1. $\displaystyle \int 3(2x + 5)^2 \, dx$
-2. $\displaystyle \int \sin(4x - 1) \, dx$
-3. $\displaystyle \int e^{3x + 2} \, dx$
-4. $\displaystyle \int (7x + 4)^{1/2} \, dx$
+1.
+
+$$
+\int 3(2x + 5)^2 \, dx
+$$
+2.
+
+$$
+\int \sin(4x - 1) \, dx
+$$
+3.
+
+$$
+\int e^{3x + 2} \, dx
+$$
+4.
+
+$$
+\int (7x + 4)^{1/2} \, dx
+$$
 
 ## Solution
 

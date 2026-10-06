@@ -14,11 +14,15 @@ Solve the following equations.
 
 #### A.
 
-$$\frac{4}{x+2} = 3$$
+$$
+\frac{4}{x+2} = 3
+$$
 
 #### B.
 
-$$\frac{5a-3}{a+7} = \frac{5a-14}{a+1}$$
+$$
+\frac{5a-3}{a+7} = \frac{5a-14}{a+1}
+$$
 
 ## Solution
 

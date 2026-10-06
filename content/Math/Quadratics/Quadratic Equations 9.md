@@ -12,9 +12,21 @@ show_solution: true
 
 Find the roots of the following quadratic equations using the Quadratic Formula.
 
-1. $2t^2-11t+13=0$
-2. $2x^2+3x+5=0$
-3. $9x^2-30x+25=0$
+1.
+
+$$
+2t^2-11t+13=0
+$$
+2.
+
+$$
+2x^2+3x+5=0
+$$
+3.
+
+$$
+9x^2-30x+25=0
+$$
 
 <!--
 

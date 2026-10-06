@@ -12,10 +12,26 @@ show_solution: true
 
 Write each quadratic equation in vertex form by completing the square. State the coordinates of the vertex.
 
-1. $y=x^2+2x+3$
-2. $y=x^2+12x+20$
-3. $y=-x^2+8x-7$
-4. $y=-x^2-10x-31$
+1.
+
+$$
+y=x^2+2x+3
+$$
+2.
+
+$$
+y=x^2+12x+20
+$$
+3.
+
+$$
+y=-x^2+8x-7
+$$
+4.
+
+$$
+y=-x^2-10x-31
+$$
 
 ## Solution
 

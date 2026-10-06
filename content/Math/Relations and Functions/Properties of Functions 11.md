@@ -10,10 +10,22 @@ show_solution: true
 ## Question
 
 1. For $f(x)=3x^2-4x$, then determine (in simplified form):
-   1. $\frac{f(a)-f(-2)}{a+2}$
+   1.
+
+   $$
+   \frac{f(a)-f(-2)}{a+2}
+   $$
    2. $\frac{f(3+h)-f(3)}{h}$- For $f(x)=\frac{x}{x+1}$, determine (in simplified form):
-   1. $\frac{f(a)-f(-2)}{a+2}$
-   2. $\frac{f(3+h)-f(3)}{h}$
+   1.
+
+   $$
+   \frac{f(a)-f(-2)}{a+2}
+   $$
+   2.
+
+   $$
+   \frac{f(3+h)-f(3)}{h}
+   $$
 
 ## Solution
 

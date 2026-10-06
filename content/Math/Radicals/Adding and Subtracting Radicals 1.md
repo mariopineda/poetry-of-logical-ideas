@@ -13,11 +13,31 @@ show_solution: true
 
 Simplify the following radicals.
 
-1. $\sqrt{75} - \sqrt{3}$
-2. $2\sqrt{24} + \sqrt{6} - \sqrt{54}$
-3. $2\sqrt{90} - 4\sqrt{40} - \sqrt{1000}$
-4. $\sqrt{900} - 1 + \sqrt{1}$
-5. $\displaystyle\frac{1}{3}\sqrt{63} + \displaystyle\frac{2}{5}\sqrt{700}-\displaystyle\frac{3}{2}\sqrt{28}$
+1.
+
+$$
+\sqrt{75} - \sqrt{3}
+$$
+2.
+
+$$
+2\sqrt{24} + \sqrt{6} - \sqrt{54}
+$$
+3.
+
+$$
+2\sqrt{90} - 4\sqrt{40} - \sqrt{1000}
+$$
+4.
+
+$$
+\sqrt{900} - 1 + \sqrt{1}
+$$
+5.
+
+$$
+\frac{1}{3}\sqrt{63} + \displaystyle\frac{2}{5}\sqrt{700}-\displaystyle\frac{3}{2}\sqrt{28}
+$$
 
 ## Solution
 

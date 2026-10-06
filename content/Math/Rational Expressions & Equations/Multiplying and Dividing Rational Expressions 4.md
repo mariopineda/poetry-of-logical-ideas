@@ -15,15 +15,21 @@ Simplify and state the non-permissible value as restrictions on the variable
 
 #### A.
 
-$$\frac{3b+9}{b} \div \frac{b+3}{b}$$
+$$
+\frac{3b+9}{b} \div \frac{b+3}{b}
+$$
 
 #### B.
 
-$$\frac{6a-1}{3a} \div \frac{24a-4}{9a^3}$$
+$$
+\frac{6a-1}{3a} \div \frac{24a-4}{9a^3}
+$$
 
 #### C.
 
-$$\frac{r+8}{8r} \div (64-r^2)$$
+$$
+\frac{r+8}{8r} \div (64-r^2)
+$$
 
 ## Solution
 

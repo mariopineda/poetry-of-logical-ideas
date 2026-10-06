@@ -12,11 +12,31 @@ show_solution: true
 
 If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the following. If needed round to the nearest tenth.
 
-1. $f(4)$
-2. $f(-3)$
-3. $g(2)$
-4. $g(x)=-6$
-5. $h(-1)$
+1.
+
+$$
+f(4)
+$$
+2.
+
+$$
+f(-3)
+$$
+3.
+
+$$
+g(2)
+$$
+4.
+
+$$
+g(x)=-6
+$$
+5.
+
+$$
+h(-1)
+$$
 
 ## Solution
 

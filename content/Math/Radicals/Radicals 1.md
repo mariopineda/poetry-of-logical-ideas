@@ -12,10 +12,26 @@ show_solution: true
 
 Convert the following radicals to mixed radicals in simplest form.
 
-1. $\sqrt{50}$
-2. $\sqrt{60}$
-3. $\sqrt{54}$
-4. $7\sqrt{63}$
+1.
+
+$$
+\sqrt{50}
+$$
+2.
+
+$$
+\sqrt{60}
+$$
+3.
+
+$$
+\sqrt{54}
+$$
+4.
+
+$$
+7\sqrt{63}
+$$
 5. -5$\sqrt{162}$
 
 

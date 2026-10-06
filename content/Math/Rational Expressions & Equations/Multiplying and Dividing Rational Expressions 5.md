@@ -15,11 +15,15 @@ Simplify and state the non-permissible value as restrictions on the variable
 
 #### A.
 
-$$\frac{p^3(p+2)}{p} \div \frac{49(p+2)}{7(p-5)}$$
+$$
+\frac{p^3(p+2)}{p} \div \frac{49(p+2)}{7(p-5)}
+$$
 
 #### B.
 
-$$\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)$$
+$$
+\left( \frac{10x+4}{5x-1} \right) \div \left( \frac{35x+14}{x-1} \right)
+$$
 
 ## Solution
 

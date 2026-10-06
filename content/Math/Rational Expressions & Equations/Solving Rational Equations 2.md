@@ -14,11 +14,15 @@ Solve the following equations.
 
 #### A.
 
-$$x^2-10x+24=0$$
+$$
+x^2-10x+24=0
+$$
 
 #### B.
 
-$$x^2-10x-24=0$$
+$$
+x^2-10x-24=0
+$$
 
 ## Solution
 

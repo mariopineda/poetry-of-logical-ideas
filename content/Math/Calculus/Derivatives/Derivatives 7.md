@@ -13,11 +13,15 @@ Differentiate using first principles.
 
 #### A.
 
-$$y=4-3x-2x^2$$
+$$
+y=4-3x-2x^2
+$$
 
 #### B.
 
-$$y=\sqrt{6-4x}$$
+$$
+y=\sqrt{6-4x}
+$$
 
 ## Solution
 

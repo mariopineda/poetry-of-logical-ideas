@@ -13,11 +13,15 @@ Solve the following inequalities, represent the solutions in set notation, inter
 
 #### A.
 
-$$(x+1)(x-2)(x-3) < 0$$
+$$
+(x+1)(x-2)(x-3) < 0
+$$
 
 #### B.
 
-$$(x+1)(x-2)(x-3) > 0$$
+$$
+(x+1)(x-2)(x-3) > 0
+$$
 
 ## Solution
 

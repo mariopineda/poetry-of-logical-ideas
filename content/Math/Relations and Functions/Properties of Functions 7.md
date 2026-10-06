@@ -11,8 +11,16 @@ show_solution: true
 
 If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.
 
-1. $(f-g)(x)$
-2. $\left( \frac{f}{g} \right)(x)$
+1.
+
+$$
+(f-g)(x)
+$$
+2.
+
+$$
+\left( \frac{f}{g} \right)(x)
+$$
 
 ## Solution
 

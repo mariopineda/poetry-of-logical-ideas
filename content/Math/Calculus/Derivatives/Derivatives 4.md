@@ -13,11 +13,15 @@ Differentiate using first principles.
 
 #### A.
 
-$$y=5-2x$$
+$$
+y=5-2x
+$$
 
 #### B.
 
-$$y=x^2+6x-10$$
+$$
+y=x^2+6x-10
+$$
 
 ## Solution
 

@@ -11,8 +11,16 @@ show_solution: true
 
 If $f(x)=x^2-3x+5$, then determine:
 
-1. $\frac{f(a)-f(6)}{a-6}$
-2. $\frac{f(2+h)-f(2)}{h}$
+1.
+
+$$
+\frac{f(a)-f(6)}{a-6}
+$$
+2.
+
+$$
+\frac{f(2+h)-f(2)}{h}
+$$
 
 ## Solution
 

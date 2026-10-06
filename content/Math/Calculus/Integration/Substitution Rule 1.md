@@ -11,11 +11,31 @@ show_solution: true
 
 Evaluate the following integrals using the substitution rule.
 
-1. $\displaystyle \int (3x^2 + 2x) e^{x^3 + x^2} \, dx$
-2. $\displaystyle \int \sin(2x) \cos^3(2x) \, dx$
-3. $\displaystyle \int \frac{x}{(1 + x^2)^2} \, dx$
-4. $\displaystyle \int \frac{e^{2x}}{1 + e^{2x}} \, dx$
-5. $\displaystyle \int \frac{\ln(x)}{x} \, dx$
+1.
+
+$$
+\int (3x^2 + 2x) e^{x^3 + x^2} \, dx
+$$
+2.
+
+$$
+\int \sin(2x) \cos^3(2x) \, dx
+$$
+3.
+
+$$
+\int \frac{x}{(1 + x^2)^2} \, dx
+$$
+4.
+
+$$
+\int \frac{e^{2x}}{1 + e^{2x}} \, dx
+$$
+5.
+
+$$
+\int \frac{\ln(x)}{x} \, dx
+$$
 
 ## Solution
 

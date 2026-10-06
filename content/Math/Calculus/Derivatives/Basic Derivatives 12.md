@@ -13,11 +13,15 @@ Differentiate.
 
 #### A.
 
-$$f(t) = 10 - \frac{4}{t} + \frac{9}{t^2} - \frac{1}{3t^3} + \frac{1}{2t^4}$$
+$$
+f(t) = 10 - \frac{4}{t} + \frac{9}{t^2} - \frac{1}{3t^3} + \frac{1}{2t^4}
+$$
 
 #### B.
 
-$$g(x) = 6\sqrt{x^3} - \frac{1}{4}\sqrt{x} + \frac{12}{\sqrt{x}} - \frac{18}{\sqrt{x^3}}$$
+$$
+g(x) = 6\sqrt{x^3} - \frac{1}{4}\sqrt{x} + \frac{12}{\sqrt{x}} - \frac{18}{\sqrt{x^3}}
+$$
 
 ## Solution
 

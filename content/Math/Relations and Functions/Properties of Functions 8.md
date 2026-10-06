@@ -12,8 +12,16 @@ show_solution: true
 
 If $f(x) = \frac{1}{x-3}$ and $g(x)=\frac{x+1}{x}$, then determine the following.
 
-1. $f \circ g(x)$
-2. $g \circ f(5)$
+1.
+
+$$
+f \circ g(x)
+$$
+2.
+
+$$
+g \circ f(5)
+$$
 
 ## Solution
 

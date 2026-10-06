@@ -12,11 +12,15 @@ For each position function ($s$ in metres, $t$ in seconds), determine exactly th
 
 #### A.
 
-$$s(t) = \frac{t^2+1}{2t-1}$$
+$$
+s(t) = \frac{t^2+1}{2t-1}
+$$
 
 #### B.
 
-$$s(t) = t \sqrt{4t+1}$$
+$$
+s(t) = t \sqrt{4t+1}
+$$
 
 ## Solution
 

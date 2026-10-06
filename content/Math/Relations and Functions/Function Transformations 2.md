@@ -11,10 +11,26 @@ show_solution: true
 
 Roughly sketch.
 
-1. $y=2|x-3|-8$
-2. $y=-x^3+5$
-3. $y=\frac{-1}{x+6}$
-4. $y=\sqrt{7-x}$
+1.
+
+$$
+y=2|x-3|-8
+$$
+2.
+
+$$
+y=-x^3+5
+$$
+3.
+
+$$
+y=\frac{-1}{x+6}
+$$
+4.
+
+$$
+y=\sqrt{7-x}
+$$
 
 ## Solution
 

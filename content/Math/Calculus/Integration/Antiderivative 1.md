@@ -10,15 +10,51 @@ show_solution: true
 ## Question
 
 Find $F(x)$ such that $F'(x) = f(x)$.
-1.  $f(x) = 3x^2$
-2.  $f(x) = 5e^x$
-3.  $f(x) = \sin x$
-4.  $f(x) = \frac{\displaystyle 1}{\displaystyle x}$
-5.  $f(x) = 7x^5 - 2x^3 + 4x$
-6.  $f(x) = \cos x$
-7.  $f(x) = 6x^{-3}$
-8.  $f(x) = \sec^2 x$
-9.  $f(x) = \frac{\displaystyle 3}{\sqrt{\displaystyle x}}$
+1.
+
+$$
+f(x) = 3x^2
+$$
+2.
+
+$$
+f(x) = 5e^x
+$$
+3.
+
+$$
+f(x) = \sin x
+$$
+4.
+
+$$
+f(x) = \frac{\displaystyle 1}{\displaystyle x}
+$$
+5.
+
+$$
+f(x) = 7x^5 - 2x^3 + 4x
+$$
+6.
+
+$$
+f(x) = \cos x
+$$
+7.
+
+$$
+f(x) = 6x^{-3}
+$$
+8.
+
+$$
+f(x) = \sec^2 x
+$$
+9.
+
+$$
+f(x) = \frac{\displaystyle 3}{\sqrt{\displaystyle x}}
+$$
 
 ## Solution
 

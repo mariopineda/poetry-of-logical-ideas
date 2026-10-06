@@ -12,8 +12,16 @@ show_solution: true
 
 If $f(x)=\frac{x+4}{1-x}$ and $g(x)\frac{5-2x}{3x+1}$, then determine:
 
-1. $g \circ f(x)$ Restrictions on $x$
-2. $f \circ g(-1)$
+1.
+
+$$
+g \circ f(x)$ Restrictions on $x
+$$
+2.
+
+$$
+f \circ g(-1)
+$$
 
 ## Solution
 

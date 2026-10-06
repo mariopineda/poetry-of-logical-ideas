@@ -13,11 +13,15 @@ Differentiate using first principles.
 
 #### A.
 
-$$y=\frac{1}{x^2-9}$$
+$$
+y=\frac{1}{x^2-9}
+$$
 
 #### B.
 
-$$y=\frac{4x-7}{8-5x}$$
+$$
+y=\frac{4x-7}{8-5x}
+$$
 
 ## Solution
 

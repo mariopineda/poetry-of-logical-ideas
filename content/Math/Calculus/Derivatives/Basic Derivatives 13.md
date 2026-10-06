@@ -13,11 +13,15 @@ Find the equation of the tangent line at the point indicated. Answer in general 
 
 #### A.
 
-$y = \sqrt{x} - \frac{6}{\sqrt{x}}$ at $x=9$
+$$
+y = \sqrt{x} - \frac{6}{\sqrt{x}}$ at $x=9
+$$
 
 #### B.
 
-$y=\frac{x^3-1}{x}$ at $x=-2$
+$$
+y=\frac{x^3-1}{x}$ at $x=-2
+$$
 
 ## Solution
 

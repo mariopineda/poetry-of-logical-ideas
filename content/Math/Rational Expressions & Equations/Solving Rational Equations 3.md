@@ -14,11 +14,15 @@ Solve the following equations.
 
 #### A.
 
-$$3x^2-13x-10=0$$
+$$
+3x^2-13x-10=0
+$$
 
 #### B.
 
-$$6x^2+17x=3$$
+$$
+6x^2+17x=3
+$$
 
 ## Solution
 

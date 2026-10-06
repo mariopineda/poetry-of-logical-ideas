@@ -21,10 +21,26 @@ Without using technology, determine the following characteristics of the given f
 - End behaviour
 - The slope for linear functions
 
-1. $f(x)=4$
-2. $f(x)=-2x+6$
-3. $f(x)=2x^2+1$
-4. $f(x)=-x^2+9$
+1.
+
+$$
+f(x)=4
+$$
+2.
+
+$$
+f(x)=-2x+6
+$$
+3.
+
+$$
+f(x)=2x^2+1
+$$
+4.
+
+$$
+f(x)=-x^2+9
+$$
 
 ## Solution
 

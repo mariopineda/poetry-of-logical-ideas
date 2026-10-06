@@ -11,8 +11,16 @@ show_solution: true
 
 Solve each. Answer in interval notation.
 
-1. $x^2<-25$
-2. $x^2>-49$
+1.
+
+$$
+x^2<-25
+$$
+2.
+
+$$
+x^2>-49
+$$
 
 ## Solution
 

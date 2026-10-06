@@ -12,10 +12,26 @@ show_solution: true
 
 Draw a rough sketch of the following functions. Identify vertex, intercepts and asymptotes.
 
-1. $y=-|x+2|-1$
-2. $y=\frac{1}{x-2}+3$
-3. $y=(x-2)^2-2$
-4. $y=-\sqrt{x-4}$
+1.
+
+$$
+y=-|x+2|-1
+$$
+2.
+
+$$
+y=\frac{1}{x-2}+3
+$$
+3.
+
+$$
+y=(x-2)^2-2
+$$
+4.
+
+$$
+y=-\sqrt{x-4}
+$$
 
 ## Solution
 

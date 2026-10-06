@@ -13,15 +13,21 @@ Evaluate, if possible.
 
 #### A.
 
-$$ \lim\_{n \to \infty} \frac{4-3n-8n^3}{12n^3+9n^2-20} $$
+$$
+\lim\_{n \to \infty} \frac{4-3n-8n^3}{12n^3+9n^2-20}
+$$
 
 #### B.
 
-$$ \lim\_{n \to \infty} \frac{n^4-5n^3+7}{n(11-n^4)} $$
+$$
+\lim\_{n \to \infty} \frac{n^4-5n^3+7}{n(11-n^4)}
+$$
 
 #### C.
 
-$$ \lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)} $$
+$$
+\lim\_{n \to \infty} \frac{(n-5)^4}{(n^2+1)(n-7)}
+$$
 
 ## Solution
 

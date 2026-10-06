@@ -11,11 +11,31 @@ show_solution: true
 
 Determine the number of x-intercepts, the type of turning point(s) and the end behaviour of the following polynomials.
 
-1. $f(x)=-x^2+bx+5$
-2. $g(x)=-2x^3-bx^2+cx+2$
-3. $h(x)=-5x^2+bx-2$
-4. $k(x)=2x^2-bx$
-5. $l(x)=-ax$
+1.
+
+$$
+f(x)=-x^2+bx+5
+$$
+2.
+
+$$
+g(x)=-2x^3-bx^2+cx+2
+$$
+3.
+
+$$
+h(x)=-5x^2+bx-2
+$$
+4.
+
+$$
+k(x)=2x^2-bx
+$$
+5.
+
+$$
+l(x)=-ax
+$$
 
 ## Solution
 

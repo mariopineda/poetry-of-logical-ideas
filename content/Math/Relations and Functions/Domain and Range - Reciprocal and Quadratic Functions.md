@@ -14,8 +14,16 @@ aliases:
 
 State the domain and range of each function in both **set-builder notation** and **interval notation**.
 
-1. $f(x)=\dfrac{1}{x}$
-2. $g(x)=x^2$
+1.
+
+$$
+f(x)=\dfrac{1}{x}
+$$
+2.
+
+$$
+g(x)=x^2
+$$
 
 ## Solution
 

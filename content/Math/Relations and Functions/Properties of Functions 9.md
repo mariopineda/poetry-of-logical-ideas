@@ -11,8 +11,16 @@ show_solution: true
 
 For $f(x)=1-2x$, determine (in simplfied form):
 
-1. $\frac{f(a)-f(-2)}{a+2}$
-2. $\frac{f(3+h)-f(3)}{h}$
+1.
+
+$$
+\frac{f(a)-f(-2)}{a+2}
+$$
+2.
+
+$$
+\frac{f(3+h)-f(3)}{h}
+$$
 
 ## Solution
 

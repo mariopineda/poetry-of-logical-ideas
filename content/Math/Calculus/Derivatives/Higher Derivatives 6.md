@@ -13,11 +13,15 @@ Find the second derivative for the following.
 
 #### A.
 
-$$y=5x^3-6x^2+8x-11$$
+$$
+y=5x^3-6x^2+8x-11
+$$
 
 #### B.
 
-$$f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}$$
+$$
+f(x) = 4 - \frac{1}{x} + \frac{2}{x^2} - \frac{2}{x^3}
+$$
 
 ## Solution
 

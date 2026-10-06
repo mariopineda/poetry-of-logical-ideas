@@ -12,9 +12,21 @@ show_solution: true
 
 Solve the following equations. Express the solution as an exact value in the form $\frac{\log M}{\log N}$ and to two decimal places.
 
-1. $4^x=60$
-2. $3^x=9$
-3. $7^{x+2}+3=444$
+1.
+
+$$
+4^x=60
+$$
+2.
+
+$$
+3^x=9
+$$
+3.
+
+$$
+7^{x+2}+3=444
+$$
 
 ## Solution
 

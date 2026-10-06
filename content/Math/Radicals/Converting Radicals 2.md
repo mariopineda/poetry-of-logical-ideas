@@ -11,7 +11,9 @@ show_solution: true
 
 Without using a calculator, arrange the following numbers in ascending (increasing) order.
 
-$4\sqrt{3}$, $3\sqrt{5}$, $5\sqrt{2}$, $2\sqrt{10}$, $2\sqrt{13}$, $3\sqrt{6}$
+$$
+4\sqrt{3}$, $3\sqrt{5}$, $5\sqrt{2}$, $2\sqrt{10}$, $2\sqrt{13}$, $3\sqrt{6}
+$$
 
 ## Solution
 

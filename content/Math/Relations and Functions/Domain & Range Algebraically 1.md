@@ -12,8 +12,16 @@ show_solution: true
 
 Algebraically determine the domain of:
 
-1. $y=\frac{1}{x^2+5x}$
-2. $y=\sqrt{x^3-49x}$
+1.
+
+$$
+y=\frac{1}{x^2+5x}
+$$
+2.
+
+$$
+y=\sqrt{x^3-49x}
+$$
 
 ## Solution
 

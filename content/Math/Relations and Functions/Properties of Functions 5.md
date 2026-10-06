@@ -12,9 +12,21 @@ show_solution: true
 
 If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 
-1. $f(3)$
-2. $g(-1)$
-3. $f(4)+g(3)$
+1.
+
+$$
+f(3)
+$$
+2.
+
+$$
+g(-1)
+$$
+3.
+
+$$
+f(4)+g(3)
+$$
 
 ## Solution
 

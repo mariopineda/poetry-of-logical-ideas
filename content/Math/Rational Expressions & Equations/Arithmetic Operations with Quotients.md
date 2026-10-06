@@ -13,11 +13,31 @@ show_solution: true
 
 Evaluate and simplify without a calculator.
 
-A. $\frac{\displaystyle 2x}{\displaystyle 7} + \frac{\displaystyle 2x}{\displaystyle 4} - \frac{\displaystyle x}{\displaystyle 2}$ 
-B. $\frac{\displaystyle 5x}{\displaystyle 6} - \frac{\displaystyle 2x}{\displaystyle 12x}$
-C. $\frac{\displaystyle 5x^2}{\displaystyle 6} \times \frac{\displaystyle 3}{\displaystyle 10x}$
-D. $\frac{\displaystyle 2x^2}{\displaystyle 9x} \div \frac{\displaystyle x}{\displaystyle 3x^3}$
-E. $\frac{\displaystyle 4x}{\displaystyle 9x}-\frac{\displaystyle 2x^2}{\displaystyle 6x^2}$
+A.
+
+$$
+\frac{\displaystyle 2x}{\displaystyle 7} + \frac{\displaystyle 2x}{\displaystyle 4} - \frac{\displaystyle x}{\displaystyle 2}
+$$
+B.
+
+$$
+\frac{\displaystyle 5x}{\displaystyle 6} - \frac{\displaystyle 2x}{\displaystyle 12x}
+$$
+C.
+
+$$
+\frac{\displaystyle 5x^2}{\displaystyle 6} \times \frac{\displaystyle 3}{\displaystyle 10x}
+$$
+D.
+
+$$
+\frac{\displaystyle 2x^2}{\displaystyle 9x} \div \frac{\displaystyle x}{\displaystyle 3x^3}
+$$
+E.
+
+$$
+\frac{\displaystyle 4x}{\displaystyle 9x}-\frac{\displaystyle 2x^2}{\displaystyle 6x^2}
+$$
 
 ## Solution
 

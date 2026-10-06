@@ -12,10 +12,26 @@ show_solution: true
 
 Write each quadratic equation in vertex form by completing the square. State the coordinates of the vertex.
 
-1. $y=2x^2+8x+1$
-2. $y=5x^2-60x+166$
-3. $y=-4x^2+24x-21$
-4. $y=-7x^2-42x+3$
+1.
+
+$$
+y=2x^2+8x+1
+$$
+2.
+
+$$
+y=5x^2-60x+166
+$$
+3.
+
+$$
+y=-4x^2+24x-21
+$$
+4.
+
+$$
+y=-7x^2-42x+3
+$$
 
 ## Solution
 

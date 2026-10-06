@@ -13,15 +13,21 @@ Evaluate, if possible.
 
 #### A.
 
-$$ \lim\_{n \to \infty} \frac{(4n+1)(2-3n)}{(6n+11)(n-15)} $$
+$$
+\lim\_{n \to \infty} \frac{(4n+1)(2-3n)}{(6n+11)(n-15)}
+$$
 
 #### B.
 
-$$ \lim\_{n \to \infty} \frac{(2n-7)^3}{(9-5n)^3} $$
+$$
+\lim\_{n \to \infty} \frac{(2n-7)^3}{(9-5n)^3}
+$$
 
 #### C.
 
-$$ \lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7} $$
+$$
+\lim\_{n \to -\infty} \frac{\sqrt{9n^2-4n+25}}{6n-7}
+$$
 
 ## Solution
 

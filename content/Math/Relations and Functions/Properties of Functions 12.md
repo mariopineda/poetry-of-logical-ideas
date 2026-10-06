@@ -12,8 +12,16 @@ show_solution: true
 
 Determine the domain of the following combined functions. Answer in interval notation.
 
-1. $y=\frac{4}{x\sqrt{x+8}}$
-2. $y=\frac{\sqrt{6-x}}{x^2-x}$
+1.
+
+$$
+y=\frac{4}{x\sqrt{x+8}}
+$$
+2.
+
+$$
+y=\frac{\sqrt{6-x}}{x^2-x}
+$$
 
 ## Solution
 

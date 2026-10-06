@@ -13,15 +13,21 @@ Differentiate.
 
 #### A.
 
-$$y=x^3 \times x^9$$
+$$
+y=x^3 \times x^9
+$$
 
 #### B.
 
-$$y=\frac{1}{x^7}$$
+$$
+y=\frac{1}{x^7}
+$$
 
 #### C.
 
-$$f(t) = \sqrt[6]{t^11}$$
+$$
+f(t) = \sqrt[6]{t^11}
+$$
 
 ## Solution
 

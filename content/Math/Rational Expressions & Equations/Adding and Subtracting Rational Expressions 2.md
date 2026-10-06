@@ -15,11 +15,15 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 
 #### A.
 
-$$\frac{x-5}{3}+\frac{4x}{x-2}$$
+$$
+\frac{x-5}{3}+\frac{4x}{x-2}
+$$
 
 #### B.
 
-$$\frac{p-1}{p+2}+\frac{p+2}{p+3}$$
+$$
+\frac{p-1}{p+2}+\frac{p+2}{p+3}
+$$
 
 ## Solution
 

@@ -13,19 +13,51 @@ show_solution: true
 
 Express as a mixed radical in simplest form.
 
-1. $\sqrt{20}$
-2. $\sqrt{300}$
-3. $\sqrt{99}$
-4. $\sqrt[3]{7000}$
+1.
+
+$$
+\sqrt{20}
+$$
+2.
+
+$$
+\sqrt{300}
+$$
+3.
+
+$$
+\sqrt{99}
+$$
+4.
+
+$$
+\sqrt[3]{7000}
+$$
    > [!info]- Hint
 > Start by finding the largest perfect cube factor
 
 Express as an entire radical.
 
-1. $7\sqrt{10}$
-2. $2\sqrt{13}$
-3. $6\sqrt{2}$
-4. $3\sqrt[3]{-2}$
+1.
+
+$$
+7\sqrt{10}
+$$
+2.
+
+$$
+2\sqrt{13}
+$$
+3.
+
+$$
+6\sqrt{2}
+$$
+4.
+
+$$
+3\sqrt[3]{-2}
+$$
    > [!info]- Hint
 > Start by taking the cube root of the numerical coefficient cubed
 

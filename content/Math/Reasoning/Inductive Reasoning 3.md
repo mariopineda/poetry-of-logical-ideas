@@ -10,9 +10,15 @@ show_solution: true
 ## Question
 
 Consider the following pattern of multiplications:
-$$123456789 \times 9 \times 1 = 1111111101$$
-$$123456789 \times 9 \times 2 = 2222222202$$
-$$123456789 \times 9 \times 3 = 3333333303$$
+$$
+123456789 \times 9 \times 1 = 1111111101
+$$
+$$
+123456789 \times 9 \times 2 = 2222222202
+$$
+$$
+123456789 \times 9 \times 3 = 3333333303
+$$
 
 1. Use the number pattern to make a conjecture.
 2. Show two more examples that support your conjecture.

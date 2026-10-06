@@ -23,11 +23,31 @@ For each of the following functions determine the,
 
 Round decimals to the nearest hundreth.
 
-1. $g(x) = -6x^2+4x-2$
-2. $h(x) = -x^3+x+4$
-3. $f(x) = (x+1)(x+2)$
-4. $k(x) = 2x^2+6x+4$
-5. $p(x) = x^3-2x^2+6x+4$
+1.
+
+$$
+g(x) = -6x^2+4x-2
+$$
+2.
+
+$$
+h(x) = -x^3+x+4
+$$
+3.
+
+$$
+f(x) = (x+1)(x+2)
+$$
+4.
+
+$$
+k(x) = 2x^2+6x+4
+$$
+5.
+
+$$
+p(x) = x^3-2x^2+6x+4
+$$
 
 ## Solution
 

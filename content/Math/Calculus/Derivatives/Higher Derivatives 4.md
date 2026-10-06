@@ -13,11 +13,15 @@ Rougly sketch the function $y=f(x)$. Answers will vary.
 
 #### A.
 
-$f'(x)>0$ and $f''(x)<0$
+$$
+f'(x)>0$ and $f''(x)<0
+$$
 
 #### B.
 
-$f(x)<0$, $f'(x)<0$, and $f''(x)>0$
+$$
+f(x)<0$, $f'(x)<0$, and $f''(x)>0
+$$
 
 ## Solution
 

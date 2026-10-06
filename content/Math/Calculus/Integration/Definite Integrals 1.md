@@ -10,10 +10,26 @@ show_solution: true
 ## Question
 
 Evaluate...
-1. $\displaystyle \int_{-1}^2 x^3 \, dx$
-2. $\displaystyle \int_\pi^{2\pi} \sin x \, dx$
-3. $\displaystyle \int_1^8 \frac{1}{\sqrt[3]{x^2}}$
-4. $\displaystyle \int_0^1 \frac{1}{x^2+1} \, dx$ where $\displaystyle \int \frac{1}{x^2+1} \, dx = \tan^{-1} x + C$
+1.
+
+$$
+\int_{-1}^2 x^3 \, dx
+$$
+2.
+
+$$
+\int_\pi^{2\pi} \sin x \, dx
+$$
+3.
+
+$$
+\int_1^8 \frac{1}{\sqrt[3]{x^2}}
+$$
+4.
+
+$$
+\int_0^1 \frac{1}{x^2+1} \, dx$ where $\displaystyle \int \frac{1}{x^2+1} \, dx = \tan^{-1} x + C
+$$
 
 ![[Page Break]]
 

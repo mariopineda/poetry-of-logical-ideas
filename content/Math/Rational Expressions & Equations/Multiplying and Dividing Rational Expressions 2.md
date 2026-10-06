@@ -15,11 +15,15 @@ Simplify and state the non-permissible value as restrictions on the variable
 
 #### A.
 
-$$\frac{3x(2x-3)}{x-6} \times \frac{4(x-6)}{6x}$$
+$$
+\frac{3x(2x-3)}{x-6} \times \frac{4(x-6)}{6x}
+$$
 
 #### B.
 
-$$\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}$$
+$$
+\frac{6y-30}{y-1} \times \frac{5y-5}{3y^2-15y}
+$$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

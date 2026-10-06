@@ -13,11 +13,15 @@ Differentiate.
 
 #### A.
 
-$$y=8x^5+11x^2-7x+9$$
+$$
+y=8x^5+11x^2-7x+9
+$$
 
 #### B.
 
-$$g(u)=\frac{1}{8u^2}-4\sqrt{u^3}$$
+$$
+g(u)=\frac{1}{8u^2}-4\sqrt{u^3}
+$$
 
 ## Solution
 

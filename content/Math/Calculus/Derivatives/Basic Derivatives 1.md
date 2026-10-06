@@ -13,15 +13,21 @@ Differentiate.
 
 #### A.
 
-$$y=x^2 \times x^8$$
+$$
+y=x^2 \times x^8
+$$
 
 #### B.
 
-$$g(t)=\frac{1}{t^4}$$
+$$
+g(t)=\frac{1}{t^4}
+$$
 
 #### C.
 
-$$\frac{d}{dx}\sqrt[5]{x^2}$$
+$$
+\frac{d}{dx}\sqrt[5]{x^2}
+$$
 
 ## Solution
 

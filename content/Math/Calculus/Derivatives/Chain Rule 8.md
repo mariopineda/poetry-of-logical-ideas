@@ -13,11 +13,15 @@ Differentiate.
 
 #### A.
 
-$$f(x) = \frac{1}{\left( 5x^3 + 7x -9\right)^2}$$
+$$
+f(x) = \frac{1}{\left( 5x^3 + 7x -9\right)^2}
+$$
 
 #### B.
 
-$$h(t) = \frac{-2}{\sqrt{16-t^4}} $$
+$$
+h(t) = \frac{-2}{\sqrt{16-t^4}}
+$$
 
 ## Solution
 

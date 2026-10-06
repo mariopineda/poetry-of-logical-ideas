@@ -13,11 +13,15 @@ Differentiate. Assume $f$ and $g$ are differentiable functions and $a$ is a cons
 
 #### A.
 
-$$y = x^3 f(x^2)$$
+$$
+y = x^3 f(x^2)
+$$
 
 #### B.
 
-$$y=f(g(x^3))$$
+$$
+y=f(g(x^3))
+$$
 
 ## Solution
 

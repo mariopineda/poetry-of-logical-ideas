@@ -12,12 +12,36 @@ show_solution: true
 
 Simplify the following radicals.
 
-1. $(5\sqrt{18})(2\sqrt{6})$
-2. $\sqrt{5}(4\sqrt{5}-\sqrt{15}+2\sqrt{3})$
-3. $\sqrt{a}(\sqrt{a}-4\sqrt{b})$
-4. $\displaystyle\frac{3\sqrt{80}}{2\sqrt{2}}$
-5. $\displaystyle\frac{8\sqrt{39} + 8\sqrt{75}}{4\sqrt{4}}$
-6. $\displaystyle\frac{20\sqrt{12}}{12\sqrt{20}}$
+1.
+
+$$
+(5\sqrt{18})(2\sqrt{6})
+$$
+2.
+
+$$
+\sqrt{5}(4\sqrt{5}-\sqrt{15}+2\sqrt{3})
+$$
+3.
+
+$$
+\sqrt{a}(\sqrt{a}-4\sqrt{b})
+$$
+4.
+
+$$
+\frac{3\sqrt{80}}{2\sqrt{2}}
+$$
+5.
+
+$$
+\frac{8\sqrt{39} + 8\sqrt{75}}{4\sqrt{4}}
+$$
+6.
+
+$$
+\frac{20\sqrt{12}}{12\sqrt{20}}
+$$
 
 ## Solution
 

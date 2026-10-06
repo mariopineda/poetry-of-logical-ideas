@@ -15,15 +15,21 @@ Simplify and state the non-permissible value.
 
 #### A.
 
-$$\frac{8x^2}{25} \times \frac{50}{2x^3}$$
+$$
+\frac{8x^2}{25} \times \frac{50}{2x^3}
+$$
 
 #### B.
 
-$$\frac{6x^3}{27x^4} \times \frac{18x}{15}$$
+$$
+\frac{6x^3}{27x^4} \times \frac{18x}{15}
+$$
 
 #### C.
 
-$$\left( \frac{x}{24x^5} \right) (-14x^2)$$
+$$
+\left( \frac{x}{24x^5} \right) (-14x^2)
+$$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

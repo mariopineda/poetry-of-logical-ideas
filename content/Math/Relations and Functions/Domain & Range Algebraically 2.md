@@ -12,10 +12,26 @@ show_solution: true
 
 State the domain in interval notation.
 
-1. $y=|4x-13|$
-2. $y=-\frac{3}{2x}+5$
-3. $y=\frac{4}{8x-x^2}$
-4. $y=\sqrt{22-4x}$
+1.
+
+$$
+y=|4x-13|
+$$
+2.
+
+$$
+y=-\frac{3}{2x}+5
+$$
+3.
+
+$$
+y=\frac{4}{8x-x^2}
+$$
+4.
+
+$$
+y=\sqrt{22-4x}
+$$
 
 ## Solution
 

@@ -12,10 +12,26 @@ show_solution: true
 
 Roughly sketch.
 
-1. $y=-\frac{2}{7}x+5$
-2. $x=6$
-3. $y=-3$
-4. $y=4x-9$
+1.
+
+$$
+y=-\frac{2}{7}x+5
+$$
+2.
+
+$$
+x=6
+$$
+3.
+
+$$
+y=-3
+$$
+4.
+
+$$
+y=4x-9
+$$
 
 ## Solution
 

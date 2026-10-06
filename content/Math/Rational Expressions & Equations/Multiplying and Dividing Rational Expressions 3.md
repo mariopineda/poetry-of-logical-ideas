@@ -15,11 +15,15 @@ Simplify and state the non-permissible value as restrictions on the variable
 
 #### A.
 
-$$\frac{x^2-9}{6x+24} \times \frac{10x+40}{x(x+3)}$$
+$$
+\frac{x^2-9}{6x+24} \times \frac{10x+40}{x(x+3)}
+$$
 
 #### B.
 
-$$\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)$$
+$$
+\left( \frac{x+3}{3x} \right) \left( \frac{6x}{x^2+9} \right)
+$$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

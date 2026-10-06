@@ -13,11 +13,15 @@ Find the equation of the tangent line at the point indicated. Answer in general 
 
 #### A.
 
-$y=7-3x+2x^2$ at $x=4$
+$$
+y=7-3x+2x^2$ at $x=4
+$$
 
 #### B.
 
-$y=fraction{1}{x}-\frac{3}{x^2}$ at $x=-2$
+$$
+y=fraction{1}{x}-\frac{3}{x^2}$ at $x=-2
+$$
 
 ## Solution
 

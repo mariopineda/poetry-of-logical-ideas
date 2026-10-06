@@ -10,10 +10,26 @@ show_solution: true
 ## Question
 
 Evaluate the following integrals using the substitution rule.
-1. $\displaystyle \int 3x^2(x^3+5)^7 \, dx$
-2. $\displaystyle \int \frac{x^3}{\sqrt{1-x^4}} \, dx$
-3. $\displaystyle \int x\sqrt{x+2} \, dx$
-4. $\displaystyle \int \frac{\sin x}{\cos^3 x} \, dx$
+1.
+
+$$
+\int 3x^2(x^3+5)^7 \, dx
+$$
+2.
+
+$$
+\int \frac{x^3}{\sqrt{1-x^4}} \, dx
+$$
+3.
+
+$$
+\int x\sqrt{x+2} \, dx
+$$
+4.
+
+$$
+\int \frac{\sin x}{\cos^3 x} \, dx
+$$
 
 ## Solution
 

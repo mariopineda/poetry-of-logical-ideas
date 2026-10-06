@@ -15,11 +15,15 @@ Simplify. Express answers in lowest terms and indicate non-permissible values as
 
 #### A.
 
-$$\frac{2x-1}{x+2}-\frac{x+2}{2x-1}$$
+$$
+\frac{2x-1}{x+2}-\frac{x+2}{2x-1}
+$$
 
 #### B.
 
-$$\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}$$
+$$
+\frac{3y-1}{3y-2}-\frac{3y-2}{3y+1}
+$$
 
 ## Solution
 

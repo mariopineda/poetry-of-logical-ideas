@@ -13,11 +13,15 @@ Determine the infinite term for each.
 
 #### A.
 
-$$7\frac{1}{2}, 7\frac{1}{3}, 7\frac{1}{4}, \ldots$$
+$$
+7\frac{1}{2}, 7\frac{1}{3}, 7\frac{1}{4}, \ldots
+$$
 
 #### B.
 
-$$\frac{7}{4}, \frac{8}{5}, \frac{9}{6}, \frac{10}{7}, \ldots$$
+$$
+\frac{7}{4}, \frac{8}{5}, \frac{9}{6}, \frac{10}{7}, \ldots
+$$
 
 ## Solution
 

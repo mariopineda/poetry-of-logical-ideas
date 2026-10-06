@@ -13,15 +13,21 @@ Differentiate.
 
 #### A.
 
-$$g(x) = \frac{x^\pi}{x^3}$$
+$$
+g(x) = \frac{x^\pi}{x^3}
+$$
 
 #### B.
 
-$$f(x) = x^2 \sqrt[3]{x}$$
+$$
+f(x) = x^2 \sqrt[3]{x}
+$$
 
 #### C.
 
-$$h(x) = \frac{1}{\sqrt[9]{x^4}}$$
+$$
+h(x) = \frac{1}{\sqrt[9]{x^4}}
+$$
 
 ## Solution
 

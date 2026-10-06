@@ -9,7 +9,9 @@ show_solution: true
 
 ## Question
 
-$$\newcommand{\dxdt}{\frac{\displaystyle dx}{\displaystyle dt}\Bigg|_{\substack{\theta=\frac{\pi}{3}}}}$$
+$$
+\newcommand{\dxdt}{\frac{\displaystyle dx}{\displaystyle dt}\Bigg|_{\substack{\theta=\frac{\pi}{3}}}}
+$$
 Two sides of a triangle have lengths 15 m and 20 m. The angle between the sides is increasing at $\pi/90$ radians / second. How fast is the length of the third side changing when the angle between the sides is $\pi/3$?
 
 <div style="page-break-after: always;"></div>

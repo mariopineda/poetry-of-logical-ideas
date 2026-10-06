@@ -10,7 +10,9 @@ show_solution: true
 
 ## Question
 
-$$\newcommand{\dxdt}{\frac{\displaystyle dx}{\displaystyle dt}\Bigg|_{\substack{\theta=\frac{\pi}{3}}}}$$
+$$
+\newcommand{\dxdt}{\frac{\displaystyle dx}{\displaystyle dt}\Bigg|_{\substack{\theta=\frac{\pi}{3}}}}
+$$
 A Ferris wheel with a radius of 20 meters and with its lowest point 2 meters above ground completes one full revolution every 30 seconds. Let $\theta(t)$ be the angle (in radians) the Ferris wheel has rotated at time $t$ seconds, where $\theta(0)=0$. Determine the passenger's velocity at $t=10$ seconds.
 
 <div style="page-break-after: always;"></div>

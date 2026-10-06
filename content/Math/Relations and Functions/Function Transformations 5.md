@@ -12,8 +12,16 @@ show_solution: true
 
 Find the vertex, axis of symmetry, max/min value and intercepts for:
 
-1. $y=-2x^2-12x+14$
-2. $y=3x^2-10x$
+1.
+
+$$
+y=-2x^2-12x+14
+$$
+2.
+
+$$
+y=3x^2-10x
+$$
 
 ## Solution
 

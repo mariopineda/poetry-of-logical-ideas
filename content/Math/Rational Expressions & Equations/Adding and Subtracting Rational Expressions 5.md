@@ -15,15 +15,21 @@ Write each of the following as a simplified rational expression.
 
 #### A.
 
-$$\frac{2y-3}{4} - \frac{y+4}{7}$$
+$$
+\frac{2y-3}{4} - \frac{y+4}{7}
+$$
 
 #### B.
 
-$$\frac{2x-3}{3} - \frac{5-2x}{9}$$
+$$
+\frac{2x-3}{3} - \frac{5-2x}{9}
+$$
 
 #### C.
 
-$$\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}$$
+$$
+\frac{x}{4} + \frac{x+3}{6} + \frac{3x}{2}
+$$
 
 ## Solution
 

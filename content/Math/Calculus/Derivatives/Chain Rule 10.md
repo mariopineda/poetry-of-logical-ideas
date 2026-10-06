@@ -13,11 +13,15 @@ Differentiate. Assume $f$ is a differentiable function and $a \in \mathbb{R}$
 
 #### A.
 
-$$y = f(x^9)$$
+$$
+y = f(x^9)
+$$
 
 #### B.
 
-$$y=\frac{f(ax)}{a}$$
+$$
+y=\frac{f(ax)}{a}
+$$
 
 ## Solution
 

@@ -13,11 +13,15 @@ Differentiate using first principles.
 
 #### A.
 
-$$y=\sqrt{x-3}$$
+$$
+y=\sqrt{x-3}
+$$
 
 #### B.
 
-$$y=\frac{1}{x+2}$$
+$$
+y=\frac{1}{x+2}
+$$
 
 ## Solution
 
