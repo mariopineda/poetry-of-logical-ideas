@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **34 Questions of the Day** Â· **Courses:** Not specified
+> **37 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Map]]
 
@@ -23,6 +23,9 @@ Practice questions for **Rational Expressions & Equations**.
 | [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 4\|Adding and Subtracting Rational Expressions 4]] | Not specified |
 | [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5\|Adding and Subtracting Rational Expressions 5]] | Not specified |
 | [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients\|Arithmetic Operations with Quotients]] | Not specified |
+| [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1\|Dividing Rational Expressions 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Dividing Rational Expressions 2\|Dividing Rational Expressions 2]] | Not specified |
+| [[Math/Rational Expressions & Equations/Dividing Rational Expressions 3\|Dividing Rational Expressions 3]] | Not specified |
 | [[Math/Rational Expressions & Equations/Evaluating Rational Expressions 1\|Evaluating Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1\|Multiplying and Dividing Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2\|Multiplying and Dividing Rational Expressions 2]] | Not specified |
