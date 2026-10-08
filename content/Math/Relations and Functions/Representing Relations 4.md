@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 Determine the missing values in the table.
 
 1. $y$ is three less than double $x$.

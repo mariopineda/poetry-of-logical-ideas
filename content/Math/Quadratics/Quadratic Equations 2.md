@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 $x+2$ is a factor of
 
 1.

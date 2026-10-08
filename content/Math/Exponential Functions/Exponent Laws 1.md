@@ -7,8 +7,6 @@ topic: "Exponent Laws"
 show_solution: true
 ---
 
-## Question
-
 Without using a calculator, determine the exact value of the following.
 
 1.

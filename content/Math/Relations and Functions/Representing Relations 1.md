@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 Consider the following relation:
 
 $$

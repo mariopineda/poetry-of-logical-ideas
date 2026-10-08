@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 The following table shows how the temperature affected the number of people visiting an outdoor pool on five consequtive weekends.
 
 |  |  |

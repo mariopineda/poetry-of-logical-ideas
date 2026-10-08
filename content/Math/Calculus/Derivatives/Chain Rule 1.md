@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $f(x) = (x^3-8x+2)^6$.
 
 ## Solution

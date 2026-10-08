@@ -9,8 +9,6 @@ learning_order: 140
 show_solution: true
 ---
 
-## Question
-
 Simplify and state the non-permissible value as restrictions on the variable
 
 #### A.

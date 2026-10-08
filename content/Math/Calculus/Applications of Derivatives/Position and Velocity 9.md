@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) = t^3-6t^2$, where $s$ is in km, $t$ is in hours, and North + and South -. When is the object moving North and towards the origin?
 
 ## Solution

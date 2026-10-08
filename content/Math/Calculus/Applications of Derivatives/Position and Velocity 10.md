@@ -6,8 +6,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For each position function ($s$ in metres, $t$ in seconds), determine exactly the magnitude of the average velocity from $t=0$ sec. to $t=6$ sec.
 
 #### A.

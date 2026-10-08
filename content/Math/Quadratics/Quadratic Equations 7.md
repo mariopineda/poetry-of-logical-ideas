@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball in metres after $t$ seconds is given by the equation $h(t) = -4.9t^2 +12t +125$. How long will it take for the ball to reach its maximum height, rounded to the nearest hundreth of a second?
 
 <!--

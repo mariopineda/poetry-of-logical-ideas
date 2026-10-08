@@ -10,8 +10,6 @@ topic: "Logical Reasoning"
 show_solution: true
 ---
 
-## Question
-
 Complete the following magic squares using the numbers 1-9 for the 3x3 square and 1 to 16 for the 4x4 square so that the sum of every row, column and diagonal is the same.
 
 ![[Images/Legacy/magic-square-3.png]]

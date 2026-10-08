@@ -9,8 +9,6 @@ learning_order: 90
 show_solution: true
 ---
 
-## Question
-
 A farmer is planning to put a fence around a rectangular field. The area of the field, in square metres, can be represented by the expression $18a^2-2$, and the width of the field is $3a+1$ metres.
 
 1. Write and simplify an expression for the length of the field. State any restriction on $a$ that comes from the original rational expression.

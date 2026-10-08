@@ -7,8 +7,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve $\frac{x^2}{x-5} \leq \frac{16x}{x-5}$. Answer in interval notation.
 
 ## Solution

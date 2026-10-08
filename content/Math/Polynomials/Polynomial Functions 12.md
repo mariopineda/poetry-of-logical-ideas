@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The graph below shows the volume of water in a tank over time.
 
 ![[Polynomial Functions 12 Graph.png]]

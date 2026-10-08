@@ -8,8 +8,6 @@ topic: "Rational Equations"
 show_solution: true
 ---
 
-## Question
-
 Solve the following equations.
 
 #### A.

@@ -7,8 +7,6 @@ topic: "Product and Quotient Rules"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $f(t) = 2t^5 \times h(t)$, where $f$ and $h$ are differentiable functions.
 
 ## Solution

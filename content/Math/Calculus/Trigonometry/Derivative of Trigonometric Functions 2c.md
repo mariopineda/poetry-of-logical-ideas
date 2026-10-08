@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For $f(x)=\sin(7x)$ find $f^{(101)}(x)$.
 
 ## Solution

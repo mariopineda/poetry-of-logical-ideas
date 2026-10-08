@@ -6,8 +6,6 @@ topic: "Foundational Algebra"
 show_solution: true
 ---
 
-## Question
-
 Evaluate withouth a calculator by, when possible, reducing the fractions to lowest terms before multiplying.
 
 1.

@@ -8,8 +8,6 @@ topic: Quadratics
 show_solution: true
 ---
 
-## Question
-
 State the maximum or minimum value of each quadratic function, correct to the nearest hundreth, and the x-value at which it occurs.
 
 1.

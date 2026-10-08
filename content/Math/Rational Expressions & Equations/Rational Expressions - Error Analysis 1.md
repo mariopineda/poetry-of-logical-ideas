@@ -9,8 +9,6 @@ show_solution: true
 ---
 
 
-## Question
-
 A student writes
 
 $$

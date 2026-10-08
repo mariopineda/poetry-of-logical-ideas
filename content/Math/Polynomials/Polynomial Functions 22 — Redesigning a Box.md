@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A rectangular block has original dimensions **8 cm by 6 cm by 4 cm**. Each dimension is reduced by the same amount, $x$ cm.
 
 The resulting volume is modelled by

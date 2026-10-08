@@ -7,8 +7,6 @@ topic: "Exponent and Polynomial Skills"
 show_solution: true
 ---
 
-## Question
-
 ### 1. Exponent Laws
 
 Simplify using exponent laws. Express your answer with positive exponents.

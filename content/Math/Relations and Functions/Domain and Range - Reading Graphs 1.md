@@ -10,8 +10,6 @@ aliases:
   - "Domain & Range 1"
 ---
 
-## Question
-
 Determine the **domain and range** of each relation in both **set-builder notation** and **interval notation**.
 
 ![[Domain and Range - Reading Graphs 1 Graph.png]]

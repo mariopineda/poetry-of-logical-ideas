@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Differentiate.
 
 #### A.

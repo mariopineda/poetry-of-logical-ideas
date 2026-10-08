@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A small water tank contains **750 L** of water. It is being drained at a constant rate. The amount of water remaining after $t$ minutes is modelled by
 
 $$

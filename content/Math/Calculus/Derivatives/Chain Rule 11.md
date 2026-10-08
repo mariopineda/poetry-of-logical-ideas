@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y=2x \left( 4x-1 \right)^3$ using more than one rule. Factor the answer.
 
 ## Solution

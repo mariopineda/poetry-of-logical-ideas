@@ -7,8 +7,6 @@ topic: "Differential Equations"
 show_solution: true
 ---
 
-## Question
-
 A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m high. How long will it take the stone to hit the ground at the foot of the cliff? Assume the gravitational constant is 9.8 m/s$^2$.
 
 <div style="page-break-after: always;"></div>

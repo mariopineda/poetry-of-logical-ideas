@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine the derivative of $y=x^2-3x-8$ using first principles. Then, determine the tangent slope at $x=-4$.
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find $y'$.
 
 #### A.

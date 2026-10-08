@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Using the graph of $f(x)$, evaluate the following.
 
 1.

@@ -7,8 +7,6 @@ topic: "Set Theory"
 show_solution: true
 ---
 
-## Question
-
 Consider the following sets
 - $\mathbf U = \{x | x \leq 15, x \in \mathbf N\}$
 - $\mathbf O = \{\text{odd numbers less or equal to 15}\}$

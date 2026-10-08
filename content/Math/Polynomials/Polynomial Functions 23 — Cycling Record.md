@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The following table shows the distance achieved in a cycling event over several years.
 
 | Years after 2020, $t$ | Distance (km) |

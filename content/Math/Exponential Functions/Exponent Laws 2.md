@@ -7,8 +7,6 @@ topic: "Exponent Laws"
 show_solution: true
 ---
 
-## Question
-
 Simplify:
 
 1.

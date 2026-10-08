@@ -6,8 +6,6 @@ topic: "Foundational Algebra"
 show_solution: true
 ---
 
-## Question
-
 Jona has a container of vanilla ice cream that is two-thirds full, and a container of chocolate ice cream that is three-quarters full. If she takes half of the vanilla ice cream and half of the chocolate ice cream and puts it into an empty ice cream container, how full will this new container be?
 
 ## Solution

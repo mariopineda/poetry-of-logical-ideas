@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 Given the y-value, algebraically determine the corresponding x-value for the following linear relations. Verify your answers graphically with a graphing calculator or with [Desmos](https://www.desmos.com/calculator).
 
 1.

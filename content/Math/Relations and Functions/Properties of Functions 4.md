@@ -7,8 +7,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = \frac{3x+4}{6-x}$ and $g(x)=\frac{x-1}{x+2}$, then determine $f \circ g(x)$. Simplify your answer.
 
 ## Solution

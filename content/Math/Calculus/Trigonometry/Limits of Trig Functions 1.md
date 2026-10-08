@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Calculate $\displaystyle \lim_{x \to 0} x \cot x$.
 
 > [!info]- Hint 1

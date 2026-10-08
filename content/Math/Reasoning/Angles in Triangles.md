@@ -7,8 +7,6 @@ topic: "Angles and Triangles"
 show_solution: true
 ---
 
-## Question
-
 ![[Trigonometry.jpg]]
 
 ## Solution

@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 State whether or not each of the following functions is a polynomial function? Explain why.
 
 ### 1. $f(x) = x^2 + \sqrt x + 17$

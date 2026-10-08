@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Explain whether the following relations are functions.
 
 ### A.

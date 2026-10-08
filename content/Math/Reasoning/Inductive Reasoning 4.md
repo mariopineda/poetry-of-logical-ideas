@@ -7,8 +7,6 @@ topic: "Inductive Reasoning"
 show_solution: true
 ---
 
-## Question
-
 Given the following conjecture: "The sum of two prime numbers is an even number".
 
 - Provide an example supporting this conjecture.

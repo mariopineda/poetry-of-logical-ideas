@@ -8,8 +8,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve $x^3>8x^2-16x$. Answer in interval notation.
 
 ## Solution

@@ -9,8 +9,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Indicate which of the following functions are quadratic. For the quadratic functions, expand and state the coordinates of the vertex.
 
 1.

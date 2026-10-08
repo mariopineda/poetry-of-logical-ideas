@@ -7,8 +7,6 @@ topic: "Higher Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the function $f(x) = \sqrt{1+2x^2}$, evaluate $f''(2)$.
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Given the sketches of $y=f(x), roughly sketch the derivative function $y=f'(x)$.
 
 ![[Images/Legacy/derivatives-8.png]]

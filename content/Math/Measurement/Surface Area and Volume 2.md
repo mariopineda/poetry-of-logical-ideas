@@ -9,8 +9,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 1. Sparky the dog is tied to a pole in the middle of the yard using a 8 ft leash. Sparky has ruined the grass in the area that his leash has allowed him access to. This area will need to be reseeded. Grass seed costs \$2.50 per package and one package covers 50 ft$^2$. What will it cost to reseed the yard?
 2. The surface area of a cube is 70 cm$^2$. Determine the volume of the cube, to the nearest tenth.
 

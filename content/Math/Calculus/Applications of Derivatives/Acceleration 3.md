@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $v(t) = 5t^2 -4t -25$, where $v$ is in m/s and East + and West -.
 
 #### A.

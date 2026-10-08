@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Evalue $\displaystyle\lim\_{x \to 0} \frac{\sqrt{19x+121}-11}{x} = \frac{ab}{cd}$ where the answer is $abcd$.
 
 ## Solution

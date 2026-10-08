@@ -10,8 +10,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 Without using technology, determine the following characteristics of the given functions,
 
 - Number of x-intercepts

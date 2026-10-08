@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For each function $y=f(x)$, sketch the corresponding derivative function $y=f'(x)$.
 
 ![[Images/Legacy/derivatives-2.png]]

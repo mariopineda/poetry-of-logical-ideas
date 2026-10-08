@@ -7,8 +7,6 @@ topic: "Deductive Reasoning"
 show_solution: true
 ---
 
-## Question
-
 Use deductive reasoning to prove that the sum of three consecutive even numbers is divisible by six.
 
 ## Solution

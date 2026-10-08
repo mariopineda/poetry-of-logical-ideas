@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are
 
 1.

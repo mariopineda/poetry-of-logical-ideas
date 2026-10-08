@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78% of its previous height. Determine the total distance the ball travels until it comes to rest.
 
 ## Solution

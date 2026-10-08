@@ -10,8 +10,6 @@ aliases:
   - "Domain & Range 8"
 ---
 
-## Question
-
 The surface area of a cube is modelled by
 
 $$

@@ -16,8 +16,6 @@ tags:
   - math/30-1
 ---
 
-## Question
-
 A quadratic function has:
 
 - An absolute maximum at $(1,4)$.

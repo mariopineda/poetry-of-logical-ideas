@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 An object thrown straight upward with a speed of 31 m/s and at an initial height of 207 metres, has the position function $s(t) = -4.7t^2+31t+207$, where up is positive and down is negative.
 
 #### A.

@@ -7,8 +7,6 @@ topic: "Differential Equations"
 show_solution: true
 ---
 
-## Question
-
 Find the curve $y=F(x)$ that passes through $(-1,0)$ and satisfies $\frac{dy}{dx} = 6x^2+6x$.
 
 <!--

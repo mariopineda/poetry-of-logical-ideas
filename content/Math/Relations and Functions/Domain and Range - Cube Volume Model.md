@@ -10,8 +10,6 @@ aliases:
   - Domain & Range 9
 ---
 
-## Question
-
 The volume of a cube is modelled by
 
 $$

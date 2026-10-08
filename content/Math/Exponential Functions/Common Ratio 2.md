@@ -7,8 +7,6 @@ topic: "Exponential Functions"
 show_solution: true
 ---
 
-## Question
-
 Consider the pattern:
 
 $$

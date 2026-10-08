@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) = t^2-6t+5$, where $s$ in in metres, $t$ is in seconds, and North + and South -.
 
 #### A.

@@ -7,8 +7,6 @@ topic: "Optimization"
 show_solution: true
 ---
 
-## Question
-
 Find the exact maximum volume of the right circular cylinder that can be inscribed in a sphere of radius $R$, if $R=\sqrt{3}$ m.
 
 <!--

@@ -9,8 +9,6 @@ show_solution: true
 ---
 
 
-## Question
-
 Consider the family of rational functions
 
 $$

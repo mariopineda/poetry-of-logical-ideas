@@ -8,8 +8,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine the equation, in general form, of the tangent line to $y=\sqrt[3]{x^2}-\frac{1}{\sqrt[3]{x}}$ at $x=-1$.
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine an expression for the slope of the general secant for the function $y=x^3-5x+4$ at the point $P(3,16)$ (you do not need to sketch the function).
 
 ## Solution

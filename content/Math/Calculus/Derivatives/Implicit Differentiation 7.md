@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find the rate of change indicated. assume all of the variables are functions of time.
 
 #### A.

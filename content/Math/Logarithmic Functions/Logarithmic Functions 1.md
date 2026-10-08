@@ -7,8 +7,6 @@ topic: "Logarithmic Functions"
 show_solution: true
 ---
 
-## Question
-
 Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 
 - Domain

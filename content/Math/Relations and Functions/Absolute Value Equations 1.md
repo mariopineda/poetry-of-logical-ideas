@@ -7,8 +7,6 @@ topic: "Absolute Value and Reciprocal Functions"
 show_solution: true
 ---
 
-## Question
-
 Express the following without absolute values: $|x+7|$
 
 ## Solution

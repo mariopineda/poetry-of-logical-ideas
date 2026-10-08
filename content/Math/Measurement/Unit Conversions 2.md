@@ -8,8 +8,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 Convert the following unit as indicated using unit analysis. Provide all decimal answers in fractional form.
 
 1.

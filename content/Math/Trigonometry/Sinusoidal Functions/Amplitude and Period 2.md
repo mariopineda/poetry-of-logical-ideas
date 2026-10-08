@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 Consider the following periodic function $f(x) = 15.3 \sin{(\pi x)}$.
 
 1. Explain how to determine a graphing window that will show at least three complete periods of $f(x)$, starting from $x=0$.

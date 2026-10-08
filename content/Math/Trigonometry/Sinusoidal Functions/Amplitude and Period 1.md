@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 State the following for the function $f(x)=\sin{x}$ defined on the set of real numbers.
 
 1. Domain

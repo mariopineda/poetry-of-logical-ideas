@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine the y-intercept of the tangent line to $y=5x-x^2$ at $x=1/3$ to the nearest hundredth.
 
 ## Solution

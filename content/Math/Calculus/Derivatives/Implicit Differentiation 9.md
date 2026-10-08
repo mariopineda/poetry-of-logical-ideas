@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find tangent slope of $y=\frac{2x}{x+y}$ at the point $(1,-2)$.
 > [!info]- Hint
 > Cross multiply first.

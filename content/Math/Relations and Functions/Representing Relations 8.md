@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 For each scenario...
 
 - identify the independent and dependent variable,

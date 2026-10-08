@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) t^3-10t^2+6t-11$, where $t$ is in seconds and $s$ is in metres, and East + and West -.
 
 #### A.

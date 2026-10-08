@@ -7,8 +7,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x)=x^2-3x+5$, then determine:
 
 1.

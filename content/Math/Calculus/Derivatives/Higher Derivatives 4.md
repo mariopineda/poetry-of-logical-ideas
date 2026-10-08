@@ -7,8 +7,6 @@ topic: "Higher Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Rougly sketch the function $y=f(x)$. Answers will vary.
 
 #### A.

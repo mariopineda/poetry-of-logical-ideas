@@ -7,8 +7,6 @@ topic: "Definite Integrals"
 show_solution: true
 ---
 
-## Question
-
 Find $\int\_{1}^{4} \frac{t^2+\sqrt{t}-2}{t} dt$.
 
 <!--

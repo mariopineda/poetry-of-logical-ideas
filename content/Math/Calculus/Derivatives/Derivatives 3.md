@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the sketch of $y=f(x)$, identify the locations that are non-differentiable.
 
 ![[Images/Legacy/derivatives-3.png]]

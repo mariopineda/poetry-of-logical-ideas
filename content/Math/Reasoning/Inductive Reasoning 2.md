@@ -7,8 +7,6 @@ topic: "Inductive Reasoning"
 show_solution: true
 ---
 
-## Question
-
 ![[Inductive Reasoning 1.png]]
 
 ## Solution

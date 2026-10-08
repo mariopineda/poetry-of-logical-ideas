@@ -9,8 +9,6 @@ topic: "Right Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 1. Determine, to the nearest whole degree, the measure of $\angle C$ in $\triangle ABC$ where $c=4$ cm, $b=6$ cm and $\angle A = 90^\circ$.
 2. Determine, to the nearest tenth, the measure of side $r$ in a right $\triangle PQR$ where $\angle P = 20^\circ$, $p=8$ cm and $q$ is the longest side.
 

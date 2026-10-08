@@ -8,8 +8,6 @@ topic: "Combinations"
 show_solution: true
 ---
 
-## Question
-
 Consider a standard deck of 52 cards. Determine the number of distinct six card hands that are possible which include
 
 1. no restrictions?

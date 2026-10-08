@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $g(x) = (6x+5)^4(4x-7)^3$ using more than one rule. Fully factor the answer.
 
 ## Solution

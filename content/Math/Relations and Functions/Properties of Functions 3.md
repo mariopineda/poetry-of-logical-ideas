@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 Determine the domain of $y=\left( \frac{f}{g}\right)(x) = \frac{\sqrt{x+7}}{x-3} $. Answer in interval notation.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Exponential Equations"
 show_solution: true
 ---
 
-## Question
-
 How many times more intense is the sound of a referee's whistle (125 dB) than a train whistle at 200 m (90 dB)? Answer to the nearest whole number.
 
 ## Solution

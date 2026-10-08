@@ -7,8 +7,6 @@ topic: "Set Theory"
 show_solution: true
 ---
 
-## Question
-
 Consider the set of prime numbers less than 20. Let $A=\{3,5,7,11,19 \}$ and $B=\{2,3,7,13\}$.
 
 1. Draw a Venn diagram to illustrate this information.

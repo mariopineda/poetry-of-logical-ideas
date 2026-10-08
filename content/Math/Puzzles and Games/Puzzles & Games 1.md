@@ -8,8 +8,6 @@ topic: "Logical Reasoning"
 show_solution: true
 ---
 
-## Question
-
 ![[Balance Puzzle.png]]
 
 ## Solution

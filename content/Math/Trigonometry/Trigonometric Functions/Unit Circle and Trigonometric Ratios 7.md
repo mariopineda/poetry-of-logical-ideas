@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 Using the unit circle, determine the exact values of:
 
 1.

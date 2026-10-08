@@ -9,8 +9,6 @@ aliases:
   - Domain & Range 4
 ---
 
-## Question
-
 The volume of fuel, $v$, in litres, remaining in a car's gas tank after the car has travelled $d$ kilometres is modelled by
 
 $$

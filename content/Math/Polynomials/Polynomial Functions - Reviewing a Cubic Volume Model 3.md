@@ -10,8 +10,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A company makes a rectangular container with interior dimensions $9$ cm by $7$ cm by $2$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le5$.
 
 1. Write a polynomial function, $V(x)$, for the new volume in both **factored form** and **standard form**.

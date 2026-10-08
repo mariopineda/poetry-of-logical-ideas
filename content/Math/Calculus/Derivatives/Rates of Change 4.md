@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 A cylinder has a changing volume, but the radius is always equal to the height.
 
 #### A.

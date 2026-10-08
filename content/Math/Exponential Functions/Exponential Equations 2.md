@@ -8,8 +8,6 @@ topic: "Exponential Equations"
 show_solution: true
 ---
 
-## Question
-
 Solve the following equations. Express the solution as an exact value in the form $\frac{\log M}{\log N}$ and to two decimal places.
 
 1.

@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 Sketch the unit circle indicating the reference angles 30$^\circ$, 45$^\circ$ and 60$^\circ$ in each quadrant. Label each angle in both degrees and in radians.
 
 ## Solution

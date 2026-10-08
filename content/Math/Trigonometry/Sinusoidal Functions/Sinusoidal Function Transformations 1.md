@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 Given the function $y=4 \cos \left( 2x + \frac{\pi}{2} \right)$.
 
 1. Express the function in the form $y = a \cos \left( b(x-c)\right)+d$.

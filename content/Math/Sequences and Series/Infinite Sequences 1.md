@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 Evaluate, if possible.
 
 #### A.

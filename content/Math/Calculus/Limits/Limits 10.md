@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Evaluate the following using the graph.
 
 1.

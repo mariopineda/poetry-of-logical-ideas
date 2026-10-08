@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Derive the quotient rule, using the fact that $\frac{f(x)}{g(x)} = f(x) \times [ g(x) ]^{-1}$.
 
 ## Solution

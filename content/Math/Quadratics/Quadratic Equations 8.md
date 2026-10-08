@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Rachel is putting up a fence around the rectangular pasture where her horse Jason is grazing. She has 150 ft of fencing material and the pasture will have an area of 2808 ft$^2$. She needs to determine the dimensions of the enclosure.
 
 Let $w$ represent the width of the enclosure. Into the area formula for a rectangle $A=l \times w$, substitute $A=2808$ and $l=150-2w$ to obtain the following equation $2808=(150-2w)w$.

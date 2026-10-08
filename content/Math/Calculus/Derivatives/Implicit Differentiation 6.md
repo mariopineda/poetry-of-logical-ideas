@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find the slope of the two tangent lines to $x^2+y^2=169$ at $x=5$.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 Convert the following radicals to mixed radicals in simplest form.
 
 1.

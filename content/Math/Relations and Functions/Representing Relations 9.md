@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 Describe a possible scenario for the graphs given below.
 
 ###### A.

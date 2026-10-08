@@ -8,8 +8,6 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-## Question
-
 Solve $x^3+x^2 = 24x+24$
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = 2x+1$ and $g(x)=5x$, then determine $3f(x)-2g(x+1)$.
 
 ## Solution

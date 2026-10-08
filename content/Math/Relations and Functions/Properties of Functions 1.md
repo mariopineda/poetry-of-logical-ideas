@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Permutations"
 show_solution: true
 ---
 
-## Question
-
 Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 1. How many numbers can be made?
 2. How many numbers less than 3000 can be made?

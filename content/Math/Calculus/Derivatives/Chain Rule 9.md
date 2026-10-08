@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y \[ 4-\left( 2x+5 \right)^3\]^6$ using the chain rule more than once.
 
 ## Solution

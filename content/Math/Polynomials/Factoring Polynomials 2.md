@@ -8,8 +8,6 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-## Question
-
 Factor:
 
 1.

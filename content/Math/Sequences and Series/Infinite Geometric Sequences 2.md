@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 Evaluate $\sum\_{n=2}^{\infty} 8\left( -\frac{1}{3} \right)^n$
 
 ## Solution

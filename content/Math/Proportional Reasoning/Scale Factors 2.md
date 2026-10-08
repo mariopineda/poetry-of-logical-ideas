@@ -7,8 +7,6 @@ topic: "Scale Factors"
 show_solution: true
 ---
 
-## Question
-
 Complete the following table. Do not answer with decimals unless the given scale factor is a decimal.
 
 | LSF | ASF | SASF | VSF |

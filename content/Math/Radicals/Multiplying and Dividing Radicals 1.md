@@ -8,8 +8,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 Simplify the following radicals.
 
 1.

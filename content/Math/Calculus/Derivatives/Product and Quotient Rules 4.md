@@ -7,8 +7,6 @@ topic: "Product and Quotient Rules"
 show_solution: true
 ---
 
-## Question
-
 If $f(4)=2$, $f'(4)=3$, $g(4)=-2$, and $g'(4)=7$, then evaluate $(fg)'(4)$.
 
 ## Solution

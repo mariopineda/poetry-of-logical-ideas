@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 Consider the function
 
 $$

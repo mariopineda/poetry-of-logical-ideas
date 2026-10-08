@@ -7,8 +7,6 @@ topic: "Product and Quotient Rules"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $f(x) = (x-3)(x+1)$.
 
 ## Solution

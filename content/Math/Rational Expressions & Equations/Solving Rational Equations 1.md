@@ -7,8 +7,6 @@ topic: "Rational Equations"
 show_solution: true
 ---
 
-## Question
-
 Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3} - \frac{\displaystyle x}{\displaystyle x-3} = \frac{\displaystyle -18}{\displaystyle x^2-9}$
 
 ## Solution

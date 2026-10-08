@@ -8,8 +8,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 Convert the following unit as indicated using unit analysis. Round answers to the nearest tenth when applicable.
 
 1.

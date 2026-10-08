@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 For each relation, algebraically determine the x- and y-intercepts. Verify your answers graphically with a graphing calculator or with [Desmos](https://www.desmos.com/calculator).
 
 1.

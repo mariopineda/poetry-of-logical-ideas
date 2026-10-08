@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Sketch a function $y=f(x)$ that satisfies the conditions given (Answers will vary).
 
 1.

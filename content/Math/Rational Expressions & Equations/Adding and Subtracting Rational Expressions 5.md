@@ -9,8 +9,6 @@ learning_order: 200
 show_solution: true
 ---
 
-## Question
-
 Write each of the following as a simplified rational expression.
 
 #### A.

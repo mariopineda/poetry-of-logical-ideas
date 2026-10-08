@@ -7,8 +7,6 @@ topic: "Absolute Value and Reciprocal Functions"
 show_solution: true
 ---
 
-## Question
-
 Solve $|x^2-5x+2|=2$
 
 ## Solution

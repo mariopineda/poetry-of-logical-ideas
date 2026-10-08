@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 For each relation:
 
 - Create a table of values between $x\_{min}=-10$ and $x\_{max}=10$

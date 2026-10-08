@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The table shows Alberta's total annual greenhouse gas emissions for selected years. Let $x$ represent the number of years after 2015 and let $y$ represent total greenhouse gas emissions, in megatonnes of carbon dioxide equivalent (Mt CO$_2$e).
 
 | Years after 2015 | GHG emissions (Mt CO2e) |

@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 For each of the following table of values, express the relationship
 
 1. in words

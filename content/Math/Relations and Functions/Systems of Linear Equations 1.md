@@ -7,8 +7,6 @@ topic: "Systems of Linear Equations"
 show_solution: true
 ---
 
-## Question
-
 Solve by graphing and check your answer algebraically
 
 1. $$

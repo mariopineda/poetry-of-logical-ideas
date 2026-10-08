@@ -7,8 +7,6 @@ topic: "Higher Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Find $y''$ if $y^2-xy=3$.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 1. A triangle has side lengths of $9a+4$, $2a+2$ and $a-4$.
 
 1. Determine a simplifed expression for the perimeter of this triangle.

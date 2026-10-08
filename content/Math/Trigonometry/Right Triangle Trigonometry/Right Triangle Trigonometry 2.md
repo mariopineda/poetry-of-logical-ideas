@@ -7,8 +7,6 @@ topic: "Right Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 Draw and label the Unit Circle, each quadrant should include three exact angles measures in radians with the corresponding exact coordinates.
 > [!info]- Hint
 > Note that the Unit Circle we sketched in class and that was posted on Google Classroom has an error. Can you find it?

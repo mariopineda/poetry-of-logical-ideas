@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 The graph below represents a sinusoidal function.
 
 ![[Sinusoidal Functions - Characteristics from a Graph 3 Graph.png]]

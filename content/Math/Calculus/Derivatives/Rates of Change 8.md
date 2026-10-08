@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the function $y=x^2-2x-15=(x-1)^2-16$ at $x=-4$,
 
 - sketch the function, the general secant, and the tangent line

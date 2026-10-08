@@ -9,8 +9,6 @@ topic: "Oblique Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 1. Draw and label $\triangle ABC$ with $\angle B=27^\circ$, $a=10 \mbox{ cm}$, $\angle A=90^\circ$.
 2. Determine $c$ to the nearest tenth.
 3. Determine $\angle C$ to the nearest whole degree.

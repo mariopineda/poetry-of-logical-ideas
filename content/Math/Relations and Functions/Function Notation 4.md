@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Simplify:
 
 1.

@@ -9,8 +9,6 @@ topic: "Oblique Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=7.3$ cm, $SR=4.8$ cm, $QR=5.2$ cm, $\angle PSQ=71^{\circ}$ and $\angle PQS=50^{\circ}$. Solve both triangles. Round side lengths to the nearest tenth and angles to the nearest degree.
 
 ## Solution

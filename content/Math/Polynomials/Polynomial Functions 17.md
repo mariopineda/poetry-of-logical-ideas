@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A farmer is building a rectangular pen using **40 m** of fencing. The graph below shows the area of the pen, $A(x)$, as a function of its width, $x$.
 
 ![[Polynomial Functions 17 Graph.png]]

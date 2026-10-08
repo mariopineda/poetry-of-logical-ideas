@@ -9,8 +9,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 Express as a mixed radical in simplest form.
 
 1.

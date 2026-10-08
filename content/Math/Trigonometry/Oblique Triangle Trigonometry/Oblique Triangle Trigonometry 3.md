@@ -9,8 +9,6 @@ topic: "Oblique Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 Using only the Sine Law, solve $\triangle ABC$ where $\angle BAC = 70^{\circ}$, $\angle ACB = 35^{\circ}$, $b=20.5$ cm and $c=12.5$ cm. Round angles to the nearest degree and sides to nearest tenth.
 
 ## Solution

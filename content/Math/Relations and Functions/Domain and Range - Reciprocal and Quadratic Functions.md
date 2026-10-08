@@ -10,8 +10,6 @@ aliases:
   - Domain & Range 6
 ---
 
-## Question
-
 State the domain and range of each function in both **set-builder notation** and **interval notation**.
 
 1.

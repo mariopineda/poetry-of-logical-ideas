@@ -7,8 +7,6 @@ topic: "Antiderivatives"
 show_solution: true
 ---
 
-## Question
-
 Find $F(x)$ such that $F'(x) = f(x)$.
 1.
 

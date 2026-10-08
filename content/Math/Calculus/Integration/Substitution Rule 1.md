@@ -7,8 +7,6 @@ topic: "Substitution Rule"
 show_solution: true
 ---
 
-## Question
-
 Evaluate the following integrals using the substitution rule.
 
 1.

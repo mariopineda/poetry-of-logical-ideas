@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Evaluate $\lim\_{x \to 0} (1+x)^{1/x}$ from the left and from the right. Round to the nearest ten thousandth.
 
 ## Solution

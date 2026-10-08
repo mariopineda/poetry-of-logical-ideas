@@ -7,8 +7,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve $|x^2+6x-8| = 8$.
 
 ## Solution

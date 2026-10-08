@@ -8,8 +8,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 ![[Images/Legacy/multiplyingpolynomials.png]]
 
 1. Determine a simplified expression for the area of the shaded region.

@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 A car, moving at an initial speed of 20 m/s, has its breaks applied and begins to slow down. The position function for its motion is $s(t) = 20t-2t^2$, $0 \leq t \leq 5$.
 
 #### A.

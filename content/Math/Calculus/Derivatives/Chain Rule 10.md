@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate. Assume $f$ is a differentiable function and $a \in \mathbb{R}$
 
 #### A.

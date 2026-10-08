@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 Without using technology, match each polynomial function to **Graph A, B, C, D, E, or F**. Within each equation, the letters represent unspecified real coefficients; the same letter may have a different value in another equation. Therefore, a graphing calculator cannot produce a unique graph for any equation.
 
 $$

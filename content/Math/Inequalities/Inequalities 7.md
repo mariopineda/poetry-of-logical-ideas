@@ -7,8 +7,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve $x \leq \frac{12}{x+1}$. Answer in interval notation.
 
 ## Solution

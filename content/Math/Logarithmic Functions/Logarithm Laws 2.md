@@ -8,8 +8,6 @@ topic: "Logarithmic Functions"
 show_solution: true
 ---
 
-## Question
-
 Write each expression as a single logarithm and then evaluate the expression
 
 1.

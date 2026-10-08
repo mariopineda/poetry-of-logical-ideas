@@ -9,8 +9,6 @@ learning_order: 20
 show_solution: true
 ---
 
-## Question
-
 Evaluate and simplify without a calculator.
 
 A.

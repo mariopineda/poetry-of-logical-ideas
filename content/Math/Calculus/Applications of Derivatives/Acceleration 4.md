@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) = t^4-tt^2-10t-40$, where $s$ in km, $t$ is nin hours and North + and South -.
 
 #### A.

@@ -8,8 +8,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 1. Given a line segment with slope $2$ and points $E(-4,9)$ and $F(x,-5)$, determine the value of missing coordinate to the nearest tenth.
 2. Given the line $AB$ with endpoints $A(3,5)$ and $B(0,-2)$ and line $CD$ with end points $C(5,3)$ and $D(3,2)$, determine whether lines $AB$ and $CD$ are parallel, perpendicular or neither.
 

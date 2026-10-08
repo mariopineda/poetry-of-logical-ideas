@@ -10,8 +10,6 @@ aliases:
   - "Domain & Range 3"
 ---
 
-## Question
-
 Sketch one possible relation for each domain and range.
 
 1. Domain: $\{x\mid x\in\mathbb{R}\}$; Range: $\{y\mid y\in\mathbb{R}\}$

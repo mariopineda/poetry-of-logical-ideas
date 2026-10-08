@@ -6,8 +6,6 @@ topic: "Foundational Algebra"
 show_solution: true
 ---
 
-## Question
-
 Evaluate without a calculator.
 
 1.

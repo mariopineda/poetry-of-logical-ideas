@@ -8,8 +8,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Sketch the piecewise function $y =
 \begin{cases}
 x+5 & \mbox{, if } x < -2 \\

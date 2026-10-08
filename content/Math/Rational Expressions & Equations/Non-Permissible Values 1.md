@@ -9,8 +9,6 @@ learning_order: 30
 show_solution: true
 ---
 
-## Question
-
 In each case, write a rational expression with the given variable and non-permissible value.
 
 1. variable is $x$, non-permissible value is $0$

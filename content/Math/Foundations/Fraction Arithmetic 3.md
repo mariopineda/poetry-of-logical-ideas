@@ -6,8 +6,6 @@ topic: "Foundational Algebra"
 show_solution: true
 ---
 
-## Question
-
 Convert each of the mixed fractions below into an improper fraction and simplify to lowest terms.
 
 1.

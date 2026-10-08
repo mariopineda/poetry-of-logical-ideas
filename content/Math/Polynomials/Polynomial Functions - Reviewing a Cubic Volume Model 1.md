@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A company makes a rectangular box with interior dimensions $8$ cm by $5$ cm by $3$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le4$.
 
 1. Write a polynomial function, $V(x)$, for the new volume in both **factored form** and **standard form**.

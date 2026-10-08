@@ -7,8 +7,6 @@ topic: Sinusoidal Functions
 show_solution: true
 ---
 
-## Question
-
 ### London Eye - London, England
 
 The **London Eye** is a large Ferris wheel in London, England. It was originally planned as a temporary attraction for the new millennium, but it became so popular that it remained part of the London skyline.

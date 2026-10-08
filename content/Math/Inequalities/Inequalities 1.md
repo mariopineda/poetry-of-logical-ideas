@@ -7,8 +7,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 If set $R=\{x|x<7, x \in \mathbb{R}\}$ and set $T=\{x|x \geq -4, x \in \mathbb{R}\}$
 
 1. $R \cap T$?

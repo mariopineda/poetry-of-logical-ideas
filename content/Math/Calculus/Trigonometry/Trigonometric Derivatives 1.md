@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Find the equation of the tangent line to $y = \frac{\sin x}{\cos 2x}$ at the point where $x=\frac{\pi}{6}$.
 
 <!--

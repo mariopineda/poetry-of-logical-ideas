@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 For the function $A(t) = \pi r^2 + 2 \pi rh$, determine $\frac{dA}{dt}$ if $t=t(t)$ and $h \in \mathbb{R}$.
 
 ## Solution

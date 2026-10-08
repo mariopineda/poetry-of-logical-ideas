@@ -8,8 +8,6 @@ topic: "Fundamental Counting Principle"
 show_solution: true
 ---
 
-## Question
-
 How many ways are there of getting from A to C, passing through each point at most once?
 ![[Pathways.png]]
 

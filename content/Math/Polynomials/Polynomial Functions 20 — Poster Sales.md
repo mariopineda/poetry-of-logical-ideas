@@ -10,8 +10,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The monthly profit from selling posters is modelled by
 
 $$

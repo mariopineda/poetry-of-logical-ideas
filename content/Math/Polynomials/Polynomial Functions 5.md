@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 Determine the number of x-intercepts, the type of turning point(s) and the end behaviour of the following polynomials.
 
 1.

@@ -7,8 +7,6 @@ topic: Function Transformations
 show_solution: true
 ---
 
-## Question
-
 Roughly sketch.
 
 1.

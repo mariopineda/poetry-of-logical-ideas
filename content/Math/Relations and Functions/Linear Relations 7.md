@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 The approximate temperature of the Earth's atmosphere at different altitudes up to 10 km is given in the table.
 
 |  |  |

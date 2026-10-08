@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Given $f(x)=(2x+1)^5 (x^3-x+1)^4$;
 
 1. Sketch $f(x)$. Use [Desmos](https://www.desmos.com/calculator) to help you visualize the graph before sketching.

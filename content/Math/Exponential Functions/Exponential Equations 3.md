@@ -8,8 +8,6 @@ topic: "Exponential Equations"
 show_solution: true
 ---
 
-## Question
-
 A country's population is increasing at an annual rate of 2.2%. The current population is approximatelly 14 million. The growth in population can be modelled by the exponential function $P=P\_0(1.022)^t$, $t$ is the number of years since the population was $P\_0$. Assuming the population growth continues at the same rate,
 
 1. determine, to the nearest million, the approximate population 6 years from now

@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The following data shows the approximate stopping distance of a vehicle at different speeds.
 
 | Speed, $s$ (km/h) | Stopping Distance, $d$ (m) |

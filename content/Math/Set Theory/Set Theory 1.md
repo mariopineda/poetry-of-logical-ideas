@@ -7,8 +7,6 @@ topic: "Set Theory"
 show_solution: true
 ---
 
-## Question
-
 Let $S$ be the set of capital letters only consisting of straight lines and set $C$ be the set of capital letters only consisting of curved lines. 
 
 1. Draw the Venn diagrams of the two sets and list all the capital letters of the English alphabet in the appropriate subregion of the diagram.

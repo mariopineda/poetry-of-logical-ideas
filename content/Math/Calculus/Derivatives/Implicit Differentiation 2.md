@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find the two tangent slopes for the circle $x^2+y^2=100$ at $x=-8$.
 
 ## Solution

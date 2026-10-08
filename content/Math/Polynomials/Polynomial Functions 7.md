@@ -8,8 +8,6 @@ topic: "Polynomial Functions"
 show_solution: true
 ---
 
-## Question
-
 You are playing fetch with your dog and throw a ball vertically upward. You record the height of the ball above the ground at half-second intervals for the first three seconds. The data is shown in the following table.
 
 1. Using an appropriate regression function, determine the equation describing the height of the ball as a function of time. Round parameters to the nearest hundreth. Justify your choice of regression function.

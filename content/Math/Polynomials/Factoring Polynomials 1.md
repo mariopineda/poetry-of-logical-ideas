@@ -7,8 +7,6 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-## Question
-
 Factor the following polynomials by removing the greatest common factor.
 
 1.

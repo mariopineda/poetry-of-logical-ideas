@@ -9,8 +9,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sherwood Park and Edmonton. Twenty feeder pipelines from throughout Alberta arrive at the terminal carrying both crude and processed oil. Oil is temporarily stored at the Edmonton Terminal before it is sent to other destinations, e.g. to the United States or to shipping terminals in BC.
 
 1. Using the vehicle in front of the tank as a referent estimate the height of the tank to the nearest metre. Assume the vehicle is 1.6 metres high at its highest point.

@@ -9,8 +9,6 @@ topic: Function Transformations
 show_solution: true
 ---
 
-## Question
-
 Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.
 
 ## Solution

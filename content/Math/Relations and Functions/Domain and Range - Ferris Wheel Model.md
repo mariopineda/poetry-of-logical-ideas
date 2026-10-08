@@ -10,8 +10,6 @@ aliases:
   - "Domain & Range 10"
 ---
 
-## Question
-
 A Ferris wheel takes $3$ minutes to complete one rotation. Riders board at the lowest point, $2$ m above the ground, and reach a maximum height of $64$ m.
 
 State the domain and range for **two complete rotations** in both **set-builder notation** and **interval notation**. Use $t$ for time in minutes and $h$ for height in metres.

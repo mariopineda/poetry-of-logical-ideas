@@ -8,8 +8,6 @@ topic: Function Notation
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the following. If needed round to the nearest tenth.
 
 1.

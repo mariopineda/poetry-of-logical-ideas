@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Prove that $y=\sec x + \tan x$ is concave up on the following interval $\left( -\frac{\displaystyle \pi}{\displaystyle 2}, \frac{\displaystyle \pi}{\displaystyle 2} \right)$.
 
 > [!info]- Related

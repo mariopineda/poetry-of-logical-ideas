@@ -13,7 +13,6 @@ tags:
   - math/30-1
 ---
 
-## Question
 *Calculator is not permitted on this question.*
 
 A student is analysing

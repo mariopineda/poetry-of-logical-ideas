@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) = 5t^2 - 8t +3$, where $s$ in in km, $t$ is in hours, and up + and down -.
 
 #### A.

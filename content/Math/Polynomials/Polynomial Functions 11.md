@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The monthly profit of a small business is modelled by
 
 $$

@@ -10,8 +10,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The height of a ball after it is thrown is modelled by
 
 $$

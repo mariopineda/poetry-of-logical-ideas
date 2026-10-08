@@ -8,8 +8,6 @@ topic: "Fundamental Counting Principle"
 show_solution: true
 ---
 
-## Question
-
 A humanitarian organization is preparing to distribute aid packages to families displaced by conflict. Each aid package will contain essential items.
 
 - There are 4 different types of shelters.

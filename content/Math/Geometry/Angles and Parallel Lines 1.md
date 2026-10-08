@@ -7,8 +7,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the degree measure of the angles marked by letters.
 
 ![[Images/Legacy/angles_and_parallel_lines.png]]

@@ -8,8 +8,6 @@ topic: "Exponential Equations"
 show_solution: true
 ---
 
-## Question
-
 Solve for $x$
 
 1.

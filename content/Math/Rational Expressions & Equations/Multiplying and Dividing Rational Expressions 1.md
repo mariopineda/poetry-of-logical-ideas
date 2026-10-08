@@ -9,8 +9,6 @@ learning_order: 110
 show_solution: true
 ---
 
-## Question
-
 Simplify and state the non-permissible value.
 
 #### A.

@@ -7,8 +7,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 1. For $f(x)=3x^2-4x$, then determine (in simplified form):
    1.
 

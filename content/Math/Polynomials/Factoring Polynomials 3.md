@@ -8,8 +8,6 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-## Question
-
 Write the following expressions in fully factored form.
 
 1.

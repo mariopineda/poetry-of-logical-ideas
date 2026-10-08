@@ -8,8 +8,6 @@ topic: "Scale Factors"
 show_solution: true
 ---
 
-## Question
-
 Complete the table for the following rectangles.
 
 |Original dimensions of figure (cm) | New dimensions of figure (cm) | LSF | ASF | 

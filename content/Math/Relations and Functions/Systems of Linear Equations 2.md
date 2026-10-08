@@ -7,8 +7,6 @@ topic: "Systems of Linear Equations"
 show_solution: true
 ---
 
-## Question
-
 1. Solve the following system of equation by substitution
    $$
    \begin{array}{rcr}

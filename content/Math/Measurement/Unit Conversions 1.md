@@ -8,8 +8,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 Convert the following unit as indicated, rounded to the nearest hundredth when applicable.
 
 1.

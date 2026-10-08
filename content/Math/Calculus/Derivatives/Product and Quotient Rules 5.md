@@ -7,8 +7,6 @@ topic: "Product and Quotient Rules"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y = \frac{3x-5}{1-2x}$. Then, determine the tangent slope at $x=6$.
 
 ## Solution

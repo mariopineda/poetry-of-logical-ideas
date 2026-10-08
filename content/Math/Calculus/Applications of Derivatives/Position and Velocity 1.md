@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 The position function of an object is $s(t) = 12t-3t^2$, where $t$ in seconds, $s$ in metres, and North +, South -.
 
 #### A.

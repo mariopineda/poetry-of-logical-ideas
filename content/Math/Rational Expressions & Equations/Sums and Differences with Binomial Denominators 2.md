@@ -8,8 +8,6 @@ topic: Rational Expressions
 show_solution: false
 ---
 
-## Question
-
 Simplify each sum or difference. State all non-permissible values as restrictions on the variable.
 
 ### A.

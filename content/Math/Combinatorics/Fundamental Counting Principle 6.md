@@ -8,8 +8,6 @@ topic: "Fundamental Counting Principle"
 show_solution: true
 ---
 
-## Question
-
 In a war zone, households experience severe shortages of electricity, water, and fuel. Each day:
 
 - Electricity:Ã‚Â Available in 2 disjoint 4-hour blocks (e.g., 8 AMÃ¢â‚¬â€œ12 PM or 4 PMÃ¢â‚¬â€œ8 PM).    

@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Sketch a single continuous position-time function with the following features, labelled and interpreted in the context of a moving object.
 
 - Domain: $\{t | t \geq 0, t \in \mathbf{R}\}$

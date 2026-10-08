@@ -7,8 +7,6 @@ topic: "Logical Reasoning"
 show_solution: true
 ---
 
-## Question
-
 The object of the puzzle is to fully fill in the given grid with the numbers 1 through 4 where
 
 1. Each row must contain different numbers.

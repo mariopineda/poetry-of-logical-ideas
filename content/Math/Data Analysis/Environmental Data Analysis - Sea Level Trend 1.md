@@ -10,8 +10,6 @@ topic: "Data Analysis"
 show_solution: true
 ---
 
-## Question
-
 Sea level is rising, in part, because of global climate change causes the melting glaciers on land which are adding more water to EarthÃ¢â‚¬â„¢s oceans. Glaciers Ã¢â‚¬â€œ large sheets of ice and snow Ã¢â‚¬â€œ exist on land all year long. They are found in the mountains of every continent except Australia. Greenland and Antarctica contain giant ice sheets that are also considered glaciers. As temperatures rise, glaciers melt faster than they accumulate new snow. As these ice sheets and glaciers melt, the water eventually runs into the ocean, causing sea level to rise. Since the beginning of the 20th century sea levels have risen about 20 cm and the ocean is projected to rise as much as 1 m or more by the end of this century. According to satellite sea level observations the global sea level has risen by 91.3 mm since 1993.
 
 1. Determine the rate at which the sea level is changing, in mm/year.

@@ -7,8 +7,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 Multiply.
 
 1.

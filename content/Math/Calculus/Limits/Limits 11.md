@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 Numerically estimate the following limits. Answer to 3 decimal places.
 
 1.

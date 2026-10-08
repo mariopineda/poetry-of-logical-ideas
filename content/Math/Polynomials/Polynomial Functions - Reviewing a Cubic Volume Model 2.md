@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm by $4$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le3$.
 
 1. Write a polynomial function, $V(x)$, for the new volume in both **factored form** and **standard form**.

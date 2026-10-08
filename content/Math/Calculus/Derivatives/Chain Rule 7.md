@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = \left( x^2-5x+7 \right)^3$, then evaluate $f'(2)$.
 
 ## Solution

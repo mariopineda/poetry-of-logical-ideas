@@ -8,8 +8,6 @@ topic: "Related Rates"
 show_solution: true
 ---
 
-## Question
-
 $$
 \newcommand{\dxdt}{\frac{\displaystyle dx}{\displaystyle dt}\Bigg|_{\substack{\theta=\frac{\pi}{3}}}}
 $$

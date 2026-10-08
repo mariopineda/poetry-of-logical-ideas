@@ -8,8 +8,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the function $y=\frac{1}{x-4}$ at $x=3$,
 
 - sketch the function, the general secant, and the tangent line

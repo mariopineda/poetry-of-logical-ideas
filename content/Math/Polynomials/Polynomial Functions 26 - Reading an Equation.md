@@ -13,8 +13,6 @@ tags:
   - math/30-1
 ---
 
-## Question
-
 Consider the polynomial function
 
 $$

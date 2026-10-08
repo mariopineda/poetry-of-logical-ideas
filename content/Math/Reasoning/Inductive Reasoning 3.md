@@ -7,8 +7,6 @@ topic: "Inductive Reasoning"
 show_solution: true
 ---
 
-## Question
-
 Consider the following pattern of multiplications:
 $$
 123456789 \times 9 \times 1 = 1111111101

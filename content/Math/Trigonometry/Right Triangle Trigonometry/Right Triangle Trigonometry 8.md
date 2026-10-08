@@ -8,8 +8,6 @@ topic: "Right Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 Two forest fires are spotted on opposite sides of an observation tower. From the top of the tower, the angle of depression to one fire is $3^\circ$. The angle of depression to the other fire is $7^\circ$.
 
 1. If the observation tower is 75 m high, how far apart are the fires?

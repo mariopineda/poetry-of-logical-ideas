@@ -6,8 +6,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve $5x+4 \leq 2x-11<8x+13$. Answer in interval notation.
 
 ## Solution

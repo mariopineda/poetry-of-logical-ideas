@@ -9,8 +9,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the linear function $y=\frac{4}{5}x-9, if $y$ increases by 20, then what is the change in $x$?
 
 ## Solution

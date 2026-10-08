@@ -8,8 +8,6 @@ topic: Function Transformations
 show_solution: true
 ---
 
-## Question
-
 Find the vertex, axis of symmetry, max/min values and intercepts for:
 
 1.

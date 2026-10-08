@@ -7,8 +7,6 @@ topic: "Exponent Laws"
 show_solution: true
 ---
 
-## Question
-
 Use exponent laws to simplify the following:
 
 1.

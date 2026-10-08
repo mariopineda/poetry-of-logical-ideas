@@ -10,8 +10,6 @@ topic: "Oblique Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD = 55^{\circ}$, $\angle DCA=35^{\circ}$ and $c=12.5$ cm. Round angles to the nearest degree and sides to nearest tenth.
 
 ## Solution

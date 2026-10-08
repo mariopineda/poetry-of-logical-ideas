@@ -8,8 +8,6 @@ topic: "Exponential Growth and Decay"
 show_solution: true
 ---
 
-## Question
-
 **Chernobyl Fallout: Modeling Cesium-137 Decay in a Swedish Forest**
 
 In 1986, the Chernobyl nuclear disaster in Ukraine released large amounts of radioactive materials into the atmosphere. One of these isotopes, **cesium-137**, has a half-life of approximately 30 years, meaning that every 30 years, half of the cesium-137 decays into a non-radioactive element.

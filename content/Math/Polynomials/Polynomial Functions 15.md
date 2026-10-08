@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The graph below shows the monthly profit of a small business.
 
 ![[Polynomial Functions 15 Graph.png]]

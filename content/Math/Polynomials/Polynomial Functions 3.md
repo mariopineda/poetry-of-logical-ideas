@@ -6,8 +6,6 @@ topic: "Polynomial Functions"
 show_solution: true
 ---
 
-## Question
-
 Simplify the following polynomials.
 1.
 

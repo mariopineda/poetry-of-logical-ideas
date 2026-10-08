@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 Determine the domain of the following combined functions. Answer in interval notation.
 
 1.

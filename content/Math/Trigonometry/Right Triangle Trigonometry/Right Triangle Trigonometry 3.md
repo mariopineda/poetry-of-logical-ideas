@@ -8,8 +8,6 @@ topic: "Right Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 The shorter side of a rectangle is 5.7 cm. The angle between this side and a diagonal is 64$^\circ$. State the answers to the nearest tenth of a centimetre.
 
 1. Determine the length of the rectangle.

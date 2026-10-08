@@ -8,8 +8,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Roughly sketch.
 
 1.

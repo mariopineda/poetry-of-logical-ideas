@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Write the formula for the perimeter of a square in function notation, where $P$ represents the perimeter and $s$ represents the length of one side.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Logarithmic Functions"
 show_solution: true
 ---
 
-## Question
-
 Evaluate by converting to exponential form.
 
 1.

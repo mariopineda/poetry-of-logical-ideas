@@ -8,8 +8,6 @@ topic: "Data Analysis"
 show_solution: true
 ---
 
-## Question
-
 The amount of sea ice in the arctic varies seasonally and for the year 2018 it can be modelled by the cubic function $A(m) = 0.069x^3 - 1.3x^2 + 6.04x + 6.73$ where $m$ represents the month (January is month 1 and December is month 12) and $A$ represents the area of the sea ice in millions of square kilometers.
 
 1. Sketch the function describing the extent of sea ice. Label the axes appropriatelly.

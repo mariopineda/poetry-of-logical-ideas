@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The table shows total greenhouse gas emissions from Canada's oil sands sector for selected years. The totals combine oil sands upgrading, in situ production, and mining/extraction. Let $x$ represent the number of years after 2010 and let $y$ represent total emissions, in megatonnes of carbon dioxide equivalent (Mt CO$_2$e).
 
 | Years after 2010 | Oil sands emissions (Mt CO2e) |

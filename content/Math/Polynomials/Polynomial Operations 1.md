@@ -6,8 +6,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 Simplify and express in descending order of power:
 
 1.

@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $\cos x$ using first principles.
 
 ## Solution

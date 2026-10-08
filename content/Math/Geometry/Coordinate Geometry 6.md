@@ -7,8 +7,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the equation of the line. Answer in general form.
 
 1. through $(1,-6)$, parallel to $x+2y=6$

@@ -7,8 +7,6 @@ topic: "Related Rates"
 show_solution: true
 ---
 
-## Question
-
 A rock is dropped into a pool and it begins to create a circular wave. If the circle is moving outward at 6 cm/s, then determine how quickly the area is changing after 5 seconds.
 
 ## Solution

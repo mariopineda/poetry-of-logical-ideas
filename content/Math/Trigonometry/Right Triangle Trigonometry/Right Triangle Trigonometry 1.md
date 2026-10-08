@@ -8,8 +8,6 @@ topic: "Right Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 A road rises 15 m for each 150 m of horizontal distance. What is the angle of inclination of the road to the nearest degree?
 > [!info]- Hint
 > Sketch the scenario and label with provided information.

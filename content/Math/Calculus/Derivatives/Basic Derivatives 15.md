@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Find the point on the curve $y=x^2+6x-8$ that is perpendicular to the linear function $x+4y+11=0$.
 
 ## Solution

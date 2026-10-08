@@ -7,8 +7,6 @@ topic: "Limits"
 show_solution: true
 ---
 
-## Question
-
 For the piecewise function $f(x ) =
 \begin{cases}
 x^2-2 & \mbox{, if } x<0 \\

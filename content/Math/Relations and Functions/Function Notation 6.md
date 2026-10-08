@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. determine the value of $x$ for the following. Leave answers as fractions if necessary. Verify using your graphing calculator or [Desmos](https://www.desmos.com/calculator).
 
 1.

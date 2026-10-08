@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ is the radius of the circle. Write this function as a linear function in two variables.
 
 ## Solution

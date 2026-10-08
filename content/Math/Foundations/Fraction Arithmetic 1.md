@@ -6,8 +6,6 @@ topic: "Foundational Algebra"
 show_solution: true
 ---
 
-## Question
-
 Convert each of the improper fractions below into a decimal to nearest hundreth, a mixed fraction and find an equivalent fraction that has a denominator of 24.
 
 1.

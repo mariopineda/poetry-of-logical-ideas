@@ -9,8 +9,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyle 10}} - \frac{\displaystyle 16}{\sqrt{\displaystyle 8}}$ can be expressed in the form $k\sqrt{2}$, where $k\in \mathbf W$. Determine the value of $k$.
 
 > [!info]- Related Topics

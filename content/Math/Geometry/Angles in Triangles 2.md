@@ -7,8 +7,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the degree measure of the angles marked by letters. Explain the reasoning behind the determined angle measures.
 
 ![[Images/Legacy/angles-in-triangles.png]]

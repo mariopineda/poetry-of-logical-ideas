@@ -9,8 +9,6 @@ prerequisites: []
 related: []
 ---
 
-## Question
-
 The diagram below is the **net of a 3D object**.
 
 ![[Surface Area and Volume - From Net to Surface Area.svg]]

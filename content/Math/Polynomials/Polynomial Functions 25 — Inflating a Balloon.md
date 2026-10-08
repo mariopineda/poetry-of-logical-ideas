@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The volume of an inflating balloon is measured at one-second intervals.
 
 | Time, $t$ (s) | Volume, $V$ ($\text{cm}^3$) |

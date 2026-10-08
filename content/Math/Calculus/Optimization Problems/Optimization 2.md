@@ -7,8 +7,6 @@ topic: "Optimization"
 show_solution: true
 ---
 
-## Question
-
 Find the absolute max / mins for $y=\sqrt[3]{(x^2-9)^2}$ on the interval $[-1,6]$.
 
 ## Solution

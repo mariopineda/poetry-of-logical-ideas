@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 A tangent line is perpendicular to $3x+2y-8=0$ and it has a y-intercept of 5. Determine its equation in general form.
 
 ## Solution

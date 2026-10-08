@@ -7,8 +7,6 @@ topic: "Antiderivatives"
 show_solution: true
 ---
 
-## Question
-
 Evaluate and verify by differentiating the antiderivative. 
 
 1.

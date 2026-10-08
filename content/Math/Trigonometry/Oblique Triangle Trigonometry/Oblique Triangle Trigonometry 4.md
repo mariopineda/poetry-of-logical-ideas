@@ -9,8 +9,6 @@ topic: "Oblique Triangle Trigonometry"
 show_solution: true
 ---
 
-## Question
-
 Using only the Cosine Law, solve $\triangle ABC$ where $\angle BAC = 25^{\circ}$, $\angle ABC = \angle ACB$, $c=10$ cm and where $\triangle ABC$ is an isosceles triangle. Round angles to the nearest degree and sides to nearest tenth.
 
 ## Solution

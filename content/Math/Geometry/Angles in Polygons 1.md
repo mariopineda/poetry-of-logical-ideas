@@ -7,8 +7,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 1. Determine the sum of the interior angles of a decagon.
 2. Determine the number of sides of a polygon whose interior angle sum equals $4140^\circ$.
 3. The sum of five of the interior angles of a hexagon equals $600^\circ$. What is the measure of the sixth angle?

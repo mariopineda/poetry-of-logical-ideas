@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = \frac{1}{x-3}$ and $g(x)=\frac{x+1}{x}$, then determine the following.
 
 1.

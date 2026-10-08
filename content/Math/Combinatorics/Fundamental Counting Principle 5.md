@@ -8,8 +8,6 @@ topic: "Fundamental Counting Principle"
 show_solution: true
 ---
 
-## Question
-
 A farmer must travel from their village to a market in another city, passing through 3 military checkpoints.
 - Checkpoint 1: Normally has 2 routes, but 1 is closed due to military operations.    
 - Checkpoint 2: All 3 routes are open.

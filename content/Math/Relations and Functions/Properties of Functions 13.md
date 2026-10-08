@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x)=\frac{x+4}{1-x}$ and $g(x)\frac{5-2x}{3x+1}$, then determine:
 
 1.

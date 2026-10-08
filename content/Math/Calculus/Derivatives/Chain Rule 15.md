@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate. Assume $f$ and $g$ are differentiable functions and $a$ is a constant.
 
 #### A.

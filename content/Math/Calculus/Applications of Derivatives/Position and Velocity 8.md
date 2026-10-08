@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 $s(t) = t^3 - 7t^2 -4t$, $t \geq 1$, where $s$ is in metres, $t$ is in seconds and East + and West -.
 
 #### A.

@@ -8,8 +8,6 @@ topic: "Permutations"
 show_solution: true
 ---
 
-## Question
-
 Using the permutation formula, simplify $_nP_2$.
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 Without using a calculator, arrange the following numbers in ascending (increasing) order.
 
 $$

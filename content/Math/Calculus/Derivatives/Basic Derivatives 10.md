@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the function $f(x) = 2x^3 - 5x^2 + Ax - 7$, if $f'(-1)=-6$, then determine $A$
 
 ## Solution

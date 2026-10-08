@@ -8,8 +8,6 @@ topic: "Data Analysis"
 show_solution: true
 ---
 
-## Question
-
 The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's harmful ultraviolet radiation. Certain human-made chemicals like chlorofluorocarbons (CFC) used in refrigerants and spray cans create a hole in the ozone layer over Antarctica each spring. The size of the ozone hole between the years 1979 and 2018 can be modelled by the cubic function $s(t)=at^3+bt^2+ct+d$ where $t$ is the year since 1979, $s$ is the size of the ozone hole in millions of square kilometers and the parameters are $a=0.001787$, $b=-0.1324$, $c=3.1576$ and $d=0.1$
 
 1. Sketch the function describing the size of the ozon hole. Label the axes appropriatelly. What are your window settings?

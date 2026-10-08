@@ -9,8 +9,6 @@ aliases:
   - "Domain & Range 5"
 ---
 
-## Question
-
 Sketch one possible relation of the specified shape for each domain and range.
 
 1. A ray with domain $(3,\infty)$ and range $(-\infty,-1)$

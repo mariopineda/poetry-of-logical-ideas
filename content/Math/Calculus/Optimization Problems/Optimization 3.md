@@ -7,8 +7,6 @@ topic: "Optimization"
 show_solution: true
 ---
 
-## Question
-
 Algebraically determine the absolute and local min / max on the given interval for $f(x) = x^4-8x^2+16$ on $[-1,3]$
 
 <!--

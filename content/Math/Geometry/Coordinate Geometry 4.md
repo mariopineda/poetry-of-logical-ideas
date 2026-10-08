@@ -8,8 +8,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the equation of the line that is parallel to $5x+7y-35=0$ and goes through the point $P(2,9)$. Answer in general form.
 
 ## Solution

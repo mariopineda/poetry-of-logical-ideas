@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 ### A.
 
 Identify the angles coterminal with $\frac{4\pi}{3}$ in general form.

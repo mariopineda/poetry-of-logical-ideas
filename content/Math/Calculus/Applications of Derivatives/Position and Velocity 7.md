@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Use the following position-time graph for a moving object to answer the following questions.
 
 1. What is the position of the object at 7.0 sec and at 23.0 sec?

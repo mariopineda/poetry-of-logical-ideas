@@ -8,8 +8,6 @@ topic: "Domain and Range"
 show_solution: true
 ---
 
-## Question
-
 State the domain in interval notation.
 
 1.

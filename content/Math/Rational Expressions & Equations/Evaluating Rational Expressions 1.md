@@ -9,8 +9,6 @@ learning_order: 10
 show_solution: true
 ---
 
-## Question
-
 Evaluate without a calculator and express in lowest terms.
 
 1.

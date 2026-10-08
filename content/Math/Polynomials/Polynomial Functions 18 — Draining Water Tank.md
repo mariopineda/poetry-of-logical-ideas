@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 A water tank contains **600 L** of water. The tank is being drained at a constant rate. The volume of water remaining after $t$ minutes is modelled by
 
 $$

@@ -8,8 +8,6 @@ topic: Quadratics
 show_solution: true
 ---
 
-## Question
-
 Which of the following functions is not a quadratic function?
 
 1.

@@ -7,8 +7,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 For each of the following table of values, express the relationship (i) in words, (ii) as an equation (y in terms of $x$ where $x$ is the independent variable and $y$ is the dependent variable), and (iii) using a mapping diagram (arrow diagram).
 
 1. |  |  |  |  |  |  |

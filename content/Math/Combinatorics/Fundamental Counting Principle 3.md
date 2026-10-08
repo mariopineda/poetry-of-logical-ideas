@@ -8,8 +8,6 @@ topic: "Fundamental Counting Principle"
 show_solution: true
 ---
 
-## Question
-
 A public health agency is coordinating the distribution of vaccines to remote clinics. They need to plan routes for delivery trucks. There are 4 main distribution hubs.
 
 - There are 5 possible routes from the central warehouse to Distribution Hub A.    

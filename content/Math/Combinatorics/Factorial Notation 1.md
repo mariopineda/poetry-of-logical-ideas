@@ -8,8 +8,6 @@ topic: "Factorial Notation"
 show_solution: true
 ---
 
-## Question
-
 Solve the equations
 1.
 

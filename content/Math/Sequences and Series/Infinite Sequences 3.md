@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 Evaluate $\lim\_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
 
 ## Solution

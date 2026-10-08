@@ -7,8 +7,6 @@ topic: "Inequalities"
 show_solution: true
 ---
 
-## Question
-
 Solve the following inequalities, represent the solutions in set notation, interval notation and by graphing.
 
 #### A.

@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The table shows the total greenhouse gas emissions intensity of Alberta oil sands bitumen production for selected years. Let $x$ represent the number of years after 2012 and let $y$ represent emissions intensity, in tonnes of CO$_2$e per cubic metre of bitumen.
 
 | Years after 2012 | Emissions intensity (t CO2e/m³) |

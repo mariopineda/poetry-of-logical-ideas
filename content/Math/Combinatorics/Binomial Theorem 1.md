@@ -7,8 +7,6 @@ topic: "Binomial Theorem"
 show_solution: true
 ---
 
-## Question
-
 Determine:
 1. the third term of $(x+y)^{15}$
 2. the middle term of $(p+q)^{12}$

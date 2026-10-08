@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Determine:
 
 1. the value of $\cos x$ when $\sin x$ has a maximum value.

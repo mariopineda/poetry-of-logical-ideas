@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 The roots of the equation $x(x-1)=2$ are
 
 1. 0 and 1

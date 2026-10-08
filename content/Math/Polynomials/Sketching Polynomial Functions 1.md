@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 
 ## Solution

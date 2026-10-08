@@ -7,8 +7,6 @@ topic: "Optimization"
 show_solution: true
 ---
 
-## Question
-
 For $y= \left\{
 \begin{array}{ll}
 x^2-4 & x < 0 \\

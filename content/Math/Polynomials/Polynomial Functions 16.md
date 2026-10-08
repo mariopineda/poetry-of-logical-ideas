@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The graph below shows the height of a ball during its flight.
 
 ![[Polynomial Functions 16 Graph.png]]

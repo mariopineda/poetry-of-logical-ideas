@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Sketch the following functions. State the range in set notation.
 
 1.

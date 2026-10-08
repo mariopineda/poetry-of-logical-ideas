@@ -7,8 +7,6 @@ topic: "Definite Integrals"
 show_solution: true
 ---
 
-## Question
-
 Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.
 
 ![[Page Break]]

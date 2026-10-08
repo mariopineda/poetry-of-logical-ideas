@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 Consider the series $4+4(2x-7)+4(2x-7)^2+\ldots$
 
 #### A.

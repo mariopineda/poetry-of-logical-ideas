@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 Determine the equations of the lines given the following information. Express the equation in both slope y-intercept and general forms.
 
 1. A line that has an x-intercept at 5 and a y-intercept at 1.

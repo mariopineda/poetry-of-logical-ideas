@@ -6,8 +6,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 Determine the polynomial that would have to be added to $6x^2-3x+6$ so that the sum of the polynomials is $x^2+4x+2$.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-## Question
-
 In 2015 the provincial government in Alberta increased the minimum wage for students under 18 to \$15/hour. In 2019 the newly elected provincial government rolled back the minimum salary to \$13/hour.
 
 ###### A.

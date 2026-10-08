@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 Find the two tangent slopes to the hyperbola $x^2-y^2 = -64$ at $x=-6$.
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 The position of a moving particle on a line is given by the equation $s = f(t) = 2t^3-21t^2+60t$, $t \geq 0$ where $t$ is measured in seconds and $s$ in metres.
 
 1. What is the velocity after 3 sec. and after 6 sec.?

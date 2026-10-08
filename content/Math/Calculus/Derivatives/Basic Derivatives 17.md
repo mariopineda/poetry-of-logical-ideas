@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Consider the function $ f(x) =
 \begin{cases}
 4x+5 & \mbox{, } x \leq 3 \\

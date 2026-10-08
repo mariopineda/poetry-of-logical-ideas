@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Solve $2x^2=6x-3$
 
 ## Solution

@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y=\frac{1}{4(8-7x^3-x^5)}.$
 
 ## Solution

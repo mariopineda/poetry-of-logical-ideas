@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Differentiate the following functions
 ### 1. $f(x)=2\cos(x) - 6 \sec(x) +3$
 ### 2. $g(z)=10 \tan(z) Ã¢Ë†â€™2 \cot(z)$

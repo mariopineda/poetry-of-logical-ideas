@@ -9,8 +9,6 @@ topic: "Measurement"
 show_solution: true
 ---
 
-## Question
-
 1. A box has a surface area of 432 cm$^2$. Its length and width are 8 cm and 6 cm respectivelly. What is its height, rounded to the nearest whole number?
 2. A cylinder has a surface area of 1800 mm$^2$ and a radius of 12 mm. What is its height, rounded to the nearest hundreth?
 3. A square-based pyramid has a surface area of 129.5 in$^2$. The length of its base is 4.5 in. What is its slant height, rounded to the nearest hundreth?

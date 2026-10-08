@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 Use technology to find the approximate value for each trigonometric ratio. Answer to the nearest ten thousandth.
 
 1.

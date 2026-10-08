@@ -7,8 +7,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 For $f(x)=1-2x$, determine (in simplfied form):
 
 1.

@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 The position function of an object is $s(t)=t^3-3t^2$, where $t$ in seconds $s$ in metres, and North + and South -. When is it moving North and towards the origin at the same time.
 
 ## Solution

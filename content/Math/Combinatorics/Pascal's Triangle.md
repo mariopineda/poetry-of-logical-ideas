@@ -6,8 +6,6 @@ topic: "Pascal's Triangle"
 show_solution: true
 ---
 
-## Question
-
 Complete the white triangles in the following row from Pascal's Triangle.
 
 ![[Pascal's Triangle.png]]

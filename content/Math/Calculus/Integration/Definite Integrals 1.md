@@ -7,8 +7,6 @@ topic: "Definite Integrals"
 show_solution: true
 ---
 
-## Question
-
 Evaluate...
 1.
 

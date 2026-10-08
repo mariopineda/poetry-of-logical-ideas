@@ -7,8 +7,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 For each polynomial, state the name, degree, leading coefficient, constant, domain and y-intercept.
 
 

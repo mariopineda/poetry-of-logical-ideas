@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Find the equation of the tangent line at the point indicated. Answer in general form.
 
 #### A.

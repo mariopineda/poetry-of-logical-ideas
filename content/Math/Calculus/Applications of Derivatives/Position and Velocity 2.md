@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 A rock is thrown upward at 35 m/s and at a height of 22 m. Its position function is $s(t) = 22+35t-4.7t^2$, where up + and down -. Determine its max height to nearest hundredth.
 
 ## Solution

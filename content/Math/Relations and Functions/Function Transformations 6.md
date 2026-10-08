@@ -9,8 +9,6 @@ topic: "Function Transformations"
 show_solution: true
 ---
 
-## Question
-
 Without using technology sketch of the following functions, identifying the transformations and noting and important features / points:
 
 1.

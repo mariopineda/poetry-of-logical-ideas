@@ -9,8 +9,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The height of a soccer ball after it is kicked is modelled by
 
 $$

@@ -9,8 +9,6 @@ learning_order: 70
 show_solution: true
 ---
 
-## Question
-
 Express the following rational expressions in simplest form, stating the non-permissible values as restrictions.
 
 1.

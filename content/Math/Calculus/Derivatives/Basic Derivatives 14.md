@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For what values of $x$ does $y=x^6-18x^4+2x^3-72x+5$ have a horizontal tangent?
 
 ## Solution

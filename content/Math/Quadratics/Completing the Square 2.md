@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Write each quadratic equation in vertex form by completing the square. State the coordinates of the vertex.
 
 1.

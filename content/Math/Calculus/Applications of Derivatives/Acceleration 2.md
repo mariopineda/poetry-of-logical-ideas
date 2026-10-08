@@ -7,8 +7,6 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the position-time graph shown, describe the motion (East + and West -).
 
 > [!warning]- Legacy diagram unavailable

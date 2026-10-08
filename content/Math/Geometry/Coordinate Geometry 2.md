@@ -8,8 +8,6 @@ topic: "Angles and Geometry"
 show_solution: true
 ---
 
-## Question
-
 Determine the equation of the straight line that goes through the points $C(-6,5) and $D(2,-7)$. Answer in general form.
 
 ## Solution

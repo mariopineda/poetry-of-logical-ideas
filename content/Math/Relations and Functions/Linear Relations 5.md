@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 An airplane at an altitude of 10000 m begins to descend at 300 m/min.
 
 1. State the independent and dependent variables.

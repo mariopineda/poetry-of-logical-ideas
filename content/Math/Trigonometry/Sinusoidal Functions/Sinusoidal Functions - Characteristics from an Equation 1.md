@@ -7,8 +7,6 @@ topic: Sinusoidal Functions
 show_solution: true
 ---
 
-## Question
-
 Consider the sinusoidal function
 
 $$

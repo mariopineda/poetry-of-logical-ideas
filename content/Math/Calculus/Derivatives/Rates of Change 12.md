@@ -9,8 +9,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 1. A scuba diver is 20 metres below the surface of the water 12 seconds after diving into the water and 50 meters below the surface after 25 seconds. Determine the scuba diver's rate of change, to the nearest tenth.
 2. The temperature of a glass of milk changes from 20$^{\circ}$C to 45$^{\circ}$C in the course of 6 minutes. Determine the rate of change in temperature, to the nearest tenth.
 

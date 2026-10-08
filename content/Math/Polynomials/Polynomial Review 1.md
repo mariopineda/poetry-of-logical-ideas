@@ -6,8 +6,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 For each polynomial, state the leading coefficient, degree and constant.
 
 1.

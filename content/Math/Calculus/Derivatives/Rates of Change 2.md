@@ -7,8 +7,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Given $V=\frac{4}{3} \pi r^3$, determine the derivative of the volume.
 
 #### A.

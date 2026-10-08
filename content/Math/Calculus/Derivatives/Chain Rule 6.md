@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 At which x-value(s) does the function $y=(3x-1)^4 (7-2x)^5$ have a horizontal tangent?
 
 ## Solution

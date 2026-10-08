@@ -7,8 +7,6 @@ topic: "Curve Sketching"
 show_solution: true
 ---
 
-## Question
-
 For the function $y=6x^2-x^3$, identify the local max/min. Roughly sketch.
 
 ## Solution

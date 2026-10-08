@@ -7,8 +7,6 @@ topic: "Related Rates"
 show_solution: true
 ---
 
-## Question
-
 Water is being poured out of a funnel at a rate of 15 cm$^3$/min. The right circular cone has a radius of 24 cm and a height of 32 cm. At what rate is the height changing when the volume is $12 \pi$ cm$^3$?
 
 ## Solution

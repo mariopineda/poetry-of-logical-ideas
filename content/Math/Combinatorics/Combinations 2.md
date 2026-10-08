@@ -8,8 +8,6 @@ topic: "Combinations"
 show_solution: true
 ---
 
-## Question
-
 Algebraically determine the solution to $_nC_7 = _{n+1}C_8$.
 
 ## Solution

@@ -8,8 +8,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 The London Eye, located on the River Thames in London England, is the largest Ferris wheel in Europe.
 
 The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground level, so the centre is 69.5 m above ground level. The wheel rotates once every 30 minutes.

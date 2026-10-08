@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y = \left[ x^3-7+(5x+1)^4 \right]^9$.
 
 ## Solution

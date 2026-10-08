@@ -8,8 +8,6 @@ topic: "Scale Factors"
 show_solution: true
 ---
 
-## Question
-
 Complete the following table. Express all scale factors as ratios (either as $a:b$ or as $\frac{\displaystyle a}{\displaystyle b}$).
 
 

@@ -8,8 +8,6 @@ topic: Polynomial Functions
 show_solution: true
 ---
 
-## Question
-
 The elevation of a hiking trail is modelled by
 
 $$

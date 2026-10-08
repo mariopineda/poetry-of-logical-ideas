@@ -8,8 +8,6 @@ topic: "Derivatives"
 show_solution: true
 ---
 
-## Question
-
 For the linear function $32x+12y-19=0$, if $x$ decreases by 2, how does $y$ change?
 
 ## Solution

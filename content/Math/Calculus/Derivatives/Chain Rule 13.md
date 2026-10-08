@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Evaluate $\frac{dy}{dx} \Bigg]\_{x=3}$ if $y=u^2-u$ and $u=2x-7$. Use Leibnitz notation.
 
 ## Solution

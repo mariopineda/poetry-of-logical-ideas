@@ -7,8 +7,6 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-## Question
-
 Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evaluate the following. Leave answers as fractions if necessary. Verify using your graphing calculator or [Desmos](https://www.desmos.com/calculator).
 
 1.

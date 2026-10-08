@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Using the quadratic formula the positive root, to the nearest tenth, of the following equation $2x^2-25x-80=0$ is...
 
 ## Solution

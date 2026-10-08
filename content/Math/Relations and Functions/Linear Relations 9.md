@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 A ball is thrown into the air from the balcony of an apartment and falls to the ground. The height $h$ meters of the ball relative to the ground $t$ seconds after being thrown is given by $h=-5t^2+10t+35$.
 
 1. What is the maximum height of the ball?

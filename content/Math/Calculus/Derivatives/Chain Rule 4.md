@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 If $g(3)=6$, $g'(3)=5$, $f(5)=2$, and $f'(6)=8$, then evaluate $(f \circ g)'(3)$.
 
 ## Solution

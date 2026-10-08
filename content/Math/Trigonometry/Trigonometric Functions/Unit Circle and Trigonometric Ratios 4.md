@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ratios of the following angles.
 
 1.

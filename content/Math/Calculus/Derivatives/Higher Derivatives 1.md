@@ -7,8 +7,6 @@ topic: "Higher Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine the first 4 derivatives for $y=ax^3+bx^2+cx+d$ where ${a,b,c,d \in \mathbb{R}}$.
 
 ## Solution

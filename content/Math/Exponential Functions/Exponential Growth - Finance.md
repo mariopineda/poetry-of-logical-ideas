@@ -7,8 +7,6 @@ topic: "Exponential Growth and Decay"
 show_solution: true
 ---
 
-## Question
-
 Joe invests $5000 into a high interest savings bond that has an annual interest rate of 9%, compounded monthly.
 
 a) Write the exponential equation $A=P(1+i)^n$ that represents this situation. What does the parameter $n$ represent?

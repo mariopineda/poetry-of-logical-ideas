@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Differentiate $y = \frac{f(ax^2)}{a}$, where $a \in \mathbb{R}$.
 
 ## Solution

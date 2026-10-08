@@ -7,8 +7,6 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-## Question
-
 Determine for which value(s) of $x$ the curve $y = \frac{1}{\sqrt[3]{4x^3+15x^2-18x}}$ has a hotizontal tangent.
 
 ## Solution

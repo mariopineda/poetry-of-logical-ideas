@@ -8,8 +8,6 @@ topic: Rational Expressions
 show_solution: true
 ---
 
-## Question
-
 Simplify each quotient and state all non-permissible values as restrictions on the variable.
 
 ### A.

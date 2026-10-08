@@ -8,8 +8,6 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-## Question
-
 Find the roots of the following quadratic equations using the Quadratic Formula.
 
 1.

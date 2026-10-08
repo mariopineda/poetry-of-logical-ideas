@@ -7,8 +7,6 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Find the 27th derivative of $\cos x$. Bonus points for solutions avoiding a brute force approach.
 
 ## Solution

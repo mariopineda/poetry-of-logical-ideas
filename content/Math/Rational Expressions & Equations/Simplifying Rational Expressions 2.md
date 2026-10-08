@@ -9,8 +9,6 @@ learning_order: 50
 show_solution: true
 ---
 
-## Question
-
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.
 
 1.

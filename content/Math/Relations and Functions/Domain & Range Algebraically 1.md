@@ -8,8 +8,6 @@ topic: "Domain and Range"
 show_solution: true
 ---
 
-## Question
-
 Algebraically determine the domain of:
 
 1.

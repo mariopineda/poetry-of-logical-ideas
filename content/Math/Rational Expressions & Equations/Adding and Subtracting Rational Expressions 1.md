@@ -10,8 +10,6 @@ learning_order: 160
 show_solution: true
 ---
 
-## Question
-
 Simplify. Express answers in lowest terms and indicate non-permissible values as restriction on the variable.
 
 1.

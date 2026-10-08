@@ -8,8 +8,6 @@ topic: "Radicals"
 show_solution: true
 ---
 
-## Question
-
 Solve $x-2 = \sqrt{2x-3}+1$
 
 ## Solution

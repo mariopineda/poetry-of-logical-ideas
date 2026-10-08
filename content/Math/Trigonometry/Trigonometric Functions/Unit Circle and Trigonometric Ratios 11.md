@@ -7,8 +7,6 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-## Question
-
 The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the terminal arm of an angle $\theta$ in standard position. What is $\theta$, to the nearest degree?
 
 <!--

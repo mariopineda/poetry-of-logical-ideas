@@ -8,8 +8,6 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-## Question
-
 1. Factor $x^2+y-x-xy$
 2. Factor $36a^2-121d^2$
 3. Factor $(3x^3-27x)-(x^2-9)$

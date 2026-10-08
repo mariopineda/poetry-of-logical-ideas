@@ -7,8 +7,6 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-## Question
-
 Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq 360^{\circ}$. Give your answers to two decimal places when necessary. Plot the points. Graph $y=\cos{x}$ on your graphing calculator using the following window settings: $X:[-360,540,30]$ and $Y:[-1.2,1.2,0.2]$ and complete the graph by joining the points.
 
 ## Solution

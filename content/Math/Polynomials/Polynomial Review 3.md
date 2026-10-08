@@ -6,8 +6,6 @@ topic: "Polynomial Operations"
 show_solution: true
 ---
 
-## Question
-
 Divide.
 
 1.

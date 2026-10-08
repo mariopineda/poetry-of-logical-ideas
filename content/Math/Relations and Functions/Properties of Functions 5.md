@@ -8,8 +8,6 @@ topic: "Function Properties"
 show_solution: true
 ---
 
-## Question
-
 If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:
 
 1.

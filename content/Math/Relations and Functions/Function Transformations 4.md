@@ -8,8 +8,6 @@ topic: Function Transformations
 show_solution: true
 ---
 
-## Question
-
 Draw a rough sketch of the following functions. Identify vertex, intercepts and asymptotes.
 
 1.

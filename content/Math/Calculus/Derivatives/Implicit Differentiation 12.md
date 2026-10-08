@@ -7,8 +7,6 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-## Question
-
 The curve with equation $x^\frac{2}{3} + y^\frac{2}{3}=1$ is called an astroid and is shown in the figure.
 
 1. Find $y'$.

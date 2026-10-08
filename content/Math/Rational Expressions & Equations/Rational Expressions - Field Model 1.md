@@ -9,8 +9,6 @@ learning_order: 210
 show_solution: true
 ---
 
-## Question
-
 A rectangular field has area
 
 $$

@@ -7,8 +7,6 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-## Question
-
 Evaluate $\sum\_{n=3}^{9} 8$
 
 ## Solution

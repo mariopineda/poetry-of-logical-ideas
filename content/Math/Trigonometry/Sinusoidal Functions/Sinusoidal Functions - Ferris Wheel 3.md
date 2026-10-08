@@ -7,8 +7,6 @@ topic: Sinusoidal Functions
 show_solution: true
 ---
 
-## Question
-
 ### High Roller - Las Vegas, Nevada
 
 The **High Roller** is a large Ferris wheel in Las Vegas, Nevada. The wheel is powered by a 10,000-horsepower hydraulic motor.

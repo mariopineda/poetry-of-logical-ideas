@@ -8,8 +8,6 @@ topic: "Linear Relations"
 show_solution: true
 ---
 
-## Question
-
 The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth $d$ kilometers below the surface, where $T=\frac{23}{2}d+20$.
 
 1. Using your graphing calculator or [Desmos](https://www.desmos.com/calculator) graph the relation for values of $d$ up to 5 km.

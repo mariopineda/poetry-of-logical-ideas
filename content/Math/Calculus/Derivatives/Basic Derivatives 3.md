@@ -7,8 +7,6 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-## Question
-
 Determine the x-coordinates where the function $y=\frac{2}{x}-\frac{6}{x^3}$ has a horizontal tangent.
 
 ## Solution
