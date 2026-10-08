@@ -108,6 +108,7 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -125,3 +125,4 @@ In each case, write a rational expression with the given variable and non-permis
 
 > [!success] Build Toward
 > - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
