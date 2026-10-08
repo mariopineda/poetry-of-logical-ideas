@@ -10,23 +10,22 @@ related:
   - "What if I do not email within 24 hours after the exam?"
 ---
 
-A Late Write is a formal opportunity for a student who missed all or part of a scheduled unit exam to **request** a new complete exam for that unit.
+A Late Write is a formal process for a student who has missed all or part of a scheduled unit exam to **request consideration for a new, complete exam for that unit**. A Late Write is **not** available simply because you received a low mark on an exam you completed.
 
-A Late Write is **not** available simply because you received a low mark.
-
-If you miss an exam or part of an exam, you must email Dr. Pineda **after the exam has ended and within 24 hours of its scheduled end time**.
+If you miss all or part of a scheduled unit exam, you must email Dr. Pineda **after the exam has ended and within 24 hours of its scheduled end time**.
 
 Your email must include:
-
-- your full name;
+- your full name;    
 - your class; and
-- the exam or exam part you missed.
+- the exam, or exam part, that you missed.
 
-An email sent before the exam does not replace this requirement. Confirming your absence in SchoolZone is also a separate process and does not replace the missed-exam email.
+**An email sent before the exam does not satisfy this requirement.** If you know in advance that you will be absent, you may inform Dr. Pineda, but you must still send the required missed-exam email after the scheduled exam has ended. Reporting or confirming your absence through SchoolZone is a separate process and **does not replace the required missed-exam email**.
 
-Submitting the email makes you eligible to **request** a Late Write. It does **not** mean that a Late Write has been approved.
+Sending the required email within 24 hours **preserves your eligibility to be considered for a Late Write**. It does **not** mean that a Late Write has been approved.
 
-Exams are written at the scheduled time with the class. Knowing ahead of time that you will be absent does not allow you to write the exam early or choose another writing time.
+If your request proceeds, Dr. Pineda will contact you with the next step in the eligibility process. Do not schedule your own appointment or assume that you may write the exam at another time unless you receive confirmation from Dr. Pineda.
+
+If a Late Write is ultimately approved, you will write a **new, complete exam covering the entire unit**, not simply the original exam or the portion you missed.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
