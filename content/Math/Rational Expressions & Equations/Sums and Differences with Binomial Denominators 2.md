@@ -5,7 +5,7 @@ course:
   - Mathematics 20-1
   - Mathematics 30-2
 topic: Rational Expressions
-show_solution: false
+show_solution: true
 ---
 
 Simplify each sum or difference. State all non-permissible values as restrictions on the variable.
@@ -27,21 +27,6 @@ $$
 $$
 \frac{7}{m-4}-\frac{2}{m+1}
 $$
-
-> [!abstract] Review First
-> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
-> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3|Sums and Differences with Binomial Denominators 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2|Adding and Subtracting Rational Expressions 2]]
 
 ## Solution
 
@@ -106,3 +91,18 @@ $$
 > \qquad
 > \boxed{m\ne-1,4}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3|Sums and Differences with Binomial Denominators 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 2|Adding and Subtracting Rational Expressions 2]]
