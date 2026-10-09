@@ -4,6 +4,6 @@ publish: true
 type: "page"
 ---
 
-Use the course tabs below to find practice questions for your mathematics course. Questions are organized by topic, and new questions will be added throughout the year.
+Select your mathematics course below to view its Questions of the Day. No questions are loaded until you choose a course. Questions are organized by topic, and new questions will be added throughout the year.
 
 ![[Math/QOD Browser.base]]
