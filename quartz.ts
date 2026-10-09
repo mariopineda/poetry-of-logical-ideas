@@ -215,6 +215,12 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
       ? node.children
       : []
 
+    const qod = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "qod",
+    )
+
     const math = rootChildren.find(
       (child: any) =>
         child.isFolder &&
@@ -240,20 +246,17 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
         child.slugSegment?.toLowerCase() === "about",
     )
 
-    if (!math || !learningPath || !faq || !about) {
+    if (!qod || !learningPath || !faq || !about) {
       return
     }
 
-    math.isFolder = false
-    math.displayName = "QOD"
-    math.children = []
-
+    qod.displayName = "QOD"
     learningPath.displayName = "Learning Path"
     faq.displayName = "FAQ"
     about.displayName = "About"
 
     node.children = [
-      math,
+      qod,
       learningPath,
       faq,
       about,
