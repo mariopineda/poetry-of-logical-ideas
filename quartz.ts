@@ -204,91 +204,70 @@ for (const entry of qodBySlug.values()) {
   }
 }
 
+// BEGIN OSCULATORIUM PRIMARY NAVIGATION
 componentRegistry.setOptionOverrides("@quartz-community/explorer", {
-  filterFn: (node: {
-    slugSegment?: string
-    slugSegments?: string[]
-    displayName: string
-    isFolder: boolean
-  }) => {
-    // Hide Quartz's tags folder
-    if (node.slugSegment === "tags") return false
+  filterFn: (node: any) => node.slugSegment !== "tags",
 
-    // Hide the FAQ folder itself.
-    if (
-      node.isFolder &&
-      node.slugSegment?.toLowerCase() === "faq"
-    ) {
-      return false
+  mapFn: (node: any) => {
+    if ((node.slugSegments?.length ?? 0) !== 0) return
+
+    const rootChildren = Array.isArray(node.children)
+      ? node.children
+      : []
+
+    const math = rootChildren.find(
+      (child: any) =>
+        child.isFolder &&
+        child.slugSegment?.toLowerCase() === "math",
+    )
+
+    const learningPath = math?.children?.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "qod-map",
+    )
+
+    const faq = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() ===
+          "frequently-asked-questions",
+    )
+
+    const about = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "about",
+    )
+
+    if (!math || !learningPath || !faq || !about) {
+      return
     }
 
-    // Hide the raw QOD Question Bank folder from the sidebar.
-    // Individual QOD pages remain accessible through the browser
-    // and through relationship links.
-    if (
-      node.isFolder &&
-      (
-        node.slugSegment?.toLowerCase() === "qod-question-bank" ||
-        node.displayName?.toLowerCase() === "qod question bank"
-      )
-    ) {
-      return false
-    }
+    math.isFolder = false
+    math.displayName = "QOD"
+    math.children = []
 
-    // Hide the standalone QOD Graph page from the Explorer.
-    // It is intentionally linked only from the About page.
-    if (
-      !node.isFolder &&
-      (
-        node.slugSegment?.toLowerCase() === "qod-graph" ||
-        node.displayName?.toLowerCase() === "qod graph"
-      )
-    ) {
-      return false
-    }
+    learningPath.displayName = "Learning Path"
+    faq.displayName = "FAQ"
+    about.displayName = "About"
 
-    // Hide the standalone QOD Browser page.
-    // It remains embedded inside QOD Practice Questions.
-    if (
-      !node.isFolder &&
-      (
-        node.slugSegment?.toLowerCase() === "qod-browser.base" ||
-        node.slugSegment?.toLowerCase() === "qod-browser"
-      )
-    ) {
-      return false
-    }
-
-    return true
-  },
-
-  mapFn: (node: {
-    slugSegment?: string
-    slugSegments?: string[]
-    displayName: string
-    isFolder: boolean
-  }) => {
-    // Display the Math folder simply as "Math"
-    // even though Math/index.md is QOD Practice Questions.
-    if (
-      node.isFolder &&
-      node.slugSegment?.toLowerCase() === "math"
-    ) {
-      node.displayName = "Math"
-    }
+    node.children = [
+      math,
+      learningPath,
+      faq,
+      about,
+    ]
   },
 
   sortFn: (
-    a: { displayName: string; isFolder: boolean },
-    b: { displayName: string; isFolder: boolean },
+    a: { displayName: string },
+    b: { displayName: string },
   ) => {
-    // Preferred top-level order:
-    // Math
-    // Frequently Asked Questions
-    // About
     const preferredOrder = [
-      "math",
-      "frequently asked questions",
+      "qod",
+      "learning path",
+      "faq",
       "about",
     ]
 
@@ -301,17 +280,20 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     if (aPriority !== -1 && bPriority !== -1) {
       return aPriority - bPriority
     }
-
     if (aPriority !== -1) return -1
     if (bPriority !== -1) return 1
 
-    if (a.isFolder !== b.isFolder) {
-      return a.isFolder ? -1 : 1
-    }
-
-    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+    return a.displayName.localeCompare(
+      b.displayName,
+      undefined,
+      {
+        numeric: true,
+        sensitivity: "base",
+      },
+    )
   },
 })
+// END OSCULATORIUM PRIMARY NAVIGATION
 
 const config = await loadQuartzConfig()
 
@@ -1111,7 +1093,7 @@ config.plugins.transformers.push({
               children: [
                 {
                   type: "text",
-                  value: "QOD Learning Path",
+                  value: "Build Your Learning Path",
                 },
               ],
             },

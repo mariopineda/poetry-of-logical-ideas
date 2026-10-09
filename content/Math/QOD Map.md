@@ -1,9 +1,9 @@
 ---
-title: "QOD Map"
+title: "Learning Path"
 publish: true
 type: qod-map
 ---
 
-Explore how the Questions of the Day connect to one another.
+Explore how mathematical ideas connect through the Questions of the Day.
 
-Use this map to see what to **review first**, discover **related ideas**, and find where a mathematical idea **leads next**.
+Choose a course and topic to see what to **review first**, explore **related ideas**, and follow a recommended progression toward more advanced questions.

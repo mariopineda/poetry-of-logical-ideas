@@ -9,7 +9,7 @@ type: qod-topic
 > [!info] Practice this topic
 > **10 Questions of the Day** · **Courses:** Math 20-3
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
 Practice questions for **Geometry**.
 

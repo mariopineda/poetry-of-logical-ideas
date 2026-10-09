@@ -11,10 +11,10 @@ Questions of the Day are the heart of this site. Use them for practice, review, 
 
 **[[Math|Explore Questions of the Day →]]**
 
-## QOD Learning Map
-Mathematical ideas do not exist in isolation. The QOD Learning Map shows how questions and concepts connect, what you may need to review first, related ideas worth exploring, and where an idea may lead next.
+## Learning Path
+Mathematical ideas build on one another. Explore how questions connect, what you may want to review first, related ideas worth exploring, and where each idea can lead next.
 
-**[[Math/QOD Map|Open the QOD Learning Map →]]**
+**[[Math/QOD Map|Open the Learning Path →]]**
 
 ## Frequently Asked Questions (FAQ)
 Have a question about attendance, QODs, exams, missed assessments, replacement exams, calculators, academic honesty, getting help, or another class procedure?

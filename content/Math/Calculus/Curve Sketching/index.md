@@ -9,7 +9,7 @@ type: qod-topic
 > [!info] Practice this topic
 > **6 Questions of the Day** · **Courses:** Not specified
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Map]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
 Practice questions for **Curve Sketching**.
 

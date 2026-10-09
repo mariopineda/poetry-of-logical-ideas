@@ -860,3 +860,60 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
 }
 
 /* QOD LEGACY VIDEO EMBED:END */
+/* BEGIN OSCULATORIUM PRIMARY NAVIGATION */
+.explorer .explorer-content {
+  margin-top: 0.7rem;
+}
+
+.explorer .explorer-ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.explorer .explorer-ul > li {
+  margin: 0;
+}
+
+.explorer .explorer-ul > li.overflow-end {
+  display: none;
+}
+
+.explorer .explorer-ul > li > a.nav-file-title {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.45rem;
+  background: var(--highlight);
+  color: var(--secondary);
+  opacity: 1;
+  font-family: var(--headerFont);
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+  transition:
+    border-color 120ms ease,
+    background-color 120ms ease,
+    transform 120ms ease;
+}
+
+.explorer .explorer-ul > li > a.nav-file-title:hover {
+  border-color: var(--gray);
+  transform: translateX(2px);
+}
+
+.explorer .explorer-ul > li > a.nav-file-title.active {
+  border-color: var(--tertiary);
+  color: var(--dark);
+  opacity: 1;
+}
+
+@media all and (max-width: 800px) {
+  .explorer .explorer-content .explorer-ul {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+/* END OSCULATORIUM PRIMARY NAVIGATION */
