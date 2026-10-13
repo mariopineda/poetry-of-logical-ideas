@@ -20,6 +20,7 @@ Solve $x^3+x^2 = 24x+24$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -25,6 +25,7 @@ Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

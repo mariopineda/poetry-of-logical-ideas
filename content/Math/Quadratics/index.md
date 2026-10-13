@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **14 Questions of the Day** · **Courses:** Not specified
+> **17 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -31,4 +31,7 @@ Practice questions for **Quadratics**.
 | [[Math/Quadratics/Quadratic Equations 8\|Quadratic Equations 8]] | Not specified |
 | [[Math/Quadratics/Quadratic Equations 9\|Quadratic Equations 9]] | Not specified |
 | [[Math/Quadratics/Quadratic Functions 1\|Quadratic Functions 1]] | Not specified |
+| [[Math/Quadratics/Solving Quadratic Equations by Factoring 1\|Solving Quadratic Equations by Factoring 1]] | Not specified |
+| [[Math/Quadratics/Solving Quadratic Equations by Factoring 2\|Solving Quadratic Equations by Factoring 2]] | Not specified |
+| [[Math/Quadratics/Solving Quadratic Equations by Factoring 3\|Solving Quadratic Equations by Factoring 3]] | Not specified |
 
