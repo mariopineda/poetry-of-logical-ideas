@@ -2,10 +2,10 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10C"
-  - "Mathematics 30-2"
-topic: "Quadratics"
-show_solution: false
+  - Mathematics 10C
+  - Mathematics 30-2
+topic: Quadratics
+show_solution: true
 ---
 
 Solve each equation by factoring.
@@ -21,23 +21,6 @@ $$
 $$
 2x^2-x-6=0
 $$
-
-> [!abstract] Review First
-> - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
-> - [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
-> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 2|Solving Quadratic Equations by Factoring 2]]
-> - [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Equations 1|Polynomial Equations 1]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 ## Solution
 
@@ -82,3 +65,20 @@ $$
 > $$
 > x=2,\,-\frac{3}{2}
 > $$
+
+> [!abstract] Review First
+> - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
+> - [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 2|Solving Quadratic Equations by Factoring 2]]
+> - [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Equations 1|Polynomial Equations 1]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
