@@ -1073,3 +1073,14 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
 }
 
 /* QOD PRINTABLE LEARNING PATH:END */
+
+/* QOD ONE QUESTION PER PAGE:START */
+
+@media print {
+  .qod-print-part-questions .qod-print-entry:not(:last-child) {
+    break-after: page;
+    page-break-after: always;
+  }
+}
+
+/* QOD ONE QUESTION PER PAGE:END */

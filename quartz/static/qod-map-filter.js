@@ -877,10 +877,6 @@
 
     header.className = "qod-print-header"
 
-    const siteTitle = document.createElement("div")
-
-    siteTitle.className = "qod-print-site-title"
-    siteTitle.textContent = "The Osculatorium"
 
     const title = document.createElement("h1")
 
@@ -891,7 +887,6 @@
     subtitle.textContent =
       `Learning Path Practice Packet - ${packets.length} QOD${packets.length === 1 ? "" : "s"}`
 
-    header.appendChild(siteTitle)
     header.appendChild(title)
     header.appendChild(subtitle)
 
