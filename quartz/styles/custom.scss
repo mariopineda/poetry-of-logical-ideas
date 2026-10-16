@@ -917,3 +917,159 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
   }
 }
 /* END OSCULATORIUM PRIMARY NAVIGATION */
+
+/* QOD PRINTABLE LEARNING PATH:START */
+
+.qod-print-document {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: letter;
+    margin: 0.65in 0.7in;
+  }
+
+  html {
+    scroll-behavior: auto !important;
+    background: white !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  body > *:not(.qod-print-document) {
+    display: none !important;
+  }
+
+  body > .qod-print-document {
+    display: block !important;
+  }
+
+  .qod-print-document {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+    font-family: var(--bodyFont);
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+
+  .qod-print-document,
+  .qod-print-document * {
+    color: black !important;
+    box-shadow: none !important;
+  }
+
+  .qod-print-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #999;
+  }
+
+  .qod-print-site-title {
+    margin-bottom: 0.25rem;
+    font-size: 10pt;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .qod-print-header h1 {
+    margin: 0 0 0.35rem;
+    font-size: 20pt;
+    line-height: 1.15;
+  }
+
+  .qod-print-header p {
+    margin: 0;
+  }
+
+  .qod-print-part-title {
+    margin: 0 0 1.5rem;
+    font-size: 18pt;
+    break-after: avoid-page;
+  }
+
+  .qod-print-part-solutions {
+    break-before: page;
+  }
+
+  .qod-print-entry {
+    margin: 0 0 1.7rem;
+  }
+
+  .qod-print-entry-title {
+    margin: 0 0 0.8rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #ccc;
+    font-size: 14pt;
+    line-height: 1.25;
+    break-after: avoid-page;
+  }
+
+  .qod-print-entry-body > :first-child {
+    margin-top: 0;
+  }
+
+  .qod-print-entry-body > :last-child {
+    margin-bottom: 0;
+  }
+
+  .qod-print-document .katex-display,
+  .qod-print-document mjx-container[display="true"],
+  .qod-print-document img,
+  .qod-print-document table,
+  .qod-print-document figure {
+    break-inside: avoid-page;
+  }
+
+  .qod-print-document .katex-display {
+    margin: 0.7em 0;
+  }
+
+  .qod-print-document img {
+    display: block;
+    max-width: 100% !important;
+    max-height: 8in;
+    margin: 0.7rem auto;
+    object-fit: contain;
+  }
+
+  .qod-print-document table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .qod-print-document a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  .qod-print-document details {
+    display: block !important;
+  }
+
+  .qod-print-document details > summary {
+    display: none !important;
+  }
+
+  .qod-print-document details > * {
+    display: block !important;
+  }
+
+  .qod-print-document .callout-content {
+    display: block !important;
+  }
+
+  .qod-print-missing {
+    font-style: italic;
+  }
+}
+
+/* QOD PRINTABLE LEARNING PATH:END */

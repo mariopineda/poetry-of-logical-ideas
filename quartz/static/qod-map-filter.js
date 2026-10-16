@@ -46,6 +46,17 @@
 
   resetButton.insertAdjacentElement("afterend", copyLinkButton)
 
+  const printPdfButton = document.createElement("button")
+
+  printPdfButton.id = "qod-map-print-pdf"
+  printPdfButton.type = "button"
+  printPdfButton.className = "qod-map-reset"
+  printPdfButton.textContent = "Print / Save PDF"
+  printPdfButton.disabled = true
+  printPdfButton.hidden = true
+
+  copyLinkButton.insertAdjacentElement("afterend", printPdfButton)
+
   const coursesFor = (item) => (item.dataset.qodCourses || "").split("|").filter(Boolean)
 
   const topicFor = (item) => item.dataset.qodTopic || ""
@@ -649,6 +660,345 @@
   }
 
   // ----------------------------------------------------------
+  // Printable Learning Path packet
+  // ----------------------------------------------------------
+
+  let currentLearningPathItems = []
+
+  const cloneTemplateContent = (template) => {
+    const holder = document.createElement("div")
+
+    ;[...template.content.childNodes].forEach((node) => {
+      holder.appendChild(node.cloneNode(true))
+    })
+
+    return holder
+  }
+
+  const extractPrintSolutionSource = (content) => {
+    const hidden = content.querySelector("template.qod-hidden-solution-source")
+
+    if (hidden) {
+      const holder = cloneTemplateContent(hidden)
+
+      hidden.remove()
+
+      return holder
+    }
+
+    const marked = content.querySelector(".qod-solution-source")
+
+    if (marked) {
+      const holder = document.createElement("div")
+
+      holder.appendChild(marked.cloneNode(true))
+      marked.remove()
+
+      return holder
+    }
+
+    const candidate = [...content.querySelectorAll(".callout")].find(
+      (callout) => calloutTitle(callout) === "show solution",
+    )
+
+    if (candidate) {
+      const holder = document.createElement("div")
+
+      holder.appendChild(candidate.cloneNode(true))
+      candidate.remove()
+
+      return holder
+    }
+
+    return document.createElement("div")
+  }
+
+  const stripPrintChrome = (container) => {
+    container
+      .querySelectorAll(
+        [
+          "script",
+          "style",
+          "link",
+          "meta",
+          ".qod-inline-footer",
+          ".qod-learning-path-action",
+          ".external-icon",
+        ].join(","),
+      )
+      .forEach((node) => node.remove())
+
+    container.querySelectorAll(".callout").forEach((callout) => {
+      if (calloutTitle(callout) === "legacy video solution") {
+        callout.remove()
+      }
+    })
+
+    container
+      .querySelectorAll('a[href*="youtube.com"], a[href*="youtu.be"]')
+      .forEach((link) => {
+        if (
+          (link.textContent || "")
+            .toLowerCase()
+            .includes("legacy video")
+        ) {
+          link.remove()
+        }
+      })
+  }
+
+  const unwrapSolutionForPrint = (solutionSource) => {
+    const holder = document.createElement("div")
+
+    const callout = solutionSource.querySelector(".qod-solution-source, .callout")
+    const calloutContent = callout?.querySelector(".callout-content")
+    const source = calloutContent ?? solutionSource
+
+    ;[...source.childNodes].forEach((node) => {
+      holder.appendChild(node.cloneNode(true))
+    })
+
+    stripPrintChrome(holder)
+
+    holder.querySelectorAll("details").forEach((details) => {
+      details.open = true
+    })
+
+    return holder
+  }
+
+  const removeGenericQuestionHeading = (content) => {
+    const firstHeading = content.querySelector("h2")
+
+    if (
+      firstHeading &&
+      (firstHeading.textContent || "").trim().toLowerCase() === "question"
+    ) {
+      firstHeading.remove()
+    }
+  }
+
+  const fetchQodForPrint = async (item, index) => {
+    const link = item.querySelector(".qod-learning-path-link")
+
+    if (!link) {
+      throw new Error("Learning Path item is missing its QOD link.")
+    }
+
+    const response = await fetch(link.href, {
+      credentials: "same-origin",
+    })
+
+    if (!response.ok) {
+      throw new Error(`Could not load ${link.href}: HTTP ${response.status}`)
+    }
+
+    const html = await response.text()
+    const parsed = new DOMParser().parseFromString(html, "text/html")
+    const article = parsed.querySelector("article")
+
+    if (!article) {
+      throw new Error(`QOD article content was not found for ${link.href}`)
+    }
+
+    const content = document.createElement("div")
+
+    content.innerHTML = article.innerHTML
+
+    const solutionSource = extractPrintSolutionSource(content)
+
+    removeRelationshipContent(content)
+    rewriteRelativeUrls(content, response.url)
+    rewriteRelativeUrls(solutionSource, response.url)
+
+    removeGenericQuestionHeading(content)
+    stripPrintChrome(content)
+
+    const solution = unwrapSolutionForPrint(solutionSource)
+
+    return {
+      index: index + 1,
+      name: item.dataset.qodName || link.textContent?.trim() || `QOD ${index + 1}`,
+      question: content,
+      solution,
+    }
+  }
+
+  const makePrintEntry = (packet, type) => {
+    const section = document.createElement("section")
+
+    section.className = `qod-print-entry qod-print-${type}`
+
+    const heading = document.createElement("h2")
+
+    heading.className = "qod-print-entry-title"
+    heading.textContent = `${packet.index}. ${packet.name}`
+
+    const body = document.createElement("div")
+
+    body.className = "qod-print-entry-body"
+
+    const source = type === "question" ? packet.question : packet.solution
+
+    if (solutionHasContent(source)) {
+      ;[...source.childNodes].forEach((node) => {
+        body.appendChild(node.cloneNode(true))
+      })
+    } else {
+      const missing = document.createElement("p")
+
+      missing.className = "qod-print-missing"
+      missing.textContent =
+        type === "solution"
+          ? "A written solution is not available yet."
+          : "Question content is unavailable."
+
+      body.appendChild(missing)
+    }
+
+    body.querySelectorAll("details").forEach((details) => {
+      details.open = true
+    })
+
+    section.appendChild(heading)
+    section.appendChild(body)
+
+    return section
+  }
+
+  const buildPrintDocument = (packets) => {
+    document.querySelector(".qod-print-document")?.remove()
+
+    const packet = document.createElement("div")
+
+    packet.className = "qod-print-document"
+
+    const header = document.createElement("header")
+
+    header.className = "qod-print-header"
+
+    const siteTitle = document.createElement("div")
+
+    siteTitle.className = "qod-print-site-title"
+    siteTitle.textContent = "The Osculatorium"
+
+    const title = document.createElement("h1")
+
+    title.textContent = `${courseSelect.value} - ${topicSelect.value}`
+
+    const subtitle = document.createElement("p")
+
+    subtitle.textContent =
+      `Learning Path Practice Packet - ${packets.length} QOD${packets.length === 1 ? "" : "s"}`
+
+    header.appendChild(siteTitle)
+    header.appendChild(title)
+    header.appendChild(subtitle)
+
+    const questionsPart = document.createElement("section")
+
+    questionsPart.className = "qod-print-part qod-print-part-questions"
+
+    const questionsHeading = document.createElement("h1")
+
+    questionsHeading.className = "qod-print-part-title"
+    questionsHeading.textContent = "Part I - Questions"
+
+    questionsPart.appendChild(questionsHeading)
+
+    packets.forEach((item) => {
+      questionsPart.appendChild(makePrintEntry(item, "question"))
+    })
+
+    const solutionsPart = document.createElement("section")
+
+    solutionsPart.className = "qod-print-part qod-print-part-solutions"
+
+    const solutionsHeading = document.createElement("h1")
+
+    solutionsHeading.className = "qod-print-part-title"
+    solutionsHeading.textContent = "Part II - Solutions"
+
+    solutionsPart.appendChild(solutionsHeading)
+
+    packets.forEach((item) => {
+      solutionsPart.appendChild(makePrintEntry(item, "solution"))
+    })
+
+    packet.appendChild(header)
+    packet.appendChild(questionsPart)
+    packet.appendChild(solutionsPart)
+
+    document.body.appendChild(packet)
+
+    return packet
+  }
+
+  const waitForPrintAssets = async (packet) => {
+    const imagePromises = [...packet.querySelectorAll("img")].map(
+      (image) =>
+        new Promise((resolve) => {
+          if (image.complete) {
+            resolve()
+            return
+          }
+
+          image.addEventListener("load", resolve, { once: true })
+          image.addEventListener("error", resolve, { once: true })
+        }),
+    )
+
+    await Promise.all(imagePromises)
+
+    if (document.fonts?.ready) {
+      await document.fonts.ready
+    }
+  }
+
+  const printCurrentLearningPath = async () => {
+    if (
+      !courseSelect.value ||
+      !topicSelect.value ||
+      currentLearningPathItems.length === 0
+    ) {
+      return
+    }
+
+    const originalText = printPdfButton.textContent
+
+    printPdfButton.disabled = true
+    printPdfButton.textContent = "Preparing PDF..."
+
+    try {
+      const packets = await Promise.all(
+        currentLearningPathItems.map((item, index) =>
+          fetchQodForPrint(item, index),
+        ),
+      )
+
+      const packet = buildPrintDocument(packets)
+
+      await waitForPrintAssets(packet)
+
+      const cleanup = () => {
+        packet.remove()
+      }
+
+      window.addEventListener("afterprint", cleanup, { once: true })
+
+      window.print()
+    } catch (error) {
+      console.error("Unable to prepare printable Learning Path:", error)
+
+      window.alert(
+        "The printable packet could not be prepared. Please reload the Learning Path and try again.",
+      )
+    } finally {
+      printPdfButton.textContent = originalText
+      printPdfButton.disabled = false
+    }
+  }
+  // ----------------------------------------------------------
   // Course/topic learning-path ordering
   // ----------------------------------------------------------
 
@@ -663,6 +1013,11 @@
 
     copyLinkButton.disabled = !hasShareableSelection
     copyLinkButton.hidden = !hasShareableSelection
+
+    printPdfButton.disabled = !hasShareableSelection
+    printPdfButton.hidden = !hasShareableSelection
+
+    currentLearningPathItems = []
 
     closeAllPanels()
 
@@ -787,6 +1142,10 @@
       })
     })
 
+    currentLearningPathItems = [...selected]
+
+    printPdfButton.disabled = selected.length === 0
+
     prompt.hidden = true
 
     items.forEach((item) => {
@@ -868,6 +1227,7 @@
   })
 
   copyLinkButton.addEventListener("click", copyCurrentFilterUrl)
+  printPdfButton.addEventListener("click", printCurrentLearningPath)
 
   // Canonicalize the URL if it contained an invalid course/topic.
   syncUrlFromFilters()
