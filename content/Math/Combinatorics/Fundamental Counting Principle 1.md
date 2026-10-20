@@ -57,7 +57,7 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 >
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

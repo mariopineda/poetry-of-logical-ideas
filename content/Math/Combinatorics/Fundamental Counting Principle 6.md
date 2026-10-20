@@ -53,6 +53,7 @@ How many unique daily schedules can a household have for accessing all three uti
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
