@@ -54,3 +54,4 @@ Use the Fundamental Counting Principle to determine the total number of elements
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]

@@ -34,6 +34,7 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 6|Fundamental Counting Principle 6]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
