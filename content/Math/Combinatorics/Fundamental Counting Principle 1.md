@@ -69,3 +69,4 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]

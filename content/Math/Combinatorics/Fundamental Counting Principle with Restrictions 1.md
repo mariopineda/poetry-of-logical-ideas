@@ -63,3 +63,4 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]

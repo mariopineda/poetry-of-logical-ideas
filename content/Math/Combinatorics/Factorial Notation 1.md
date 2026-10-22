@@ -67,6 +67,7 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -25,6 +25,7 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
