@@ -14,8 +14,7 @@ A replacement exam allows an eligible student to select one unit and write a new
 
 **If your replacement-exam mark is higher than your original unit-exam mark, the replacement-exam mark is used. If your replacement-exam mark is lower than your original unit-exam mark, the mark for that unit is calculated as the average of the original unit-exam mark and the replacement-exam mark. If the two marks are equal, the mark for the unit is unchanged.**
 
-You may replace only one unit. You cannot use a replacement exam for a unit that has already been replaced, and you cannot use a replacement exam for a unit exam that was written as a late write.
-A unit exam written as a **Late Write** is not eligible for the Replacement Exam.
+You may replace only one unit. You cannot use a replacement exam for a unit that has already been replaced, and you cannot use a replacement exam for a unit exam that was written as a late write. A unit exam written as a **Late Write** is not eligible for the Replacement Exam.
 
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions

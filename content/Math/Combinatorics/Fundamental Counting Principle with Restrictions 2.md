@@ -63,3 +63,4 @@ How many access codes are possible if the first digit must be \(8\) and the last
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]

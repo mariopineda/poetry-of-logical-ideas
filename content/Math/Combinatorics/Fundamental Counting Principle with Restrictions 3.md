@@ -63,3 +63,4 @@ How many locker codes are possible if the first digit must be \(6\) and the last
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]

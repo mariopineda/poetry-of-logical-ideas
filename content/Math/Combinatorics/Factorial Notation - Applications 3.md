@@ -78,3 +78,4 @@ How many different arrangements are possible for the top three positions?
 > [!success] Build Toward
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]

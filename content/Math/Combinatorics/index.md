@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **27 Questions of the Day** · **Courses:** Not specified
+> **30 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -21,6 +21,9 @@ Practice questions for **Combinatorics**.
 | [[Math/Combinatorics/Combinations 1\|Combinations 1]] | Not specified |
 | [[Math/Combinatorics/Combinations 2\|Combinations 2]] | Not specified |
 | [[Math/Combinatorics/Combinations 3\|Combinations 3]] | Not specified |
+| [[Math/Combinatorics/Counting Methods Challenge 1\|Counting Methods Challenge 1]] | Not specified |
+| [[Math/Combinatorics/Counting Methods Challenge 2\|Counting Methods Challenge 2]] | Not specified |
+| [[Math/Combinatorics/Counting Methods Challenge 3\|Counting Methods Challenge 3]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Applications 1\|Factorial Notation - Applications 1]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Applications 2\|Factorial Notation - Applications 2]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Applications 3\|Factorial Notation - Applications 3]] | Not specified |
