@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Factorial Notation"
-show_solution: false
+  - Mathematics 30-2
+topic: Factorial Notation
+show_solution: true
 ---
 
 ### A.
@@ -26,22 +26,6 @@ How many different arrangements are possible?
 Six students compete for first, second, and third place in a contest.
 
 How many different arrangements are possible for the top three positions?
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
-> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
 ## Solution
 
@@ -78,3 +62,19 @@ How many different arrangements are possible for the top three positions?
 > $$
 > \frac{6!}{3!}=120
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
