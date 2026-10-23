@@ -11,6 +11,8 @@ related:
 
 Yes, but only while the official selection window is open. Once the window closes, your selection is final.
 
+**Choose carefully: writing a Replacement Exam can lower your mark for that unit. If your Replacement Exam mark is lower than your original unit-exam mark, the two exam marks are averaged to determine the mark for that unit.**
+
 The only exception is the final unit immediately before the replacement exam if its mark is not available before the selection window closes. In that situation, you may change to that final unit at the beginning of the replacement exam.
 
 <!-- RELATED-QUESTIONS:START -->

@@ -17,6 +17,8 @@ Normally, all regular unit exams are available as replacement-exam options, but 
 You must make your selection **in person during class** by telling me which eligible unit you want to replace. Email, direct message, or another remote message does not count as a selection.
 A unit exam that was written as a **Late Write** is not an eligible Replacement Exam selection.
 
+**Important: writing a Replacement Exam can lower your mark for that unit. If your Replacement Exam mark is lower than your original unit-exam mark, the two exam marks are averaged to determine the mark for that unit.**
+
 <!-- RELATED-QUESTIONS:START -->
 ## Related questions
 
