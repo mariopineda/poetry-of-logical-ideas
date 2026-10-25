@@ -1,0 +1,105 @@
+---
+type: qod
+publish: true
+course:
+  - "Mathematics 20-1"
+  - "Mathematics 20-2"
+  - "Mathematics 30-1"
+topic: Polynomial Functions
+show_solution: true
+---
+
+## Question
+
+Consider the function
+
+$$
+f(x)=ax^2+b,\qquad a<0
+$$
+
+Determine:
+
+a. the degree and name of the function.
+
+b. the sign of the leading coefficient.
+
+c. the constant term.
+
+d. the $y$-intercept.
+
+e. the maximum possible number of $x$-intercepts.
+
+f. the maximum possible number of turning points.
+
+g. the end behaviour, using quadrant notation.
+
+h. the domain.
+
+i. the range.
+
+## Solution
+
+> [!example]- Show solution
+>
+> a. The greatest exponent is $2$. Therefore, the function has **degree 2** and is a **quadratic function**.
+>
+> b. The leading coefficient is $a$. Since
+>
+> $$
+> a < 0,
+> $$
+>
+> the leading coefficient is **negative**.
+>
+> c. The constant term is
+>
+> $$
+> b.
+> $$
+>
+> d. The constant term is equal to the $y$-intercept. Therefore, the $y$-intercept is
+>
+> $$
+> (0,b).
+> $$
+>
+> e. The maximum number of $x$-intercepts is equal to the degree. Therefore, the function can have a maximum of **2 $x$-intercepts**.
+>
+> f. The maximum number of turning points is one less than the degree:
+>
+> $$
+> 2-1=1.
+> $$
+>
+> Therefore, the function can have a maximum of **1 turning point**.
+>
+> g. The function has even degree and a negative leading coefficient. Therefore, the end behaviour is
+>
+> $$
+> Q3\rightarrow Q4.
+> $$
+>
+> h. The domain of a polynomial function is all real numbers:
+>
+> $$
+> D:\{x\mid x\in\mathbb{R}\}.
+> $$
+>
+> i. Because $a<0$, the parabola opens downward. Since there is no $x$-term, the turning point is $(0,b)$, so $b$ is the absolute maximum.
+>
+> Therefore,
+>
+> $$
+> R:\{y\mid y\le b,\ y\in\mathbb{R}\}.
+> $$
+
+## Review First
+
+- [[Function Notation 1]]
+
+## Explore Also
+
+- [[Polynomial Functions - Analyzing a Polynomial Equation 2]]
+- [[Polynomial Functions - Analyzing a Polynomial Equation 3]]
+
+## Build Toward
