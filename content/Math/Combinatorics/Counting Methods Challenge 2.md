@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Permutations"
-show_solution: false
+  - Mathematics 30-2
+topic: Permutations
+show_solution: true
 ---
 
 ### A.
@@ -34,21 +34,6 @@ Eight students are competing for four different positions on a student council: 
 How many different ways can the four positions be filled?
 
 Use permutation notation.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
-> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
-> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
 ## Solution
 
@@ -104,3 +89,18 @@ Use permutation notation.
 > $$
 >
 > arrangements are possible.
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
+> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
