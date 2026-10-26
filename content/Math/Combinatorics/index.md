@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **30 Questions of the Day** · **Courses:** Not specified
+> **33 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -41,6 +41,9 @@ Practice questions for **Combinatorics**.
 | [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2\|Fundamental Counting Principle with Restrictions 2]] | Not specified |
 | [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3\|Fundamental Counting Principle with Restrictions 3]] | Not specified |
 | [[Math/Combinatorics/Pascal's Triangle\|Pascal's Triangle]] | Not specified |
+| [[Math/Combinatorics/Permutations - At Least and At Most 1\|Permutations - At Least and At Most 1]] | Not specified |
+| [[Math/Combinatorics/Permutations - At Least and At Most 2\|Permutations - At Least and At Most 2]] | Not specified |
+| [[Math/Combinatorics/Permutations - At Least and At Most 3\|Permutations - At Least and At Most 3]] | Not specified |
 | [[Math/Combinatorics/Permutations 1\|Permutations 1]] | Not specified |
 | [[Math/Combinatorics/Permutations 2\|Permutations 2]] | Not specified |
 | [[Math/Combinatorics/Permutations 3\|Permutations 3]] | Not specified |
