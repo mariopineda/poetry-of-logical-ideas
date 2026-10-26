@@ -17,6 +17,36 @@ b) there are 1 Canadian, 2 British, 2 Ethiopian, 1 Algerian, and 2 Kenyan runner
 ## Solution
 
 > [!example]- Show solution
+>
+> Use the multiset-permutation formula
+>
+> $$
+> \frac{n!}{n_1!n_2!\cdots}.
+> $$
+>
+> ### A.
+>
+> There are $8$ runners, with country repetitions of $2$ Canadians and $3$ Americans:
+>
+> $$
+> \frac{8!}{2!3!}
+> =
+> \frac{40320}{12}
+> =
+> \boxed{3360}.
+> $$
+>
+> ### B.
+>
+> There are three countries represented twice: Britain, Ethiopia, and Kenya.
+>
+> $$
+> \frac{8!}{2!2!2!}
+> =
+> \frac{40320}{8}
+> =
+> \boxed{5040}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]

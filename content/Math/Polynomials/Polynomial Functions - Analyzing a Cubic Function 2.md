@@ -93,6 +93,7 @@ Round non-integer coordinates to the nearest hundredth.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 3|Polynomial Functions - Analyzing a Cubic Function 3]]
+> - [[Math/Polynomials/Polynomial Functions - Analyzing a Cubic Function 1|Polynomial Functions - Analyzing a Cubic Function 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

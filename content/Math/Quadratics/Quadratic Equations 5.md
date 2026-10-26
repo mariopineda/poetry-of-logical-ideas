@@ -34,6 +34,32 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> For
+>
+> $$
+> 6x^2+2x-1=0,
+> $$
+>
+> use the quadratic formula:
+>
+> $$
+> x=
+> \frac{-2\pm\sqrt{2^2-4(6)(-1)}}{12}.
+> $$
+>
+> Thus,
+>
+> $$
+> x=
+> \frac{-2\pm\sqrt{28}}{12}
+> =
+> \frac{-2\pm2\sqrt7}{12}
+> =
+> \boxed{\frac{-1\pm\sqrt7}{6}}.
+> $$
+>
+> Therefore the correct answer is **choice 3**.
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

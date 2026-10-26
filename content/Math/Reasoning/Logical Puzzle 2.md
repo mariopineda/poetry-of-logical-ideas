@@ -2,7 +2,6 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10-3"
   - "Mathematics 20-2"
   - "Mathematics 30-2"
   - "Mathematics 30-3"
@@ -10,14 +9,45 @@ topic: "Logical Reasoning"
 show_solution: true
 ---
 
-Complete the following magic squares using the numbers 1-9 for the 3x3 square and 1 to 16 for the 4x4 square so that the sum of every row, column and diagonal is the same.
+Construct:
 
-![[Images/Legacy/magic-square-3.png]]
-![[Images/Legacy/magic-square-4.png]]
+1. a $3\times3$ magic square using each integer from $1$ to $9$ exactly once;
+2. a $4\times4$ magic square using each integer from $1$ to $16$ exactly once.
+
+In each square, every row, column, and main diagonal must have the same sum.
 
 ## Solution
 
 > [!example]- Show solution
+>
+> One valid $3\times3$ magic square is
+>
+> |   |   |   |
+> |---|---|---|
+> | $8$ | $1$ | $6$ |
+> | $3$ | $5$ | $7$ |
+> | $4$ | $9$ | $2$ |
+>
+> Every row, column, and diagonal sums to
+>
+> $$
+> \boxed{15}.
+> $$
+>
+> One valid $4\times4$ magic square is
+>
+> |   |   |   |   |
+> |---|---|---|---|
+> | $16$ | $2$ | $3$ | $13$ |
+> | $5$ | $11$ | $10$ | $8$ |
+> | $9$ | $7$ | $6$ | $12$ |
+> | $4$ | $14$ | $15$ | $1$ |
+>
+> Every row, column, and main diagonal sums to
+>
+> $$
+> \boxed{34}.
+> $$
 
 > [!abstract] Review First
 > _No linked questions yet._

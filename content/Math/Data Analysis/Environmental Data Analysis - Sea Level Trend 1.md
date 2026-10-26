@@ -10,20 +10,82 @@ topic: "Data Analysis"
 show_solution: true
 ---
 
-Sea level is rising, in part, because of global climate change causes the melting glaciers on land which are adding more water to EarthÃ¢â‚¬â„¢s oceans. Glaciers Ã¢â‚¬â€œ large sheets of ice and snow Ã¢â‚¬â€œ exist on land all year long. They are found in the mountains of every continent except Australia. Greenland and Antarctica contain giant ice sheets that are also considered glaciers. As temperatures rise, glaciers melt faster than they accumulate new snow. As these ice sheets and glaciers melt, the water eventually runs into the ocean, causing sea level to rise. Since the beginning of the 20th century sea levels have risen about 20 cm and the ocean is projected to rise as much as 1 m or more by the end of this century. According to satellite sea level observations the global sea level has risen by 91.3 mm since 1993.
+Satellite observations show that global mean sea level in **2020** was **91.3 mm above the 1993 mean**.
 
-1. Determine the rate at which the sea level is changing, in mm/year.
-2. Determine the linear equation describing the sea level change.
-3. Determine the sea level change since 1993 in 2000. Answer to the nearest tenth of a mm.
-4. Using you model, predict the sea level change in 2100. Answer to the nearest centimeter.
+For this QOD, assume the change in global mean sea level is linear from 1993 to 2020.
+
+Let $S(t)$ represent the change in global mean sea level, in millimetres, relative to the 1993 mean, where $t$ is the calendar year.
+
+1. Determine the average rate of change in sea level from 1993 to 2020, in mm/year.
+2. Determine a linear model for $S(t)$.
+3. Use the model to determine the sea-level change in 2000, to the nearest tenth of a millimetre.
+4. Use the model to predict the sea-level change in 2100, to the nearest centimetre.
+
+> [!info]- Source
+> *State of the Climate in 2020* reports that 2020 global mean sea level was 91.3 mm above the 1993 mean.
 
 ## Solution
 
 > [!example]- Show solution
 >
-> > [!info]- Source
-> > [NASA Jet Propulsion Laboratory / California Institute of Technology](https://www.jpl.nasa.gov/edu/teach/activity/graphing-sea-level-trends/)
+> From 1993 to 2020, the elapsed time is
 >
+> $$
+> 2020-1993=27\text{ years}.
+> $$
+>
+> ### 1. Average rate of change
+>
+> $$
+> m=\frac{91.3}{27}\approx3.3815.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{m\approx3.38\text{ mm/year}}.
+> $$
+>
+> ### 2. Linear model
+>
+> Since $S(1993)=0$,
+>
+> $$
+> \boxed{S(t)=\frac{91.3}{27}(t-1993)}.
+> $$
+>
+> ### 3. Sea-level change in 2000
+>
+> $$
+> S(2000)=\frac{91.3}{27}(7)\approx23.7.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{23.7\text{ mm}}.
+> $$
+>
+> ### 4. Prediction for 2100
+>
+> $$
+> S(2100)=\frac{91.3}{27}(107)\approx361.8\text{ mm}.
+> $$
+>
+> Thus,
+>
+> $$
+> 361.8\text{ mm}\approx36.2\text{ cm},
+> $$
+>
+> so to the nearest centimetre,
+>
+> $$
+> \boxed{36\text{ cm}}.
+> $$
+>
+> > [!warning]
+> > This is a simple linear extrapolation for mathematical practice. Actual sea-level change is not assumed to remain linear through 2100.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]

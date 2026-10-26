@@ -7,19 +7,73 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-Find the rate of change indicated. assume all of the variables are functions of time.
+Find the indicated rate of change. Assume all variables are functions of time.
 
-#### A.
+### A.
 
-For $A=L \times w$, find $\frac{dA}{dt}$.
+For
 
-#### B.
+$$
+A=Lw,
+$$
 
-For $V=\frac{4}{3} \pi r^3$, find $\frac{dV}{dt}$.
+find
+
+$$
+\frac{dA}{dt}.
+$$
+
+### B.
+
+For
+
+$$
+V=\frac43\pi r^3,
+$$
+
+find
+
+$$
+\frac{dV}{dt}.
+$$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> Using the Product Rule,
+>
+> $$
+> \boxed{
+> \frac{dA}{dt}
+> =
+> w\frac{dL}{dt}
+> +
+> L\frac{dw}{dt}
+> }.
+> $$
+>
+> ### B.
+>
+> Differentiate with respect to time:
+>
+> $$
+> \frac{dV}{dt}
+> =
+> \frac43\pi(3r^2)\frac{dr}{dt}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> \frac{dV}{dt}
+> =
+> 4\pi r^2\frac{dr}{dt}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]

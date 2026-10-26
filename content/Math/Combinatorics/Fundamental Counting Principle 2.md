@@ -24,6 +24,8 @@ How many ways are there of getting from A to C, passing through each point at mo
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

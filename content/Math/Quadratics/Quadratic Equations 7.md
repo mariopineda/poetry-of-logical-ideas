@@ -8,11 +8,37 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-A ball is thrown upwards from the top of a cliff. The height, $h$, of the ball in metres after $t$ seconds is given by the equation $h(t) = -4.9t^2 +12t +125$. How long will it take for the ball to reach its maximum height, rounded to the nearest hundreth of a second?
+A ball is thrown upward from the top of a cliff. Its height, $h$, in metres after $t$ seconds is
 
-<!--
+$$
+h(t)=-4.9t^2+12t+125.
+$$
+
+How long will it take the ball to reach its maximum height? Round to the nearest hundredth of a second.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> For $h(t)=at^2+bt+c$, the maximum occurs at
+>
+> $$
+> t=-\frac{b}{2a}.
+> $$
+>
+> Here,
+>
+> $$
+> t=-\frac{12}{2(-4.9)}
+> =\frac{12}{9.8}
+> \approx1.22449.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{1.22\text{ s}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

@@ -24,6 +24,66 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1.
+>
+> $$
+> y=\frac{4}{x\sqrt{x+8}}.
+> $$
+>
+> Because the square root is in the denominator, we require
+>
+> $$
+> x+8>0.
+> $$
+>
+> Also,
+>
+> $$
+> x\neq0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{(-8,0)\cup(0,\infty)}.
+> $$
+>
+> ### 2.
+>
+> $$
+> y=\frac{\sqrt{6-x}}{x^2-x}.
+> $$
+>
+> The radicand must satisfy
+>
+> $$
+> 6-x\geq0,
+> $$
+>
+> so
+>
+> $$
+> x\leq6.
+> $$
+>
+> Also,
+>
+> $$
+> x^2-x=x(x-1)\neq0,
+> $$
+>
+> so
+>
+> $$
+> x\neq0,1.
+> $$
+>
+> Hence the domain is
+>
+> $$
+> \boxed{(-\infty,0)\cup(0,1)\cup(1,6]}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

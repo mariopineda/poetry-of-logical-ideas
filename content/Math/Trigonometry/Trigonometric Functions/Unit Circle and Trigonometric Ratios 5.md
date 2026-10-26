@@ -10,27 +10,33 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-Use the $30^\circ-60^\circ-90^\circ$ triangle to find the exact trigonometric ratios of the following angles.
-
-1.
+Use a $30^\circ$-$60^\circ$-$90^\circ$ triangle to find the exact values of
 
 $$
-\sin(30^\circ) = \sin \left( \frac{\pi}{6} \right)
+\sin30^\circ,\qquad \cos30^\circ,\qquad \tan30^\circ.
 $$
-2.
-
-$$
-\cos(30^\circ) = \cos \left( \frac{\pi}{6} \right)
-$$
-3.
-
-$$
-\tan(30^\circ) = \tan \left( \frac{\pi}{6} \right)
-$$
-
-<!--
 
 ## Solution
+
+> [!example]- Show solution
+>
+> $$
+> \boxed{\sin30^\circ=\frac12},
+> $$
+>
+> $$
+> \boxed{\cos30^\circ=\frac{\sqrt3}{2}},
+> $$
+>
+> and
+>
+> $$
+> \tan30^\circ
+> =
+> \frac{1}{\sqrt3}
+> =
+> \boxed{\frac{\sqrt3}{3}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

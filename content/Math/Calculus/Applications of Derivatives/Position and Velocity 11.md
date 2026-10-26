@@ -7,19 +7,83 @@ topic: "Motion and Derivatives"
 show_solution: true
 ---
 
-An object thrown straight upward with a speed of 31 m/s and at an initial height of 207 metres, has the position function $s(t) = -4.7t^2+31t+207$, where up is positive and down is negative.
+An object is thrown straight upward at $31\text{ m/s}$ from an initial height of $207$ m. Its position is
 
-#### A.
+$$
+s(t)=-4.7t^2+31t+207,
+$$
 
-Determine (to one decimal place) its maximum height.
+where upward is positive and downward is negative.
 
-#### B.
+### A.
 
-Determine (to one decimal place) when it hits the ground.
+Determine its maximum height, to one decimal place.
+
+### B.
+
+Determine when it hits the ground, to one decimal place.
 
 ## Solution
 
 > [!example]- Show solution
+>
+> Differentiate:
+>
+> $$
+> v(t)=-9.4t+31.
+> $$
+>
+> ### A.
+>
+> The maximum height occurs when
+>
+> $$
+> v(t)=0.
+> $$
+>
+> Thus,
+>
+> $$
+> t=\frac{31}{9.4}\approx3.2979.
+> $$
+>
+> Then
+>
+> $$
+> s(3.2979)\approx258.1170.
+> $$
+>
+> Therefore, the maximum height is
+>
+> $$
+> \boxed{258.1\text{ m}}.
+> $$
+>
+> ### B.
+>
+> The object hits the ground when
+>
+> $$
+> s(t)=0.
+> $$
+>
+> So
+>
+> $$
+> -4.7t^2+31t+207=0.
+> $$
+>
+> The positive root is
+>
+> $$
+> t\approx10.7086.
+> $$
+>
+> Therefore, it hits the ground after
+>
+> $$
+> \boxed{10.7\text{ s}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]

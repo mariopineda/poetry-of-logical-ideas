@@ -12,6 +12,44 @@ If $f(x)=5-3x$ and $g(x)=4x+1$, then solve $f(2-5x)=g(4x+6)$.
 ## Solution
 
 > [!example]- Show solution
+>
+> Compute each side.
+>
+> $$
+> f(2-5x)
+> =
+> 5-3(2-5x)
+> =
+> 15x-1.
+> $$
+>
+> Also,
+>
+> $$
+> g(4x+6)
+> =
+> 4(4x+6)+1
+> =
+> 16x+25.
+> $$
+>
+> Set them equal:
+>
+> $$
+> 15x-1=16x+25.
+> $$
+>
+> Thus,
+>
+> $$
+> -x=26
+> $$
+>
+> and
+>
+> $$
+> \boxed{x=-26}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

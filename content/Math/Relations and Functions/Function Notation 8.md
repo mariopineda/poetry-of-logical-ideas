@@ -7,32 +7,80 @@ topic: "Function Notation"
 show_solution: true
 ---
 
-Using the graph of $f(x)$, evaluate the following.
-
-1.
+Let
 
 $$
-f(0)
+f(x)=|x-2|-1.
 $$
-2.
 
-$$
-f(1)
-$$
-3.
+Evaluate or solve:
 
-$$
-f(x)=1
-$$
-4.
-
-$$
-f(x)=-1
-$$
+1. $f(0)$
+2. $f(1)$
+3. $f(x)=1$
+4. $f(x)=-1$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1.
+>
+> $$
+> f(0)=|0-2|-1=2-1=\boxed{1}.
+> $$
+>
+> ### 2.
+>
+> $$
+> f(1)=|1-2|-1=1-1=\boxed{0}.
+> $$
+>
+> ### 3.
+>
+> Solve
+>
+> $$
+> |x-2|-1=1.
+> $$
+>
+> Then
+>
+> $$
+> |x-2|=2,
+> $$
+>
+> so
+>
+> $$
+> x-2=\pm2.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{x=0,\ 4}.
+> $$
+>
+> ### 4.
+>
+> Solve
+>
+> $$
+> |x-2|-1=-1.
+> $$
+>
+> Then
+>
+> $$
+> |x-2|=0,
+> $$
+>
+> so
+>
+> $$
+> \boxed{x=2}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

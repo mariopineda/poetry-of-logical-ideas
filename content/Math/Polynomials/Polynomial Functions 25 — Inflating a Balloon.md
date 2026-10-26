@@ -94,6 +94,7 @@ Use your graphing calculator.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 23 — Cycling Record|Polynomial Functions 23 — Cycling Record]]
+> - [[Math/Polynomials/Polynomial Functions 22 — Redesigning a Box|Polynomial Functions 22 — Redesigning a Box]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

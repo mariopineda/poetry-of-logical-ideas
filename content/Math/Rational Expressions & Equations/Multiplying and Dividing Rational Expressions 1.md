@@ -104,6 +104,19 @@ $$
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1|Rational Expressions - Field Model 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 4|Exponent and Polynomial Skills 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -117,3 +130,6 @@ $$
 > [!success] Build Toward
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 > - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 3|Dividing Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 2|Dividing Rational Expressions 2]]

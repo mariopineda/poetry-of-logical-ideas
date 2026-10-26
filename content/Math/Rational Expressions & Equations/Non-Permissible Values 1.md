@@ -111,6 +111,12 @@ In each case, write a rational expression with the given variable and non-permis
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 4|Exponent and Polynomial Skills 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -124,3 +130,22 @@ In each case, write a rational expression with the given variable and non-permis
 > [!success] Build Toward
 > - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
 > - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 2|Sums and Differences with Binomial Denominators 2]]
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1|Rational Expressions - Field Model 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 3|Dividing Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3|Sums and Differences with Binomial Denominators 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Holes and Vertical Asymptotes 1|Rational Functions - Holes and Vertical Asymptotes 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1|Rational Functions - Parameter and Removable Discontinuity 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Error Analysis 1|Rational Expressions - Error Analysis 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1|Rational Functions - Equivalent Rules and Domains 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1|Rational Functions - Reciprocal Form and Asymptotes 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 2|Dividing Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]

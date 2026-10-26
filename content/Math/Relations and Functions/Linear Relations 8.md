@@ -16,6 +16,61 @@ A person's height can be estimated using the fact that height and the length of 
 ## Solution
 
 > [!example]- Show solution
+>
+> Use the two data points
+>
+> $$
+> (l,h)=(30,160)
+> $$
+>
+> and
+>
+> $$
+> (l,h)=(40,190).
+> $$
+>
+> The slope is
+>
+> $$
+> m=\frac{190-160}{40-30}=3.
+> $$
+>
+> So
+>
+> $$
+> h=3l+b.
+> $$
+>
+> Using $(30,160)$,
+>
+> $$
+> 160=3(30)+b
+> $$
+>
+> gives
+>
+> $$
+> b=70.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{h=3l+70}.
+> $$
+>
+> For $l=38.2$ cm,
+>
+> $$
+> h=3(38.2)+70
+> =184.6.
+> $$
+>
+> Thus the estimated height is
+>
+> $$
+> \boxed{184.6\text{ cm}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]

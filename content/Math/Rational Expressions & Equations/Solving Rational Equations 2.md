@@ -25,6 +25,42 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> $$
+> x^2-10x+24=0
+> $$
+>
+> factors as
+>
+> $$
+> (x-4)(x-6)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=4,\ 6}.
+> $$
+>
+> ### B.
+>
+> $$
+> x^2-10x-24=0
+> $$
+>
+> factors as
+>
+> $$
+> (x-12)(x+2)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=-2,\ 12}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]

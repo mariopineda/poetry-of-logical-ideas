@@ -50,6 +50,8 @@ You are playing fetch with your dog and throw a ball vertically upward. You reco
 > - [[Math/Polynomials/Polynomial Functions 6|Polynomial Functions 6]]
 > - [[Math/Polynomials/Polynomial Functions 8|Polynomial Functions 8]]
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+> - [[Math/Polynomials/Polynomial Functions 21 — Hiking Trail|Polynomial Functions 21 — Hiking Trail]]
+> - [[Math/Polynomials/Polynomial Functions 15|Polynomial Functions 15]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

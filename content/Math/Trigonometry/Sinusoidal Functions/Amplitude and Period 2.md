@@ -17,6 +17,86 @@ Consider the following periodic function $f(x) = 15.3 \sin{(\pi x)}$.
 ## Solution
 
 > [!example]- Show solution
+>
+> For
+>
+> $$
+> f(x)=15.3\sin(\pi x),
+> $$
+>
+> the amplitude is
+>
+> $$
+> 15.3
+> $$
+>
+> and the period is
+>
+> $$
+> \frac{2\pi}{\pi}=2.
+> $$
+>
+> ### 1–2. Graphing window
+>
+> Three complete periods require an $x$-interval of length
+>
+> $$
+> 3(2)=6.
+> $$
+>
+> A suitable window is therefore
+>
+> $$
+> 0\leq x\leq6,
+> \qquad
+> -16\leq y\leq16.
+> $$
+>
+> The graph starts at $(0,0)$ and completes three full cycles on $0\leq x\leq6$.
+>
+> ### 3.
+>
+> $$
+> f(4.5)
+> =
+> 15.3\sin(4.5\pi)
+> =
+> 15.3.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{f(4.5)=15.3}.
+> $$
+>
+> ### 4.
+>
+> Solve
+>
+> $$
+> 15.3\sin(\pi x)=-8.5.
+> $$
+>
+> Thus,
+>
+> $$
+> \sin(\pi x)=-\frac{5}{9}.
+> $$
+>
+> For $3<x<4$, the two solutions are
+>
+> $$
+> x\approx3.1875
+> \qquad\text{and}\qquad
+> x\approx3.8125.
+> $$
+>
+> To the nearest hundredth,
+>
+> $$
+> \boxed{x\approx3.19,\ 3.81}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]

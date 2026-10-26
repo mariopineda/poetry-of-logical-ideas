@@ -9,21 +9,75 @@ show_solution: true
 
 Find $y'$.
 
-#### A.
+### A.
 
 $$
-xy + x^3 = y^2-4
+xy+x^3=y^2-4
 $$
 
-#### B.
+### B.
 
 $$
-y-x^2y^3 = x+y^2
+y-x^2y^3=x+y^2
 $$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> Differentiate:
+>
+> $$
+> y+xy'+3x^2=2yy'.
+> $$
+>
+> Collect the $y'$ terms:
+>
+> $$
+> (2y-x)y'=y+3x^2.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> y'=
+> \frac{y+3x^2}{2y-x}
+> }.
+> $$
+>
+> ### B.
+>
+> Differentiate:
+>
+> $$
+> y'
+> -
+> \left(2xy^3+3x^2y^2y'\right)
+> =
+> 1+2yy'.
+> $$
+>
+> Collect the $y'$ terms:
+>
+> $$
+> y'(1-3x^2y^2-2y)
+> =
+> 1+2xy^3.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> y'
+> =
+> \frac{1+2xy^3}
+> {1-3x^2y^2-2y}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]

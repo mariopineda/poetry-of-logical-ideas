@@ -25,6 +25,44 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> $$
+> 3x^2-13x-10=0
+> $$
+>
+> factors as
+>
+> $$
+> (3x+2)(x-5)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=-\frac23,\ 5}.
+> $$
+>
+> ### B.
+>
+> Move all terms to one side:
+>
+> $$
+> 6x^2+17x-3=0.
+> $$
+>
+> Factor:
+>
+> $$
+> (6x-1)(x+3)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=\frac16,\ -3}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]

@@ -12,6 +12,19 @@ Write the formula for the perimeter of a square in function notation, where $P$ 
 ## Solution
 
 > [!example]- Show solution
+>
+> A square has four equal sides, each of length $s$. Therefore,
+>
+> $$
+> P=4s.
+> $$
+>
+> In function notation,
+>
+> $$
+> \boxed{P(s)=4s},
+> \qquad s\geq0.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

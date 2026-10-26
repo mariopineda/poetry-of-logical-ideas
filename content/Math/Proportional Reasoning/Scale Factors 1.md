@@ -2,24 +2,33 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10-3"
   - "Mathematics 10C"
   - "Mathematics 20-2"
 topic: "Scale Factors"
 show_solution: true
 ---
 
-The length of a cell in an onion skin is approximatelly 200 $\mu$m (0.2 mm). In a photograph taken through a microscope the average length of an epidermal cell is 35 mm. Determine the linear scale factor of the enlarged cell in the photograph.
+The length of a cell in an onion skin is approximately $200\,\mu\text{m}$, or $0.2\text{ mm}$. In a photograph taken through a microscope, the average length of an epidermal cell is $35\text{ mm}$.
+
+Determine the **linear scale factor** of the enlarged cell in the photograph.
 
 ![[Images/Legacy/onion-cell.jpg]]
 
-Pigmented cells from an epidermal peel from the bulb of a red onion.
-
-Image source: [Wikipedia](https://en.wikipedia.org/wiki/Onion_epidermal_cell#/media/File:Cells_from_a_red_onion_epidermal_peel.tif)
-
-<!--
-
 ## Solution
+
+> [!example]- Show solution
+>
+> Use the same units:
+>
+> $$
+> \text{scale factor}
+> =
+> \frac{35\text{ mm}}{0.2\text{ mm}}
+> =
+> \boxed{175}.
+> $$
+>
+> The photograph enlarges the cell by a linear scale factor of $175$.
 
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]

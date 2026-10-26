@@ -128,6 +128,7 @@ A company makes a rectangular container with interior dimensions $9$ cm by $7$ c
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 2|Polynomial Functions - Reviewing a Cubic Volume Model 2]]
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1|Polynomial Functions - Reviewing a Cubic Volume Model 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

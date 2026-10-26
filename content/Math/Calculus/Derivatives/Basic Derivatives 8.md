@@ -7,11 +7,53 @@ topic: "Basic Derivatives"
 show_solution: true
 ---
 
-For what values of $x$ does $y=4x^3-19x-14x+20$ have a horizontal tangent?
+For what real values of $x$ does
+
+$$
+y=4x^3-33x+20
+$$
+
+have a horizontal tangent?
 
 ## Solution
 
 > [!example]- Show solution
+>
+> A horizontal tangent occurs when
+>
+> $$
+> y'=0.
+> $$
+>
+> Differentiate:
+>
+> $$
+> y'=12x^2-33.
+> $$
+>
+> Set the derivative equal to zero:
+>
+> $$
+> 12x^2-33=0.
+> $$
+>
+> Thus,
+>
+> $$
+> 12x^2=33
+> $$
+>
+> and
+>
+> $$
+> x^2=\frac{11}{4}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=\pm\frac{\sqrt{11}}{2}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]

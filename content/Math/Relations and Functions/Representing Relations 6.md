@@ -7,23 +7,25 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-For each of the following table of values, express the relationship
+For each table of values:
 
-1. in words
-2. as an equation ($y$ in terms of $x$; $x$ is the independent variable, $y$ is the dependent variable)
+1. describe the relationship in words;
+2. write an equation for $y$ in terms of $x$.
 
-|  |  |
-| --- | --- |
+### A.
+
 | $x$ | $y$ |
+|---:|---:|
 | 1 | 2 |
 | 2 | 4 |
 | 3 | 8 |
 | 4 | 16 |
 | 5 | 32 |
 
-|  |  |
-| --- | --- |
+### B.
+
 | $x$ | $y$ |
+|---:|---:|
 | 1 | 4 |
 | 2 | 1 |
 | 3 | 0 |
@@ -34,10 +36,21 @@ For each of the following table of values, express the relationship
 
 > [!example]- Show solution
 >
-> <!-- Solution template
+> ### A.
 >
-> ## Solution
+> Each time $x$ increases by $1$, $y$ doubles.
 >
+> $$
+> \boxed{y=2^x}.
+> $$
+>
+> ### B.
+>
+> The value of $y$ is the square of the distance between $x$ and $3$.
+>
+> $$
+> \boxed{y=(x-3)^2}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

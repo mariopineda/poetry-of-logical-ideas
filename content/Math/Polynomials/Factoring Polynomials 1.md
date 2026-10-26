@@ -7,42 +7,48 @@ topic: "Factoring Polynomials"
 show_solution: true
 ---
 
-Factor the following polynomials by removing the greatest common factor.
+Factor each polynomial by removing the greatest common factor.
 
-1.
-
-$$
-21x+14y
-$$
-2.
-
-$$
-5a^2+25a
-$$
-3.
-
-$$
--4mn-6m^2
-$$
-4.
-
-$$
-5x^4+15x^3+5x^2
-$$
-5.
-
-$$
-18x-16y
-$$
-6.
-
-$$
-18x^2y^2-45xy+9x
-$$
-
-<!--
+1. $21x+14y$
+2. $5a^2+25a$
+3. $-4mn-6m^2$
+4. $5x^4+15x^3+5x^2$
+5. $18x-16y$
+6. $18x^2y^2-45xy+9x$
 
 ## Solution
+
+> [!example]- Show solution
+>
+> 1.
+> $$
+> 21x+14y=\boxed{7(3x+2y)}
+> $$
+>
+> 2.
+> $$
+> 5a^2+25a=\boxed{5a(a+5)}
+> $$
+>
+> 3.
+> $$
+> -4mn-6m^2=\boxed{-2m(2n+3m)}
+> $$
+>
+> 4.
+> $$
+> 5x^4+15x^3+5x^2=\boxed{5x^2(x^2+3x+1)}
+> $$
+>
+> 5.
+> $$
+> 18x-16y=\boxed{2(9x-8y)}
+> $$
+>
+> 6.
+> $$
+> 18x^2y^2-45xy+9x=\boxed{9x(2xy^2-5y+1)}
+> $$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
@@ -101,3 +107,7 @@ $$
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 1|Sketching Polynomial Functions 1]]
 > - [[Math/Polynomials/Sketching Polynomial Functions 2|Sketching Polynomial Functions 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1|Rational Functions - Reciprocal Form and Asymptotes 1]]

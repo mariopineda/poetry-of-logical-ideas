@@ -13,9 +13,68 @@ A rock is dropped into a pool and it begins to create a circular wave. If the ci
 
 > [!example]- Show solution
 >
+> Let $r$ be the radius of the circular wave.
+>
+> Since the wave moves outward at
+>
+> $$
+> \frac{dr}{dt}=6\text{ cm/s},
+> $$
+>
+> and starts at radius $0$,
+>
+> $$
+> r=6t.
+> $$
+>
+> After $5$ seconds,
+>
+> $$
+> r=30\text{ cm}.
+> $$
+>
+> The area is
+>
+> $$
+> A=\pi r^2.
+> $$
+>
+> Differentiate with respect to time:
+>
+> $$
+> \frac{dA}{dt}
+> =
+> 2\pi r\frac{dr}{dt}.
+> $$
+>
+> Substitute
+>
+> $$
+> r=30
+> $$
+>
+> and
+>
+> $$
+> \frac{dr}{dt}=6:
+> $$
+>
+> $$
+> \frac{dA}{dt}
+> =
+> 2\pi(30)(6)
+> =
+> \boxed{360\pi\text{ cm}^2/\text{s}}.
+> $$
+>
+> Approximately,
+>
+> $$
+> \boxed{1131.0\text{ cm}^2/\text{s}}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/_YRccPEBvwQ
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Implicit Differentiation 1|Implicit Differentiation 1]]

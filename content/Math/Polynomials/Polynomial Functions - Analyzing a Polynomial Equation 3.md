@@ -98,6 +98,7 @@ i. the range.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 2|Polynomial Functions - Analyzing a Polynomial Equation 2]]
+> - [[Math/Polynomials/Polynomial Functions - Analyzing a Polynomial Equation 1|Polynomial Functions - Analyzing a Polynomial Equation 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -13,9 +13,44 @@ Differentiate $f(t) = 2t^5 \times h(t)$, where $f$ and $h$ are differentiable fu
 
 > [!example]- Show solution
 >
+> Differentiate
+>
+> $$
+> f(t)=2t^5h(t).
+> $$
+>
+> Using the Product Rule,
+>
+> $$
+> f'(t)
+> =
+> 10t^4h(t)
+> +
+> 2t^5h'(t).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> f'(t)
+> =
+> 10t^4h(t)+2t^5h'(t)
+> }.
+> $$
+>
+> Equivalently,
+>
+> $$
+> \boxed{
+> f'(t)
+> =
+> 2t^4\left[5h(t)+th'(t)\right]
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/TPEXet9kExQ
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

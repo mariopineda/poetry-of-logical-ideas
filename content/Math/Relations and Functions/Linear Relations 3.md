@@ -24,6 +24,44 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1.
+>
+> Substitute $x=2$:
+>
+> $$
+> y=3(2)-\frac12
+> =6-\frac12
+> =\boxed{\frac{11}{2}}.
+> $$
+>
+> ### 2.
+>
+> Substitute $x=-\frac34$ into
+>
+> $$
+> 8x+2y-10=0:
+> $$
+>
+> $$
+> 8\left(-\frac34\right)+2y-10=0
+> $$
+>
+> $$
+> -6+2y-10=0.
+> $$
+>
+> Thus,
+>
+> $$
+> 2y=16
+> $$
+>
+> and
+>
+> $$
+> \boxed{y=8}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]

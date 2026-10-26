@@ -42,3 +42,7 @@ The organization wants to ensure that each family receives a unique combination 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]

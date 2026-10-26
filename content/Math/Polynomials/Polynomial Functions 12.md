@@ -56,6 +56,7 @@ The graph below shows the volume of water in a tank over time.
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+> - [[Math/Polynomials/Polynomial Functions 18 — Draining Water Tank|Polynomial Functions 18 — Draining Water Tank]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

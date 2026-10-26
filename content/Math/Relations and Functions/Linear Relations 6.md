@@ -18,6 +18,78 @@ The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth
 ## Solution
 
 > [!example]- Show solution
+>
+> The relation is
+>
+> $$
+> T=\frac{23}{2}d+20.
+> $$
+>
+> ### 1.
+>
+> For $0\leq d\leq5$, the graph is a line segment beginning at
+>
+> $$
+> (0,20)
+> $$
+>
+> and ending at
+>
+> $$
+> \left(5,\frac{155}{2}\right)
+> =
+> (5,77.5).
+> $$
+>
+> ### 2.
+>
+> At $d=4$,
+>
+> $$
+> T=\frac{23}{2}(4)+20
+> =46+20
+> =\boxed{66^\circ\text{C}}.
+> $$
+>
+> ### 3.
+>
+> Set $T=45$:
+>
+> $$
+> 45=\frac{23}{2}d+20.
+> $$
+>
+> Then
+>
+> $$
+> 25=\frac{23}{2}d
+> $$
+>
+> so
+>
+> $$
+> d=\frac{50}{23}\approx2.17.
+> $$
+>
+> To one decimal place,
+>
+> $$
+> \boxed{d\approx2.2\text{ km}}.
+> $$
+>
+> ### 4.
+>
+> For the graphed context $0\leq d\leq5$,
+>
+> $$
+> \boxed{\text{Domain }[0,5]}
+> $$
+>
+> and
+>
+> $$
+> \boxed{\text{Range }[20,77.5]}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]

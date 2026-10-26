@@ -14,9 +14,56 @@ Solve $x^3>8x^2-16x$. Answer in interval notation.
 
 > [!example]- Show solution
 >
+> Move everything to one side:
+>
+> $$
+> x^3-8x^2+16x>0.
+> $$
+>
+> Factor:
+>
+> $$
+> x(x^2-8x+16)>0
+> $$
+>
+> $$
+> x(x-4)^2>0.
+> $$
+>
+> The critical numbers are
+>
+> $$
+> x=0,\ 4.
+> $$
+>
+> Since
+>
+> $$
+> (x-4)^2\geq0,
+> $$
+>
+> the sign is determined by $x$, except where the squared factor is zero.
+>
+> Thus the expression is positive when
+>
+> $$
+> x>0
+> $$
+>
+> but
+>
+> $$
+> x\neq4.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{(0,4)\cup(4,\infty)}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/XasMrKNBGwU
->
 
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]

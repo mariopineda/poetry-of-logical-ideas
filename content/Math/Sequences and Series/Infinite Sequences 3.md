@@ -7,15 +7,43 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-Evaluate $\lim\_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
+Evaluate $\lim_{n \to \infty} \frac{3n^2-n}{1+2n^2}$.
 
 ## Solution
 
 > [!example]- Show solution
 >
+> Evaluate
+>
+> $$
+> \lim_{n\to\infty}
+> \frac{3n^2-n}{1+2n^2}.
+> $$
+>
+> Divide numerator and denominator by $n^2$:
+>
+> $$
+> \lim_{n\to\infty}
+> \frac{3-\frac1n}
+> {\frac1{n^2}+2}.
+> $$
+>
+> As
+>
+> $$
+> n\to\infty,
+> $$
+>
+> the fractions involving $n$ approach zero.
+>
+> Therefore,
+>
+> $$
+> \boxed{\frac32}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/g9uD7PQ6RDg
->
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]

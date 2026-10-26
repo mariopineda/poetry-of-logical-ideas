@@ -26,8 +26,43 @@ The expression $\frac{\displaystyle 20\sqrt{\displaystyle 5}}{\sqrt{\displaystyl
 
 > [!example]- Show solution
 >
-> ...
+> Simplify each term.
 >
+> First,
+>
+> $$
+> \frac{20\sqrt5}{\sqrt{10}}
+> =
+> 20\sqrt{\frac12}
+> =
+> 10\sqrt2.
+> $$
+>
+> Also,
+>
+> $$
+> \frac{16}{\sqrt8}
+> =
+> \frac{16}{2\sqrt2}
+> =
+> \frac8{\sqrt2}
+> =
+> 4\sqrt2.
+> $$
+>
+> Therefore,
+>
+> $$
+> 10\sqrt2-4\sqrt2
+> =
+> 6\sqrt2.
+> $$
+>
+> Hence,
+>
+> $$
+> \boxed{k=6}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]

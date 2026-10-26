@@ -8,19 +8,68 @@ topic: "Sinusoidal Functions"
 show_solution: true
 ---
 
-The London Eye, located on the River Thames in London England, is the largest Ferris wheel in Europe.
+The London Eye has a diameter of $135\text{ m}$. Passengers board at the lowest point, $2\text{ m}$ above ground level, so the centre is $69.5\text{ m}$ above the ground. One revolution takes $30$ minutes.
 
-The London Eyechas a diameter of 135 m. Passengers board 2 metres above ground level, so the centre is 69.5 m above ground level. The wheel rotates once every 30 minutes.
-
-1. What is the minimum height of a passenger?
+1. What is the minimum height?
 2. What is the period?
-3. Let a revolution begin at $t=0$ minutes, when the last capsule is filled with passenger at a height of 2 m. Sketch the sinusoidal graph that represents this situation. Label then key points.
-4. Determine the equation in the form $h(t) = a \sin(b(t-c))+d$ that describes the relationship between a passenger's height, $h$ metres above the ground, after $t$ minutes.
-5. Find the height of a passenger above the ground 20 minutes after passing the lowest point of the ride.
-
-<!--
+3. Starting at the lowest point at $t=0$, sketch one complete cycle and label the five key points.
+4. Determine an equation in the form $h(t)=a\sin(b(t-c))+d$.
+5. Find the height $20$ minutes after passing the lowest point.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> The radius is $67.5\text{ m}$ and the midline is $69.5\text{ m}$.
+>
+> ### 1.
+>
+> $$
+> 69.5-67.5=\boxed{2\text{ m}}.
+> $$
+>
+> ### 2.
+>
+> $$
+> \boxed{30\text{ min}}.
+> $$
+>
+> ### 3.
+>
+> The five key points are
+>
+> $$
+> (0,2),\ (7.5,69.5),\ (15,137),\ (22.5,69.5),\ (30,2).
+> $$
+>
+> ### 4.
+>
+> Since
+>
+> $$
+> b=\frac{2\pi}{30}=\frac{\pi}{15},
+> $$
+>
+> a suitable sine model is
+>
+> $$
+> \boxed{
+> h(t)=67.5\sin\left(\frac{\pi}{15}(t-7.5)\right)+69.5
+> }.
+> $$
+>
+> ### 5.
+>
+> $$
+> h(20)
+> =
+> 67.5\sin\left(\frac{5\pi}{6}\right)+69.5
+> $$
+>
+> $$
+> =67.5\left(\frac12\right)+69.5
+> =\boxed{103.25\text{ m}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]

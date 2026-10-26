@@ -133,6 +133,18 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Rational Expressions & Equations/Rational Expressions - Field Model 1|Rational Expressions - Field Model 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 3|Dividing Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1|Multiplying and Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 2|Dividing Rational Expressions 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -145,3 +157,5 @@ $$
 
 > [!success] Build Toward
 > - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 2|Sums and Differences with Binomial Denominators 2]]
+> - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3|Sums and Differences with Binomial Denominators 3]]

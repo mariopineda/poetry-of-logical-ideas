@@ -9,22 +9,36 @@ show_solution: true
 ---
 
 A farmer must travel from their village to a market in another city, passing through 3 military checkpoints.
-- Checkpoint 1: Normally has 2 routes, but 1 is closed due to military operations.    
+
+- Checkpoint 1: Normally has 2 routes, but 1 is closed due to military operations.
 - Checkpoint 2: All 3 routes are open.
 - Checkpoint 3: 2 routes, but 1 is blocked by a settlement wall.
 
-How many total route combinations are available for the farmerÃ¢â‚¬â„¢s journey?
+How many total route combinations are available for the farmer's journey?
 
 ## Solution
 
 > [!example]- Show solution
 >
-> ### Part 1: Movement Through Checkpoints
-> - Checkpoint 1:Ã‚Â 1Ã‚Â route (1 closed, 1 open).
-> - Checkpoint 2:Ã‚Â 3Ã‚Â routes.
-> - Checkpoint 3:Ã‚Â 1Ã‚Â route (1 blocked).
-> FCP:Ã‚Â $1 \times 3 \times 1=3$ different route combinations
+> There are:
 >
+> - $1$ available route at checkpoint 1,
+> - $3$ available routes at checkpoint 2,
+> - $1$ available route at checkpoint 3.
+>
+> By the Fundamental Counting Principle,
+>
+> $$
+> 1\times3\times1=3.
+> $$
+>
+> Therefore, there are
+>
+> $$
+> \boxed{3}
+> $$
+>
+> possible route combinations.
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -35,6 +49,8 @@ How many total route combinations are available for the farmerÃ¢â‚¬â„¢
 > - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 6|Fundamental Counting Principle 6]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -10,27 +10,33 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-Use the $45^circ-45^\circ-90^\circ$ triangle to find the exact trigonometric ratios of the following angles.
-
-1.
+Use a $45^\circ$-$45^\circ$-$90^\circ$ triangle to find the exact values of
 
 $$
-\sin(45^\circ) = \sin \left( \frac{\pi}{4} \right)
+\sin45^\circ,\qquad \cos45^\circ,\qquad \tan45^\circ.
 $$
-2.
-
-$$
-\cos(45^\circ) = \cos \left( \frac{\pi}{4} \right)
-$$
-3.
-
-$$
-\tan(45^\circ) = \tan \left( \frac{\pi}{4} \right)
-$$
-
-<!--
 
 ## Solution
+
+> [!example]- Show solution
+>
+> For a $45^\circ$-$45^\circ$-$90^\circ$ triangle with hypotenuse $1$, each leg is $\frac{\sqrt2}{2}$.
+>
+> Therefore,
+>
+> $$
+> \boxed{\sin45^\circ=\frac{\sqrt2}{2}},
+> $$
+>
+> $$
+> \boxed{\cos45^\circ=\frac{\sqrt2}{2}},
+> $$
+>
+> and
+>
+> $$
+> \boxed{\tan45^\circ=1}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

@@ -39,6 +39,7 @@ Use arrows to show where a relation continues indefinitely and open or closed en
 > [!info] Explore Also
 > - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -25,9 +25,46 @@ $$
 
 > [!example]- Show solution
 >
+> ### A.
+>
+> Differentiate term by term:
+>
+> $$
+> \boxed{
+> y'=40x^4+22x-7
+> }.
+> $$
+>
+> ### B.
+>
+> Rewrite:
+>
+> $$
+> g(u)
+> =
+> \frac18u^{-2}-4u^{3/2}.
+> $$
+>
+> Differentiate:
+>
+> $$
+> g'(u)
+> =
+> -\frac14u^{-3}-6u^{1/2}.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> g'(u)
+> =
+> -\frac{1}{4u^3}-6\sqrt u
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/euGJmVx8dZw
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]

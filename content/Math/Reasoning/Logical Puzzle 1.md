@@ -7,17 +7,43 @@ topic: "Logical Reasoning"
 show_solution: true
 ---
 
-The object of the puzzle is to fully fill in the given grid with the numbers 1 through 4 where
+Complete the following $4\times4$ logic grid using the numbers $1$ through $4$.
 
-1. Each row must contain different numbers.
-2. Each column must contain different numbers.
-3. Each stream must contain different numbers.
+Each:
 
-![[Images/Legacy/strimko.png]]
+1. row must contain $1,2,3,4$ exactly once;
+2. column must contain $1,2,3,4$ exactly once;
+3. outlined $2\times2$ block must contain $1,2,3,4$ exactly once.
+
+The four $2\times2$ blocks are the top-left, top-right, bottom-left, and bottom-right blocks.
+
+|   |   |   |   |
+|---|---|---|---|
+| $1$ |  |  | $4$ |
+|  | $4$ | $1$ |  |
+| $2$ |  | $4$ |  |
+|  | $3$ |  | $1$ |
 
 ## Solution
 
 > [!example]- Show solution
+>
+> The completed grid is
+>
+> |   |   |   |   |
+> |---|---|---|---|
+> | $1$ | $2$ | $3$ | $4$ |
+> | $3$ | $4$ | $1$ | $2$ |
+> | $2$ | $1$ | $4$ | $3$ |
+> | $4$ | $3$ | $2$ | $1$ |
+>
+> Each row contains $1,2,3,4$ exactly once.
+>
+> Each column contains $1,2,3,4$ exactly once.
+>
+> Each $2\times2$ block also contains $1,2,3,4$ exactly once.
+>
+> Therefore this is the required completion.
 
 > [!abstract] Review First
 > _No linked questions yet._

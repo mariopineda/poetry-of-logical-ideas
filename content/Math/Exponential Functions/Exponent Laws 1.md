@@ -38,6 +38,44 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> 1.
+>
+> $$
+> 5^{-2}=\frac{1}{5^2}=\boxed{\frac{1}{25}}
+> $$
+>
+> 2.
+>
+> $$
+> 8^{2/3}=\left(\sqrt[3]{8}\right)^2=2^2=\boxed{4}
+> $$
+>
+> 3.
+>
+> $$
+> \left(\frac49\right)^{1/2}
+> =
+> \sqrt{\frac49}
+> =
+> \boxed{\frac23}
+> $$
+>
+> 4.
+>
+> $$
+> 125^{1/3}-10^0=5-1=\boxed{4}
+> $$
+>
+> 5.
+>
+> $$
+> \left(\frac14\right)^{-2}
+> =
+> 4^2
+> =
+> \boxed{16}
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
@@ -73,3 +111,11 @@ $$
 > - [[Math/Radicals/Radical Equations 1|Radical Equations 1]]
 > - [[Math/Radicals/Radicals 1|Radicals 1]]
 > - [[Math/Radicals/Radicals 2|Radicals 2]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
+> - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]

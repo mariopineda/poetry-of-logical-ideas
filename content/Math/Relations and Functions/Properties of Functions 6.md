@@ -13,6 +13,34 @@ If $f(x) = 2x+1$ and $g(x)=5x$, then determine $3f(x)-2g(x+1)$.
 ## Solution
 
 > [!example]- Show solution
+>
+> Given
+>
+> $$
+> f(x)=2x+1
+> $$
+>
+> and
+>
+> $$
+> g(x)=5x,
+> $$
+>
+> we have
+>
+> $$
+> 3f(x)-2g(x+1)
+> =
+> 3(2x+1)-2[5(x+1)].
+> $$
+>
+> Simplify:
+>
+> $$
+> 6x+3-10x-10
+> =
+> \boxed{-4x-7}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

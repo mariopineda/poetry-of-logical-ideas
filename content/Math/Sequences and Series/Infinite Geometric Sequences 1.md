@@ -7,15 +7,34 @@ topic: "Sequences and Series"
 show_solution: true
 ---
 
-Evaluate $\sum\_{n=3}^{9} 8$
+Evaluate $\sum_{n=3}^{9} 8$
 
 ## Solution
 
 > [!example]- Show solution
 >
+> The sum is
+>
+> $$
+> \sum_{n=3}^{9}8.
+> $$
+>
+> There are
+>
+> $$
+> 9-3+1=7
+> $$
+>
+> terms.
+>
+> Therefore,
+>
+> $$
+> \boxed{7(8)=56}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/PEKkgRjVEqc
->
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]

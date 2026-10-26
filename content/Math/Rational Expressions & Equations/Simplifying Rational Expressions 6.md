@@ -146,6 +146,7 @@ A farmer is planning to put a fence around a rectangular field. The area of the 
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
 > - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+> - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -153,6 +154,7 @@ A farmer is planning to put a fence around a rectangular field. The area of the 
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

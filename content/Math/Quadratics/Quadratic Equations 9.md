@@ -8,29 +8,49 @@ topic: "Quadratics"
 show_solution: true
 ---
 
-Find the roots of the following quadratic equations using the Quadratic Formula.
+Find the roots of each quadratic equation using the Quadratic Formula.
 
-1.
-
-$$
-2t^2-11t+13=0
-$$
-2.
-
-$$
-2x^2+3x+5=0
-$$
-3.
-
-$$
-9x^2-30x+25=0
-$$
-
-<!--
+1. $2t^2-11t+13=0$
+2. $2x^2+3x+5=0$
+3. $9x^2-30x+25=0$
 
 ## Solution
 
-...
+> [!example]- Show solution
+>
+> Use
+>
+> $$
+> x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}.
+> $$
+>
+> ### 1.
+>
+> $$
+> t=\frac{11\pm\sqrt{121-104}}{4}
+> =\boxed{\frac{11\pm\sqrt{17}}{4}}.
+> $$
+>
+> ### 2.
+>
+> $$
+> b^2-4ac=9-40=-31<0,
+> $$
+>
+> so there are
+>
+> $$
+> \boxed{\text{no real roots}}.
+> $$
+>
+> ### 3.
+>
+> $$
+> x=\frac{30\pm\sqrt{900-900}}{18}
+> =\boxed{\frac53}.
+> $$
+>
+> This is a repeated root.
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

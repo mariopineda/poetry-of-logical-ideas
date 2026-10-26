@@ -59,6 +59,8 @@ The graph below shows the height of a ball during its flight.
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 12|Polynomial Functions 12]]
 > - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+> - [[Math/Polynomials/Polynomial Functions 19 — Soccer Ball|Polynomial Functions 19 — Soccer Ball]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

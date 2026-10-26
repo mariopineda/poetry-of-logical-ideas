@@ -35,7 +35,7 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 >
 > ### D.
 >
-> Add a second graph at $Y\_2=9.093507$ and find the x-coordinate of the point of intersection. $x\_{intercept} = 3.27... \approx 3$, $1979+3=1982 \Rightarrow$ the size of the ozone hole became larger than the land area of Canada in 1982.
+> Add a second graph at $Y_2=9.093507$ and find the x-coordinate of the point of intersection. $x_{intercept} = 3.27... \approx 3$, $1979+3=1982 \Rightarrow$ the size of the ozone hole became larger than the land area of Canada in 1982.
 >
 > > [!info]- Source
 > > [NASA Ozone Watch (2019)](https://ozonewatch.gsfc.nasa.gov/)

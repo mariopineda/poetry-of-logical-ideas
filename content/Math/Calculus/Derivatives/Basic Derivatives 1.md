@@ -31,9 +31,58 @@ $$
 
 > [!example]- Show solution
 >
+> ### A.
+>
+> First simplify:
+>
+> $$
+> y=x^2x^8=x^{10}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{y'=10x^9}.
+> $$
+>
+> ### B.
+>
+> Rewrite:
+>
+> $$
+> g(t)=t^{-4}.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{g'(t)=-4t^{-5}=-\frac{4}{t^5}}.
+> $$
+>
+> ### C.
+>
+> Rewrite:
+>
+> $$
+> \sqrt[5]{x^2}=x^{2/5}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> \frac{d}{dx}\sqrt[5]{x^2}
+> =
+> \frac25x^{-3/5}
+> =
+> \frac{2}{5x^{3/5}}
+> }
+> $$
+>
+> for $x\neq0$.
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/HBJW1INH3VI
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]

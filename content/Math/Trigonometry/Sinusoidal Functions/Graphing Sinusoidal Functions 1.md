@@ -13,9 +13,66 @@ Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq
 
 > [!example]- Show solution
 >
+> A standard table for
+>
+> $$
+> y=\cos x
+> $$
+>
+> on
+>
+> $$
+> 0^\circ\leq x\leq360^\circ
+> $$
+>
+> is:
+>
+> | $x$ | $\cos x$ |
+> | ---: | ---: |
+> | $0^\circ$ | $1.00$ |
+> | $30^\circ$ | $0.87$ |
+> | $60^\circ$ | $0.50$ |
+> | $90^\circ$ | $0.00$ |
+> | $120^\circ$ | $-0.50$ |
+> | $150^\circ$ | $-0.87$ |
+> | $180^\circ$ | $-1.00$ |
+> | $210^\circ$ | $-0.87$ |
+> | $240^\circ$ | $-0.50$ |
+> | $270^\circ$ | $0.00$ |
+> | $300^\circ$ | $0.50$ |
+> | $330^\circ$ | $0.87$ |
+> | $360^\circ$ | $1.00$ |
+>
+> Plot these points and join them with a smooth sinusoidal curve.
+>
+> Important features are:
+>
+> - amplitude:
+>
+> $$
+> \boxed{1}
+> $$
+>
+> - period:
+>
+> $$
+> \boxed{360^\circ}
+> $$
+>
+> - maximum value:
+>
+> $$
+> \boxed{1}
+> $$
+>
+> - minimum value:
+>
+> $$
+> \boxed{-1}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/t0fnuhPF7QM
->
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]

@@ -49,6 +49,9 @@ show_solution: true
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Operations 1|Polynomial Operations 1]]
 > - [[Math/Polynomials/Polynomial Review 1|Polynomial Review 1]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 4|Exponent and Polynomial Skills 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

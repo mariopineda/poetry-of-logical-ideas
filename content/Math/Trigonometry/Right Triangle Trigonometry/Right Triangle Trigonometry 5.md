@@ -13,6 +13,27 @@ The tallest tree in Canada is a Sitka spruce named the Carmanah Giant. The tree 
 ## Solution
 
 > [!example]- Show solution
+>
+> Let $h$ be the height of the tree.
+>
+> Using the angle of elevation,
+>
+> $$
+> \tan(81.1^\circ)=\frac{h}{15}.
+> $$
+>
+> Therefore,
+>
+> $$
+> h=15\tan(81.1^\circ)
+> \approx95.79.
+> $$
+>
+> To the nearest metre,
+>
+> $$
+> \boxed{96\text{ m}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]

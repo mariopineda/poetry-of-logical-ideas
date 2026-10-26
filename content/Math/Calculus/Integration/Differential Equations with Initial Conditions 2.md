@@ -7,59 +7,97 @@ topic: "Differential Equations"
 show_solution: true
 ---
 
-A stone is tossed upward with a velocity of 8 m/s from the edge of a cliff 63 m high. How long will it take the stone to hit the ground at the foot of the cliff? Assume the gravitational constant is 9.8 m/s$^2$.
+A stone is tossed upward at $8\text{ m/s}$ from the edge of a cliff $63$ m high. How long will it take the stone to hit the ground at the foot of the cliff?
 
-<div style="page-break-after: always;"></div>
+Assume the acceleration due to gravity is $9.8\text{ m/s}^2$ downward.
 
-> [!info]- Hint 
-> **Initial conditions **:
->  - Initial velocity ($v_0$Ã¢â‚¬â€¹) = 8 m/s (upward)
->  - Height of the cliff ($Ã¢â€žÅ½_0$Ã¢â‚¬â€¹) = 63 m
->  - Acceleration due to gravity = -9.8 m/s$^2$ (downward)
+> [!info]- Hint
+> Initial conditions:
+> - $v(0)=8\text{ m/s}$
+> - $h(0)=63\text{ m}$
+> - $a(t)=-9.8\text{ m/s}^2$
 
 ## Solution
 
 > [!example]- Show solution
 >
-> We let $h$ denote the height, in meters, of the stone above the ground at time $t$, and we let $v = \frac{\displaystyle dh}{\displaystyle dt}$ denote its velocity. Since the gravity is the force acting on the stone we have
+> Since acceleration is constant,
 >
 > $$
-> \frac{da}{dt} = -9.8
+> a(t)=\frac{dv}{dt}=-9.8.
 > $$
-> where 9.8 m/s$^2$ is the gravitational constant near the surface of the earth. We see that $v$ is an antiderivative
-> $$
-> v = -9.8t + v_0
-> $$
-> for some initial velocity $v_0$. Since we are told that the stone is tossed upward at the initial instant with a velocity of 8 m/s,
-> $$
-> v = -9.8t + 8
-> $$
-> Since  $h(t)$ is the position-time function, $\frac{\displaystyle dh}{\displaystyle dt} = v$,
-> $$
-> \frac{dh}{dt} = -9.8t + 8
-> $$
-> where the antiderivative is
-> $$
-> h(t) = -4.9t^2 +8t + h_0
-> $$
-> where $h_0 = 63$ is the initial position, hence
-> $$
-> h(t) = -4.9t^2 +8t + 63
-> $$
-> We can now answer the questions. The stone hits the ground when  $h(t)=0$, hence
-> $$
-> h(t)=0 \Rightarrow -4.9t^2 + 8t + 63 = 0
-> $$
-> Using the quadratic formula we obtain the roots
-> $$
-> t = \frac{-8 + \sqrt{8^2-4(-4.9)(63)}}{-9.8} = -2.86
-> $$
-> and
-> $$
-> t = \frac{-8 - \sqrt{8^2-4(-4.9)(63)}}{-9.8} = 4.49
-> $$
-> Because the negative root has no physical significance in this problem, we see that about 4.5 s after being tossed up the stone hits the ground.
 >
+> Integrate:
+>
+> $$
+> v(t)=-9.8t+C_1.
+> $$
+>
+> Using
+>
+> $$
+> v(0)=8,
+> $$
+>
+> we get
+>
+> $$
+> v(t)=-9.8t+8.
+> $$
+>
+> Since
+>
+> $$
+> v(t)=\frac{dh}{dt},
+> $$
+>
+> integrate again:
+>
+> $$
+> h(t)=-4.9t^2+8t+C_2.
+> $$
+>
+> Using
+>
+> $$
+> h(0)=63,
+> $$
+>
+> we obtain
+>
+> $$
+> h(t)=-4.9t^2+8t+63.
+> $$
+>
+> The stone hits the ground when
+>
+> $$
+> h(t)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> -4.9t^2+8t+63=0.
+> $$
+>
+> Using the Quadratic Formula gives
+>
+> $$
+> t\approx-2.8611
+> $$
+>
+> or
+>
+> $$
+> t\approx4.4938.
+> $$
+>
+> The negative value is not physically relevant, so the stone hits the ground after
+>
+> $$
+> \boxed{4.49\text{ s}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Integration/Antiderivative 1|Antiderivative 1]]

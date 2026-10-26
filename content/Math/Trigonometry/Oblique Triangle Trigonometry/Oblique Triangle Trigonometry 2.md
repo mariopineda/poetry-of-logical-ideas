@@ -2,7 +2,6 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10-3"
   - "Mathematics 10C"
   - "Mathematics 20-1"
   - "Mathematics 20-3"

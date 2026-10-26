@@ -24,9 +24,46 @@ $$
 
 > [!example]- Show solution
 >
+> ### 1.
+>
+> $$
+> x^2<-25
+> $$
+>
+> has no real solutions because
+>
+> $$
+> x^2\geq0
+> $$
+>
+> for every real $x$.
+>
+> Therefore,
+>
+> $$
+> \boxed{\varnothing}.
+> $$
+>
+> ### 2.
+>
+> $$
+> x^2>-49
+> $$
+>
+> is true for every real number because
+>
+> $$
+> x^2\geq0>-49.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{(-\infty,\infty)}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/b9HyLVccqcg
->
 
 > [!abstract] Review First
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]

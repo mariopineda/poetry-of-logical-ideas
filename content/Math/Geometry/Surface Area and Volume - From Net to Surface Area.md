@@ -1,12 +1,10 @@
 ---
 type: qod
 publish: true
-courses:
-  - "Math 20-3"
+course:
+  - "Mathematics 20-3"
 topic: "Surface Area and Volume"
 show_solution: true
-prerequisites: []
-related: []
 ---
 
 The diagram below is the **net of a 3D object**.

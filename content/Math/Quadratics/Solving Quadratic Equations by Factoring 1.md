@@ -69,6 +69,7 @@ $$
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]
 > - [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
+> - [[Math/Quadratics/Quadratic Equations 2|Quadratic Equations 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Permutations"
-show_solution: false
+  - Mathematics 30-2
+topic: Permutations
+show_solution: true
 ---
 
 ### A.
@@ -34,21 +34,6 @@ Nine runners compete in a race.
 How many different ordered results are possible for **first, second, third, and fourth place**?
 
 Use permutation notation.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
-> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
-> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
 ## Solution
 
@@ -104,3 +89,18 @@ Use permutation notation.
 > $$
 >
 > ordered results are possible.
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
+> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]

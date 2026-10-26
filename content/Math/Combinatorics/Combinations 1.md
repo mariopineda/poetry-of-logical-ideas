@@ -15,6 +15,34 @@ Consider a circle with five points marked on the circumference.
 ## Solution
 
 > [!example]- Show solution
+>
+> 1. A triangle is determined by choosing any $3$ of the $5$ points:
+>
+> $$
+> \binom53=10.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{\binom53=10}
+> $$
+>
+> triangles can be formed.
+>
+> 2. A line segment is determined by choosing any $2$ of the $5$ points:
+>
+> $$
+> \binom52=10.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{\binom52=10}
+> $$
+>
+> line segments can be drawn.
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]

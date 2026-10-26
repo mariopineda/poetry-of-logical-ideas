@@ -13,9 +13,26 @@ Differentiate $f(x) = (x-3)(x+1)$.
 
 > [!example]- Show solution
 >
+> Using the Product Rule,
+>
+> $$
+> f'(x)
+> =
+> 1(x+1)+(x-3)(1).
+> $$
+>
+> Thus,
+>
+> $$
+> f'(x)
+> =
+> x+1+x-3
+> =
+> \boxed{2x-2}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/709OGmGILtg
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

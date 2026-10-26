@@ -96,6 +96,7 @@ Use your graphing calculator as needed.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

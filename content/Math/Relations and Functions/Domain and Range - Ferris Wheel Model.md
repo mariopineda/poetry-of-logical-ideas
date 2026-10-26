@@ -50,6 +50,7 @@ State the domain and range for **two complete rotations** in both **set-builder 
 > - [[Math/Relations and Functions/Domain and Range - Fuel Tank Model|Domain and Range - Fuel Tank Model]]
 > - [[Math/Relations and Functions/Domain and Range - Free-Fall Speed Model|Domain and Range - Free-Fall Speed Model]]
 > - [[Math/Relations and Functions/Domain and Range - Cube Volume Model|Domain and Range - Cube Volume Model]]
+> - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -7,70 +7,121 @@ topic: "Trigonometric Derivatives"
 show_solution: true
 ---
 
-Differentiate the following functions
-### 1. $f(x)=2\cos(x) - 6 \sec(x) +3$
-### 2. $g(z)=10 \tan(z) Ã¢Ë†â€™2 \cot(z)$
-### 3. $f(w)=\tan(w) \sec(w)$
-### 4. $h(t)=t^3Ã¢Ë†â€™t^2\sin(t)$
-### 5. $Z(v)=\frac{\displaystyle v+\tan(v)}{\displaystyle 1+\csc(v)}$
-### 6. $y=5\sin(x)\cos(x)+4\csc(x)$
-### 7. $R(t)=\frac{\displaystyle 1}{\displaystyle 2\sin(t)Ã¢Ë†â€™4\cos(t)}$
+Differentiate the following functions.
+
+1. $f(x)=2\cos(x)-6\sec(x)+3$
+2. $g(z)=10\tan(z)-2\cot(z)$
+3. $f(w)=\tan(w)\sec(w)$
+4. $h(t)=t^3-t^2\sin(t)$
+5. $Z(v)=\dfrac{v+\tan(v)}{1+\csc(v)}$
+6. $y=5\sin(x)\cos(x)+4\csc(x)$
+7. $R(t)=\dfrac{1}{2\sin(t)-4\cos(t)}$
 
 ## Solution
 
 > [!example]- Show solution
 >
-> ### 1
+> ### 1.
 >
-> $f^\prime(x)=Ã¢Ë†â€™2\sin(x)Ã¢Ë†â€™6 \sec(x) \tan(x)$
->
-> ### 2
->
-> $g^Ã¢â‚¬Â²(z) = 10 \sec^2(z)+2 \csc^2(z)$
->
-> ### 3
->
-> $f^\prime(w)=[\sec^2(w)] \sec(w)+ \tan(w)[ \sec(w) \tan(w)] = \sec^3(w)+\sec(w) \tan2(w)$ (Product Rule)
->
-> ### 4
->
-> Use the Product Rule
->  $h^Ã¢â‚¬Â²(t)=3t^2Ã¢Ë†â€™2t\sin(t)Ã¢Ë†â€™t^2\cos(t)$
->
-> ### 5
->
-> Use the Quotient Rule
 > $$
-> \begin{align*}
-> Z(v)  & =\frac{\displaystyle v+\tan(v)}{\displaystyle 1+\csc(v)} \\ \\
-> Z^\prime(v) & =\frac{\displaystyle (1+\sec^2(v))(1+\csc(v))Ã¢Ë†â€™(v+\tan(v))(Ã¢Ë†â€™\csc(v)\cot(v))}{\displaystyle (1+\csc(v))^2} \\ \\
-> Z^\prime(v) & =\frac{\displaystyle (1+\sec^2(v))(1+\csc(v))+\csc(v)\cot(v)(v+\tan(v))}{\displaystyle (1+\csc(v))^2}
-> \end{align*}
+> f'(x)=-2\sin(x)-6\sec(x)\tan(x).
 > $$
 >
-> ### 6
+> ### 2.
 >
-> Use the Product Rule on the first term.
 > $$
-> \begin{align*}
-> y  & =5\sin(x)\cos(x)+4\csc(x) \\ \\
-> y^Ã¢â‚¬Â² & =5\cos(x)\cos(x)+5\sin(x)(Ã¢Ë†â€™\sin(x))Ã¢Ë†â€™4\csc(x)\cot(x) \\ \\
->    & =5\cos^2(x)Ã¢Ë†â€™5\sin^2(x)Ã¢Ë†â€™4\csc(x)\cot(x)
-> \end{align*}
+> g'(z)=10\sec^2(z)+2\csc^2(z).
 > $$
 >
-> ### 7
+> ### 3.
 >
-> Use the Quotient Rule.
-> $$
-> \begin{align*}
-> R(t) & =\frac{\displaystyle 1}{\displaystyle 2\sin(t)Ã¢Ë†â€™4\cos(t)} \\ \\
-> R^Ã¢â‚¬Â²(t) & =\frac{\displaystyle (0)(2\sin(t)Ã¢Ë†â€™4\cos(t))Ã¢Ë†â€™(1)(2\cos(t)+4\sin(t))}{\displaystyle (2\sin(t)Ã¢Ë†â€™4\cos(t))^2} \\ \\
-> & = \frac{\displaystyle Ã¢Ë†â€™2\cos(t)Ã¢Ë†â€™4\sin(t)}{\displaystyle (2\sin(t)Ã¢Ë†â€™4\cos(t))^2} \\
-> \end{align*}
-> $$
-> Can be further simplified by factoring.
+> Using the Product Rule,
 >
+> $$
+> f'(w)=\sec^2(w)\sec(w)+\tan(w)\bigl(\sec(w)\tan(w)\bigr),
+> $$
+>
+> so
+>
+> $$
+> \boxed{f'(w)=\sec^3(w)+\sec(w)\tan^2(w)}.
+> $$
+>
+> ### 4.
+>
+> Using the Product Rule on $t^2\sin(t)$,
+>
+> $$
+> h'(t)=3t^2-\left(2t\sin(t)+t^2\cos(t)\right).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{h'(t)=3t^2-2t\sin(t)-t^2\cos(t)}.
+> $$
+>
+> ### 5.
+>
+> Using the Quotient Rule,
+>
+> $$
+> Z'(v)
+> =
+> \frac{(1+\sec^2 v)(1+\csc v)-(v+\tan v)(-\csc v\cot v)}
+> {(1+\csc v)^2}.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> Z'(v)
+> =
+> \frac{(1+\sec^2 v)(1+\csc v)+(v+\tan v)\csc v\cot v}
+> {(1+\csc v)^2}
+> }.
+> $$
+>
+> ### 6.
+>
+> $$
+> y'
+> =
+> 5\cos^2(x)-5\sin^2(x)-4\csc(x)\cot(x).
+> $$
+>
+> Hence,
+>
+> $$
+> \boxed{y'=5\cos^2(x)-5\sin^2(x)-4\csc(x)\cot(x)}.
+> $$
+>
+> ### 7.
+>
+> Write
+>
+> $$
+> R(t)=\left(2\sin t-4\cos t\right)^{-1}.
+> $$
+>
+> Then
+>
+> $$
+> R'(t)
+> =
+> -\left(2\sin t-4\cos t\right)^{-2}
+> \left(2\cos t+4\sin t\right).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> R'(t)=
+> -\frac{2\cos t+4\sin t}{(2\sin t-4\cos t)^2}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]

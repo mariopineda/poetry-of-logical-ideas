@@ -30,9 +30,70 @@ $$
 
 > [!example]- Show solution
 >
+> ### 1.
+>
+> $$
+> 4^x=60.
+> $$
+>
+> Taking logarithms,
+>
+> $$
+> x\log4=\log60.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> x=\frac{\log60}{\log4}
+> \approx2.95
+> }.
+> $$
+>
+> ### 2.
+>
+> $$
+> 3^x=9=3^2.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> x=\frac{\log9}{\log3}=2.00
+> }.
+> $$
+>
+> ### 3.
+>
+> $$
+> 7^{x+2}+3=444.
+> $$
+>
+> Then
+>
+> $$
+> 7^{x+2}=441.
+> $$
+>
+> Divide by $7^2=49$:
+>
+> $$
+> 7^x=9.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> x=\frac{\log9}{\log7}
+> \approx1.13
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/Us8LatiQ4m4
->
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]

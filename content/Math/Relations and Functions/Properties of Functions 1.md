@@ -14,9 +14,36 @@ If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.
 
 > [!example]- Show solution
 >
+> Evaluate
+>
+> $$
+> f(3)=2(3)-3^2=6-9=-3.
+> $$
+>
+> Also,
+>
+> $$
+> g(-1)=4(-1)-11=-15.
+> $$
+>
+> Therefore,
+>
+> $$
+> 4f(3)-2g(-1)
+> =
+> 4(-3)-2(-15).
+> $$
+>
+> Thus,
+>
+> $$
+> -12+30
+> =
+> \boxed{18}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/dk09Qh3EnUw
->
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

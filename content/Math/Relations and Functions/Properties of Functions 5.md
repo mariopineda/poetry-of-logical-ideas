@@ -29,6 +29,36 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> Given
+>
+> $$
+> f(x)=x+1,
+> \qquad
+> g(x)=2x^2-3,
+> $$
+>
+> 1.
+>
+> $$
+> f(3)=3+1=\boxed{4}.
+> $$
+>
+> 2.
+>
+> $$
+> g(-1)=2(-1)^2-3=2-3=\boxed{-1}.
+> $$
+>
+> 3.
+>
+> $$
+> f(4)+g(3)
+> =
+> 5+(18-3)
+> =
+> \boxed{20}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

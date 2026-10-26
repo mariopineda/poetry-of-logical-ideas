@@ -8,12 +8,63 @@ topic: "Permutations"
 show_solution: true
 ---
 
-Using Pascal's Triangle, determine the number of pathways from the red to the green point, passing through the orange point (if applicable), if paths must always move closer to the green point.
-![[Pathway Problems.png]]
+A path begins at
+
+$$
+R=(0,0),
+$$
+
+must pass through
+
+$$
+O=(3,2),
+$$
+
+and ends at
+
+$$
+G=(6,4).
+$$
+
+At every step, you may move only one unit **right** or one unit **up**.
+
+Using **Pascal's Triangle / combinations**, determine the number of distinct pathways from $R$ to $G$ that pass through $O$.
 
 ## Solution
 
 > [!example]- Show solution
+>
+> From $R$ to $O$, there are $5$ moves total:
+>
+> $$
+> 3\text{ right},\qquad2\text{ up}.
+> $$
+>
+> The number of pathways is
+>
+> $$
+> \binom52=10.
+> $$
+>
+> From $O$ to $G$, there are again
+>
+> $$
+> 3\text{ right},\qquad2\text{ up},
+> $$
+>
+> so there are
+>
+> $$
+> \binom52=10
+> $$
+>
+> pathways.
+>
+> Therefore,
+>
+> $$
+> 10(10)=\boxed{100}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]

@@ -7,37 +7,90 @@ topic: "Set Theory"
 show_solution: true
 ---
 
-Let $S$ be the set of capital letters only consisting of straight lines and set $C$ be the set of capital letters only consisting of curved lines. 
+Use standard uppercase block letters.
 
-1. Draw the Venn diagrams of the two sets and list all the capital letters of the English alphabet in the appropriate subregion of the diagram.
-2. Determine $n(S)$, $n(C)$ and $n(S \cap C)$
+Let
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-    % Draw the universal set rectangle
-    \draw[thick] (-2,-2) rectangle (3.5,2) node[above right] {$U$};
+- $S$ be the set of capital letters containing at least one **straight** stroke;
+- $C$ be the set of capital letters containing at least one **curved** stroke.
 
-    % Define colors for shading
-    \begin{scope}
-        \fill[cyan, opacity=0.5] (0,0) circle (1.5);  % Set A
-        \fill[yellow, opacity=0.5] (1.5,0) circle (1.5);  % Set B
-    \end{scope}
+Use the conventional block-letter forms in which $J$ and $U$ contain curved portions and $Q$ contains a straight tail.
 
-    % Draw the circles
-    \draw (0,0) circle (1.5) node[left] {$A$};
-    \draw (1.5,0) circle (1.5) node[right] {$B$};
-
-    % Label for intersection area
-    \node at (0.75,0) {$A \cap B$};
-\end{tikzpicture}
-\end{document}
-
-```
+1. Sort all $26$ capital letters into the three Venn regions:
+   - $S\setminus C$,
+   - $C\setminus S$,
+   - $S\cap C$.
+2. Determine $n(S)$, $n(C)$, and $n(S\cap C)$.
 
 ## Solution
 
 > [!example]- Show solution
+>
+> Using the stated block-letter convention:
+>
+> ### Straight strokes only
+>
+> $$
+> S\setminus C
+> =
+> \{A,E,F,H,I,K,L,M,N,T,V,W,X,Y,Z\}.
+> $$
+>
+> Thus,
+>
+> $$
+> n(S\setminus C)=15.
+> $$
+>
+> ### Curved strokes only
+>
+> $$
+> C\setminus S
+> =
+> \{C,O,S\}.
+> $$
+>
+> Thus,
+>
+> $$
+> n(C\setminus S)=3.
+> $$
+>
+> ### Both straight and curved strokes
+>
+> $$
+> S\cap C
+> =
+> \{B,D,G,J,P,Q,R,U\}.
+> $$
+>
+> Thus,
+>
+> $$
+> n(S\cap C)=8.
+> $$
+>
+> Therefore,
+>
+> $$
+> n(S)=15+8=\boxed{23},
+> $$
+>
+> $$
+> n(C)=3+8=\boxed{11},
+> $$
+>
+> and
+>
+> $$
+> \boxed{n(S\cap C)=8}.
+> $$
+>
+> The three region counts check:
+>
+> $$
+> 15+3+8=26.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Puzzles and Games/Puzzles & Games 1|Puzzles & Games 1]]
@@ -46,6 +99,9 @@ Let $S$ be the set of capital letters only consisting of straight lines and set 
 
 > [!info] Explore Also
 > - [[Math/Set Theory/Set Theory 2|Set Theory 2]]
+> - [[Math/Reasoning/Logical Puzzle 2|Logical Puzzle 2]]
+> - [[Math/Puzzles and Games/Puzzles & Games 1|Puzzles & Games 1]]
+> - [[Math/Reasoning/Logical Puzzle 1|Logical Puzzle 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

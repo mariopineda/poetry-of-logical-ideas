@@ -48,6 +48,9 @@ $$
 > - [[Math/Quadratics/Quadratic Equations 1|Quadratic Equations 1]]
 > - [[Math/Quadratics/Quadratic Equations 3|Quadratic Equations 3]]
 > - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 3|Solving Quadratic Equations by Factoring 3]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 2|Solving Quadratic Equations by Factoring 2]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

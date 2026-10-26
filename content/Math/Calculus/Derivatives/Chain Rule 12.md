@@ -7,11 +7,47 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-If $f(-3)=4$, $f'(6)=-2$, $g(-3)=6$, and $g'(-3)=5$, evaluate $(f \circ g)'(-3)$.
+If
+
+$$
+f(-3)=4,\qquad f'(6)=-2,\qquad g(-3)=6,\qquad g'(-3)=5,
+$$
+
+evaluate
+
+$$
+(f\circ g)'(-3).
+$$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> By the Chain Rule,
+>
+> $$
+> (f\circ g)'(x)=f'(g(x))g'(x).
+> $$
+>
+> Therefore,
+>
+> $$
+> (f\circ g)'(-3)
+> =
+> f'(g(-3))g'(-3).
+> $$
+>
+> Using
+>
+> $$
+> g(-3)=6,\qquad f'(6)=-2,\qquad g'(-3)=5,
+> $$
+>
+> we get
+>
+> $$
+> (f\circ g)'(-3)=(-2)(5)=\boxed{-10}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

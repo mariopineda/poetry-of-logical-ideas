@@ -7,19 +7,96 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-Find the rate of change indicated. Assume all of the variables are functions of time.
+Find the indicated rate of change. Assume all variables are functions of time.
 
-#### A.
+### A.
 
-For $V=\pi r^2 h$, find $\frac{dV}{dt}$.
+For
 
-#### B.
+$$
+V=\pi r^2h,
+$$
 
-For $A=2 \pi r^2 +2 \pi rh$, find $\frac{dA}{dt}$.
+find
+
+$$
+\frac{dV}{dt}.
+$$
+
+### B.
+
+For
+
+$$
+A=2\pi r^2+2\pi rh,
+$$
+
+find
+
+$$
+\frac{dA}{dt}.
+$$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> Differentiate using the Product Rule:
+>
+> $$
+> \frac{dV}{dt}
+> =
+> \pi\left(
+> 2rh\frac{dr}{dt}
+> +
+> r^2\frac{dh}{dt}
+> \right).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> \frac{dV}{dt}
+> =
+> 2\pi rh\frac{dr}{dt}
+> +
+> \pi r^2\frac{dh}{dt}
+> }.
+> $$
+>
+> ### B.
+>
+> Differentiate term by term:
+>
+> $$
+> \frac{dA}{dt}
+> =
+> 4\pi r\frac{dr}{dt}
+> +
+> 2\pi
+> \left(
+> h\frac{dr}{dt}
+> +
+> r\frac{dh}{dt}
+> \right).
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> \frac{dA}{dt}
+> =
+> 4\pi r\frac{dr}{dt}
+> +
+> 2\pi h\frac{dr}{dt}
+> +
+> 2\pi r\frac{dh}{dt}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]

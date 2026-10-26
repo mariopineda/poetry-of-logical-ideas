@@ -7,24 +7,101 @@ topic: "Relations and Functions"
 show_solution: true
 ---
 
-For each of the following table of values, express the relationship (i) in words, (ii) as an equation (y in terms of $x$ where $x$ is the independent variable and $y$ is the dependent variable), and (iii) using a mapping diagram (arrow diagram).
+For each table:
 
-1. |  |  |  |  |  |  |
-   | --- | --- | --- | --- | --- | --- |
-   | $x$ | $-2$ | $-1$ | $0$ | $1$ | $2$ |
-   | $y$ | $-\frac{8}{3}$ | $-\frac{7}{3}$ | $-2$ | $-\frac{5}{3}$ | $-\frac{1}{3}$ |
-2. |  |  |
-   | --- | --- |
-   | $x$ | $y$ |
-   | $-5$ | $16$ |
-   | $-1$ | $4$ |
-   | $0$ | $1$ |
-   | $3$ | $-8$ |
-   | $7$ | $-20$ |
+1. describe the relationship in words;
+2. write an equation for $y$ in terms of $x$;
+3. represent the relation as a mapping diagram by listing each input-to-output arrow.
+
+### A.
+
+| $x$ | $-2$ | $-1$ | $0$ | $1$ | $2$ |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| $y$ | $-\frac83$ | $-\frac73$ | $-2$ | $-\frac53$ | $-\frac43$ |
+
+### B.
+
+| $x$ | $-5$ | $-1$ | $0$ | $3$ | $7$ |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| $y$ | $16$ | $4$ | $1$ | $-8$ | $-20$ |
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> As $x$ increases by $1$, $y$ increases by
+>
+> $$
+> \frac13.
+> $$
+>
+> When $x=0$,
+>
+> $$
+> y=-2.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{y=\frac13x-2}.
+> $$
+>
+> In words:
+>
+> > $y$ is two less than one-third of $x$.
+>
+> Mapping arrows:
+>
+> $$
+> -2\to-\frac83,
+> \quad
+> -1\to-\frac73,
+> \quad
+> 0\to-2,
+> \quad
+> 1\to-\frac53,
+> \quad
+> 2\to-\frac43.
+> $$
+>
+> ### B.
+>
+> The slope is
+>
+> $$
+> \frac{4-16}{-1-(-5)}
+> =
+> \frac{-12}{4}
+> =
+> -3.
+> $$
+>
+> Since $y=1$ when $x=0$,
+>
+> $$
+> \boxed{y=-3x+1}.
+> $$
+>
+> In words:
+>
+> > $y$ is one more than negative three times $x$.
+>
+> Mapping arrows:
+>
+> $$
+> -5\to16,
+> \quad
+> -1\to4,
+> \quad
+> 0\to1,
+> \quad
+> 3\to-8,
+> \quad
+> 7\to-20.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

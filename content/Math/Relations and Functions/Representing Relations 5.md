@@ -29,6 +29,39 @@ Represent the table of values on graph. Give the graph a title and label the axe
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> The ordered pairs are
+>
+> $$
+> \boxed{
+> (16,8),\ (12,8),\ (18,15),\ (22,18),\ (25,26)
+> }.
+> $$
+>
+> ### B.
+>
+> For the graph:
+>
+> - horizontal axis: **Temperature ($^\circ$C)**
+> - vertical axis: **Number of people**
+> - plot the five ordered pairs as separate points
+> - an appropriate title is **Pool Attendance vs. Temperature**
+>
+> The independent variable is
+>
+> $$
+> \boxed{\text{temperature}},
+> $$
+>
+> and the dependent variable is
+>
+> $$
+> \boxed{\text{number of people visiting the pool}}.
+> $$
+>
+> Because the number of people is counted in whole numbers, the attendance variable is discrete.
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

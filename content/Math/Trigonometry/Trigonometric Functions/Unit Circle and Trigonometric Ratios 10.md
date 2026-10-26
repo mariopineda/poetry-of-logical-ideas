@@ -7,11 +7,28 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-The point $\left( -\frac{1}{2},\frac{\sqrt{3}}{2} \right)$ lies at the intersection of the unit circle and the terminal arm of an angle $\theta$ in standard position. What is $\theta$, as an exact radian measure?
+The point
 
-<!--
+$$
+\left(-\frac12,\frac{\sqrt3}{2}\right)
+$$
+
+lies on the unit circle and the terminal arm of $\theta$.
+
+Find $\theta$ exactly for $0\leq\theta<2\pi$.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> The reference angle is $\frac{\pi}{3}$ and the point lies in Quadrant II.
+>
+> Therefore,
+>
+> $$
+> \theta=\pi-\frac{\pi}{3}
+> =\boxed{\frac{2\pi}{3}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

@@ -2,7 +2,6 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 10-3"
   - "Mathematics 10C"
 topic: "Angles and Geometry"
 show_solution: true
@@ -19,7 +18,7 @@ show_solution: true
 >
 > $$
 > \begin{array}{rcll}
-> m\_{EF} & = & \frac{\displaystyle{y\_F-y\_E}}{\displaystyle{x\_F-x\_E}} & \mbox{Slope formula} \\
+> m_{EF} & = & \frac{\displaystyle{y_F-y_E}}{\displaystyle{x_F-x_E}} & \mbox{Slope formula} \\
 > 2 & = & \frac{\displaystyle{-5-9}}{\displaystyle{x-(-4)}} & \mbox{Substitute in known values} \\
 > 2 & = & \frac{\displaystyle -14}{\displaystyle x+4} & \mbox{Simplify} \\
 > (x+4) \times 2 & = & \frac{\displaystyle -14}{\displaystyle x+4}(x+4) & \mbox{Multiply both sides by } (x+4) \\
@@ -31,18 +30,18 @@ show_solution: true
 >
 > ### B.
 >
-> Determine the slopes of the two line segments, $m\_{AB}$ and $m\_{CD}$.
+> Determine the slopes of the two line segments, $m_{AB}$ and $m_{CD}$.
 > $$
 > \begin{array}{rcl}
-> m\_{AB} & = & \frac{\displaystyle y\_B-y\_A}{\displaystyle x\_B-x\_A} \\
-> m\_{AB} & = & \frac{\displaystyle -2-5}{\displaystyle 0-3} \\
-> m\_{AB} & = & \frac{\displaystyle -7}{\displaystyle -3} = \frac{\displaystyle 7}{\displaystyle 3} \\
-> m\_{CD} & = & \frac{\displaystyle y\_D-y\_C}{\displaystyle x\_D-x\_C} \\
-> m\_{CD} & = & \frac{\displaystyle 2-3}{\displaystyle 3-5} \\
-> m\_{CD} & = & \frac{\displaystyle -1}{\displaystyle -2} = \frac{\displaystyle 1}{\displaystyle 2} \\
+> m_{AB} & = & \frac{\displaystyle y_B-y_A}{\displaystyle x_B-x_A} \\
+> m_{AB} & = & \frac{\displaystyle -2-5}{\displaystyle 0-3} \\
+> m_{AB} & = & \frac{\displaystyle -7}{\displaystyle -3} = \frac{\displaystyle 7}{\displaystyle 3} \\
+> m_{CD} & = & \frac{\displaystyle y_D-y_C}{\displaystyle x_D-x_C} \\
+> m_{CD} & = & \frac{\displaystyle 2-3}{\displaystyle 3-5} \\
+> m_{CD} & = & \frac{\displaystyle -1}{\displaystyle -2} = \frac{\displaystyle 1}{\displaystyle 2} \\
 > \end{array}
 > $$
-> The line segements are not parallel because $m\_{AB} \neq m\_{CD}$ and not perpendicular because $m\_{AB}\times m\_{CD} \neq -1$.
+> The line segements are not parallel because $m_{AB} \neq m_{CD}$ and not perpendicular because $m_{AB}\times m_{CD} \neq -1$.
 >
 
 > [!abstract] Review First

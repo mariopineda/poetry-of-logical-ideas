@@ -59,6 +59,10 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -70,3 +74,5 @@ d) How many ways are there of arranging the Harry Potter books side by side on a
 > [!success] Build Toward
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]

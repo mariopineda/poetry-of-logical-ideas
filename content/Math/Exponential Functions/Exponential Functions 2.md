@@ -30,9 +30,74 @@ $$
 
 > [!example]- Show solution
 >
+> ### 1.
+>
+> $$
+> 2^x
+> =
+> 16\sqrt2
+> =
+> 2^4\cdot2^{1/2}
+> =
+> 2^{9/2}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=\frac92}.
+> $$
+>
+> ### 2.
+>
+> $$
+> 8^{3x}=4^{1-x}.
+> $$
+>
+> Write both sides with base $2$:
+>
+> $$
+> 2^{9x}=2^{2-2x}.
+> $$
+>
+> Thus,
+>
+> $$
+> 9x=2-2x,
+> $$
+>
+> so
+>
+> $$
+> \boxed{x=\frac{2}{11}}.
+> $$
+>
+> ### 3.
+>
+> $$
+> 9^{3x+1}=27^{3x}.
+> $$
+>
+> Write both sides with base $3$:
+>
+> $$
+> 3^{6x+2}=3^{9x}.
+> $$
+>
+> Therefore,
+>
+> $$
+> 6x+2=9x,
+> $$
+>
+> so
+>
+> $$
+> \boxed{x=\frac23}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/_WDp9GmFzPQ
->
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]

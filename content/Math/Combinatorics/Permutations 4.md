@@ -13,6 +13,34 @@ Using the permutation formula, simplify $_nP_2$.
 ## Solution
 
 > [!example]- Show solution
+>
+> Using
+>
+> $$
+> {}_nP_r=\frac{n!}{(n-r)!},
+> $$
+>
+> we have
+>
+> $$
+> {}_nP_2
+> =
+> \frac{n!}{(n-2)!}.
+> $$
+>
+> Since
+>
+> $$
+> n!=n(n-1)(n-2)!,
+> $$
+>
+> it follows that
+>
+> $$
+> {}_nP_2
+> =
+> \boxed{n(n-1)}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]

@@ -15,9 +15,98 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 
 > [!example]- Show solution
 >
+> Complete the square:
+>
+> $$
+> y=-2x^2+12x+32.
+> $$
+>
+> Factor $-2$ from the quadratic and linear terms:
+>
+> $$
+> y=-2(x^2-6x)+32.
+> $$
+>
+> Complete the square:
+>
+> $$
+> y=-2[(x-3)^2-9]+32.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> y=-2(x-3)^2+50
+> }.
+> $$
+>
+> ### Vertex
+>
+> $$
+> \boxed{(3,50)}.
+> $$
+>
+> ### Axis of symmetry
+>
+> $$
+> \boxed{x=3}.
+> $$
+>
+> ### $x$-intercepts
+>
+> Set $y=0$:
+>
+> $$
+> -2x^2+12x+32=0.
+> $$
+>
+> Divide by $-2$:
+>
+> $$
+> x^2-6x-16=0.
+> $$
+>
+> Factor:
+>
+> $$
+> (x-8)(x+2)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{(-2,0),\ (8,0)}.
+> $$
+>
+> ### $y$-intercept
+>
+> At $x=0$,
+>
+> $$
+> y=32.
+> $$
+>
+> So,
+>
+> $$
+> \boxed{(0,32)}.
+> $$
+>
+> The parabola opens downward, with domain
+>
+> $$
+> \mathbb R
+> $$
+>
+> and range
+>
+> $$
+> \boxed{y\leq50}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/ZhDvWV-Hhac
->
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
@@ -26,6 +115,7 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 
 > [!info] Explore Also
 > - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

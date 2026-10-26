@@ -48,3 +48,4 @@ The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sher
 > - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
 > - [[Math/Proportional Reasoning/Scale Factors 2|Scale Factors 2]]
 > - [[Math/Proportional Reasoning/Volume Scale Factors 1|Volume Scale Factors 1]]
+> - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]

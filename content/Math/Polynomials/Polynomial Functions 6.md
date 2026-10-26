@@ -122,6 +122,9 @@ $$
 > - [[Math/Polynomials/Polynomial Functions 5|Polynomial Functions 5]]
 > - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
 > - [[Math/Quadratics/Completing the Square 1|Completing the Square 1]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
+> - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+> - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

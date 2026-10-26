@@ -53,85 +53,109 @@ $$
 
 > [!example]- Show solution
 >
-> ### A.
+> ### 1.
 >
 > $$
-> \begin{array}{rcll}
-> x + 5 & = & 14 & \mbox{Subtract 5 from both sides} \\
-> x & = & 9 &
-> \end{array}
+> x+5=14
 > $$
 >
-> ### B.
->
 > $$
-> \begin{array}{rcll}
-> 3x & = & -18 & \mbox{Divide both sides by 3} \\
-> x & = & -6 & \\
-> \end{array}
+> \boxed{x=9}
 > $$
 >
-> ### C.
+> ### 2.
 >
 > $$
-> \begin{array}{rcll}
-> 2x+1 & = & 7 & \mbox{Subtract 1 from both sides} \\
-> 2x & = & 6 & \mbox{Divide both sides by 2} \\
-> x & = & 3 &
-> \end{array}
+> 3x=-18
 > $$
 >
-> ### D.
->
 > $$
-> \begin{array}{rcll}
-> -2 & = & \frac{\displaystyle n}{\displaystyle 5}+7 & \mbox{Subtract 7 from both sides} \\
-> -9 & = & \frac{\displaystyle n}{\displaystyle 5} & \mbox{Multiply both sides by 5} \\
-> -45 & = & n &
-> \end{array}
+> \boxed{x=-6}
 > $$
 >
-> ### E.
+> ### 3.
 >
 > $$
-> \begin{array}{rcll}
-> \displaystyle\frac{-3}{\phantom{-}4} & = & \displaystyle\frac{6}{4x} & \mbox{Multiply both sides by } 4x \\
-> 4x \times \displaystyle\frac{-3}{\phantom{-}4} & = & 6 & \mbox{Multiply both sides by } \displaystyle\frac{\phantom{-}4}{-3} \\
-> 4x & = & 6 \times \displaystyle\frac{\phantom{-}4}{-3} & \mbox{Evaluate RHS} \\
-> 4x & = & -8 & \mbox{Divide both sides by } 4 \\
-> x & = & -2 & \\
-> \end{array}
+> 2x+1=7
 > $$
 >
-> ### F.
->
 > $$
-> \begin{array}{rcll}
-> -7 & = & \displaystyle\frac{x}{2} - 2 & \mbox{Add 2 to both sides} \\
-> -5 & = & \displaystyle\frac{x}{2} & \mbox{Multiply both sides by 2} \\
-> -10 & = & x &
-> \end{array}
+> 2x=6
 > $$
 >
-> ### G.
->
 > $$
-> \begin{array}{rcll}
-> -5x-3 & = & -8 & \mbox{Add 3 to both sides} \\
-> -5x & = & -3 & \mbox{Divide both sides by } -5 \\
-> x & = & 1 &
-> \end{array}
+> \boxed{x=3}
 > $$
 >
-> ### H.
+> ### 4.
 >
 > $$
-> \begin{array}{rcll}
-> \displaystyle\frac{n}{4} & = & 0 & \mbox{Multiply both sides by 4} \\
-> n & = & 0 &
-> \end{array}
+> -2=\frac n5+7
 > $$
 >
+> $$
+> -9=\frac n5
+> $$
+>
+> $$
+> \boxed{n=-45}
+> $$
+>
+> ### 5.
+>
+> $$
+> -\frac34=\frac{6}{4x}
+> $$
+>
+> Cross-multiplying gives
+>
+> $$
+> -12x=24,
+> $$
+>
+> so
+>
+> $$
+> \boxed{x=-2}.
+> $$
+>
+> ### 6.
+>
+> $$
+> -7=\frac x2-2
+> $$
+>
+> $$
+> -5=\frac x2
+> $$
+>
+> $$
+> \boxed{x=-10}
+> $$
+>
+> ### 7.
+>
+> $$
+> -5x-3=-8
+> $$
+>
+> $$
+> -5x=-5
+> $$
+>
+> $$
+> \boxed{x=1}
+> $$
+>
+> ### 8.
+>
+> $$
+> \frac n4=0
+> $$
+>
+> $$
+> \boxed{n=0}
+> $$
 
 > [!abstract] Review First
 > _No linked questions yet._

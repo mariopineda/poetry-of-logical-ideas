@@ -7,23 +7,52 @@ topic: "Chain Rule"
 show_solution: true
 ---
 
-Differentiate. Assume $f$ is a differentiable function and $a \in \mathbb{R}$
+Differentiate. Assume $f$ is differentiable.
 
-#### A.
-
-$$
-y = f(x^9)
-$$
-
-#### B.
+### A.
 
 $$
-y=\frac{f(ax)}{a}
+y=f(x^9)
+$$
+
+### B.
+
+$$
+y=\frac{f(ax)}{a},
+\qquad a\in\mathbb R,\ a\neq0
 $$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> Using the Chain Rule,
+>
+> $$
+> \boxed{
+> y'=9x^8f'(x^9)
+> }.
+> $$
+>
+> ### B.
+>
+> Since $a$ is constant and $a\neq0$,
+>
+> $$
+> y'
+> =
+> \frac{1}{a}f'(ax)\cdot a.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> y'=f'(ax)
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

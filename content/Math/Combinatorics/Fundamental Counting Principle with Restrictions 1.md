@@ -65,3 +65,5 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 > - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]

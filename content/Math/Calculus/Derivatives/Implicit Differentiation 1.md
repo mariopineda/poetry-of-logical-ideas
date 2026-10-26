@@ -7,23 +7,81 @@ topic: "Implicit Differentiation"
 show_solution: true
 ---
 
-Find $y'$ using implicit differentation.
+Find $y'$ using implicit differentiation.
 
-#### A.
-
-$$
-y^2 - 5x = 7-y+x^2
-$$
-
-#### B.
+### A.
 
 $$
-4y^3-9y = x^2+3xy-2
+y^2-5x=7-y+x^2
+$$
+
+### B.
+
+$$
+4y^3-9y=x^2+3xy-2
 $$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> Differentiate both sides:
+>
+> $$
+> 2yy'-5=-y'+2x.
+> $$
+>
+> Collect the $y'$ terms:
+>
+> $$
+> (2y+1)y'=2x+5.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> y'=\frac{2x+5}{2y+1}
+> }.
+> $$
+>
+> ### B.
+>
+> Differentiate both sides:
+>
+> $$
+> (12y^2-9)y'
+> =
+> 2x+3(xy'+y).
+> $$
+>
+> Expand:
+>
+> $$
+> (12y^2-9)y'
+> =
+> 2x+3xy'+3y.
+> $$
+>
+> Collect the $y'$ terms:
+>
+> $$
+> (12y^2-3x-9)y'
+> =
+> 2x+3y.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{
+> y'=
+> \frac{2x+3y}
+> {12y^2-3x-9}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Chain Rule 1|Chain Rule 1]]

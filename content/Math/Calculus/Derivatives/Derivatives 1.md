@@ -13,9 +13,84 @@ Determine the derivative of $y=x^2-3x-8$ using first principles. Then, determine
 
 > [!example]- Show solution
 >
+> Let
+>
+> $$
+> f(x)=x^2-3x-8.
+> $$
+>
+> Using first principles,
+>
+> $$
+> f'(x)
+> =
+> \lim_{h\to0}
+> \frac{f(x+h)-f(x)}{h}.
+> $$
+>
+> Now,
+>
+> $$
+> f(x+h)
+> =
+> (x+h)^2-3(x+h)-8.
+> $$
+>
+> Therefore,
+>
+> $$
+> f'(x)
+> =
+> \lim_{h\to0}
+> \frac{
+> x^2+2xh+h^2-3x-3h-8
+> -
+> (x^2-3x-8)
+> }{h}.
+> $$
+>
+> Simplify:
+>
+> $$
+> f'(x)
+> =
+> \lim_{h\to0}
+> \frac{2xh+h^2-3h}{h}.
+> $$
+>
+> Factor and cancel $h$:
+>
+> $$
+> f'(x)
+> =
+> \lim_{h\to0}
+> (2x+h-3).
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{f'(x)=2x-3}.
+> $$
+>
+> At $x=-4$,
+>
+> $$
+> f'(-4)
+> =
+> 2(-4)-3
+> =
+> -11.
+> $$
+>
+> Therefore, the tangent slope is
+>
+> $$
+> \boxed{-11}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/4f2WJNTBjvY
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]

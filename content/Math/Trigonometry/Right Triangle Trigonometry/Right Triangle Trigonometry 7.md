@@ -13,6 +13,39 @@ A lighthouse lookout is 10 m tall. The lighthouse is situated on a cliff that is
 ## Solution
 
 > [!example]- Show solution
+>
+> The keeper is
+>
+> $$
+> 51+10=61\text{ m}
+> $$
+>
+> above sea level.
+>
+> Let $d$ be the horizontal distance from the cliff to the boat. The angle of depression is $50^\circ$, so
+>
+> $$
+> \tan(50^\circ)=\frac{61}{d}.
+> $$
+>
+> Thus,
+>
+> $$
+> d=\frac{61}{\tan(50^\circ)}
+> \approx51.2\text{ m}.
+> $$
+>
+> The safe distance is $75$ m, but
+>
+> $$
+> 51.2<75.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{\text{the boat is not a safe distance from the cliff}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]

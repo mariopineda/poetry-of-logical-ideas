@@ -35,9 +35,72 @@ $$
 
 > [!example]- Show solution
 >
+> ### 1.
+>
+> $$
+> y=2x^2+8x+1
+> $$
+>
+> $$
+> y=2(x+2)^2-7.
+> $$
+>
+> Vertex:
+>
+> $$
+> \boxed{(-2,-7)}.
+> $$
+>
+> ### 2.
+>
+> $$
+> y=5x^2-60x+166
+> $$
+>
+> $$
+> y=5(x-6)^2-14.
+> $$
+>
+> Vertex:
+>
+> $$
+> \boxed{(6,-14)}.
+> $$
+>
+> ### 3.
+>
+> $$
+> y=-4x^2+24x-21
+> $$
+>
+> $$
+> y=-4(x-3)^2+15.
+> $$
+>
+> Vertex:
+>
+> $$
+> \boxed{(3,15)}.
+> $$
+>
+> ### 4.
+>
+> $$
+> y=-7x^2-42x+3
+> $$
+>
+> $$
+> y=-7(x+3)^2+66.
+> $$
+>
+> Vertex:
+>
+> $$
+> \boxed{(-3,66)}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/DSe83YiGloo
->
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

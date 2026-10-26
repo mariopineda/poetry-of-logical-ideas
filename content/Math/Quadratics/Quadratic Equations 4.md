@@ -18,6 +18,32 @@ The roots of the equation $x(x-1)=2$ are
 ## Solution
 
 > [!example]- Show solution
+>
+> Start with
+>
+> $$
+> x(x-1)=2.
+> $$
+>
+> Then
+>
+> $$
+> x^2-x-2=0.
+> $$
+>
+> Factor:
+>
+> $$
+> (x-2)(x+1)=0.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{x=-1,\ 2},
+> $$
+>
+> which is **choice 3**.
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]

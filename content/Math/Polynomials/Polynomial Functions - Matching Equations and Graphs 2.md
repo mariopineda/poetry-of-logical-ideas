@@ -66,6 +66,7 @@ $$
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 3|Polynomial Functions - Matching Equations and Graphs 3]]
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 1|Polynomial Functions - Matching Equations and Graphs 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

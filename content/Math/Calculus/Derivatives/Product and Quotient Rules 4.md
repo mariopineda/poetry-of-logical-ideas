@@ -13,9 +13,38 @@ If $f(4)=2$, $f'(4)=3$, $g(4)=-2$, and $g'(4)=7$, then evaluate $(fg)'(4)$.
 
 > [!example]- Show solution
 >
+> Using the Product Rule,
+>
+> $$
+> (fg)'(x)
+> =
+> f'(x)g(x)+f(x)g'(x).
+> $$
+>
+> At $x=4$,
+>
+> $$
+> (fg)'(4)
+> =
+> f'(4)g(4)+f(4)g'(4).
+> $$
+>
+> Substitute the given values:
+>
+> $$
+> (fg)'(4)
+> =
+> 3(-2)+2(7).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{(fg)'(4)=8}.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/KDIavN3exHQa
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

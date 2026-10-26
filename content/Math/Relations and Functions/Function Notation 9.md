@@ -12,6 +12,24 @@ The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ 
 ## Solution
 
 > [!example]- Show solution
+>
+> The function notation
+>
+> $$
+> C(r)=2\pi r
+> $$
+>
+> can be written as a linear relation in the two variables $C$ and $r$:
+>
+> $$
+> \boxed{C=2\pi r}.
+> $$
+>
+> Equivalently, in general form,
+>
+> $$
+> \boxed{C-2\pi r=0}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

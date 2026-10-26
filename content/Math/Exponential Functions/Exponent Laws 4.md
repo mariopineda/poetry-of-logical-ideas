@@ -23,6 +23,67 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> Assume the variables are positive so that the fractional powers are real.
+>
+> ### 1.
+>
+> Combine the numerical coefficients:
+>
+> $$
+> \frac{48}{50}\cdot\frac{35}{42}
+> =
+> \frac45.
+> $$
+>
+> Combine like bases:
+>
+> $$
+> a^{-2/3-1+1/3+4/3}=a^0,
+> $$
+>
+> $$
+> b^{5/4+1-3/4-1/4}=b^{5/4},
+> $$
+>
+> and
+>
+> $$
+> c^{-1/2-1/2-3/2-1}=c^{-7/2}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{\frac45b^{5/4}c^{-7/2}}
+> $$
+>
+> or, using positive exponents,
+>
+> $$
+> \boxed{\frac{4b^{5/4}}{5c^{7/2}}}.
+> $$
+>
+> ### 2.
+>
+> First simplify inside the radical:
+>
+> $$
+> \frac{32x^{-5}y^{3/2}\cdot18x^2y^{-1/4}}
+> {4xy^{-3/4}}
+> =
+> 144x^{-4}y^2.
+> $$
+>
+> Therefore,
+>
+> $$
+> \sqrt{144x^{-4}y^2}
+> =
+> 12x^{-2}y
+> =
+> \boxed{\frac{12y}{x^2}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

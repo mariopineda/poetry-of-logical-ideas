@@ -127,6 +127,7 @@ A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 3|Polynomial Functions - Reviewing a Cubic Volume Model 3]]
+> - [[Math/Polynomials/Polynomial Functions - Reviewing a Cubic Volume Model 1|Polynomial Functions - Reviewing a Cubic Volume Model 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

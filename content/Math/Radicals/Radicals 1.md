@@ -48,8 +48,57 @@ $$
 
 > [!example]- Show solution
 >
-> ...
+> Factor out the largest perfect-square factor.
 >
+> 1.
+>
+> $$
+> \sqrt{50}
+> =
+> \sqrt{25\cdot2}
+> =
+> \boxed{5\sqrt2}.
+> $$
+>
+> 2.
+>
+> $$
+> \sqrt{60}
+> =
+> \sqrt{4\cdot15}
+> =
+> \boxed{2\sqrt{15}}.
+> $$
+>
+> 3.
+>
+> $$
+> \sqrt{54}
+> =
+> \sqrt{9\cdot6}
+> =
+> \boxed{3\sqrt6}.
+> $$
+>
+> 4.
+>
+> $$
+> 7\sqrt{63}
+> =
+> 7\sqrt{9\cdot7}
+> =
+> \boxed{21\sqrt7}.
+> $$
+>
+> 5.
+>
+> $$
+> -5\sqrt{162}
+> =
+> -5\sqrt{81\cdot2}
+> =
+> \boxed{-45\sqrt2}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]

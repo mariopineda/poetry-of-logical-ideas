@@ -21,9 +21,46 @@ With respect to time.
 
 > [!example]- Show solution
 >
+> The volume is
+>
+> $$
+> V=\frac43\pi r^3.
+> $$
+>
+> ### A. With respect to radius
+>
+> Differentiate with respect to $r$:
+>
+> $$
+> \boxed{
+> \frac{dV}{dr}
+> =
+> 4\pi r^2
+> }.
+> $$
+>
+> ### B. With respect to time
+>
+> If the radius changes with time, use the Chain Rule:
+>
+> $$
+> \frac{dV}{dt}
+> =
+> \frac{dV}{dr}\frac{dr}{dt}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> \frac{dV}{dt}
+> =
+> 4\pi r^2\frac{dr}{dt}
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/aXFSFrbzByQ
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Trigonometry/Limits of Trig Functions 1|Limits of Trig Functions 1]]

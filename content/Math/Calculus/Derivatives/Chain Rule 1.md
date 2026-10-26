@@ -13,9 +13,26 @@ Differentiate $f(x) = (x^3-8x+2)^6$.
 
 > [!example]- Show solution
 >
+> Using the Chain Rule,
+>
+> $$
+> f'(x)
+> =
+> 6(x^3-8x+2)^5(3x^2-8).
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{
+> f'(x)
+> =
+> 6(3x^2-8)(x^3-8x+2)^5
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/nLJ4jdlqYi4
->
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

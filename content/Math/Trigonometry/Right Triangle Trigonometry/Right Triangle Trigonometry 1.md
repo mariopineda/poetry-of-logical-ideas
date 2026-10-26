@@ -15,6 +15,26 @@ A road rises 15 m for each 150 m of horizontal distance. What is the angle of in
 ## Solution
 
 > [!example]- Show solution
+>
+> Let $\theta$ be the angle of inclination.
+>
+> The rise is $15$ m and the horizontal run is $150$ m, so
+>
+> $$
+> \tan\theta=\frac{15}{150}=0.1.
+> $$
+>
+> Thus,
+>
+> $$
+> \theta=\tan^{-1}(0.1)\approx5.71^\circ.
+> $$
+>
+> To the nearest degree,
+>
+> $$
+> \boxed{6^\circ}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Geometry/Angles and Parallel Lines 1|Angles and Parallel Lines 1]]

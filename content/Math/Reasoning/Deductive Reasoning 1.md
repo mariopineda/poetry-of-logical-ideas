@@ -23,6 +23,10 @@ Use deductive reasoning to prove that the sum of three consecutive integers is a
 
 > [!info] Explore Also
 > - [[Math/Reasoning/Deductive Reasoning 2|Deductive Reasoning 2]]
+> - [[Math/Reasoning/Inductive Reasoning 2|Inductive Reasoning 2]]
+> - [[Math/Reasoning/Inductive Reasoning 3|Inductive Reasoning 3]]
+> - [[Math/Reasoning/Inductive Reasoning 1|Inductive Reasoning 1]]
+> - [[Math/Reasoning/Inductive Reasoning 4|Inductive Reasoning 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

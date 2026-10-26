@@ -16,6 +16,31 @@ The area of the province of Alberta is approximately 661850 $\text{km}^2$. On a 
 ## Solution
 
 > [!example]- Show solution
+>
+> The area scale factor from the map to Alberta is
+>
+> $$
+> \frac{661850\text{ km}^2}{264.74\text{ cm}^2}=2500
+> \frac{\text{km}^2}{\text{cm}^2}.
+> $$
+>
+> The linear scale factor is the square root of the area scale factor:
+>
+> $$
+> \sqrt{2500}=50.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{1\text{ cm}:50\text{ km}}.
+> $$
+>
+> So
+>
+> $$
+> \boxed{x=50}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]

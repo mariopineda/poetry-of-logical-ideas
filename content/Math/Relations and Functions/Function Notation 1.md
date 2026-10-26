@@ -43,7 +43,7 @@ $$
 > 1. $f(4)=2(4)+7 \Rightarrow f(4)=8+7 \Rightarrow f(4)=15$
 > 2. $f(-3)=2(-3)+7 \Rightarrow f(-3)=-6+7 \Rightarrow f(-3)=1$
 > 3. $g(2)=-3(2)^2+2-2 \Rightarrow g(2)=-3 \times 4 \Rightarrow g(2)=-12$
-> 4. $g(x)=-6 \Rightarrow$ graph $g(x)=-3x^2+x-2$ on the graphing calculator as $y\_1$, add second graph $y\_2=-6$ and find the x-coordinates of the intersection points between the two graphs. Note that the graphs have two intersection points $x\_1=-1$ and $x\_2=1.\bar{3}$ which means that this expression has two possible answers.
+> 4. $g(x)=-6 \Rightarrow$ graph $g(x)=-3x^2+x-2$ on the graphing calculator as $y_1$, add second graph $y_2=-6$ and find the x-coordinates of the intersection points between the two graphs. Note that the graphs have two intersection points $x_1=-1$ and $x_2=1.\bar{3}$ which means that this expression has two possible answers.
 > 5. $h(-1)=9.8(-1)^2-2(-1)+2 \Rightarrow h(-1)=14.8$
 >
 

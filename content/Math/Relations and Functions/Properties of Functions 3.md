@@ -14,9 +14,41 @@ Determine the domain of $y=\left( \frac{f}{g}\right)(x) = \frac{\sqrt{x+7}}{x-3}
 
 > [!example]- Show solution
 >
+> The function is
+>
+> $$
+> y=
+> \frac{\sqrt{x+7}}{x-3}.
+> $$
+>
+> For the square root to be real,
+>
+> $$
+> x+7\geq0,
+> $$
+>
+> so
+>
+> $$
+> x\geq-7.
+> $$
+>
+> Also, the denominator cannot equal zero:
+>
+> $$
+> x\neq3.
+> $$
+>
+> Therefore, the domain is
+>
+> $$
+> \boxed{
+> [-7,3)\cup(3,\infty)
+> }.
+> $$
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/40kjlpmLj3A
->
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

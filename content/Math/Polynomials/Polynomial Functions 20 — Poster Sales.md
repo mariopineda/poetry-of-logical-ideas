@@ -119,6 +119,7 @@ Use your graphing calculator as needed.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 14|Polynomial Functions 14]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

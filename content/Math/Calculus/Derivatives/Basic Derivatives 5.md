@@ -9,27 +9,67 @@ show_solution: true
 
 Differentiate.
 
-#### A.
+### A.
 
 $$
-y=x^3 \times x^9
+y=x^3\cdot x^9
 $$
 
-#### B.
+### B.
 
 $$
 y=\frac{1}{x^7}
 $$
 
-#### C.
+### C.
 
 $$
-f(t) = \sqrt[6]{t^11}
+f(t)=\sqrt[6]{t^{11}}
 $$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> ### A.
+>
+> First simplify:
+>
+> $$
+> y=x^{12}.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{y'=12x^{11}}.
+> $$
+>
+> ### B.
+>
+> $$
+> y=x^{-7},
+> $$
+>
+> so
+>
+> $$
+> \boxed{y'=-7x^{-8}=-\frac{7}{x^8}}.
+> $$
+>
+> ### C.
+>
+> $$
+> f(t)=t^{11/6},
+> $$
+>
+> so
+>
+> $$
+> \boxed{
+> f'(t)=\frac{11}{6}t^{5/6}
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Derivatives 1|Derivatives 1]]

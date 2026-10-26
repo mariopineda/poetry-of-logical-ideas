@@ -7,11 +7,27 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-The point $(-0.48, -0.877)$ lies at the intersection of the unit circle and the terminal arm of an angle $\theta$ in standard position. What is $\theta$, to the nearest degree?
+The point $(-0.48,-0.877)$ lies approximately on the unit circle and on the terminal arm of $\theta$.
 
-<!--
+Find $\theta$ for $0^\circ\leq\theta<360^\circ$, to the nearest degree.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> Both coordinates are negative, so the angle is in Quadrant III.
+>
+> Using technology,
+>
+> $$
+> \theta\approx241.3^\circ.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{241^\circ}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

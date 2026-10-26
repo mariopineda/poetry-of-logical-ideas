@@ -24,6 +24,46 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1.
+>
+> With $y=4$,
+>
+> $$
+> 3x+1=4(4)=16.
+> $$
+>
+> Thus,
+>
+> $$
+> 3x=15
+> $$
+>
+> and
+>
+> $$
+> \boxed{x=5}.
+> $$
+>
+> ### 2.
+>
+> With $y=5$,
+>
+> $$
+> -\frac35x+2(5)-1=0.
+> $$
+>
+> So
+>
+> $$
+> -\frac35x+9=0
+> $$
+>
+> and therefore
+>
+> $$
+> \boxed{x=15}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]

@@ -7,14 +7,56 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-For an angle $\theta$ in standard position, $\cos \theta = -\frac{3}{7}$ and $180^\circ < \theta < 270^\circ$.
+For an angle $\theta$ in standard position,
 
-1. Find the approximate value of $\theta$, to the nearest tenth of a degree.
-2. Find the exact value of $\csc \theta$. Rationalize the denominator.
+$$
+\cos\theta=-\frac37,
+\qquad
+180^\circ<\theta<270^\circ.
+$$
 
-<!--
+1. Find $\theta$ to the nearest tenth of a degree.
+2. Find the exact value of $\csc\theta$. Rationalize the denominator.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> The angle lies in Quadrant III.
+>
+> The reference angle is
+>
+> $$
+> \alpha=\cos^{-1}\left(\frac37\right)\approx64.623^\circ.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{\theta\approx244.6^\circ}.
+> $$
+>
+> For the exact ratio, take $x=-3$ and $r=7$. Then
+>
+> $$
+> y=-\sqrt{49-9}=-2\sqrt{10}.
+> $$
+>
+> Hence,
+>
+> $$
+> \sin\theta=-\frac{2\sqrt{10}}{7}
+> $$
+>
+> and
+>
+> $$
+> \csc\theta
+> =
+> -\frac{7}{2\sqrt{10}}
+> =
+> \boxed{-\frac{7\sqrt{10}}{20}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

@@ -31,7 +31,7 @@ Determine the equations of the lines given the following information. Express th
 >
 > ### B.
 >
-> Convert $3x-y+5=0$ to slope y-intercept form to determine the slope of the parallel line. Add $y$ to both sides results in $y=3x+5$ where the slope $m=3$. Since parallel lines have the same slopes $m=m\_{\parallel}=3$. Since $f(1)=5 \Rightarrow$ represents the point $(1,5)$ we can now subsitute in the slope, the given point into the slope y-intercept form and solve for the y-intercept ($b$),
+> Convert $3x-y+5=0$ to slope y-intercept form to determine the slope of the parallel line. Add $y$ to both sides results in $y=3x+5$ where the slope $m=3$. Since parallel lines have the same slopes $m=m_{\parallel}=3$. Since $f(1)=5 \Rightarrow$ represents the point $(1,5)$ we can now subsitute in the slope, the given point into the slope y-intercept form and solve for the y-intercept ($b$),
 > $$
 > \begin{array}{rcll}
 > y & = & mx+b \\

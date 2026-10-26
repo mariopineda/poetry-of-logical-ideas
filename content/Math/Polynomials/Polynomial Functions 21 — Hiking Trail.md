@@ -88,6 +88,7 @@ Use your graphing calculator as needed.
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 7|Polynomial Functions 7]]
+> - [[Math/Polynomials/Polynomial Functions 28 - Checking Reasoning|Polynomial Functions 28 - Checking Reasoning]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -54,6 +54,32 @@ your level as you start the campain in a new game on your XBox.
 ## Solution
 
 > [!example]- Show solution
+>
+> Many sketches are possible. The following are representative models.
+>
+> | Scenario | Independent variable | Dependent variable | Type | Qualitative graph |
+> | --- | --- | --- | --- | --- |
+> | **A. Ferris wheel** | time, continuous | height above ground, continuous | continuous | smooth periodic curve that repeatedly rises and falls |
+> | **B. Frog jumps** | number of jumps, discrete | total distance travelled, discrete | discrete | separate increasing points; approximately linear if jump lengths are similar |
+> | **C. Bouncy ball** | time, continuous | height, continuous | continuous | repeated arches with successively lower maximum heights |
+> | **D. Houses sold** | time, usually measured by month | cumulative houses sold, discrete | discrete | nondecreasing step graph |
+> | **E. Drive to Calgary** | time, continuous | distance from home, continuous | continuous | generally increasing; horizontal portions represent stops |
+> | **F. Cycling over hills** | time, continuous | speed, continuous | continuous | smooth varying curve; speed generally decreases uphill and increases downhill |
+> | **G. Selling eggs** | number of eggs sold, discrete | revenue, discrete monetary increments | discrete | separate increasing points; linear if price per egg is constant |
+> | **H. Video-game level** | playing time, continuous | level, discrete | mixed; dependent variable discrete | step graph that jumps upward when a new level is reached |
+>
+> For each sketch, label the horizontal axis with the independent variable and the vertical axis with the dependent variable, including appropriate units.
+>
+> Possible verbal descriptions include:
+>
+> - **A:** height rises and falls repeatedly as the wheel rotates.
+> - **B:** total distance increases each time the frog completes another jump.
+> - **C:** the ball repeatedly returns to the ground while each bounce reaches a smaller height.
+> - **D:** the cumulative number of houses sold increases only when another sale occurs.
+> - **E:** distance from home generally increases during the trip, with flat sections during stops.
+> - **F:** speed varies continuously as the cyclist climbs and descends hills.
+> - **G:** revenue increases whenever additional eggs are sold.
+> - **H:** the player's level stays fixed for a time and then jumps to the next level.
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

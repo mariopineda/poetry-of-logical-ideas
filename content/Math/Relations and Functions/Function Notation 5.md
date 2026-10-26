@@ -43,6 +43,57 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> Given
+>
+> $$
+> f(x)=-2x-1,
+> \qquad
+> g(x)=x+2,
+> \qquad
+> h(x)=\frac14x-3,
+> $$
+>
+> we obtain:
+>
+> 1.
+>
+> $$
+> g(1)=1+2=\boxed{3}.
+> $$
+>
+> 2.
+>
+> $$
+> f(a)=-2a-1=\boxed{-2a-1}.
+> $$
+>
+> 3.
+>
+> $$
+> h(12)=\frac14(12)-3=3-3=\boxed{0}.
+> $$
+>
+> 4.
+>
+> $$
+> f\left(\frac14\right)
+> =-2\left(\frac14\right)-1
+> =-\frac12-1
+> =\boxed{-\frac32}.
+> $$
+>
+> 5.
+>
+> $$
+> g(-2)=-2+2=\boxed{0}.
+> $$
+>
+> 6.
+>
+> $$
+> h(0)=\frac14(0)-3=\boxed{-3}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]

@@ -35,6 +35,40 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1.
+>
+> "Three less than double $x$" means
+>
+> $$
+> y=2x-3.
+> $$
+>
+> Thus the completed table is
+>
+> | $x$ | $y$ |
+> | ---: | ---: |
+> | $-2$ | $-7$ |
+> | $0$ | $-3$ |
+> | $-2$ | $-7$ |
+> | $10$ | $17$ |
+>
+> ### 2.
+>
+> For
+>
+> $$
+> y=-\frac12x+6,
+> $$
+>
+> the completed table is
+>
+> | $x$ | $y$ |
+> | ---: | ---: |
+> | $-15$ | $\frac{27}{2}$ |
+> | $2$ | $5$ |
+> | $12$ | $0$ |
+> | $20$ | $-4$ |
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

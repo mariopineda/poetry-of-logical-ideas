@@ -7,32 +7,40 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-Using the unit circle, determine the exact values of:
-
-1.
+Using the unit circle, determine the exact values of
 
 $$
-\cos \pi
+\cos\pi,\qquad
+\tan\frac{\pi}{2},\qquad
+\sin\frac{5\pi}{4},\qquad
+\sec\frac{7\pi}{4}.
 $$
-2.
-
-$$
-\tan \frac{\pi}{2}
-$$
-3.
-
-$$
-\sin \frac{5\pi}{4}
-$$
-4.
-
-$$
-\sec \frac{7\pi}{4}
-$$
-
-<!--
 
 ## Solution
+
+> [!example]- Show solution
+>
+> $$
+> \boxed{\cos\pi=-1}.
+> $$
+>
+> Since $\cos\frac{\pi}{2}=0$,
+>
+> $$
+> \boxed{\tan\frac{\pi}{2}\text{ is undefined}}.
+> $$
+>
+> $$
+> \boxed{\sin\frac{5\pi}{4}=-\frac{\sqrt2}{2}}.
+> $$
+>
+> $$
+> \sec\frac{7\pi}{4}
+> =
+> \frac{1}{\sqrt2/2}
+> =
+> \boxed{\sqrt2}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

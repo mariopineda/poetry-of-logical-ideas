@@ -18,6 +18,30 @@ Classify the following as representing discrete or continuous data.
 ## Solution
 
 > [!example]- Show solution
+>
+> ### 1. Tomatoes sold for $1.29$ per kilogram
+>
+> The amount purchased can vary continuously, so this represents
+>
+> $$
+> \boxed{\text{continuous data}}.
+> $$
+>
+> ### 2. Rachel saves $10$ each month
+>
+> If the savings are recorded after each monthly deposit, the number of deposits is counted in whole months, so this represents
+>
+> $$
+> \boxed{\text{discrete data}}.
+> $$
+>
+> ### 3. $F=1.8C+32$
+>
+> Temperature can take any value within a range, so this represents
+>
+> $$
+> \boxed{\text{continuous data}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]

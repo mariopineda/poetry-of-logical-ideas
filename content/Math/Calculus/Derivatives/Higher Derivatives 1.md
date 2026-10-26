@@ -7,11 +7,49 @@ topic: "Higher Derivatives"
 show_solution: true
 ---
 
-Determine the first 4 derivatives for $y=ax^3+bx^2+cx+d$ where ${a,b,c,d \in \mathbb{R}}$.
+Determine the first four derivatives of
+
+$$
+y=ax^3+bx^2+cx+d,
+$$
+
+where
+
+$$
+a,b,c,d\in\mathbb R.
+$$
 
 ## Solution
 
 > [!example]- Show solution
+>
+> Differentiate successively:
+>
+> $$
+> \boxed{
+> y'=3ax^2+2bx+c
+> }
+> $$
+>
+> $$
+> \boxed{
+> y''=6ax+2b
+> }
+> $$
+>
+> $$
+> \boxed{
+> y'''=6a
+> }
+> $$
+>
+> and
+>
+> $$
+> \boxed{
+> y^{(4)}=0
+> }.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Calculus/Derivatives/Basic Derivatives 1|Basic Derivatives 1]]

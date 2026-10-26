@@ -25,13 +25,13 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 >
 > The business breaks even when the profit is $0$.
 >
-> From the graph, the x-intercepts are $(1,0)$ and $(7,0)$.
+> From the graph, the $x$-intercepts are $(1,0)$ and $(7,0)$.
 >
 > Since $x$ is measured in **hundreds of products**, the business breaks even at **100 products** or **700 products**.
 >
 > ### 2.
 >
-> The maximum profit occurs at the **vertex** of the parabola.
+> The maximum profit occurs at the vertex of the parabola.
 >
 > From the graph, the vertex is $(4,9)$.
 >
@@ -41,7 +41,7 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 >
 > The maximum value of the function is $9$.
 >
-> Since profit is measured in **thousands of dollars**, the maximum monthly profit is **$9,000**.
+> Since profit is measured in thousands of dollars, the maximum monthly profit is **\$9,000**.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
@@ -51,6 +51,9 @@ Here, $x$ is the number of **hundreds of products sold** and $P(x)$ is the profi
 
 > [!info] Explore Also
 > - [[Math/Polynomials/Polynomial Functions 13|Polynomial Functions 13]]
+> - [[Math/Polynomials/Polynomial Functions 27 - Building a Graph|Polynomial Functions 27 - Building a Graph]]
+> - [[Math/Polynomials/Polynomial Functions 17|Polynomial Functions 17]]
+> - [[Math/Polynomials/Polynomial Functions 20 — Poster Sales|Polynomial Functions 20 — Poster Sales]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

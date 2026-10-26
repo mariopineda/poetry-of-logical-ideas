@@ -7,7 +7,7 @@ topic: "Logarithmic Functions"
 show_solution: true
 ---
 
-Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
+Determine the following characteristics for $y=b^x$ and $y=\log_{b}{x}, x>0$
 
 - Domain
 - Range
@@ -19,9 +19,38 @@ Determine the following characteristics for $y=b^x$ and $y=\log\_{b}{x}, x>0$
 
 > [!example]- Show solution
 >
+> Assume
+>
+> $$
+> b>0,\qquad b\neq1.
+> $$
+>
+> The functions
+>
+> $$
+> y=b^x
+> $$
+>
+> and
+>
+> $$
+> y=\log_b x
+> $$
+>
+> are inverses.
+>
+> | Characteristic | $y=b^x$ | $y=\log_b x$ |
+> | --- | --- | --- |
+> | Domain | $\mathbb R$ | $(0,\infty)$ |
+> | Range | $(0,\infty)$ | $\mathbb R$ |
+> | $x$-intercept | none | $(1,0)$ |
+> | $y$-intercept | $(0,1)$ | none |
+> | Asymptote | $y=0$ | $x=0$ |
+>
+> Thus the domain and range are interchanged, as are the horizontal and vertical asymptotes.
+>
 > > [!info]- Legacy video solution
 > > https://www.youtube.com/embed/eYLuNOOWzYM
->
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]

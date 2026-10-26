@@ -68,6 +68,8 @@ $$
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -21,6 +21,140 @@ A ball is thrown into the air from the balcony of an apartment and falls to the 
 ## Solution
 
 > [!example]- Show solution
+>
+> The height is
+>
+> $$
+> h(t)=-5t^2+10t+35.
+> $$
+>
+> ### 1. Maximum height
+>
+> The vertex occurs at
+>
+> $$
+> t=-\frac{10}{2(-5)}=1.
+> $$
+>
+> Then
+>
+> $$
+> h(1)=-5+10+35=40.
+> $$
+>
+> So the maximum height is
+>
+> $$
+> \boxed{40\text{ m}}.
+> $$
+>
+> ### 2. Intercepts
+>
+> The $y$-intercept is
+>
+> $$
+> \boxed{(0,35)},
+> $$
+>
+> the initial height of the ball.
+>
+> For the $x$-intercepts,
+>
+> $$
+> -5t^2+10t+35=0
+> $$
+>
+> gives
+>
+> $$
+> t=1\pm2\sqrt2.
+> $$
+>
+> Numerically,
+>
+> $$
+> t\approx-1.8,\ 3.8.
+> $$
+>
+> Only
+>
+> $$
+> \boxed{(3.8,0)}
+> $$
+>
+> is meaningful in context: the ball reaches the ground about $3.8$ s after being thrown.
+>
+> ### 3.
+>
+> $$
+> h(3)=-45+30+35=\boxed{20\text{ m}}.
+> $$
+>
+> ### 4.
+>
+> Set $h=38$:
+>
+> $$
+> -5t^2+10t+35=38.
+> $$
+>
+> This gives
+>
+> $$
+> 5t^2-10t+3=0
+> $$
+>
+> and
+>
+> $$
+> t=1\pm\frac{\sqrt{10}}5.
+> $$
+>
+> Thus,
+>
+> $$
+> \boxed{t\approx0.4\text{ s},\ 1.6\text{ s}}.
+> $$
+>
+> ### 5.
+>
+> Solve
+>
+> $$
+> -5t^2+10t+35>15.
+> $$
+>
+> The relevant boundary time is
+>
+> $$
+> t=1+\sqrt5\approx3.24.
+> $$
+>
+> In context the ball is above $15$ m for
+>
+> $$
+> \boxed{0\leq t<3.2\text{ s}}
+> $$
+>
+> to the nearest tenth.
+>
+> ### 6.
+>
+> The relation is **non-linear** because it is quadratic.
+>
+> ### 7.
+>
+> The ball is modeled from release until it hits the ground:
+>
+> $$
+> \boxed{\text{Domain }=\{t\mid0\leq t\leq1+2\sqrt2\}}
+> $$
+>
+> and
+>
+> $$
+> \boxed{\text{Range }=\{h\mid0\leq h\leq40\}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]

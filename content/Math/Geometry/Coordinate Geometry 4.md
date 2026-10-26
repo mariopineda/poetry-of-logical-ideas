@@ -13,6 +13,36 @@ Determine the equation of the line that is parallel to $5x+7y-35=0$ and goes thr
 ## Solution
 
 > [!example]- Show solution
+>
+> A parallel line has the same $x$- and $y$-coefficients, so write
+>
+> $$
+> 5x+7y+C=0.
+> $$
+>
+> Substitute $(2,9)$:
+>
+> $$
+> 5(2)+7(9)+C=0.
+> $$
+>
+> Thus,
+>
+> $$
+> 10+63+C=0
+> $$
+>
+> and
+>
+> $$
+> C=-73.
+> $$
+>
+> Therefore,
+>
+> $$
+> \boxed{5x+7y-73=0}.
+> $$
 
 > [!abstract] Review First
 > _No linked questions yet._

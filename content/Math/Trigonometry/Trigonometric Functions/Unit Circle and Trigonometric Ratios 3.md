@@ -7,11 +7,27 @@ topic: "Trigonometric Functions"
 show_solution: true
 ---
 
-A $30^\circ-60^\circ-90^\circ$ triangle may be created by drawing an altitude in an equilaterial triangle. If the hypothenuse of the triangle has a length of 1 unit, then use the Pythagorean theorem to find the length of the altitude, $x$. Express your answer as an exact value.
-
-<!--
+A $30^\circ$-$60^\circ$-$90^\circ$ triangle may be created by drawing an altitude in an equilateral triangle. If the hypotenuse has length $1$, use the Pythagorean Theorem to find the exact length of the altitude, $x$.
 
 ## Solution
+
+> [!example]- Show solution
+>
+> The short leg is $\frac12$. Thus,
+>
+> $$
+> x^2+\left(\frac12\right)^2=1
+> $$
+>
+> $$
+> x^2=\frac34
+> $$
+>
+> so
+>
+> $$
+> \boxed{x=\frac{\sqrt3}{2}}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]

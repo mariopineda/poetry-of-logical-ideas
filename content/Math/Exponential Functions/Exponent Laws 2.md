@@ -38,6 +38,38 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> 1.
+>
+> $$
+> z^2z^7=\boxed{z^9}
+> $$
+>
+> 2.
+>
+> $$
+> (a^3b^4)(a^8b^3)=\boxed{a^{11}b^7}
+> $$
+>
+> 3.
+>
+> $$
+> (-2xy)(-5x^7y^3)=\boxed{10x^8y^4}
+> $$
+>
+> 4.
+>
+> $$
+> \frac{a^6}{a^3}=\boxed{a^3}
+> $$
+>
+> 5.
+>
+> $$
+> \frac{-12x^6y^5}{4xy^3}
+> =
+> \boxed{-3x^5y^2}
+> $$
 
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
@@ -47,8 +79,13 @@ $$
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 > - [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Exponent and Polynomial Skills 6|Exponent and Polynomial Skills 6]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 5|Exponent and Polynomial Skills 5]]
+> - [[Math/Polynomials/Exponent and Polynomial Skills 4|Exponent and Polynomial Skills 4]]

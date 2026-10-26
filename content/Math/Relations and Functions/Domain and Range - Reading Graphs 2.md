@@ -69,6 +69,9 @@ Determine the **domain and range** of each relation in both **set-builder notati
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
 > - [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
 > - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
+> - [[Math/Polynomials/Polynomial Functions 9|Polynomial Functions 9]]
+> - [[Math/Polynomials/Polynomial Functions 12|Polynomial Functions 12]]
+> - [[Math/Polynomials/Polynomial Functions 17|Polynomial Functions 17]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

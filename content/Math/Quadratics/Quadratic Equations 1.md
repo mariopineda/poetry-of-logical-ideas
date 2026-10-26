@@ -33,6 +33,36 @@ $$
 ## Solution
 
 > [!example]- Show solution
+>
+> Factor:
+>
+> $$
+> 6x^2-12x-18
+> =
+> 6(x^2-2x-3)
+> $$
+>
+> and
+>
+> $$
+> x^2-2x-3=(x-3)(x+1).
+> $$
+>
+> Thus,
+>
+> $$
+> 6x^2-12x-18
+> =
+> 6(x-3)(x+1).
+> $$
+>
+> Therefore one factor is
+>
+> $$
+> \boxed{x-3},
+> $$
+>
+> which is **choice 4**.
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
@@ -49,3 +79,5 @@ $$
 
 > [!success] Build Toward
 > - [[Math/Quadratics/Solving Quadratic Equations by Factoring 1|Solving Quadratic Equations by Factoring 1]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 3|Solving Quadratic Equations by Factoring 3]]
+> - [[Math/Quadratics/Solving Quadratic Equations by Factoring 2|Solving Quadratic Equations by Factoring 2]]
