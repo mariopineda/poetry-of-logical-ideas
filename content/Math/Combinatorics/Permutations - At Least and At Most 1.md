@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Permutations"
-show_solution: true
+  - Mathematics 30-2
+topic: Permutations
+show_solution: false
 ---
 
 A wildlife photographer has selected **5 different photographs** for a slideshow. The photographs will be shown one at a time, and no photograph can be used more than once.

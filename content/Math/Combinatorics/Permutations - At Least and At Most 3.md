@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Permutations"
-show_solution: true
+  - Mathematics 30-2
+topic: Permutations
+show_solution: false
 ---
 
 A jewellery designer has **5 different rings** available for a display. The rings will be arranged in a single row, and each ring may be used only once.

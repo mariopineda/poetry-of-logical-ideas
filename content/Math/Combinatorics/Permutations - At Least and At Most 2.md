@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Permutations"
-show_solution: true
+  - Mathematics 30-2
+topic: Permutations
+show_solution: false
 ---
 
 A music teacher has **6 different songs** available for the closing sequence of a concert. Each song may be performed at most once, and the order of the songs matters.
