@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 A jewellery designer has **5 different rings** available for a display. The rings will be arranged in a single row, and each ring may be used only once.
@@ -22,20 +22,6 @@ Exactly **2 rings**.
 ### C.
 
 **At most 2 rings**, but at least one must be used.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations - At Least and At Most 1|Permutations - At Least and At Most 1]]
-> - [[Math/Combinatorics/Permutations - At Least and At Most 2|Permutations - At Least and At Most 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
 ## Solution
 
@@ -72,3 +58,17 @@ Exactly **2 rings**.
 > $$
 > =\boxed{25}
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations - At Least and At Most 1|Permutations - At Least and At Most 1]]
+> - [[Math/Combinatorics/Permutations - At Least and At Most 2|Permutations - At Least and At Most 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
