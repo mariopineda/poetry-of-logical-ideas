@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 A music teacher has **6 different songs** available for the closing sequence of a concert. Each song may be performed at most once, and the order of the songs matters.
@@ -22,20 +22,6 @@ Exactly **4 songs**.
 ### C.
 
 **At most 4 songs**, but at least one must be used.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations - At Least and At Most 1|Permutations - At Least and At Most 1]]
-> - [[Math/Combinatorics/Permutations - At Least and At Most 3|Permutations - At Least and At Most 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
 ## Solution
 
@@ -72,3 +58,17 @@ Exactly **4 songs**.
 > $$
 > =\boxed{516}
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations - At Least and At Most 1|Permutations - At Least and At Most 1]]
+> - [[Math/Combinatorics/Permutations - At Least and At Most 3|Permutations - At Least and At Most 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
