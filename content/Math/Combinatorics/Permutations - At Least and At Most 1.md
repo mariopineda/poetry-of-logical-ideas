@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 A wildlife photographer has selected **5 different photographs** for a slideshow. The photographs will be shown one at a time, and no photograph can be used more than once.
@@ -22,6 +22,8 @@ Exactly **3 photographs**.
 ### C.
 
 **At most 3 photographs**, but at least one must be used.
+
+## Solution
 
 > [!example]- Show solution
 >
