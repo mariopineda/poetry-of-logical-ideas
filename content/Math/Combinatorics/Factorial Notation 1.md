@@ -70,6 +70,9 @@ $$
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 1|Factorial Notation - Algebraic 1]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 3|Factorial Notation - Algebraic 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

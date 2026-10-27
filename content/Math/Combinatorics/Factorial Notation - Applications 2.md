@@ -72,6 +72,7 @@ How many different arrangements are possible for the three medals?
 > [!info] Explore Also
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -79,3 +80,4 @@ How many different arrangements are possible for the three medals?
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]

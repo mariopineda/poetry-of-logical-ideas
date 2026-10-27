@@ -81,6 +81,9 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 1|Factorial Notation - Algebraic 1]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
+> - [[Math/Combinatorics/Factorial Notation - Algebraic 3|Factorial Notation - Algebraic 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
