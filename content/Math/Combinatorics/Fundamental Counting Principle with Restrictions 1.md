@@ -67,3 +67,6 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
+> - [[Math/Combinatorics/Permutations with Restrictions - Rover Commands 1|Permutations with Restrictions - Rover Commands 1]]
+> - [[Math/Combinatorics/Permutations with Restrictions - Film Festival 1|Permutations with Restrictions - Film Festival 1]]
+> - [[Math/Combinatorics/Permutations with Restrictions - Archaeology Lab 1|Permutations with Restrictions - Archaeology Lab 1]]

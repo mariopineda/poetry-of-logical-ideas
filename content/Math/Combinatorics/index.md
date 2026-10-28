@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **36 Questions of the Day** · **Courses:** Not specified
+> **39 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -53,4 +53,7 @@ Practice questions for **Combinatorics**.
 | [[Math/Combinatorics/Permutations 4\|Permutations 4]] | Not specified |
 | [[Math/Combinatorics/Permutations 5\|Permutations 5]] | Not specified |
 | [[Math/Combinatorics/Permutations with Repetition 1\|Permutations with Repetition 1]] | Not specified |
+| [[Math/Combinatorics/Permutations with Restrictions - Archaeology Lab 1\|Permutations with Restrictions - Archaeology Lab 1]] | Not specified |
+| [[Math/Combinatorics/Permutations with Restrictions - Film Festival 1\|Permutations with Restrictions - Film Festival 1]] | Not specified |
+| [[Math/Combinatorics/Permutations with Restrictions - Rover Commands 1\|Permutations with Restrictions - Rover Commands 1]] | Not specified |
 
