@@ -81,17 +81,11 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
-> - [[Math/Combinatorics/Factorial Notation - Algebraic 1|Factorial Notation - Algebraic 1]]
-> - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
-> - [[Math/Combinatorics/Factorial Notation - Algebraic 3|Factorial Notation - Algebraic 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations 2|Permutations 2]]
-> - [[Math/Combinatorics/Permutations - At Least and At Most 1|Permutations - At Least and At Most 1]]
-> - [[Math/Combinatorics/Permutations - At Least and At Most 2|Permutations - At Least and At Most 2]]
-> - [[Math/Combinatorics/Permutations - At Least and At Most 3|Permutations - At Least and At Most 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -99,6 +93,6 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
 > - [[Math/Combinatorics/Combinations 3|Combinations 3]]
-> - [[Math/Combinatorics/Permutations with Restrictions - Rover Commands 1|Permutations with Restrictions - Rover Commands 1]]
-> - [[Math/Combinatorics/Permutations with Restrictions - Film Festival 1|Permutations with Restrictions - Film Festival 1]]
-> - [[Math/Combinatorics/Permutations with Restrictions - Archaeology Lab 1|Permutations with Restrictions - Archaeology Lab 1]]
+> - [[Math/Combinatorics/Counting Odd Natural Numbers 1|Counting Odd Natural Numbers 1]]
+> - [[Math/Combinatorics/Counting Odd Natural Numbers 2|Counting Odd Natural Numbers 2]]
+> - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]

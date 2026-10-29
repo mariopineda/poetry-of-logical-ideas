@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **39 Questions of the Day** · **Courses:** Not specified
+> **42 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -24,6 +24,9 @@ Practice questions for **Combinatorics**.
 | [[Math/Combinatorics/Counting Methods Challenge 1\|Counting Methods Challenge 1]] | Not specified |
 | [[Math/Combinatorics/Counting Methods Challenge 2\|Counting Methods Challenge 2]] | Not specified |
 | [[Math/Combinatorics/Counting Methods Challenge 3\|Counting Methods Challenge 3]] | Not specified |
+| [[Math/Combinatorics/Counting Odd Natural Numbers 1\|Counting Odd Natural Numbers 1]] | Not specified |
+| [[Math/Combinatorics/Counting Odd Natural Numbers 2\|Counting Odd Natural Numbers 2]] | Not specified |
+| [[Math/Combinatorics/Counting Odd Natural Numbers 3\|Counting Odd Natural Numbers 3]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Algebraic 1\|Factorial Notation - Algebraic 1]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Algebraic 2\|Factorial Notation - Algebraic 2]] | Not specified |
 | [[Math/Combinatorics/Factorial Notation - Algebraic 3\|Factorial Notation - Algebraic 3]] | Not specified |
