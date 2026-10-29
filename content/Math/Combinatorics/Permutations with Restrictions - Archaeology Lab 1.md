@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 An archaeology laboratory has **3 different pottery samples** and **5 different bone samples** waiting to be processed. All eight samples will be processed one at a time.
@@ -22,21 +22,6 @@ How many processing orders begin with **two pottery samples**?
 How many processing orders begin with **exactly two pottery samples**?
 
 That is, the first two samples must be pottery, but the third must be bone.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations with Restrictions - Rover Commands 1|Permutations with Restrictions - Rover Commands 1]]
-> - [[Math/Combinatorics/Permutations with Restrictions - Film Festival 1|Permutations with Restrictions - Film Festival 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -73,3 +58,18 @@ That is, the first two samples must be pottery, but the third must be bone.
 > $$
 > 3(2)(5)(5!)=\boxed{3600}
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations with Restrictions - Rover Commands 1|Permutations with Restrictions - Rover Commands 1]]
+> - [[Math/Combinatorics/Permutations with Restrictions - Film Festival 1|Permutations with Restrictions - Film Festival 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
