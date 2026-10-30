@@ -13,7 +13,7 @@ $$
 0,1,2,3,4,5,6,7.
 $$
 
-The observatory uses **odd observation numbers for images of astronomical targets** and even observation numbers for calibration images used to check and correct the telescope data.
+The observatory uses **odd natural numbers for images of astronomical targets** and even natural numbers for calibration images used to check and correct the telescope data.
 
 How many different observation numbers can be assigned to astronomical-target images if:
 

@@ -13,7 +13,7 @@ $$
 0,1,2,4,5,6,8.
 $$
 
-The researchers use **odd sample numbers for specimens collected in the field** and even sample numbers for laboratory reference samples.
+The researchers use **odd natural numbers for specimens collected in the field** and even natural numbers for laboratory reference samples.
 
 How many different field-sample numbers can be created if:
 
