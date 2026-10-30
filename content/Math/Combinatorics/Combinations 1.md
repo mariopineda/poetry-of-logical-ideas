@@ -46,6 +46,9 @@ Consider a circle with five points marked on the circumference.
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

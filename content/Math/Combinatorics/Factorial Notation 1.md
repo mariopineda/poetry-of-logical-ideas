@@ -87,4 +87,6 @@ $$
 > - [[Math/Combinatorics/Permutations 3|Permutations 3]]
 > - [[Math/Combinatorics/Permutations 4|Permutations 4]]
 > - [[Math/Combinatorics/Permutations 5|Permutations 5]]
-> - [[Math/Combinatorics/Permutations with Repetition 1|Permutations with Repetition 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]

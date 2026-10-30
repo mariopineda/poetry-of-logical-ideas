@@ -59,7 +59,9 @@ Determine the number of arrangements of the letters in the word SAILING if the v
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations 4|Permutations 4]]
-> - [[Math/Combinatorics/Permutations with Repetition 1|Permutations with Repetition 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -90,9 +90,9 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
+> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
 > - [[Math/Combinatorics/Combinations 3|Combinations 3]]
-> - [[Math/Combinatorics/Counting Odd Natural Numbers 1|Counting Odd Natural Numbers 1]]
-> - [[Math/Combinatorics/Counting Odd Natural Numbers 2|Counting Odd Natural Numbers 2]]
-> - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]
