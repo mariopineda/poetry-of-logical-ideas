@@ -4,7 +4,7 @@ publish: true
 type: "page"
 ---
 
-Welcome to **The Osculatorium**. Use this site to practise mathematics, review earlier ideas, explore connections between topics, and find information about how our class works.
+Welcome to **The Osculatorium**. Use this site to practise mathematics, review earlier ideas, and explore connections between mathematical topics.
 
 ## Questions of the Day (QOD)
 Questions of the Day are the heart of this site. Use them for practice, review, and preparation for future mathematics.
