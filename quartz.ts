@@ -258,8 +258,6 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     node.children = [
       qod,
       learningPath,
-      faq,
-      about,
     ]
   },
 
@@ -1763,7 +1761,7 @@ config.plugins.transformers.push({
                   {
                     type: "text",
                     value:
-                      "Loading the QOD graph…",
+                      "Loading the QOD graphâ€¦",
                   },
                 ],
               },
