@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
-topic: "Permutations"
+topic: "Pathway Problems"
 show_solution: true
 ---
 
@@ -28,7 +28,7 @@ $$
 
 At every step, you may move only one unit **right** or one unit **up**.
 
-Using permutations, determine the number of distinct pathways from $R$ to $G$ that pass through $O$.
+Using **permutations and factorial notation**, determine the number of distinct pathways from $R$ to $G$ that pass through $O$.
 
 ## Solution
 
@@ -36,8 +36,8 @@ Using permutations, determine the number of distinct pathways from $R$ to $G$ th
 >
 > From $R=(0,0)$ to $O=(2,1)$, a path requires:
 >
-> - $2$ right moves;
-> - $1$ up move.
+> - $2$ right moves
+> - $1$ up move
 >
 > That is $3$ moves total, so the number of distinct arrangements is
 >
@@ -47,8 +47,8 @@ Using permutations, determine the number of distinct pathways from $R$ to $G$ th
 >
 > From $O=(2,1)$ to $G=(5,3)$, a path requires:
 >
-> - $3$ right moves;
-> - $2$ up moves.
+> - $3$ right moves
+> - $2$ up moves
 >
 > Thus,
 >
@@ -64,14 +64,14 @@ Using permutations, determine the number of distinct pathways from $R$ to $G$ th
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]

@@ -4,7 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
-topic: "Permutations"
+topic: "Pathway Problems"
 show_solution: true
 ---
 
@@ -28,39 +28,35 @@ $$
 
 At every step, you may move only one unit **right** or one unit **up**.
 
-Using **Pascal's Triangle / combinations**, determine the number of distinct pathways from $R$ to $G$ that pass through $O$.
+Using **permutations and factorial notation**, determine the number of distinct pathways from $R$ to $G$ that pass through $O$.
 
 ## Solution
 
 > [!example]- Show solution
 >
-> From $R$ to $O$, there are $5$ moves total:
+> From $R$ to $O$, a path requires:
+>
+> - $3$ right moves
+> - $2$ up moves
+>
+> There are $5$ moves altogether, so the number of distinct arrangements is
 >
 > $$
-> 3\text{ right},\qquad2\text{ up}.
+> \frac{5!}{3!2!}=10.
 > $$
 >
-> The number of pathways is
+> From $O$ to $G$, a path again requires:
+>
+> - $3$ right moves
+> - $2$ up moves
+>
+> Therefore, the number of distinct arrangements is
 >
 > $$
-> \binom52=10.
+> \frac{5!}{3!2!}=10.
 > $$
 >
-> From $O$ to $G$, there are again
->
-> $$
-> 3\text{ right},\qquad2\text{ up},
-> $$
->
-> so there are
->
-> $$
-> \binom52=10
-> $$
->
-> pathways.
->
-> Therefore,
+> Every valid pathway from $R$ to $O$ can be paired with every valid pathway from $O$ to $G$, so
 >
 > $$
 > 10(10)=\boxed{100}.
@@ -68,6 +64,7 @@ Using **Pascal's Triangle / combinations**, determine the number of distinct pat
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -78,4 +75,4 @@ Using **Pascal's Triangle / combinations**, determine the number of distinct pat
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Permutations - Map Pathways 2|Permutations - Map Pathways 2]]

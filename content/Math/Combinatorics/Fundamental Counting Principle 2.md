@@ -4,11 +4,12 @@ publish: true
 course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
-topic: "Fundamental Counting Principle"
+topic: "Pathway Problems"
 show_solution: true
 ---
 
 How many ways are there of getting from A to C, passing through each point at most once?
+
 ![[Pathways.png]]
 
 ## Solution
@@ -16,16 +17,21 @@ How many ways are there of getting from A to C, passing through each point at mo
 > [!example]- Show solution
 >
 > Route $A \rightarrow B_1 \rightarrow C \Rightarrow$ FCP: $1 \times 3 = 3$
+>
 > Route $A \rightarrow B_2 \rightarrow C \Rightarrow$ FCP: $2 \times 1 = 2$
+>
 > Route $A \rightarrow B_3 \rightarrow C \Rightarrow$ FCP: $3 \times 2 = 6$
 >
-> $3 + 2 + 6 = 11$ different routes
+> Therefore,
 >
+> $$
+> 3+2+6=\boxed{11}.
+> $$
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
-> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -36,4 +42,4 @@ How many ways are there of getting from A to C, passing through each point at mo
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Permutations 2|Permutations 2]]
