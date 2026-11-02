@@ -1761,7 +1761,7 @@ config.plugins.transformers.push({
                   {
                     type: "text",
                     value:
-                      "Loading the QOD graphâ€¦",
+                      "Loading the QOD graph…",
                   },
                 ],
               },
