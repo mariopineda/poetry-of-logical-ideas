@@ -249,6 +249,73 @@
     const activePointers = new Map()
     let pinchStart = null
 
+    // OSC-QOD-AMBIENT-BREATH-V1
+    // Slow, asynchronous glow: no node movement, edge changes, or hitbox changes.
+    // The ambient effect stops on selection, during pointer gestures, when the
+    // graph is offscreen, and whenever reduced motion is requested.
+    const reducedMotionQuery = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    )
+    let ambientMotionEnabled = true
+    let ambientFrame = 0
+    let graphVisible = true
+
+    // Stable phases avoid synchronized flashing and retain the same visual
+    // rhythm across page loads without storing any student information.
+    const ambientPhases = new Map(
+      nodes.map((node) => {
+        let hash = 0
+        for (const character of String(node.id)) {
+          hash = (hash * 33 + character.charCodeAt(0)) >>> 0
+        }
+        return [node.id, (hash % 6283) / 1000]
+      }),
+    )
+
+    const ambientVisibilityObserver = new IntersectionObserver(
+      (entries) => {
+        graphVisible = entries.some((entry) => entry.isIntersecting)
+      },
+      { threshold: 0.01 },
+    )
+    ambientVisibilityObserver.observe(viewport)
+
+    function updateAmbientButton() {
+      const button = toolbar.querySelector('button[data-qod-motion]')
+      if (!button) return
+      if (reducedMotionQuery.matches) {
+        button.textContent = "Reduced motion"
+        button.disabled = true
+        button.setAttribute("aria-pressed", "false")
+        return
+      }
+      button.disabled = false
+      button.textContent = ambientMotionEnabled ? "Pause motion" : "Resume motion"
+      button.setAttribute("aria-pressed", String(ambientMotionEnabled))
+      button.title = "Toggle subtle ambient node glow"
+    }
+
+    function onAmbientPreferenceChange() {
+      ambientFrame = 0
+      updateAmbientButton()
+      draw()
+    }
+    reducedMotionQuery.addEventListener?.("change", onAmbientPreferenceChange)
+
+    // About nine redraws per second; this is deliberately far below 60 fps.
+    const ambientTimer = window.setInterval(() => {
+      if (
+        !ambientMotionEnabled ||
+        reducedMotionQuery.matches ||
+        document.hidden ||
+        !graphVisible ||
+        selectedNode ||
+        activePointers.size > 0
+      ) return
+      ambientFrame = performance.now()
+      draw()
+    }, 110)
+
     function courseClusterTarget(node) {
       const knownCourses =
         node.courses.filter((course) =>
@@ -511,6 +578,36 @@
 
       const nodeColours =
         colours.length > 0 ? colours : ["#888888"]
+
+      // A translucent halo breathes on a roughly 14-second cycle.
+      // It never changes the dot position, the visible dot radius,
+      // or the distance used by pointer hit detection.
+      if (
+        ambientFrame > 0 &&
+        ambientMotionEnabled &&
+        !reducedMotionQuery.matches &&
+        !selectedNode &&
+        graphVisible &&
+        !document.hidden &&
+        activePointers.size === 0
+      ) {
+        const phase = ambientPhases.get(node.id) ?? 0
+        const breathe = 0.5 + 0.5 * Math.sin(ambientFrame / 2200 + phase)
+        ctx.save()
+        ctx.globalAlpha =
+          (courseHighlighted ? 1 : 0.12) * (0.035 + 0.07 * breathe)
+        ctx.fillStyle = nodeColours[0]
+        ctx.beginPath()
+        ctx.arc(
+          point.x,
+          point.y,
+          radius + 1.7 + 1.1 * breathe,
+          0,
+          Math.PI * 2,
+        )
+        ctx.fill()
+        ctx.restore()
+      }
 
       ctx.save()
       let nodeAlpha =
@@ -877,10 +974,23 @@
 
       toolbar.appendChild(reset)
 
+      const motionButton = document.createElement("button")
+      motionButton.type = "button"
+      motionButton.className = "qod-graph-reset-button"
+      motionButton.dataset.qodMotion = "true"
+      motionButton.addEventListener("click", () => {
+        ambientMotionEnabled = !ambientMotionEnabled
+        if (!ambientMotionEnabled) ambientFrame = 0
+        updateAmbientButton()
+        draw()
+      })
+      toolbar.appendChild(motionButton)
+      updateAmbientButton()
+
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
-        "Click a QOD to highlight its direct connections; double-click to open"
+        "Click a QOD to highlight direct connections; double-click to open. Ambient motion can be paused."
 
       toolbar.appendChild(key)
 
@@ -1326,6 +1436,9 @@
     }
 
     cleanupCurrentGraph = () => {
+      window.clearInterval(ambientTimer)
+      ambientVisibilityObserver.disconnect()
+      reducedMotionQuery.removeEventListener?.("change", onAmbientPreferenceChange)
       selectionPanel.remove()
       resizeObserver.disconnect()
       themeObserver.disconnect()
