@@ -250,7 +250,7 @@
     let pinchStart = null
 
     // OSC-QOD-AMBIENT-BREATH-V1
-    // Slow, asynchronous glow: no node movement, edge changes, or hitbox changes.
+    // Gentle breathing effect; screen-space drift is added after the layout is computed.
     // The ambient effect stops on selection, during pointer gestures, when the
     // graph is offscreen, and whenever reduced motion is requested.
     const reducedMotionQuery = window.matchMedia(
@@ -292,7 +292,7 @@
       button.disabled = false
       button.textContent = ambientMotionEnabled ? "Pause motion" : "Resume motion"
       button.setAttribute("aria-pressed", String(ambientMotionEnabled))
-      button.title = "Toggle subtle ambient node glow"
+      button.title = "Toggle gentle node drift and breathing"
     }
 
     function onAmbientPreferenceChange() {
@@ -483,10 +483,31 @@
       draw()
     }
 
+    // OSC-QOD-AMBIENT-DRIFT-V2
+    // A few canvas pixels of breathing drift; underlying graph coordinates
+    // and all QOD relationships remain untouched. The edges use this same
+    // function, so they stay connected to their moving endpoints.
+    function ambientIsActive() {
+      return (
+        ambientFrame > 0 &&
+        ambientMotionEnabled &&
+        !reducedMotionQuery.matches &&
+        !selectedNode &&
+        graphVisible &&
+        !document.hidden
+      )
+    }
+
     function screenPoint(node) {
+      const x = node.x * scale + offsetX
+      const y = node.y * scale + offsetY
+
+      if (!ambientIsActive()) return { x, y }
+
+      const phase = ambientPhases.get(node.id) ?? 0
       return {
-        x: node.x * scale + offsetX,
-        y: node.y * scale + offsetY,
+        x: x + 3.1 * Math.sin(ambientFrame / 3200 + phase),
+        y: y + 3.1 * Math.cos(ambientFrame / 3900 + phase * 1.43),
       }
     }
 
@@ -507,31 +528,23 @@
     }
 
     function nodeAt(x, y) {
-      const graph = graphPoint(x, y)
+      // Hit-test the actual rendered dots, including their very small drift.
+      // This keeps selecting/double-clicking accurate without touching the
+      // simulation positions or any pointer gesture state.
+      let closest = null
+      let closestDistance = Infinity
 
-      const candidate = simulation.find(
-        graph.x,
-        graph.y,
-        24 / scale,
-      )
+      for (const node of nodes) {
+        const point = screenPoint(node)
+        const radius = clamp(node.radius * scale, 4, 20)
+        const distance = Math.hypot(point.x - x, point.y - y)
+        if (distance <= radius + 5 && distance < closestDistance) {
+          closest = node
+          closestDistance = distance
+        }
+      }
 
-      if (!candidate) return null
-
-      const point = screenPoint(candidate)
-      const radius = clamp(
-        candidate.radius * scale,
-        4,
-        20,
-      )
-
-      const distance = Math.hypot(
-        point.x - x,
-        point.y - y,
-      )
-
-      return distance <= radius + 5
-        ? candidate
-        : null
+      return closest
     }
 
     function drawArrow(x1, y1, x2, y2, radius) {
@@ -579,29 +592,20 @@
       const nodeColours =
         colours.length > 0 ? colours : ["#888888"]
 
-      // A translucent halo breathes on a roughly 14-second cycle.
-      // It never changes the dot position, the visible dot radius,
-      // or the distance used by pointer hit detection.
-      if (
-        ambientFrame > 0 &&
-        ambientMotionEnabled &&
-        !reducedMotionQuery.matches &&
-        !selectedNode &&
-        graphVisible &&
-        !document.hidden &&
-        activePointers.size === 0
-      ) {
+      // More visible breathing halo, synchronized to the subtle screen-space
+      // drift; dots and edges move together and remain easy to trace.
+      if (ambientIsActive()) {
         const phase = ambientPhases.get(node.id) ?? 0
         const breathe = 0.5 + 0.5 * Math.sin(ambientFrame / 2200 + phase)
         ctx.save()
         ctx.globalAlpha =
-          (courseHighlighted ? 1 : 0.12) * (0.035 + 0.07 * breathe)
+          (courseHighlighted ? 1 : 0.12) * (0.075 + 0.11 * breathe)
         ctx.fillStyle = nodeColours[0]
         ctx.beginPath()
         ctx.arc(
           point.x,
           point.y,
-          radius + 1.7 + 1.1 * breathe,
+          radius + 2.5 + 1.7 * breathe,
           0,
           Math.PI * 2,
         )
@@ -990,7 +994,7 @@
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
-        "Click a QOD to highlight direct connections; double-click to open. Ambient motion can be paused."
+        "Click to select a QOD; double-click to open. The network drifts gently when unselected."
 
       toolbar.appendChild(key)
 
