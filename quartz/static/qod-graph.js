@@ -141,6 +141,14 @@
     // One finger pans/drags; two fingers pinch to zoom.
     canvas.style.touchAction = "none"
 
+    // OSC-QOD-GRAPH-CLARITY-V2
+    // Give a 500+ node network more room on desktop while
+    // keeping a practical height on smaller screens.
+    viewport.style.minHeight =
+      window.matchMedia("(max-width: 700px)").matches
+        ? "560px"
+        : "720px"
+
     const nodes = data.nodes.map((node) => ({
       ...node,
       courses: (node.courses ?? []).map(canonicalCourseName),
@@ -190,6 +198,39 @@
     let offsetY = 0
     let activeCourse = null
     let hoverNode = null
+
+    const neighbourIds = new Map(
+      nodes.map((node) => [node.id, new Set()]),
+    )
+
+    for (const link of links) {
+      neighbourIds
+        .get(link.source.id)
+        ?.add(link.target.id)
+
+      neighbourIds
+        .get(link.target.id)
+        ?.add(link.source.id)
+    }
+
+    function isInHoverNeighbourhood(node) {
+      if (!hoverNode) return true
+
+      return (
+        node.id === hoverNode.id ||
+        neighbourIds
+          .get(hoverNode.id)
+          ?.has(node.id)
+      )
+    }
+
+    function linkTouchesHover(link) {
+      return (
+        !hoverNode ||
+        link.source.id === hoverNode.id ||
+        link.target.id === hoverNode.id
+      )
+    }
     let dragNode = null
     let panning = false
     let pointerStart = null
@@ -214,7 +255,7 @@
       // This creates overlapping neighbourhoods rather
       // than separate islands.
       const clusterRadius =
-        Math.min(width, height) * 0.16
+        Math.min(width, height) * 0.26
 
       let x = 0
       let y = 0
@@ -263,8 +304,8 @@
         d3
           .forceLink(links)
           .id((node) => node.id)
-          .distance(38)
-          .strength(0.14),
+          .distance(74)
+          .strength(0.11),
       )
 
       // Local repulsion gives nodes breathing room.
@@ -274,16 +315,17 @@
         "charge",
         d3
           .forceManyBody()
-          .strength(-28)
-          .distanceMax(190),
+          .strength(-72)
+          .distanceMax(320),
       )
 
       .force(
         "collision",
         d3
           .forceCollide()
-          .radius((node) => node.radius + 2.5)
-          .strength(0.9),
+          .radius((node) => node.radius + 7)
+          .strength(1)
+          .iterations(2),
       )
 
       // Very gentle course neighbourhoods.
@@ -294,7 +336,7 @@
             (node) =>
               courseClusterTarget(node).x,
           )
-          .strength(0.045),
+          .strength(0.065),
       )
 
       .force(
@@ -304,11 +346,11 @@
             (node) =>
               courseClusterTarget(node).y,
           )
-          .strength(0.045),
+          .strength(0.065),
       )
 
-      .alphaDecay(0.017)
-      .velocityDecay(0.42)
+      .alphaDecay(0.014)
+      .velocityDecay(0.38)
       .on("tick", draw)
 
     function matchesCourse(node) {
@@ -403,7 +445,9 @@
         19,
       )
 
-      const highlighted = matchesCourse(node)
+      const courseHighlighted = matchesCourse(node)
+      const hoverHighlighted =
+        isInHoverNeighbourhood(node)
 
       const colours = node.courses
         .map((course) => COURSE_COLORS[course])
@@ -413,7 +457,19 @@
         colours.length > 0 ? colours : ["#888888"]
 
       ctx.save()
-      ctx.globalAlpha = highlighted ? 1 : 0.12
+      let nodeAlpha =
+        courseHighlighted ? 1 : 0.1
+
+      if (hoverNode) {
+        nodeAlpha =
+          courseHighlighted && hoverHighlighted
+            ? 1
+            : courseHighlighted
+              ? 0.08
+              : 0.04
+      }
+
+      ctx.globalAlpha = nodeAlpha
 
       if (nodeColours.length === 1) {
         ctx.beginPath()
@@ -488,7 +544,16 @@
           continue
         }
 
-        const alpha = activeCourse ? 0.95 : 0.72
+        const hoverConnected =
+          linkTouchesHover(link)
+
+        const alpha = hoverNode
+          ? hoverConnected
+            ? 0.92
+            : 0.035
+          : activeCourse
+            ? 0.42
+            : 0.16
 
         ctx.save()
         ctx.globalAlpha = alpha
@@ -510,12 +575,18 @@
         // dark charcoal in light mode,
         // bright silver in dark mode.
         ctx.strokeStyle = isDark
-          ? "#E1E6ED"
-          : "#252A31"
+          ? "#C9D0D9"
+          : "#59616B"
 
         ctx.fillStyle = ctx.strokeStyle
 
-        ctx.lineWidth = 1.55
+        ctx.lineWidth = hoverNode
+          ? hoverConnected
+            ? 1.8
+            : 0.65
+          : activeCourse
+            ? 1
+            : 0.75
 
         ctx.setLineDash([])
 
@@ -559,7 +630,7 @@
             (node) =>
               courseClusterTarget(node).x,
           )
-          .strength(0.045),
+          .strength(0.065),
       )
 
       simulation.force(
@@ -569,7 +640,7 @@
             (node) =>
               courseClusterTarget(node).y,
           )
-          .strength(0.045),
+          .strength(0.065),
       )
 
       simulation.alpha(0.45).restart()
@@ -734,7 +805,7 @@
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
-        "Lines show connections between QODs"
+        "Lines show existing QOD relationships - hover a QOD to isolate its direct connections"
 
       toolbar.appendChild(key)
 
@@ -1166,7 +1237,7 @@
 
     if (status) {
       status.textContent =
-        "Drag nodes, drag empty space to pan, and use the mouse wheel or pinch to zoom."
+        "Hover a QOD to highlight its direct connections. Drag nodes, pan empty space, and use the mouse wheel or pinch to zoom."
     }
 
     cleanupCurrentGraph = () => {
