@@ -19,48 +19,24 @@ Using **Pascal's Triangle**, determine the number of distinct shortest pathways 
 
 > [!example]- Show solution
 >
-> Count the trip in two sections.
+> Fill the junctions using Pascal's Triangle: each interior number is the sum of the number directly to the **left** and the number directly **below** it.
 >
-> From **Home to the Library**, the cyclist must make $4$ moves:
+> First count the number of shortest pathways from **Home** to each junction.
 >
-> - $2$ blocks right
-> - $2$ blocks up
+> ![[Pascal Pathway Solution Map 1A.png]]
 >
-> Row $4$ of Pascal's Triangle is
+> The number at the **Library** is $6$, so there are $6$ shortest pathways from Home to the Library.
 >
-> $$
-> 1,\ 4,\ 6,\ 4,\ 1.
-> $$
+> Next count the number of shortest pathways from the **Library** to each junction on the smaller grid leading to the Arena.
 >
-> The entry corresponding to choosing $2$ of the $4$ moves to be upward moves is
+> ![[Pascal Pathway Solution Map 1B.png]]
 >
-> $$
-> 6.
-> $$
->
-> Therefore, there are $6$ shortest pathways from Home to the Library.
->
-> From the **Library to the Arena**, the cyclist must make $5$ moves:
->
-> - $3$ blocks right
-> - $2$ blocks up
->
-> Row $5$ of Pascal's Triangle is
->
-> $$
-> 1,\ 5,\ 10,\ 10,\ 5,\ 1.
-> $$
->
-> The entry corresponding to choosing $2$ of the $5$ moves to be upward moves is
->
-> $$
-> 10.
-> $$
+> The number at the **Arena** on this smaller grid is $10$, so there are $10$ shortest pathways from the Library to the Arena.
 >
 > Therefore,
 >
 > $$
-> 6(10)=oxed{60}.
+> 6 \times 10 = \boxed{60}.
 > $$
 
 > [!abstract] Review First

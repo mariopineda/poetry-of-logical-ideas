@@ -19,59 +19,32 @@ Using **Pascal's Triangle**, determine the number of distinct shortest pathways 
 
 > [!example]- Show solution
 >
-> First count **all** shortest pathways from the Bus Terminal to the Museum.
+> Fill the junctions using Pascal's Triangle: each interior number is the sum of the number directly to the **left** and the number directly **below** it.
 >
-> The trip requires $10$ moves:
+> First count **all** shortest pathways from the Bus Terminal to each junction.
 >
-> - $6$ blocks right
-> - $4$ blocks up
+> ![[Pascal Pathway Solution Map 2A.png]]
 >
-> Row $10$ of Pascal's Triangle is
+> The number at the **Museum** is $210$, so there are $210$ shortest pathways altogether.
 >
-> $$
-> 1,\ 10,\ 45,\ 120,\ 210,\ 252,\ 210,\ 120,\ 45,\ 10,\ 1.
-> $$
+> The number at the **Road Closure** is $10$, so there are $10$ shortest pathways from the Bus Terminal to the Road Closure.
 >
-> The entry corresponding to choosing $4$ of the $10$ moves to be upward moves is
+> Now count the number of shortest pathways from the **Road Closure** to each junction on the smaller grid leading to the Museum.
 >
-> $$
-> 210.
-> $$
+> ![[Pascal Pathway Solution Map 2B.png]]
 >
-> Therefore, there are $210$ shortest pathways altogether.
+> The number at the **Museum** on this smaller grid is $10$, so there are $10$ shortest pathways from the Road Closure to the Museum.
 >
-> Next count the pathways that pass through the **Road Closure**.
->
-> From the Bus Terminal to the Road Closure requires $5$ moves:
->
-> - $3$ blocks right
-> - $2$ blocks up
->
-> Row $5$ of Pascal's Triangle is
+> Therefore, the number of shortest pathways that pass through the Road Closure is
 >
 > $$
-> 1,\ 5,\ 10,\ 10,\ 5,\ 1,
-> $$
->
-> so there are $10$ shortest pathways to the Road Closure.
->
-> From the Road Closure to the Museum also requires $5$ moves:
->
-> - $3$ blocks right
-> - $2$ blocks up
->
-> Therefore, there are also $10$ shortest pathways for this part of the trip.
->
-> The number of shortest pathways that pass through the Road Closure is
->
-> $$
-> 10(10)=100.
+> 10 \times 10 = 100.
 > $$
 >
 > Subtract these from the total:
 >
 > $$
-> 210-100=oxed{110}.
+> 210 - 100 = \boxed{110}.
 > $$
 
 > [!abstract] Review First
