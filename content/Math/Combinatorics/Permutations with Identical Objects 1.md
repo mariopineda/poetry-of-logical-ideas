@@ -5,7 +5,7 @@ course:
   - Mathematics 30-1
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 Eight runners compete in an international race. The result is recorded only by the runners' **countries**, so runners from the same country are treated as identical.
@@ -19,22 +19,6 @@ There are **2 Canadian**, **3 American**, **1 Swedish**, **1 German**, and **1 S
 ### B.
 
 There are **1 Canadian**, **2 British**, **2 Ethiopian**, **1 Algerian**, and **2 Kenyan** runners.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
-> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
-> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
 ## Solution
 
@@ -69,3 +53,19 @@ There are **1 Canadian**, **2 British**, **2 Ethiopian**, **1 Algerian**, and **
 > =
 > \boxed{5040}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
+> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]

@@ -233,16 +233,33 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
         child.slugSegment?.toLowerCase() === "qod-map",
     )
 
-    if (!qod || !learningPath) {
+    const faq = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() ===
+          "frequently-asked-questions",
+    )
+
+    const about = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "about",
+    )
+
+    if (!qod || !learningPath || !faq || !about) {
       return
     }
 
     qod.displayName = "QOD"
     learningPath.displayName = "Learning Path"
+    faq.displayName = "FAQ"
+    about.displayName = "About"
 
     node.children = [
       qod,
       learningPath,
+      faq,
+      about,
     ]
   },
 
@@ -253,6 +270,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     const preferredOrder = [
       "qod",
       "learning path",
+      "faq",
+      "about",
     ]
 
     const aName = a.displayName.toLowerCase()
