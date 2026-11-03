@@ -197,7 +197,18 @@
     let offsetX = 0
     let offsetY = 0
     let activeCourse = null
-    let hoverNode = null
+    // OSC-QOD-CLICK-SELECT-V1: only explicit clicks change graph highlighting.
+    let selectedNode = null
+    let lastPointerType = null
+
+    const selectionPanel = document.createElement("div")
+    selectionPanel.className = "qod-graph-selected-qod"
+    selectionPanel.style.cssText =
+      "display:none;align-items:center;flex-wrap:wrap;gap:0.75rem;" +
+      "padding:0.8rem 1rem;margin:0.5rem 0 0.85rem;" +
+      "border:1px solid var(--lightgray);border-radius:0.65rem;" +
+      "background:var(--light);color:var(--dark)"
+    toolbar.insertAdjacentElement("afterend", selectionPanel)
 
     const neighbourIds = new Map(
       nodes.map((node) => [node.id, new Set()]),
@@ -213,22 +224,22 @@
         ?.add(link.source.id)
     }
 
-    function isInHoverNeighbourhood(node) {
-      if (!hoverNode) return true
+    function isInSelectedNeighbourhood(node) {
+      if (!selectedNode) return true
 
       return (
-        node.id === hoverNode.id ||
+        node.id === selectedNode.id ||
         neighbourIds
-          .get(hoverNode.id)
+          .get(selectedNode.id)
           ?.has(node.id)
       )
     }
 
-    function linkTouchesHover(link) {
+    function linkTouchesSelection(link) {
       return (
-        !hoverNode ||
-        link.source.id === hoverNode.id ||
-        link.target.id === hoverNode.id
+        !selectedNode ||
+        link.source.id === selectedNode.id ||
+        link.target.id === selectedNode.id
       )
     }
     let dragNode = null
@@ -360,6 +371,51 @@
       )
     }
 
+    function setSelectedNode(node) {
+      selectedNode = node
+      selectionPanel.replaceChildren()
+
+      if (!node) {
+        selectionPanel.style.display = "none"
+        draw()
+        return
+      }
+
+      const details = document.createElement("div")
+      details.style.cssText = "flex:1 1 220px;min-width:0"
+      const name = document.createElement("strong")
+      name.textContent = node.name
+      name.style.display = "block"
+
+      const summary = document.createElement("span")
+      summary.style.cssText = "display:block;opacity:0.8;font-size:0.85rem"
+      const neighbours = neighbourIds.get(node.id)?.size ?? 0
+      summary.textContent =
+        (node.courses.join(" · ") || "QOD") +
+        " · " + neighbours +
+        (neighbours === 1 ? " direct connection" : " direct connections")
+      details.append(name, summary)
+
+      const open = document.createElement("a")
+      open.href = node.url
+      open.textContent = "Open QOD"
+      open.style.cssText =
+        "display:inline-block;padding:0.4rem 0.75rem;" +
+        "border-radius:0.4rem;background:var(--secondary);" +
+        "color:var(--light);text-decoration:none;font-weight:600"
+      open.setAttribute("aria-label", "Open " + node.name)
+
+      const clear = document.createElement("button")
+      clear.type = "button"
+      clear.textContent = "Clear selection"
+      clear.className = "qod-graph-reset-button"
+      clear.addEventListener("click", () => setSelectedNode(null))
+
+      selectionPanel.append(details, open, clear)
+      selectionPanel.style.display = "flex"
+      draw()
+    }
+
     function screenPoint(node) {
       return {
         x: node.x * scale + offsetX,
@@ -446,8 +502,8 @@
       )
 
       const courseHighlighted = matchesCourse(node)
-      const hoverHighlighted =
-        isInHoverNeighbourhood(node)
+      const selectionHighlighted =
+        isInSelectedNeighbourhood(node)
 
       const colours = node.courses
         .map((course) => COURSE_COLORS[course])
@@ -464,9 +520,9 @@
       // Keep the wider graph visible during hover.
       // Direct neighbours remain prominent while unrelated
       // QODs recede gently instead of disappearing.
-      if (hoverNode) {
+      if (selectedNode) {
         nodeAlpha =
-          courseHighlighted && hoverHighlighted
+          courseHighlighted && selectionHighlighted
             ? 1
             : courseHighlighted
               ? 0.42
@@ -508,6 +564,18 @@
       }
 
       ctx.restore()
+
+      // Keep selected QOD identifiable without altering its course colour.
+      if (selectedNode?.id === node.id) {
+        ctx.save()
+        ctx.globalAlpha = 1
+        ctx.beginPath()
+        ctx.arc(point.x, point.y, radius + 4, 0, Math.PI * 2)
+        ctx.strokeStyle = "#F59E0B"
+        ctx.lineWidth = 2.5
+        ctx.stroke()
+        ctx.restore()
+      }
     }
 
     function draw() {
@@ -548,11 +616,11 @@
           continue
         }
 
-        const hoverConnected =
-          linkTouchesHover(link)
+        const selectionConnected =
+          linkTouchesSelection(link)
 
-        const alpha = hoverNode
-          ? hoverConnected
+        const alpha = selectedNode
+          ? selectionConnected
             ? 0.88
             : 0.11
           : activeCourse
@@ -584,8 +652,8 @@
 
         ctx.fillStyle = ctx.strokeStyle
 
-        ctx.lineWidth = hoverNode
-          ? hoverConnected
+        ctx.lineWidth = selectedNode
+          ? selectionConnected
             ? 1.8
             : 0.65
           : activeCourse
@@ -707,6 +775,9 @@
 
     function setCourse(course) {
       activeCourse = course
+      if (selectedNode && course && !matchesCourse(selectedNode)) {
+        setSelectedNode(null)
+      }
 
       toolbar
         .querySelectorAll(
@@ -809,7 +880,7 @@
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
-        "Lines show existing QOD relationships - hover a QOD to isolate its direct connections"
+        "Click a QOD to highlight its direct connections; double-click to open"
 
       toolbar.appendChild(key)
 
@@ -898,6 +969,7 @@
     }
 
     function onPointerDown(event) {
+      lastPointerType = event.pointerType
       if (event.pointerType === "touch") {
         event.preventDefault()
       }
@@ -1044,16 +1116,11 @@
         pointer.y,
       )
 
-      if (hoverNode !== node) {
-        hoverNode = node
-        draw()
+      // Hover is informational only; selected connections stay fixed.
+      canvas.style.cursor = node ? "pointer" : "grab"
+      if (event.pointerType !== "touch") {
+        showTooltip(node, event)
       }
-
-      canvas.style.cursor = node
-        ? "pointer"
-        : "grab"
-
-      showTooltip(node, event)
     }
 
     function onPointerUp(event) {
@@ -1127,11 +1194,24 @@
         simulation.alphaTarget(0)
       }
 
-      if (clickedNode) {
-        window.location.href =
-          clickedNode.url
+      // A plain click selects the neighbourhood. Double-click navigation
+      // is handled by the separate desktop dblclick listener.
+      if (event.type === "pointerup" && !wasPinching && !moved) {
+        setSelectedNode(clickedNode)
       }
     }
+
+    function onDoubleClick(event) {
+      // Touch screens use the always-visible Open QOD control instead.
+      if (lastPointerType === "touch") return
+      const pointer = pointerPosition(event)
+      const node = nodeAt(pointer.x, pointer.y)
+      if (!node) return
+      event.preventDefault()
+      setSelectedNode(node)
+      window.location.href = node.url
+    }
+
     function onWheel(event) {
       event.preventDefault()
 
@@ -1165,10 +1245,9 @@
     }
 
     function onPointerLeave() {
+      // Selection persists until the user clicks another QOD or empty space.
       if (!dragNode && !panning) {
-        hoverNode = null
         tooltip && (tooltip.hidden = true)
-        draw()
       }
     }
 
@@ -1202,6 +1281,8 @@
       onWheel,
       { passive: false },
     )
+
+    canvas.addEventListener("dblclick", onDoubleClick)
 
     const resizeObserver =
       new ResizeObserver(resize)
@@ -1241,10 +1322,11 @@
 
     if (status) {
       status.textContent =
-        "Hover a QOD to highlight its direct connections. Drag nodes, pan empty space, and use the mouse wheel or pinch to zoom."
+        "Click a QOD to select its connections. Double-click to open the QOD. On touchscreens, tap a QOD and use Open QOD. Click empty space to clear; drag to pan."
     }
 
     cleanupCurrentGraph = () => {
+      selectionPanel.remove()
       resizeObserver.disconnect()
       themeObserver.disconnect()
       simulation.stop()
@@ -1278,6 +1360,7 @@
         "wheel",
         onWheel,
       )
+      canvas.removeEventListener("dblclick", onDoubleClick)
     }
   }
 
