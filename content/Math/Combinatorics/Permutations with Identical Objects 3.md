@@ -5,7 +5,7 @@ course:
   - Mathematics 30-1
   - Mathematics 30-2
 topic: Permutations
-show_solution: false
+show_solution: true
 ---
 
 An artisan arranges **8 coloured glass tiles** in a straight display. Tiles of the same colour are identical.
@@ -19,22 +19,6 @@ Determine the number of different colour arrangements possible if the display co
 ### B.
 
 **1 blue**, **2 green**, **2 amber**, **1 white**, and **2 red** tiles.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
-> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
-> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
 ## Solution
 
@@ -69,3 +53,19 @@ Determine the number of different colour arrangements possible if the display co
 > =
 > \boxed{5040}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Factorial Notation 1|Factorial Notation 1]]
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
+> - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
+> - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
