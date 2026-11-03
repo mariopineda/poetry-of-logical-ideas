@@ -460,13 +460,17 @@
       let nodeAlpha =
         courseHighlighted ? 1 : 0.1
 
+      // OSC-QOD-HOVER-SOFT-V1
+      // Keep the wider graph visible during hover.
+      // Direct neighbours remain prominent while unrelated
+      // QODs recede gently instead of disappearing.
       if (hoverNode) {
         nodeAlpha =
           courseHighlighted && hoverHighlighted
             ? 1
             : courseHighlighted
-              ? 0.08
-              : 0.04
+              ? 0.42
+              : 0.12
       }
 
       ctx.globalAlpha = nodeAlpha
@@ -549,8 +553,8 @@
 
         const alpha = hoverNode
           ? hoverConnected
-            ? 0.92
-            : 0.035
+            ? 0.88
+            : 0.11
           : activeCourse
             ? 0.42
             : 0.16
