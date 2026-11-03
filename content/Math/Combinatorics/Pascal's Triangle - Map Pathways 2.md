@@ -19,33 +19,34 @@ Using **Pascal's Triangle**, determine the number of distinct shortest pathways 
 
 > [!example]- Show solution
 >
-> Fill the junctions using Pascal's Triangle: each interior number is the sum of the number directly to the **left** and the number directly **below** it.
+> A shortest pathway that avoids the **Road Closure** must go in one of two ways:
 >
-> First count **all** shortest pathways from the Bus Terminal to each junction.
+> 1. **above** the Road Closure, or
+> 2. **below** the Road Closure.
 >
-> ![[Pascal Pathway Solution Map 2A.png]]
+> These two cases are mutually exclusive, so we can count each case separately and then add the results.
 >
-> The number at the **Museum** is $210$, so there are $210$ shortest pathways altogether.
+> ### Case 1: Pathways above the Road Closure
 >
-> The number at the **Road Closure** is $10$, so there are $10$ shortest pathways from the Bus Terminal to the Road Closure.
+> Count only the junctions in the upper L-shaped region. Start at the **Bus Terminal** with \(1\), and use Pascal's Triangle counting: each interior number is the sum of the numbers from the junction directly to the **left** and directly **below**.
 >
-> Now count the number of shortest pathways from the **Road Closure** to each junction on the smaller grid leading to the Museum.
+> ![[Pascal Pathway Solution Map 2 Upper.png]]
 >
-> ![[Pascal Pathway Solution Map 2B.png]]
+> The number at the **Museum** is \(55\), so there are \(55\) shortest pathways that go above the Road Closure.
 >
-> The number at the **Museum** on this smaller grid is $10$, so there are $10$ shortest pathways from the Road Closure to the Museum.
+> ### Case 2: Pathways below the Road Closure
 >
-> Therefore, the number of shortest pathways that pass through the Road Closure is
+> Now count only the junctions in the lower L-shaped region.
 >
-> $$
-> 10 \times 10 = 100.
-> $$
+> ![[Pascal Pathway Solution Map 2 Lower.png]]
 >
-> Subtract these from the total:
+> The number at the **Museum** is again \(55\), so there are \(55\) shortest pathways that go below the Road Closure.
 >
-> $$
-> 210 - 100 = \boxed{110}.
-> $$
+> Therefore, by the Addition Principle,
+>
+> \[
+> 55+55=\boxed{110}.
+> \]
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Pascal's Triangle - Map Pathways 1|Pascal's Triangle - Map Pathways 1]]
