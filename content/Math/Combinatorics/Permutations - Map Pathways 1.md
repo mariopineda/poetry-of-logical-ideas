@@ -56,7 +56,6 @@ Using **permutations and factorial notation**, determine the number of distinct 
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
-> - [[Math/Combinatorics/Pascal's Triangle - Map Pathways 1|Pascal's Triangle - Map Pathways 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

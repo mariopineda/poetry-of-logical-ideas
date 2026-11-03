@@ -65,7 +65,6 @@ Using **permutations and factorial notation**, determine the number of distinct 
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
-> - [[Math/Combinatorics/Pascal's Triangle - Map Pathways 2|Pascal's Triangle - Map Pathways 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

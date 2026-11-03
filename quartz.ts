@@ -258,6 +258,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     node.children = [
       qod,
       learningPath,
+      faq,
+      about,
     ]
   },
 

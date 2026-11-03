@@ -65,7 +65,6 @@ Determine:
 > [!abstract] Review First
 > - [[Math/Combinatorics/Pascal's Triangle|Pascal's Triangle]]
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
-> - [[Math/Combinatorics/Pascal's Triangle - Map Pathways 2|Pascal's Triangle - Map Pathways 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

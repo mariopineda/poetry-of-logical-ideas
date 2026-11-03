@@ -18,25 +18,34 @@ Using **Pascal's Triangle**, determine the number of distinct shortest pathways 
 ## Solution
 
 > [!example]- Show solution
->
-> Fill the junctions using Pascal's Triangle: each interior number is the sum of the number directly to the **left** and the number directly **below** it.
->
-> First count the number of shortest pathways from **Home** to each junction.
->
-> ![[Pascal Pathway Solution Map 1A.png]]
->
-> The number at the **Library** is $6$, so there are $6$ shortest pathways from Home to the Library.
->
-> Next count the number of shortest pathways from the **Library** to each junction on the smaller grid leading to the Arena.
->
-> ![[Pascal Pathway Solution Map 1B.png]]
->
-> The number at the **Arena** on this smaller grid is $10$, so there are $10$ shortest pathways from the Library to the Arena.
->
-> Therefore,
->
+> 
+> Since every valid pathway must pass through the **Library**, split the trip into two smaller pathway problems:
+> 
+> 1. **Home to Library**
+>     
+> 2. **Library to Arena**
+>     
+> 
+> Only the junctions in these two regions need to be counted. The other junctions cannot occur on a shortest pathway that passes through the Library.
+> 
+> Starting at **Home** with (1), use Pascal's Triangle counting: at each junction, add the numbers from the junction directly to the **left** and directly **below**.
+> 
+> This gives 6  
+> 
+> shortest pathways from Home to the Library.
+> 
+> Restart the count at the **Library** with (1), and repeat the same process from the Library to the Arena.
+> 
+> This gives 10  
+> 
+> shortest pathways from the Library to the Arena.
+> 
+> ![[Pascal Pathway Solution Map 1.png]]
+> 
+> Therefore, by the Fundamental Counting Principle,
+> 
 > $$
-> 6 \times 10 = \boxed{60}.
+> 6(10)=\boxed{60}.  
 > $$
 
 > [!abstract] Review First

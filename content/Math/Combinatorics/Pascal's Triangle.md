@@ -49,4 +49,3 @@ Explain how Pascal's Triangle can be used to determine the missing values.
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]
-> - [[Math/Combinatorics/Pascal's Triangle - Map Pathways 1|Pascal's Triangle - Map Pathways 1]]
