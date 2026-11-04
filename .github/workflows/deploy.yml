@@ -51,6 +51,9 @@ jobs:
       - name: Enforce student-facing Osculatorium UI
         run: node scripts/enforce-osculatorium-ui.mjs
 
+      - name: Restore Osculatorium Universe visuals
+        run: node scripts/enforce-osculatorium-universe.cjs quartz/static/qod-graph.js quartz/styles/qod-graph.scss
+
       - name: Build Quartz
         run: npx quartz build
 

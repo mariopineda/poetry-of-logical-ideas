@@ -674,6 +674,66 @@
       ctx.fill()
     }
 
+    // OSC-QOD-UNIVERSE-V1 â€” entirely decorative, non-interactive scenery.
+    // Deterministic star positions mean the sky does not jump on redraw.
+    // The decorative stars never enter QOD hit testing or relationship data.
+    const universeStarfield = Array.from({ length: 126 }, (_, index) => {
+      let seed = (Math.imul(index + 23, 2654435761) >>> 0)
+      const random = () => {
+        seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0
+        return seed / 4294967296
+      }
+      return {
+        x: random(),
+        y: random(),
+        radius: 0.3 + random() * 0.8,
+        alpha: 0.08 + random() * 0.23,
+        depth: 0.004 + random() * 0.016,
+        phase: random() * Math.PI * 2,
+        warm: random() > 0.87,
+      }
+    })
+
+    function drawUniverseStarfield() {
+      const shimmer = ambientIsActive() ? ambientFrame : 0
+      const parallaxX = offsetX - width / 2
+      const parallaxY = offsetY - height / 2
+      ctx.save()
+      for (const star of universeStarfield) {
+        // Screen-space parallax: the far background moves less than the QODs.
+        const x = ((star.x * width + parallaxX * star.depth) % width + width) % width
+        const y = ((star.y * height + parallaxY * star.depth) % height + height) % height
+        const twinkle = shimmer > 0
+          ? 0.92 + 0.08 * Math.sin(shimmer / 5700 + star.phase)
+          : 1
+        ctx.globalAlpha = star.alpha * twinkle * (selectedNode ? 0.65 : 1)
+        ctx.fillStyle = star.warm ? "#D7BB91" : "#B8CCED"
+        ctx.beginPath()
+        ctx.arc(x, y, star.radius, 0, Math.PI * 2)
+        ctx.fill()
+      }
+      ctx.restore()
+    }
+
+    function drawUniverseHalo(point, radius, colour, alpha) {
+      if (alpha <= 0) return
+      const outer = Math.min(36, Math.max(7, radius * 2.85))
+      const halo = ctx.createRadialGradient(
+        point.x, point.y, 0,
+        point.x, point.y, outer,
+      )
+      halo.addColorStop(0, "#F4F8FF")
+      halo.addColorStop(0.19, colour)
+      halo.addColorStop(1, "rgba(0, 0, 0, 0)")
+      ctx.save()
+      ctx.globalAlpha = alpha
+      ctx.fillStyle = halo
+      ctx.beginPath()
+      ctx.arc(point.x, point.y, outer, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.restore()
+    }
+
     function drawNode(node) {
       const point = screenPoint(node)
 
@@ -693,6 +753,13 @@
 
       const nodeColours =
         colours.length > 0 ? colours : ["#888888"]
+
+      // Keep each course colour while making connected QODs read like stars.
+      // Neighbourhood highlighting retains priority over decorative light.
+      const haloVisibility = selectedNode
+        ? selectionHighlighted && courseHighlighted ? 0.34 : 0.022
+        : courseHighlighted ? 0.25 : 0.02
+      drawUniverseHalo(point, radius, nodeColours[0], haloVisibility)
 
       // More visible breathing halo, synchronized to the subtle screen-space
       // drift; dots and edges move together and remain easy to trace.
@@ -768,6 +835,17 @@
 
       ctx.restore()
 
+      // A restrained pinpoint core gives each visible QOD a stellar sparkle.
+      if (courseHighlighted && (!selectedNode || selectionHighlighted)) {
+        ctx.save()
+        ctx.globalAlpha = 0.57
+        ctx.fillStyle = "#F9FCFF"
+        ctx.beginPath()
+        ctx.arc(point.x, point.y, Math.min(1.2, radius * 0.26), 0, Math.PI * 2)
+        ctx.fill()
+        ctx.restore()
+      }
+
       // Keep selected QOD identifiable without altering its course colour.
       if (selectedNode?.id === node.id) {
         ctx.save()
@@ -796,6 +874,9 @@
       )
 
       ctx.clearRect(0, 0, width, height)
+
+      // Scenery is always behind graph relationships and QOD stars.
+      drawUniverseStarfield()
 
       for (const link of links) {
         const source = screenPoint(link.source)
@@ -834,42 +915,29 @@
 
         ctx.save()
         ctx.globalAlpha = alpha
-        const savedTheme =
-          document.documentElement.getAttribute(
-            "saved-theme",
-          )
-
-        const isDark =
-          savedTheme === "dark" ||
-          (
-            savedTheme !== "light" &&
-            window.matchMedia(
-              "(prefers-color-scheme: dark)",
-            ).matches
-          )
-
-        // Deliberately high-contrast:
-        // dark charcoal in light mode,
-        // bright silver in dark mode.
-        ctx.strokeStyle = isDark
-          ? "#C9D0D9"
-          : "#59616B"
-
+        // Star-map lines work on a dark universe in BOTH page themes.
+        ctx.strokeStyle = selectedNode && selectionConnected
+          ? "#C9DBFF"
+          : "#82A5D3"
         ctx.fillStyle = ctx.strokeStyle
-
         ctx.lineWidth = selectedNode
-          ? selectionConnected
-            ? 1.8
-            : 0.65
-          : activeCourse
-            ? 1
-            : 0.75
+          ? selectionConnected ? 1.7 : 0.55
+          : activeCourse ? 0.95 : 0.75
 
         ctx.setLineDash([])
 
         ctx.beginPath()
         ctx.moveTo(source.x, source.y)
         ctx.lineTo(target.x, target.y)
+        // The chosen mathematical constellation gets a soft luminous trail.
+        if (selectedNode && selectionConnected) {
+          ctx.save()
+          ctx.globalAlpha = 0.20
+          ctx.lineWidth = 4
+          ctx.strokeStyle = "#85B3FF"
+          ctx.stroke()
+          ctx.restore()
+        }
         ctx.stroke()
 
 
