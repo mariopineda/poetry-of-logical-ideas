@@ -1390,6 +1390,15 @@ Filter all QOD source files by course and topic,
 then review publication, solution, and relationship status.
 </p>
 
+
+<section aria-label="Classroom worksheet tools" data-osc-teacher-race-tool="true" style="margin:0 0 18px;padding:14px 16px;border:1px solid var(--border);border-radius:11px;background:var(--panel);display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;">
+  <div>
+    <strong style="display:block;margin-bottom:3px;">Classroom tools</strong>
+    <span style="font-size:0.85rem;color:var(--muted);">Create unique double-sided Mental Math Race worksheets (questions + STOP/name). No answer keys.</span>
+  </div>
+  <a href="../../mental-math-race" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 14px;border-radius:8px;background:var(--text);color:var(--bg);font-weight:700;text-decoration:none;white-space:normal;">Open Mental Math Race Generator</a>
+</section>
+
 <section class="filters">
 
 <div class="field">

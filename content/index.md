@@ -15,8 +15,3 @@ Questions of the Day are the heart of this site. Use them for practice, review, 
 Mathematical ideas build on one another. Explore how questions connect, what you may want to review first, related ideas worth exploring, and where each idea can lead next.
 
 **[[Math/QOD Map|Open the Learning Path →]]**
-
-## Mental Math Race
-Generate unique printable mental-math worksheets for your class. Each sheet has questions on one side and a STOP/name page on the reverse.
-
-**[[Mental Math Race|Open the Mental Math Race Generator →]]**

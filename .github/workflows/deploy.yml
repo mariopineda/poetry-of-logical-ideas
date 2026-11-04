@@ -72,6 +72,9 @@ jobs:
       - name: Enforce Mental Math Race generator
         run: node scripts/enforce-mental-math-race.cjs
 
+      - name: Keep Mental Math Race in Teacher Control Panel
+        run: node scripts/enforce-mental-math-race-teacher-only.cjs
+
       - name: Build Quartz
         run: npx quartz build
 

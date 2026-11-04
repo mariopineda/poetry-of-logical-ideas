@@ -215,12 +215,6 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     if ((node.slugSegments?.length ?? 0) !== 0) return
 
     const rootChildren = Array.isArray(node.children) ? node.children : []
-    const race = rootChildren.find(
-      (child: any) =>
-        !child.isFolder &&
-        child.slugSegment?.toLowerCase() === "mental-math-race",
-    )
-
     const qod = rootChildren.find(
       (child: any) =>
         !child.isFolder &&
@@ -238,9 +232,8 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     )
 
     // Never leave FAQ/About visible as a fallback.
-    node.children = [qod, learningPath, race].filter(Boolean)
+    node.children = [qod, learningPath].filter(Boolean)
     if (qod) qod.displayName = "QOD"
-    if (race) race.displayName = "Mental Math Race"
     if (learningPath) learningPath.displayName = "Learning Path"
   },
 
@@ -248,7 +241,7 @@ componentRegistry.setOptionOverrides("@quartz-community/explorer", {
     a: { displayName: string },
     b: { displayName: string },
   ) => {
-    const preferredOrder = ["qod", "learning path", "mental math race"]
+    const preferredOrder = ["qod", "learning path"]
     const aName = a.displayName.toLowerCase()
     const bName = b.displayName.toLowerCase()
     const aPriority = preferredOrder.indexOf(aName)
