@@ -137,6 +137,14 @@
     const ctx = canvas.getContext("2d")
     if (!ctx) return
 
+    // OSC-QOD-INITIAL-FIT-V1: render the settled, fully fitted network on the very first frame.
+    // The force simulation warms up without drawing or exposing interim zoom states.
+    let initialLayoutReady = false
+    let initialLayoutCancelled = false
+    let initialLayoutFrame = 0
+    canvas.style.opacity = "0"
+    canvas.style.pointerEvents = "none"
+
     // The graph handles its own touch gestures.
     // One finger pans/drags; two fingers pinch to zoom.
     canvas.style.touchAction = "none"
@@ -305,6 +313,7 @@
     // About nine redraws per second; this is deliberately far below 60 fps.
     const ambientTimer = window.setInterval(() => {
       if (
+        !initialLayoutReady ||
         !ambientMotionEnabled ||
         reducedMotionQuery.matches ||
         document.hidden ||
@@ -430,6 +439,7 @@
       .alphaDecay(0.014)
       .velocityDecay(0.38)
       .on("tick", draw)
+      .stop()
 
     function matchesCourse(node) {
       return (
@@ -816,8 +826,9 @@
           .strength(0.065),
       )
 
-      simulation.alpha(0.45).restart()
-      draw()
+      // The initial layout is prepared offscreen. Subsequent viewport changes
+      // only reframe the same settled coordinates, without restarting the forces.
+      if (initialLayoutReady) fitGraphToView()
     }
 
     function fitGraphToView(animate = false) {
@@ -1419,27 +1430,58 @@
     makeControls()
     resize()
 
-    // Let the force simulation form its initial shape,
-    // then frame the complete graph automatically.
-    setTimeout(() => {
-      if (document.contains(root)) {
-        fitGraphToView()
-      }
-    }, 2400)
-
-    // Re-fit once more after the layout has settled further.
-    setTimeout(() => {
-      if (document.contains(root)) {
-        fitGraphToView()
-      }
-    }, 5200)
-
     if (status) {
-      status.textContent =
-        "Click a QOD to select its connections. Double-click to open the QOD. On touchscreens, tap a QOD and use Open QOD. Click empty space to clear; drag to pan."
+      status.textContent = "Arranging the QOD universe..."
     }
 
+    // Pre-compute a settled D3 force layout before the first visible frame.
+    // d3.simulation.tick(n) moves the nodes without firing "tick" draw events,
+    // so no intermediate layout or automatic zoom-out is ever rendered.
+    simulation.alpha(1).stop()
+    const initialTickTarget = 360
+    const initialTicksPerFrame = 12
+    let initialTicksCompleted = 0
+
+    const finishInitialView = () => {
+      if (initialLayoutCancelled || !document.contains(root)) return
+      simulation.stop()
+      initialLayoutReady = true
+      fitGraphToView()
+      canvas.style.transition = reducedMotionQuery.matches
+        ? "none"
+        : "opacity 280ms ease-out"
+      canvas.style.pointerEvents = "auto"
+      canvas.style.opacity = "1"
+      if (status) {
+        status.textContent =
+          "Click a QOD to select its connections. Double-click to open the QOD. On touchscreens, tap a QOD and use Open QOD. Click empty space to clear; drag to pan."
+      }
+    }
+
+    const prepareInitialView = () => {
+      if (initialLayoutCancelled || !document.contains(root)) return
+      try {
+        const remaining = initialTickTarget - initialTicksCompleted
+        simulation.tick(Math.min(initialTicksPerFrame, remaining))
+        initialTicksCompleted += Math.min(initialTicksPerFrame, remaining)
+        if (initialTicksCompleted < initialTickTarget) {
+          initialLayoutFrame = requestAnimationFrame(prepareInitialView)
+        } else {
+          finishInitialView()
+        }
+      } catch (error) {
+        console.error("Unable to pre-compute the QOD graph layout:", error)
+        if (status) status.textContent = "The graph opened with a fallback layout."
+        // Recover visibly rather than leaving the canvas hidden after an error.
+        finishInitialView()
+      }
+    }
+
+    initialLayoutFrame = requestAnimationFrame(prepareInitialView)
+
     cleanupCurrentGraph = () => {
+      initialLayoutCancelled = true
+      cancelAnimationFrame(initialLayoutFrame)
       window.clearInterval(ambientTimer)
       ambientVisibilityObserver.disconnect()
       reducedMotionQuery.removeEventListener?.("change", onAmbientPreferenceChange)
