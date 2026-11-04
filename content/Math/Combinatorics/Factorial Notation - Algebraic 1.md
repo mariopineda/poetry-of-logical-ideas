@@ -66,6 +66,7 @@ $$
 > [!info] Explore Also
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 3|Factorial Notation - Algebraic 3]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 7 - Factorial Expression Skills|Factorial Notation - Applications 7 - Factorial Expression Skills]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -53,6 +53,7 @@ Explain why your answers in parts A and B differ.
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 6 - ORBITS Letter Sequences|Factorial Notation - Applications 6 - ORBITS Letter Sequences]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

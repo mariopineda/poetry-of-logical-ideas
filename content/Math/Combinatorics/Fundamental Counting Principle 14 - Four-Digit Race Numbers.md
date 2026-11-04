@@ -50,4 +50,4 @@ How many bib numbers meet this requirement? Explain the restrictions on the firs
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Factorial Notation - Applications 11 - Five-Digit Number Error|Factorial Notation - Applications 11 - Five-Digit Number Error]]

@@ -56,3 +56,4 @@ Use the **Fundamental Counting Principle** to verify the total number of differe
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Fundamental Counting Principle 8 - Wildlife Survey Kits|Fundamental Counting Principle 8 - Wildlife Survey Kits]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 4 - Science Fair Flags|Factorial Notation - Applications 4 - Science Fair Flags]]
