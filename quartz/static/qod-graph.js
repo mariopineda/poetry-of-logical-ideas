@@ -674,23 +674,31 @@
       ctx.fill()
     }
 
-    // OSC-QOD-UNIVERSE-V1 â€” entirely decorative, non-interactive scenery.
+    // OSC-QOD-UNIVERSE-V1 - entirely decorative, non-interactive scenery.
     // Deterministic star positions mean the sky does not jump on redraw.
     // The decorative stars never enter QOD hit testing or relationship data.
-    const universeStarfield = Array.from({ length: 126 }, (_, index) => {
+    const universeStarfield = Array.from({ length: 174 }, (_, index) => {
       let seed = (Math.imul(index + 23, 2654435761) >>> 0)
       const random = () => {
         seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0
         return seed / 4294967296
       }
+      // Nearby stars are a little brighter and show more parallax;
+      // distant stars stay small and faint. Neither layer is interactive.
+      const apparentDepth = random()
       return {
         x: random(),
         y: random(),
-        radius: 0.3 + random() * 0.8,
-        alpha: 0.08 + random() * 0.23,
-        depth: 0.004 + random() * 0.016,
+        radius: apparentDepth < 0.76
+          ? 0.28 + random() * 0.42
+          : 0.65 + random() * 0.66,
+        alpha: apparentDepth < 0.76
+          ? 0.08 + random() * 0.14
+          : 0.19 + random() * 0.19,
+        depth: 0.005 + apparentDepth * 0.052,
         phase: random() * Math.PI * 2,
-        warm: random() > 0.87,
+        warm: random() > 0.88,
+        tint: random(),
       }
     })
 
@@ -707,7 +715,7 @@
           ? 0.92 + 0.08 * Math.sin(shimmer / 5700 + star.phase)
           : 1
         ctx.globalAlpha = star.alpha * twinkle * (selectedNode ? 0.65 : 1)
-        ctx.fillStyle = star.warm ? "#D7BB91" : "#B8CCED"
+        ctx.fillStyle = star.warm ? "#E7C99D" : star.tint > 0.76 ? "#C7B8FF" : "#ABCDF4"
         ctx.beginPath()
         ctx.arc(x, y, star.radius, 0, Math.PI * 2)
         ctx.fill()
@@ -715,9 +723,9 @@
       ctx.restore()
     }
 
-    function drawUniverseHalo(point, radius, colour, alpha) {
+    function drawUniverseHalo(point, radius, colour, alpha, prominence) {
       if (alpha <= 0) return
-      const outer = Math.min(36, Math.max(7, radius * 2.85))
+      const outer = Math.min(36, Math.max(7, radius * (2.1 + 0.8 * prominence)))
       const halo = ctx.createRadialGradient(
         point.x, point.y, 0,
         point.x, point.y, outer,
@@ -754,12 +762,21 @@
       const nodeColours =
         colours.length > 0 ? colours : ["#888888"]
 
-      // Keep each course colour while making connected QODs read like stars.
-      // Neighbourhood highlighting retains priority over decorative light.
+      // OSC-QOD-UNIVERSE-POLISH-V1
+      // Luminosity reflects mathematical connectivity without altering
+      // existing node size, course colour, edges, or click hitboxes.
+      const connections = degree.get(node.id) ?? 0
+      const prominence = Math.min(1, Math.log2(connections + 1) / 4.5)
+      const individualVariation =
+        0.92 + 0.08 * Math.sin(ambientPhases.get(node.id) ?? 0)
       const haloVisibility = selectedNode
-        ? selectionHighlighted && courseHighlighted ? 0.34 : 0.022
-        : courseHighlighted ? 0.25 : 0.02
-      drawUniverseHalo(point, radius, nodeColours[0], haloVisibility)
+        ? selectionHighlighted && courseHighlighted
+          ? (0.19 + 0.23 * prominence) * individualVariation
+          : 0.012
+        : courseHighlighted
+          ? (0.10 + 0.27 * prominence) * individualVariation
+          : 0.012
+      drawUniverseHalo(point, radius, nodeColours[0], haloVisibility, prominence)
 
       // More visible breathing halo, synchronized to the subtle screen-space
       // drift; dots and edges move together and remain easy to trace.
@@ -838,10 +855,10 @@
       // A restrained pinpoint core gives each visible QOD a stellar sparkle.
       if (courseHighlighted && (!selectedNode || selectionHighlighted)) {
         ctx.save()
-        ctx.globalAlpha = 0.57
+        ctx.globalAlpha = 0.36 + 0.46 * prominence
         ctx.fillStyle = "#F9FCFF"
         ctx.beginPath()
-        ctx.arc(point.x, point.y, Math.min(1.2, radius * 0.26), 0, Math.PI * 2)
+        ctx.arc(point.x, point.y, 0.65 + 0.65 * prominence, 0, Math.PI * 2)
         ctx.fill()
         ctx.restore()
       }

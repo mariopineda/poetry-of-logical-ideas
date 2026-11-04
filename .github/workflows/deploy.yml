@@ -54,6 +54,9 @@ jobs:
       - name: Restore Osculatorium Universe visuals
         run: node scripts/enforce-osculatorium-universe.cjs quartz/static/qod-graph.js quartz/styles/qod-graph.scss
 
+      - name: Polish Osculatorium Universe details
+        run: node scripts/polish-osculatorium-universe.mjs
+
       - name: Build Quartz
         run: npx quartz build
 

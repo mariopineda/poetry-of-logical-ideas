@@ -1679,7 +1679,7 @@ config.plugins.transformers.push({
                   {
                     type: "text",
                     value:
-                      "A playful map of the published QOD collection. Drag the questions around, zoom and pan through the network, and click any node to open the question.",
+                      "Explore a universe of interconnected mathematical ideas. Each star represents a Question of the Day. Click a star to reveal its connections; double-click to open the question. On touchscreens, select a star and use Open QOD. Drag, pan, and zoom to explore.",
                   },
                 ],
               },

@@ -229,7 +229,7 @@
 
 /* A discreet identity mark, without covering the mathematical network. */
 .qod-graph-viewport::after {
-  content: "âœ¦ THE OSCULATORIUM UNIVERSE";
+  content: "\2726  THE OSCULATORIUM UNIVERSE";
   position: absolute;
   top: 14px;
   left: 17px;
@@ -250,3 +250,5 @@
     letter-spacing: 0.09em;
   }
 }
+
+/* OSC-QOD-UNIVERSE-POLISH-V1: ASCII-safe decorative star glyph. */
