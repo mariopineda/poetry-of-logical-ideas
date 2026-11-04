@@ -2,9 +2,9 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-2"
-topic: "Pathway Problems"
-show_solution: true
+  - Mathematics 30-2
+topic: Pathway Problems
+show_solution: false
 ---
 
 The map shows a person travelling from **Start** to **Finish**. The person must pass through **exactly one** of the following locations:
@@ -17,6 +17,20 @@ At every intersection, the person may move only **one block right** or **one blo
 Using **permutations and factorial notation**, determine the number of distinct shortest pathways from Start to Finish that satisfy the condition.
 
 ![[Pathway Map Grid 3.png]]
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations - Map Pathways 2|Permutations - Map Pathways 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
+> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
 
 ## Solution
 
@@ -71,17 +85,3 @@ Using **permutations and factorial notation**, determine the number of distinct 
 > $$
 > 75+150=\boxed{225}.
 > $$
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations - Map Pathways 2|Permutations - Map Pathways 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
-> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._

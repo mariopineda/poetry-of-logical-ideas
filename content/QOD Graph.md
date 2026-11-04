@@ -1,4 +1,4 @@
 ---
-title: The Osculatorium Universe
+title: QOD Graph
 publish: true
 ---
