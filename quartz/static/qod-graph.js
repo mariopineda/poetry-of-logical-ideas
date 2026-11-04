@@ -508,7 +508,99 @@
       )
     }
 
+    // OSC-QOD-GALAXY-ROTATION-V2
+    // One slow revolution in 25 minutes. Rotate only the rendered positions;
+    // the underlying QOD coordinates and links are never changed.
+    const GALAXY_RADIANS_PER_MS = Math.PI * 2 / (25 * 60 * 1000)
+    let galaxyAngle = 0
+    let galaxyLastTime = performance.now()
+    let galaxyWorldCenterX = width / 2
+    let galaxyWorldCenterY = height / 2
+    let galaxyPivotX = width / 2
+    let galaxyPivotY = height / 2
+
+    function galaxyPaused() {
+      return (
+        !ambientMotionEnabled ||
+        reducedMotionQuery.matches ||
+        document.hidden ||
+        !graphVisible ||
+        !!selectedNode ||
+        activePointers.size > 0 ||
+        !!dragNode ||
+        !!panning ||
+        (typeof initialLayoutReady !== "undefined" && !initialLayoutReady)
+      )
+    }
+
+    function advanceGalaxyRotation() {
+      const now = performance.now()
+      // Avoid a large time jump after tab suspension or a long pause.
+      const elapsed = Math.min(160, Math.max(0, now - galaxyLastTime))
+      galaxyLastTime = now
+      if (!galaxyPaused()) {
+        galaxyAngle = (galaxyAngle + elapsed * GALAXY_RADIANS_PER_MS) % (2 * Math.PI)
+      }
+    }
+
+    function updateGalaxyPivot() {
+      let minX = Infinity
+      let maxX = -Infinity
+      let minY = Infinity
+      let maxY = -Infinity
+      for (const node of nodes) {
+        if (!Number.isFinite(node.x) || !Number.isFinite(node.y)) continue
+        minX = Math.min(minX, node.x)
+        maxX = Math.max(maxX, node.x)
+        minY = Math.min(minY, node.y)
+        maxY = Math.max(maxY, node.y)
+      }
+      if (!Number.isFinite(minX)) return
+      galaxyWorldCenterX = (minX + maxX) / 2
+      galaxyWorldCenterY = (minY + maxY) / 2
+      galaxyPivotX = galaxyWorldCenterX * scale + offsetX
+      galaxyPivotY = galaxyWorldCenterY * scale + offsetY
+    }
+
+    function rotateScreenPoint(x, y, angle) {
+      if (angle === 0) return { x, y }
+      const cosine = Math.cos(angle)
+      const sine = Math.sin(angle)
+      const dx = x - galaxyPivotX
+      const dy = y - galaxyPivotY
+      return {
+        x: galaxyPivotX + dx * cosine - dy * sine,
+        y: galaxyPivotY + dx * sine + dy * cosine,
+      }
+    }
+
+    // Edges, dots and pointer hit tests all use this same projection.
     function screenPoint(node) {
+      const point = unrotatedScreenPoint(node)
+      return rotateScreenPoint(point.x, point.y, galaxyAngle)
+    }
+
+    // Convert clicks and drag positions back into the original graph space.
+    function graphPoint(x, y) {
+      const point = rotateScreenPoint(x, y, -galaxyAngle)
+      return unrotatedGraphPoint(point.x, point.y)
+    }
+
+    // Preserve the cursor as the zoom anchor even with a rotated network.
+    function setGalaxyZoomOffset(graphX, graphY, x, y, nextScale) {
+      const dx = graphX - galaxyWorldCenterX
+      const dy = graphY - galaxyWorldCenterY
+      const cosine = Math.cos(galaxyAngle)
+      const sine = Math.sin(galaxyAngle)
+      offsetX = x - (
+        galaxyWorldCenterX + dx * cosine - dy * sine
+      ) * nextScale
+      offsetY = y - (
+        galaxyWorldCenterY + dx * sine + dy * cosine
+      ) * nextScale
+    }
+
+    function unrotatedScreenPoint(node) {
       const x = node.x * scale + offsetX
       const y = node.y * scale + offsetY
 
@@ -521,7 +613,7 @@
       }
     }
 
-    function graphPoint(x, y) {
+    function unrotatedGraphPoint(x, y) {
       return {
         x: (x - offsetX) / scale,
         y: (y - offsetY) / scale,
@@ -690,6 +782,8 @@
     }
 
     function draw() {
+      advanceGalaxyRotation()
+      updateGalaxyPivot()
       const ratio = window.devicePixelRatio || 1
 
       ctx.setTransform(
@@ -1182,13 +1276,10 @@
           5,
         )
 
-        offsetX =
-          centre.x -
-          pinchStart.graphX * nextScale
-
-        offsetY =
-          centre.y -
-          pinchStart.graphY * nextScale
+        setGalaxyZoomOffset(
+          pinchStart.graphX, pinchStart.graphY,
+          centre.x, centre.y, nextScale,
+        )
 
         scale = nextScale
         moved = true
@@ -1356,13 +1447,9 @@
         5,
       )
 
-      offsetX =
-        pointer.x -
-        before.x * nextScale
-
-      offsetY =
-        pointer.y -
-        before.y * nextScale
+      setGalaxyZoomOffset(
+        before.x, before.y, pointer.x, pointer.y, nextScale,
+      )
 
       scale = nextScale
 
