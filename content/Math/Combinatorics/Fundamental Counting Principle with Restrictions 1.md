@@ -57,6 +57,7 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 10 - Museum Collection Labels|Fundamental Counting Principle 10 - Museum Collection Labels]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -70,3 +71,5 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 1|Counting Odd Natural Numbers 1]]
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 2|Counting Odd Natural Numbers 2]]
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 9 - Archive Access Codes|Fundamental Counting Principle 9 - Archive Access Codes]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 13 - Festival Pass Identifiers|Fundamental Counting Principle 13 - Festival Pass Identifiers]]

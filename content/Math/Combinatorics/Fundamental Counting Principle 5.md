@@ -51,6 +51,7 @@ How many total route combinations are available for the farmer's journey?
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 11 - Light Sculpture Presets|Fundamental Counting Principle 11 - Light Sculpture Presets]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -46,3 +46,5 @@ The organization wants to ensure that each family receives a unique combination 
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 7 - Maker Fair Badges|Fundamental Counting Principle 7 - Maker Fair Badges]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 8 - Wildlife Survey Kits|Fundamental Counting Principle 8 - Wildlife Survey Kits]]

@@ -70,6 +70,7 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 > [!info] Explore Also
 > - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 12 - Robot Delivery Routes|Fundamental Counting Principle 12 - Robot Delivery Routes]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -43,3 +43,4 @@ How many ways are there of getting from A to C, passing through each point at mo
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 12 - Robot Delivery Routes|Fundamental Counting Principle 12 - Robot Delivery Routes]]

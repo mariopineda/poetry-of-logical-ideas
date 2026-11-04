@@ -57,6 +57,7 @@ How many access codes are possible if the first digit must be \(8\) and the last
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 3|Fundamental Counting Principle with Restrictions 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 5|Fundamental Counting Principle 5]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 9 - Archive Access Codes|Fundamental Counting Principle 9 - Archive Access Codes]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -64,3 +65,5 @@ How many access codes are possible if the first digit must be \(8\) and the last
 > - [[Math/Combinatorics/Fundamental Counting Principle 1|Fundamental Counting Principle 1]]
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 10 - Museum Collection Labels|Fundamental Counting Principle 10 - Museum Collection Labels]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 14 - Four-Digit Race Numbers|Fundamental Counting Principle 14 - Four-Digit Race Numbers]]

@@ -48,8 +48,10 @@ How many unique daily schedules can a household have for accessing all three uti
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 1|Fundamental Counting Principle - Sample Space 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 3|Fundamental Counting Principle - Sample Space 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle - Sample Space 2|Fundamental Counting Principle - Sample Space 2]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 8 - Wildlife Survey Kits|Fundamental Counting Principle 8 - Wildlife Survey Kits]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 15 - Digital Quilt Designs|Fundamental Counting Principle 15 - Digital Quilt Designs]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Fundamental Counting Principle 11 - Light Sculpture Presets|Fundamental Counting Principle 11 - Light Sculpture Presets]]

@@ -75,6 +75,9 @@ jobs:
       - name: Keep Mental Math Race in Teacher Control Panel
         run: node scripts/enforce-mental-math-race-teacher-only.cjs
 
+      - name: Restore Math 30-2 Counting Methods QODs
+        run: node scripts/enforce-counting-methods-qods.cjs
+
       - name: Build Quartz
         run: npx quartz build
 
