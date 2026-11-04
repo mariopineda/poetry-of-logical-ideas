@@ -252,3 +252,122 @@
 }
 
 /* OSC-QOD-UNIVERSE-POLISH-V1: ASCII-safe decorative star glyph. */
+
+/* OSC-QOD-UNIVERSE-STAGE-V1: classroom projection without leaving the QOD universe page. */
+.qod-graph-viewport .qod-universe-stage-toggle {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 12;
+  border: 1px solid rgba(170, 197, 240, 0.58);
+  border-radius: 0.55rem;
+  background: rgba(14, 29, 54, 0.90);
+  color: #f0f6ff;
+  padding: 0.44rem 0.72rem;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 650;
+  cursor: pointer;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(6px);
+}
+.qod-graph-viewport .qod-universe-stage-toggle:hover,
+.qod-graph-viewport .qod-universe-stage-toggle:focus-visible {
+  background: #28436d;
+  border-color: #c4d8fc;
+}
+.qod-universe-stage-dialog[open] {
+  box-sizing: border-box;
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  padding: clamp(7px, 1.2vw, 16px);
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  background: #071020;
+  color: #f0f6ff;
+  overflow: hidden;
+}
+.qod-universe-stage-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.86);
+}
+.qod-universe-stage-dialog .qod-graph-page {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+}
+.qod-universe-stage-dialog .qod-graph-intro,
+.qod-universe-stage-dialog .qod-graph-meta,
+.qod-universe-stage-dialog .qod-graph-status,
+.qod-universe-stage-dialog .qod-graph-guide {
+  display: none !important;
+}
+.qod-universe-stage-dialog .qod-graph-viewport {
+  flex: 1 1 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+  max-height: none !important;
+  border-radius: 10px;
+}
+.qod-universe-stage-dialog .qod-graph-toolbar {
+  flex: 0 0 auto;
+  order: 4;
+  display: flex;
+  justify-content: center;
+  margin: 6px 0 0;
+  padding: 4px 6px;
+  max-height: 17vh;
+  overflow-y: auto;
+  color: #e4efff;
+}
+.qod-universe-stage-dialog .qod-graph-course-button,
+.qod-universe-stage-dialog .qod-graph-reset-button {
+  background: #172842;
+  border-color: #4a6389;
+  color: #e9f2ff;
+}
+.qod-universe-stage-dialog .qod-graph-course-button.is-active,
+.qod-universe-stage-dialog .qod-graph-course-button:hover,
+.qod-universe-stage-dialog .qod-graph-reset-button:hover {
+  background: #294767;
+  border-color: #88acd9;
+}
+.qod-universe-stage-dialog .qod-graph-link-key {
+  color: #bacde7;
+}
+.qod-universe-stage-dialog .qod-graph-selected-qod {
+  order: 5;
+  flex: 0 0 auto;
+  max-height: 23vh;
+  overflow-y: auto;
+  margin: 5px 0 0 !important;
+  padding: 7px 12px !important;
+  border-color: #435a80 !important;
+  background: #14233b !important;
+  color: #f1f6ff !important;
+}
+.qod-universe-stage-dialog .qod-graph-selected-qod a {
+  background: #326596 !important;
+  color: #fff !important;
+}
+@media (max-width: 600px) {
+  .qod-graph-viewport .qod-universe-stage-toggle {
+    top: 8px;
+    right: 8px;
+    font-size: 0.76rem;
+    padding: 0.35rem 0.55rem;
+  }
+  .qod-universe-stage-dialog .qod-graph-toolbar {
+    max-height: 22vh;
+  }
+}

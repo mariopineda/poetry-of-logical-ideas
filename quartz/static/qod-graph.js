@@ -1088,8 +1088,15 @@
       }
     }
 
+    // OSC-QOD-UNIVERSE-STAGE-V1: only reframe when dimensions actually change.
+    let universeStageOpen = false
+    let universeStageReturnView = null
+    let universeStageRestoreView = null
+
     function resize() {
       const rect = viewport.getBoundingClientRect()
+      const previousWidth = width
+      const previousHeight = height
 
       width = Math.max(320, rect.width)
       height = Math.max(460, rect.height)
@@ -1128,7 +1135,24 @@
 
       // The initial layout is prepared offscreen. Subsequent viewport changes
       // only reframe the same settled coordinates, without restarting the forces.
-      if (initialLayoutReady) fitGraphToView()
+      if (initialLayoutReady) {
+        if (universeStageRestoreView && !universeStageOpen) {
+          // Restore the teacher's exact previous zoom/pan on closing.
+          const old = universeStageRestoreView
+          universeStageRestoreView = null
+          scale = old.scale
+          offsetX = old.offsetX + (width - old.width) / 2
+          offsetY = old.offsetY + (height - old.height) / 2
+          draw()
+        } else if (
+          Math.abs(width - previousWidth) > 0.5 ||
+          Math.abs(height - previousHeight) > 0.5
+        ) {
+          fitGraphToView()
+        } else {
+          draw()
+        }
+      }
     }
 
     function fitGraphToView(animate = false) {
@@ -1702,6 +1726,76 @@
 
     canvas.addEventListener("dblclick", onDoubleClick)
 
+    // OSC-QOD-UNIVERSE-STAGE-V1: present the *same* interactive graph in a native modal.
+    // Moving the existing root keeps hit tests, selected paths and zoom tools live.
+    const universeStageAnchor = document.createComment("Osculatorium graph position")
+    const universeStageDialog = document.createElement("dialog")
+    universeStageDialog.className = "qod-universe-stage-dialog"
+    universeStageDialog.setAttribute("aria-label", "The Osculatorium Universe presentation")
+
+    const universeStageToggle = document.createElement("button")
+    universeStageToggle.type = "button"
+    universeStageToggle.className = "qod-universe-stage-toggle"
+    universeStageToggle.textContent = "Expand graph"
+    universeStageToggle.title = "Fill the browser window with the interactive universe"
+    universeStageToggle.setAttribute("aria-haspopup", "dialog")
+    universeStageToggle.setAttribute("aria-expanded", "false")
+    viewport.appendChild(universeStageToggle)
+
+    function restoreUniverseStage() {
+      if (!universeStageOpen) return
+      universeStageOpen = false
+      if (universeStageAnchor.parentNode) {
+        universeStageAnchor.replaceWith(root)
+      }
+      universeStageDialog.remove()
+      universeStageRestoreView = universeStageReturnView
+      universeStageReturnView = null
+      universeStageToggle.textContent = "Expand graph"
+      universeStageToggle.title = "Fill the browser window with the interactive universe"
+      universeStageToggle.setAttribute("aria-expanded", "false")
+      requestAnimationFrame(() => {
+        if (!document.contains(root)) return
+        resize()
+        universeStageToggle.focus({ preventScroll: true })
+      })
+    }
+
+    function openUniverseStage() {
+      if (universeStageOpen) return
+      universeStageReturnView = { width, height, scale, offsetX, offsetY }
+      universeStageOpen = true
+      root.before(universeStageAnchor)
+      universeStageDialog.appendChild(root)
+      document.body.appendChild(universeStageDialog)
+      try {
+        universeStageDialog.showModal()
+      } catch (error) {
+        restoreUniverseStage()
+        throw error
+      }
+      universeStageToggle.textContent = "\u00D7 Close"
+      universeStageToggle.title = "Return to the ordinary graph (Esc)"
+      universeStageToggle.setAttribute("aria-expanded", "true")
+      requestAnimationFrame(() => {
+        if (universeStageDialog.open) resize()
+        universeStageToggle.focus({ preventScroll: true })
+      })
+    }
+
+    function closeUniverseStage() {
+      if (!universeStageOpen) return
+      if (universeStageDialog.open) universeStageDialog.close()
+      restoreUniverseStage()
+    }
+
+    universeStageToggle.addEventListener("click", () => {
+      if (universeStageOpen) closeUniverseStage()
+      else openUniverseStage()
+    })
+    // Native dialog Escape handling, including the browser's focus trap.
+    universeStageDialog.addEventListener("close", restoreUniverseStage)
+
     const resizeObserver =
       new ResizeObserver(resize)
 
@@ -1778,6 +1872,10 @@
       window.clearInterval(ambientTimer)
       ambientVisibilityObserver.disconnect()
       reducedMotionQuery.removeEventListener?.("change", onAmbientPreferenceChange)
+      if (universeStageOpen) closeUniverseStage()
+      universeStageToggle.remove()
+      universeStageDialog.remove()
+      universeStageAnchor.remove()
       selectionPanel.remove()
       guide.remove()
       resizeObserver.disconnect()

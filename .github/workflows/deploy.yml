@@ -63,6 +63,9 @@ jobs:
       - name: Enforce QOD Presentation Mode
         run: node scripts/enforce-qod-presentation.mjs
 
+      - name: Restore Osculatorium Universe expanded view
+        run: node scripts/enforce-osculatorium-universe-stage.cjs quartz/static/qod-graph.js quartz/styles/qod-graph.scss
+
       - name: Build Quartz
         run: npx quartz build
 
