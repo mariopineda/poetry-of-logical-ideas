@@ -4,7 +4,7 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Pathway Problems
-show_solution: false
+show_solution: true
 ---
 
 The map shows a pedestrian travelling from the **Bus Terminal** to the **Museum**. The intersection marked **Road Closure** cannot be used.
@@ -14,19 +14,6 @@ At every intersection, the pedestrian may move only **one block right** or **one
 Using **permutations and factorial notation**, determine the number of distinct shortest pathways from the Bus Terminal to the Museum that **avoid the Road Closure**.
 
 ![[Pathway Map Grid 2.png]]
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Combinatorics/Permutations - Map Pathways 3|Permutations - Map Pathways 3]]
 
 ## Solution
 
@@ -70,3 +57,16 @@ Using **permutations and factorial notation**, determine the number of distinct 
 > $$
 > 210-100=\boxed{110}.
 > $$
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Permutations 3|Permutations 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Combinatorics/Permutations - Map Pathways 3|Permutations - Map Pathways 3]]
