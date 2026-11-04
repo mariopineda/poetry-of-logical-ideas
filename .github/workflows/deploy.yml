@@ -60,6 +60,9 @@ jobs:
       - name: Restore QOD two-star path explorer
         run: node scripts/enforce-osculatorium-path-explorer.cjs quartz/static/qod-graph.js
 
+      - name: Enforce QOD Presentation Mode
+        run: node scripts/enforce-qod-presentation.mjs
+
       - name: Build Quartz
         run: npx quartz build
 

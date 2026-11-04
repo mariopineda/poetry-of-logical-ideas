@@ -1,0 +1,192 @@
+/* OSC-QOD-PRESENTATION-V1: distraction-free classroom display. */
+.qod-present-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  background: var(--light);
+  color: var(--secondary);
+  font: inherit;
+  font-size: 0.86rem;
+  font-weight: 600;
+  line-height: 1.25;
+  padding: 0.5rem 0.85rem;
+  margin: 0.15rem 0 1.1rem;
+  cursor: pointer;
+}
+.qod-present-trigger::before {
+  content: "\25a3";
+  font-size: 1.12em;
+}
+.qod-present-trigger:hover,
+.qod-present-trigger:focus-visible {
+  border-color: var(--secondary);
+  background: var(--highlight);
+}
+.qod-present-dialog:not([open]) { display: none; }
+.qod-present-dialog[open] {
+  display: flex;
+  position: fixed;
+  inset: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  box-sizing: border-box;
+  background: var(--light);
+  color: var(--dark);
+  overflow: hidden;
+  z-index: 2147483000;
+}
+.qod-present-dialog::backdrop {
+  background: rgba(3, 10, 25, 0.66);
+}
+.qod-present-dialog * { box-sizing: border-box; }
+.qod-present-shell {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 0;
+}
+.qod-present-bar {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 0.7rem clamp(1rem, 2vw, 2.4rem);
+  border-bottom: 1px solid var(--lightgray);
+  background: var(--light);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+}
+.qod-present-bar-title {
+  color: var(--darkgray);
+  letter-spacing: 0.02em;
+  font-size: 0.95rem;
+}
+.qod-present-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+.qod-present-action {
+  font: inherit;
+  font-size: 0.92rem;
+  line-height: 1.2;
+  padding: 0.48rem 0.75rem;
+  min-width: 2.8rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.5rem;
+  background: var(--light);
+  color: var(--dark);
+  cursor: pointer;
+}
+.qod-present-action:hover,
+.qod-present-action:focus-visible {
+  border-color: var(--secondary);
+  background: var(--highlight);
+}
+.qod-present-size-label {
+  min-width: 3.5rem;
+  text-align: center;
+  color: var(--darkgray);
+  font-size: 0.83rem;
+  font-variant-numeric: tabular-nums;
+}
+.qod-present-reveal {
+  color: var(--secondary);
+  font-weight: 600;
+}
+.qod-present-close {
+  margin-left: 0.45rem;
+  background: var(--secondary);
+  color: var(--light);
+  border-color: var(--secondary);
+  font-weight: 600;
+}
+.qod-present-close:hover,
+.qod-present-close:focus-visible {
+  background: var(--secondary);
+  color: var(--light);
+  opacity: 0.9;
+}
+.qod-present-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scroll-behavior: smooth;
+}
+.qod-present-sheet {
+  --qod-present-size: 1.65rem;
+  width: min(100%, 1200px);
+  margin: 0 auto;
+  padding: clamp(1.5rem, 5vh, 4.5rem) clamp(1rem, 5vw, 4.5rem) 6rem;
+  color: var(--dark);
+  font-family: inherit;
+  font-size: var(--qod-present-size);
+  line-height: 1.55;
+}
+.qod-present-kicker {
+  color: var(--darkgray);
+  font-size: 0.54em;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  margin-bottom: 0.5rem;
+}
+.qod-present-question-title {
+  font-size: 1.55em;
+  line-height: 1.15;
+  margin: 0 0 1.1em;
+  color: var(--dark);
+}
+.qod-present-sheet p,
+.qod-present-sheet ul,
+.qod-present-sheet ol {
+  line-height: 1.55;
+}
+.qod-present-sheet .katex-display {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.2em 0;
+}
+.qod-present-sheet img,
+.qod-present-sheet svg,
+.qod-present-sheet video {
+  max-width: 100%;
+  height: auto;
+}
+.qod-present-sheet pre,
+.qod-present-sheet table {
+  max-width: 100%;
+  overflow-x: auto;
+}
+.qod-present-solution[hidden] { display: none !important; }
+.qod-present-solution {
+  margin-top: 2.5rem;
+  border-top: 2px solid var(--lightgray);
+  padding-top: 1.4rem;
+}
+.qod-present-solution h2 {
+  font-size: 1.15em;
+  margin-top: 0;
+}
+@media (max-width: 700px) {
+  .qod-present-bar { align-items: flex-start; }
+  .qod-present-bar-title { width: 100%; }
+  .qod-present-controls { width: 100%; }
+  .qod-present-sheet { font-size: min(var(--qod-present-size), 1.45rem); }
+  .qod-present-question-title { font-size: 1.25em; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .qod-present-body { scroll-behavior: auto; }
+}

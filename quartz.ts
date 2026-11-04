@@ -1805,6 +1805,65 @@ config.plugins.transformers.push({
 } as any)
 
 
+
+// BEGIN OSC-QOD-PRESENTATION-V1
+// Install one reusable classroom presentation button on every published QOD.
+// Question content stays on its original page. The overlay is client-only.
+config.plugins.transformers.push({
+  name: "QodPresentationMode",
+
+  htmlPlugins() {
+    return [
+      () => (tree: any, file: any) => {
+        const frontmatter = file.data.frontmatter
+        if (frontmatter?.type !== "qod") return
+
+        const children = tree.children ?? (tree.children = [])
+        if (children.some((node: any) =>
+          node?.type === "element" &&
+          Array.isArray(node.properties?.className) &&
+          node.properties.className.includes("qod-present-trigger")
+        )) return
+
+        children.unshift({
+          type: "element",
+          tagName: "button",
+          properties: {
+            type: "button",
+            className: ["qod-present-trigger"],
+            "data-qod-presentation-trigger": "true",
+            "data-qod-solution-allowed": frontmatter.show_solution === false
+              ? "false" : "true",
+            "aria-label": "Present this Question of the Day",
+          },
+          children: [
+            { type: "text", value: "Present QOD" },
+          ],
+        })
+      },
+    ]
+  },
+
+  externalResources() {
+    return {
+      js: [{
+        script: fs.readFileSync(
+          path.resolve("quartz/static/qod-presentation.js"), "utf8",
+        ),
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+      }],
+      css: [{
+        content: fs.readFileSync(
+          path.resolve("quartz/styles/qod-presentation.scss"), "utf8",
+        ),
+        inline: true,
+      }],
+    }
+  },
+} as any)
+// END OSC-QOD-PRESENTATION-V1
+
 export default config
 
 export const layout = await loadQuartzLayout()
