@@ -66,6 +66,9 @@ jobs:
       - name: Restore Osculatorium Universe expanded view
         run: node scripts/enforce-osculatorium-universe-stage.cjs quartz/static/qod-graph.js quartz/styles/qod-graph.scss
 
+      - name: Enforce intuitive graph reset controls
+        run: node scripts/enforce-osculatorium-graph-controls.cjs quartz/static/qod-graph.js
+
       - name: Build Quartz
         run: npx quartz build
 

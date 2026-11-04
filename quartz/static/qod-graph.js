@@ -243,6 +243,7 @@
       "Double-click a star to open its QOD; on touchscreens, select a star and use the Open QOD links. Drag to reposition stars, pan empty space, and scroll or pinch to zoom. A selected path may pass through other courses even when a course filter is active.",
       "Paths use the existing links in either direction, so they reveal documented conceptual connections, not necessarily a recommended learning order. If no route is found, the published collection does not currently record one; the mathematical ideas may still be related.",
     ]
+    guideParagraphs.push("Fit Graph recentres and zooms the universe without changing your selected QODs or course. Reset All clears selections and highlighted paths, shows every course, and fits the entire universe.")
     for (const explanation of guideParagraphs) {
       const paragraph = document.createElement("p")
       paragraph.style.cssText = "margin:0.65rem 0 0;line-height:1.55;font-size:0.91rem"
@@ -1242,6 +1243,13 @@
       draw()
     }
 
+    // OSC-QOD-GRAPH-CONTROLS-V1: reset both endpoints, every highlighted path, the course filter, and the viewport.
+    function resetAll() {
+      setSelectedNode(null)
+      setCourse(null)
+      fitGraphToView()
+    }
+
     function makeControls() {
       toolbar.replaceChildren()
 
@@ -1304,7 +1312,8 @@
       reset.type = "button"
       reset.className =
         "qod-graph-reset-button"
-      reset.textContent = "Reset view"
+      reset.textContent = "Fit Graph"
+      reset.title = "Fit the graph to the window; keep the selected QODs and course filter"
 
       reset.addEventListener(
         "click",
@@ -1312,6 +1321,14 @@
       )
 
       toolbar.appendChild(reset)
+
+      const resetAllButton = document.createElement("button")
+      resetAllButton.type = "button"
+      resetAllButton.className = "qod-graph-reset-button"
+      resetAllButton.textContent = "Reset All"
+      resetAllButton.title = "Clear both selected QODs and their path, show all courses, and fit the graph"
+      resetAllButton.addEventListener("click", resetAll)
+      toolbar.appendChild(resetAllButton)
 
       const motionButton = document.createElement("button")
       motionButton.type = "button"
