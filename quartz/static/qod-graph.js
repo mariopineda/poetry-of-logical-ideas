@@ -206,7 +206,13 @@
     let offsetY = 0
     let activeCourse = null
     // OSC-QOD-CLICK-SELECT-V1: only explicit clicks change graph highlighting.
+    // OSC-QOD-PATH-EXPLORER-V1
+    // First click selects a starting star; next clicks change the destination.
     let selectedNode = null
+    let destinationNode = null
+    let connectingPath = null
+    let pathNodeIds = new Set()
+    let pathEdgeKeys = new Set()
     let lastPointerType = null
 
     const selectionPanel = document.createElement("div")
@@ -217,6 +223,33 @@
       "border:1px solid var(--lightgray);border-radius:0.65rem;" +
       "background:var(--light);color:var(--dark)"
     toolbar.insertAdjacentElement("afterend", selectionPanel)
+
+    // An unobtrusive explanation lives beneath the universe, not above it.
+    selectionPanel.style.order = "5"
+    selectionPanel.setAttribute("aria-live", "polite")
+    const guide = document.createElement("details")
+    guide.className = "qod-graph-guide"
+    guide.style.cssText =
+      "order:7;max-width:72rem;width:100%;margin:1.2rem 0 1.7rem;" +
+      "padding:0.85rem 1rem;border:1px solid var(--lightgray);" +
+      "border-radius:0.75rem;color:var(--dark);background:var(--light)"
+    const guideHeading = document.createElement("summary")
+    guideHeading.style.cssText = "font-weight:600;cursor:pointer"
+    guideHeading.textContent = "About this universe & how to explore"
+    guide.appendChild(guideHeading)
+    const guideParagraphs = [
+      "Each star is a published Question of the Day (QOD). Its colour identifies its mathematics course; size and brightness reflect the number of recorded connections. Lines come from the published Review First, Explore Also, and Build Toward sections.",
+      "Click a star to illuminate its immediate neighbours. Click a second star to highlight one shortest recorded connection chain, including intermediate QODs. Click another star to keep the first as your starting point and change the destination. Click your starting star again, or click the destination again, to return to its immediate neighbours. Click empty space or Clear selection to reset.",
+      "Double-click a star to open its QOD; on touchscreens, select a star and use the Open QOD links. Drag to reposition stars, pan empty space, and scroll or pinch to zoom. A selected path may pass through other courses even when a course filter is active.",
+      "Paths use the existing links in either direction, so they reveal documented conceptual connections, not necessarily a recommended learning order. If no route is found, the published collection does not currently record one; the mathematical ideas may still be related.",
+    ]
+    for (const explanation of guideParagraphs) {
+      const paragraph = document.createElement("p")
+      paragraph.style.cssText = "margin:0.65rem 0 0;line-height:1.55;font-size:0.91rem"
+      paragraph.textContent = explanation
+      guide.appendChild(paragraph)
+    }
+    root.appendChild(guide)
 
     const neighbourIds = new Map(
       nodes.map((node) => [node.id, new Set()]),
@@ -232,23 +265,74 @@
         ?.add(link.source.id)
     }
 
+    function pathEdgeKey(a, b) {
+      // Delimiter cannot appear in generated QOD slugs.
+      return a < b ? a + "\u0001" + b : b + "\u0001" + a
+    }
+
+    function shortestRecordedPath(startId, endId) {
+      if (startId === endId) return [startId]
+      const seen = new Set([startId])
+      const previous = new Map()
+      const queue = [startId]
+      // Breadth-first search gives the minimum number of recorded links.
+      // Sorting ties makes the same QOD pair produce the same path every time.
+      for (let cursor = 0; cursor < queue.length; cursor++) {
+        const current = queue[cursor]
+        const adjacent = Array.from(neighbourIds.get(current) || []).sort(
+          (a, b) => (nodeById.get(a)?.name || a).localeCompare(
+            nodeById.get(b)?.name || b, undefined,
+            { numeric: true, sensitivity: "base" },
+          ),
+        )
+        for (const next of adjacent) {
+          if (seen.has(next)) continue
+          seen.add(next)
+          previous.set(next, current)
+          if (next === endId) {
+            const route = [endId]
+            let step = endId
+            while (step !== startId) {
+              step = previous.get(step)
+              route.unshift(step)
+            }
+            return route
+          }
+          queue.push(next)
+        }
+      }
+      return null
+    }
+
+    function calculateConnectionPath() {
+      connectingPath = null
+      pathNodeIds = new Set()
+      pathEdgeKeys = new Set()
+      if (!selectedNode || !destinationNode) return
+      connectingPath = shortestRecordedPath(selectedNode.id, destinationNode.id)
+      pathNodeIds = new Set(
+        connectingPath || [selectedNode.id, destinationNode.id],
+      )
+      if (!connectingPath) return
+      for (let i = 1; i < connectingPath.length; i++) {
+        pathEdgeKeys.add(pathEdgeKey(connectingPath[i - 1], connectingPath[i]))
+      }
+    }
+
     function isInSelectedNeighbourhood(node) {
       if (!selectedNode) return true
-
-      return (
-        node.id === selectedNode.id ||
-        neighbourIds
-          .get(selectedNode.id)
-          ?.has(node.id)
-      )
+      if (destinationNode) return pathNodeIds.has(node.id)
+      return node.id === selectedNode.id ||
+        neighbourIds.get(selectedNode.id)?.has(node.id)
     }
 
     function linkTouchesSelection(link) {
-      return (
-        !selectedNode ||
-        link.source.id === selectedNode.id ||
+      if (!selectedNode) return true
+      if (destinationNode) {
+        return pathEdgeKeys.has(pathEdgeKey(link.source.id, link.target.id))
+      }
+      return link.source.id === selectedNode.id ||
         link.target.id === selectedNode.id
-      )
     }
     let dragNode = null
     let panning = false
@@ -448,39 +532,64 @@
       )
     }
 
-    function setSelectedNode(node) {
-      selectedNode = node
+    function showSelectionPanel() {
       selectionPanel.replaceChildren()
-
-      if (!node) {
+      if (!selectedNode) {
         selectionPanel.style.display = "none"
-        draw()
         return
       }
 
       const details = document.createElement("div")
-      details.style.cssText = "flex:1 1 220px;min-width:0"
+      details.style.cssText = "flex:1 1 250px;min-width:0"
       const name = document.createElement("strong")
-      name.textContent = node.name
       name.style.display = "block"
+      name.textContent = destinationNode
+        ? selectedNode.name + "  →  " + destinationNode.name
+        : selectedNode.name
+      const summary = document.createElement("div")
+      summary.style.cssText =
+        "margin-top:0.3rem;opacity:0.86;font-size:0.86rem;line-height:1.45"
 
-      const summary = document.createElement("span")
-      summary.style.cssText = "display:block;opacity:0.8;font-size:0.85rem"
-      const neighbours = neighbourIds.get(node.id)?.size ?? 0
-      summary.textContent =
-        (node.courses.join(" · ") || "QOD") +
-        " · " + neighbours +
-        (neighbours === 1 ? " direct connection" : " direct connections")
-      details.append(name, summary)
+      if (!destinationNode) {
+        const neighbours = neighbourIds.get(selectedNode.id)?.size ?? 0
+        summary.textContent =
+          (selectedNode.courses.join(" · ") || "QOD") + " · " +
+          neighbours + (neighbours === 1
+            ? " direct connection. Select another star to trace a path."
+            : " direct connections. Select another star to trace a path.")
+      } else if (!connectingPath) {
+        summary.textContent =
+          "No recorded connection path between these two QODs. " +
+          "The mathematical ideas may still be related."
+      } else {
+        const hops = connectingPath.length - 1
+        const intermediates = Math.max(0, hops - 1)
+        summary.textContent =
+          "Shortest recorded path: " + hops +
+          (hops === 1 ? " connection" : " connections") + " · " +
+          intermediates +
+          (intermediates === 1 ? " intermediate QOD" : " intermediate QODs")
+        const chain = document.createElement("div")
+        chain.style.cssText =
+          "margin-top:0.35rem;overflow-wrap:anywhere;font-size:0.83rem;opacity:0.84"
+        chain.textContent = connectingPath.map(
+          (id) => nodeById.get(id)?.name || id,
+        ).join(" → ")
+        details.append(name, summary, chain)
+      }
+      if (!details.hasChildNodes()) details.append(name, summary)
 
-      const open = document.createElement("a")
-      open.href = node.url
-      open.textContent = "Open QOD"
-      open.style.cssText =
-        "display:inline-block;padding:0.4rem 0.75rem;" +
-        "border-radius:0.4rem;background:var(--secondary);" +
-        "color:var(--light);text-decoration:none;font-weight:600"
-      open.setAttribute("aria-label", "Open " + node.name)
+      const makeOpenLink = (node, label) => {
+        const open = document.createElement("a")
+        open.href = node.url
+        open.textContent = label
+        open.style.cssText =
+          "display:inline-block;padding:0.4rem 0.7rem;" +
+          "border-radius:0.4rem;background:var(--secondary);" +
+          "color:var(--light);text-decoration:none;font-weight:600;font-size:0.85rem"
+        open.setAttribute("aria-label", "Open " + node.name)
+        return open
+      }
 
       const clear = document.createElement("button")
       clear.type = "button"
@@ -488,8 +597,33 @@
       clear.className = "qod-graph-reset-button"
       clear.addEventListener("click", () => setSelectedNode(null))
 
-      selectionPanel.append(details, open, clear)
+      selectionPanel.appendChild(details)
+      selectionPanel.appendChild(makeOpenLink(
+        selectedNode, destinationNode ? "Open starting QOD" : "Open QOD",
+      ))
+      if (destinationNode) {
+        selectionPanel.appendChild(makeOpenLink(destinationNode, "Open destination QOD"))
+      }
+      selectionPanel.appendChild(clear)
       selectionPanel.style.display = "flex"
+    }
+
+    function setSelectedNode(node) {
+      if (!node) {
+        selectedNode = null
+        destinationNode = null
+      } else if (!selectedNode) {
+        selectedNode = node
+        destinationNode = null
+      } else if (selectedNode.id === node.id || destinationNode?.id === node.id) {
+        // Clicking either endpoint again returns to the first QOD's neighbours.
+        destinationNode = null
+      } else {
+        // Third and later clicks replace only the destination.
+        destinationNode = node
+      }
+      calculateConnectionPath()
+      showSelectionPanel()
       draw()
     }
 
@@ -770,9 +904,9 @@
       const individualVariation =
         0.92 + 0.08 * Math.sin(ambientPhases.get(node.id) ?? 0)
       const haloVisibility = selectedNode
-        ? selectionHighlighted && courseHighlighted
+        ? selectionHighlighted
           ? (0.19 + 0.23 * prominence) * individualVariation
-          : 0.012
+          : 0.007
         : courseHighlighted
           ? (0.10 + 0.27 * prominence) * individualVariation
           : 0.012
@@ -808,12 +942,9 @@
       // Direct neighbours remain prominent while unrelated
       // QODs recede gently instead of disappearing.
       if (selectedNode) {
-        nodeAlpha =
-          courseHighlighted && selectionHighlighted
-            ? 1
-            : courseHighlighted
-              ? 0.42
-              : 0.12
+        nodeAlpha = selectionHighlighted
+          ? 1
+          : destinationNode ? 0.075 : (courseHighlighted ? 0.24 : 0.09)
       }
 
       ctx.globalAlpha = nodeAlpha
@@ -853,7 +984,7 @@
       ctx.restore()
 
       // A restrained pinpoint core gives each visible QOD a stellar sparkle.
-      if (courseHighlighted && (!selectedNode || selectionHighlighted)) {
+      if (selectedNode ? selectionHighlighted : courseHighlighted) {
         ctx.save()
         ctx.globalAlpha = 0.36 + 0.46 * prominence
         ctx.fillStyle = "#F9FCFF"
@@ -864,12 +995,12 @@
       }
 
       // Keep selected QOD identifiable without altering its course colour.
-      if (selectedNode?.id === node.id) {
+      if (selectedNode?.id === node.id || destinationNode?.id === node.id) {
         ctx.save()
         ctx.globalAlpha = 1
         ctx.beginPath()
         ctx.arc(point.x, point.y, radius + 4, 0, Math.PI * 2)
-        ctx.strokeStyle = "#F59E0B"
+        ctx.strokeStyle = destinationNode?.id === node.id ? "#6EE7F9" : "#F59E0B"
         ctx.lineWidth = 2.5
         ctx.stroke()
         ctx.restore()
@@ -907,38 +1038,28 @@
           link.target,
         )
 
-        // In a filtered course view, only draw connections
-        // whose BOTH endpoint QODs belong to the selected course.
-        //
-        // This removes "ghost" lines leading from highlighted
-        // QODs into faded QODs from other courses.
-        if (
-          activeCourse &&
-          (!sourceMatch || !targetMatch)
-        ) {
+        const selectionConnected = linkTouchesSelection(link)
+
+        // Normal course filtering is unchanged; an explicitly selected
+        // neighbour or path may cross courses to show a real connection.
+        if (activeCourse && (!sourceMatch || !targetMatch) &&
+            !(selectedNode && selectionConnected)) {
           continue
         }
 
-        const selectionConnected =
-          linkTouchesSelection(link)
-
         const alpha = selectedNode
-          ? selectionConnected
-            ? 0.88
-            : 0.11
-          : activeCourse
-            ? 0.42
-            : 0.16
+          ? selectionConnected ? 0.94 : (destinationNode ? 0.025 : 0.075)
+          : activeCourse ? 0.42 : 0.16
 
         ctx.save()
         ctx.globalAlpha = alpha
         // Star-map lines work on a dark universe in BOTH page themes.
         ctx.strokeStyle = selectedNode && selectionConnected
-          ? "#C9DBFF"
+          ? (destinationNode ? "#F5D69B" : "#C9DBFF")
           : "#82A5D3"
         ctx.fillStyle = ctx.strokeStyle
         ctx.lineWidth = selectedNode
-          ? selectionConnected ? 1.7 : 0.55
+          ? selectionConnected ? (destinationNode ? 2.15 : 1.7) : 0.55
           : activeCourse ? 0.95 : 0.75
 
         ctx.setLineDash([])
@@ -951,7 +1072,7 @@
           ctx.save()
           ctx.globalAlpha = 0.20
           ctx.lineWidth = 4
-          ctx.strokeStyle = "#85B3FF"
+          ctx.strokeStyle = destinationNode ? "#EDBB69" : "#85B3FF"
           ctx.stroke()
           ctx.restore()
         }
@@ -1184,7 +1305,7 @@
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
-        "Click to select a QOD; double-click to open. The network drifts gently when unselected."
+        "One star: neighbours · Two stars: shortest path · Double-click: open QOD"
 
       toolbar.appendChild(key)
 
@@ -1626,7 +1747,7 @@
       canvas.style.opacity = "1"
       if (status) {
         status.textContent =
-          "Click a QOD to select its connections. Double-click to open the QOD. On touchscreens, tap a QOD and use Open QOD. Click empty space to clear; drag to pan."
+          "Choose a starting QOD, then a second QOD to trace their shortest recorded path. Click empty space to reset."
       }
     }
 
@@ -1658,6 +1779,7 @@
       ambientVisibilityObserver.disconnect()
       reducedMotionQuery.removeEventListener?.("change", onAmbientPreferenceChange)
       selectionPanel.remove()
+      guide.remove()
       resizeObserver.disconnect()
       themeObserver.disconnect()
       simulation.stop()
