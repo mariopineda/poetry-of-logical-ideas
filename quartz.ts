@@ -206,53 +206,94 @@ for (const entry of qodBySlug.values()) {
 
 // BEGIN OSCULATORIUM PRIMARY NAVIGATION
 componentRegistry.setOptionOverrides("@quartz-community/explorer", {
-  filterFn: (node: any) => {
-    const slug = String(node.slugSegment ?? "").toLowerCase()
-    return !["tags", "frequently-asked-questions", "about"].includes(slug)
-  },
+  filterFn: (node: any) => node.slugSegment !== "tags",
 
   mapFn: (node: any) => {
     if ((node.slugSegments?.length ?? 0) !== 0) return
 
-    const rootChildren = Array.isArray(node.children) ? node.children : []
+    const rootChildren = Array.isArray(node.children)
+      ? node.children
+      : []
+
     const qod = rootChildren.find(
       (child: any) =>
         !child.isFolder &&
         child.slugSegment?.toLowerCase() === "qod",
     )
+
     const math = rootChildren.find(
       (child: any) =>
         child.isFolder &&
         child.slugSegment?.toLowerCase() === "math",
     )
+
     const learningPath = math?.children?.find(
       (child: any) =>
         !child.isFolder &&
         child.slugSegment?.toLowerCase() === "qod-map",
     )
 
-    // Never leave FAQ/About visible as a fallback.
-    node.children = [qod, learningPath].filter(Boolean)
-    if (qod) qod.displayName = "QOD"
-    if (learningPath) learningPath.displayName = "Learning Path"
+    const faq = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() ===
+          "frequently-asked-questions",
+    )
+
+    const about = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "about",
+    )
+
+    if (!qod || !learningPath || !faq || !about) {
+      return
+    }
+
+    qod.displayName = "QOD"
+    learningPath.displayName = "Learning Path"
+    faq.displayName = "FAQ"
+    about.displayName = "About"
+
+    node.children = [
+      qod,
+      learningPath,
+      faq,
+      about,
+    ]
   },
 
   sortFn: (
     a: { displayName: string },
     b: { displayName: string },
   ) => {
-    const preferredOrder = ["qod", "learning path"]
+    const preferredOrder = [
+      "qod",
+      "learning path",
+      "faq",
+      "about",
+    ]
+
     const aName = a.displayName.toLowerCase()
     const bName = b.displayName.toLowerCase()
+
     const aPriority = preferredOrder.indexOf(aName)
     const bPriority = preferredOrder.indexOf(bName)
-    if (aPriority !== -1 && bPriority !== -1) return aPriority - bPriority
+
+    if (aPriority !== -1 && bPriority !== -1) {
+      return aPriority - bPriority
+    }
     if (aPriority !== -1) return -1
     if (bPriority !== -1) return 1
-    return a.displayName.localeCompare(b.displayName, undefined, {
-      numeric: true,
-      sensitivity: "base",
-    })
+
+    return a.displayName.localeCompare(
+      b.displayName,
+      undefined,
+      {
+        numeric: true,
+        sensitivity: "base",
+      },
+    )
   },
 })
 // END OSCULATORIUM PRIMARY NAVIGATION
