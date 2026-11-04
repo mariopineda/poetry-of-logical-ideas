@@ -206,94 +206,60 @@ for (const entry of qodBySlug.values()) {
 
 // BEGIN OSCULATORIUM PRIMARY NAVIGATION
 componentRegistry.setOptionOverrides("@quartz-community/explorer", {
-  filterFn: (node: any) => node.slugSegment !== "tags",
+  filterFn: (node: any) => {
+    const slug = String(node.slugSegment ?? "").toLowerCase()
+    return !["tags", "frequently-asked-questions", "about"].includes(slug)
+  },
 
   mapFn: (node: any) => {
     if ((node.slugSegments?.length ?? 0) !== 0) return
 
-    const rootChildren = Array.isArray(node.children)
-      ? node.children
-      : []
+    const rootChildren = Array.isArray(node.children) ? node.children : []
+    const race = rootChildren.find(
+      (child: any) =>
+        !child.isFolder &&
+        child.slugSegment?.toLowerCase() === "mental-math-race",
+    )
 
     const qod = rootChildren.find(
       (child: any) =>
         !child.isFolder &&
         child.slugSegment?.toLowerCase() === "qod",
     )
-
     const math = rootChildren.find(
       (child: any) =>
         child.isFolder &&
         child.slugSegment?.toLowerCase() === "math",
     )
-
     const learningPath = math?.children?.find(
       (child: any) =>
         !child.isFolder &&
         child.slugSegment?.toLowerCase() === "qod-map",
     )
 
-    const faq = rootChildren.find(
-      (child: any) =>
-        !child.isFolder &&
-        child.slugSegment?.toLowerCase() ===
-          "frequently-asked-questions",
-    )
-
-    const about = rootChildren.find(
-      (child: any) =>
-        !child.isFolder &&
-        child.slugSegment?.toLowerCase() === "about",
-    )
-
-    if (!qod || !learningPath || !faq || !about) {
-      return
-    }
-
-    qod.displayName = "QOD"
-    learningPath.displayName = "Learning Path"
-    faq.displayName = "FAQ"
-    about.displayName = "About"
-
-    node.children = [
-      qod,
-      learningPath,
-      faq,
-      about,
-    ]
+    // Never leave FAQ/About visible as a fallback.
+    node.children = [qod, learningPath, race].filter(Boolean)
+    if (qod) qod.displayName = "QOD"
+    if (race) race.displayName = "Mental Math Race"
+    if (learningPath) learningPath.displayName = "Learning Path"
   },
 
   sortFn: (
     a: { displayName: string },
     b: { displayName: string },
   ) => {
-    const preferredOrder = [
-      "qod",
-      "learning path",
-      "faq",
-      "about",
-    ]
-
+    const preferredOrder = ["qod", "learning path", "mental math race"]
     const aName = a.displayName.toLowerCase()
     const bName = b.displayName.toLowerCase()
-
     const aPriority = preferredOrder.indexOf(aName)
     const bPriority = preferredOrder.indexOf(bName)
-
-    if (aPriority !== -1 && bPriority !== -1) {
-      return aPriority - bPriority
-    }
+    if (aPriority !== -1 && bPriority !== -1) return aPriority - bPriority
     if (aPriority !== -1) return -1
     if (bPriority !== -1) return 1
-
-    return a.displayName.localeCompare(
-      b.displayName,
-      undefined,
-      {
-        numeric: true,
-        sensitivity: "base",
-      },
-    )
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
   },
 })
 // END OSCULATORIUM PRIMARY NAVIGATION
@@ -1863,6 +1829,46 @@ config.plugins.transformers.push({
   },
 } as any)
 // END OSC-QOD-PRESENTATION-V1
+
+// BEGIN OSC-MENTAL-MATH-RACE-V1
+// Browser-only worksheet creator; no questions are sent to a server.
+config.plugins.transformers.push({
+  name: "MentalMathRaceGenerator",
+  htmlPlugins() {
+    return [() => (tree: any, file: any) => {
+      if (file.data.frontmatter?.type !== "mental-math-race") return
+      const children = tree.children ?? (tree.children = [])
+      if (children.some((node: any) =>
+        node?.type === "element" &&
+        Array.isArray(node.properties?.className) &&
+        node.properties.className.includes("mmr-root")
+      )) return
+      children.push({
+        type: "element",
+        tagName: "div",
+        properties: {
+          className: ["mmr-root"],
+          "data-mental-math-race": "true",
+        },
+        children: [],
+      })
+    }]
+  },
+  externalResources() {
+    return {
+      js: [{
+        script: fs.readFileSync(path.resolve("quartz/static/mental-math-race.js"), "utf8"),
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+      }],
+      css: [{
+        content: fs.readFileSync(path.resolve("quartz/styles/mental-math-race.scss"), "utf8"),
+        inline: true,
+      }],
+    }
+  },
+} as any)
+// END OSC-MENTAL-MATH-RACE-V1
 
 export default config
 
