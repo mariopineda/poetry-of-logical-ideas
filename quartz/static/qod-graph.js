@@ -164,6 +164,15 @@
       y: undefined,
     }))
 
+    // OSC-QOD-PARALLAX-DEPTH-V1: stable near/middle/far layers; graph coordinates unchanged.
+    const depthLayers = new Map(nodes.map((node) => {
+      let hash = 2166136261
+      for (const character of String(node.id)) {
+        hash = Math.imul(hash ^ character.charCodeAt(0), 16777619)
+      }
+      return [node.id, (hash >>> 0) % 3 - 1]
+    }))
+
     const nodeById = new Map(
       nodes.map((node) => [node.id, node]),
     )
@@ -244,6 +253,7 @@
       "Paths use the existing links in either direction, so they reveal documented conceptual connections, not necessarily a recommended learning order. If no route is found, the published collection does not currently record one; the mathematical ideas may still be related.",
     ]
     guideParagraphs.push("Fit Graph recentres and zooms the universe without changing your selected QODs or course. Reset All clears selections and highlighted paths, shows every course, and fits the entire universe.")
+    guideParagraphs.push("Depth: On gives near and far QOD stars gentle parallax during ambient motion and panning. Depth: Off restores the original flat projection. This changes no QOD or recorded relationship.")
     for (const explanation of guideParagraphs) {
       const paragraph = document.createElement("p")
       paragraph.style.cssText = "margin:0.65rem 0 0;line-height:1.55;font-size:0.91rem"
@@ -350,6 +360,14 @@
       "(prefers-reduced-motion: reduce)",
     )
     let ambientMotionEnabled = true
+    // A mild 15% differential camera shift; never displaces the physics nodes.
+    const DEPTH_STRENGTH = 0.15
+    let depthEnabled = true
+    let depthPanX = 0
+    let depthPanY = 0
+    let depthSwayTime = 0
+    let depthSwayX = 0
+    let depthSwayY = 0
     let ambientFrame = 0
     let graphVisible = true
 
@@ -388,9 +406,21 @@
       button.title = "Toggle gentle node drift and breathing"
     }
 
+    function updateDepthButton() {
+      const button = toolbar.querySelector('button[data-qod-depth]')
+      if (!button) return
+      button.disabled = reducedMotionQuery.matches
+      button.textContent = reducedMotionQuery.matches
+        ? "Depth: Reduced motion"
+        : depthEnabled ? "Depth: On" : "Depth: Off"
+      button.title = "Toggle subtle near/far QOD parallax; mathematical links stay attached"
+      button.setAttribute("aria-pressed", String(depthEnabled && !reducedMotionQuery.matches))
+    }
+
     function onAmbientPreferenceChange() {
       ambientFrame = 0
       updateAmbientButton()
+      updateDepthButton()
       draw()
     }
     reducedMotionQuery.addEventListener?.("change", onAmbientPreferenceChange)
@@ -407,6 +437,10 @@
         activePointers.size > 0
       ) return
       ambientFrame = performance.now()
+      // Smooth camera sway, frozen when motion pauses or a QOD is selected.
+      depthSwayTime += 110
+      depthSwayX = 32 * Math.sin(depthSwayTime / 13000)
+      depthSwayY = 24 * Math.sin(depthSwayTime / 18000)
       draw()
     }, 110)
 
@@ -709,15 +743,30 @@
       }
     }
 
+    // All three layers share their underlying D3 coordinates and relationships.
+    // The depth shift is applied *after* rotation to dots, edges, and hit tests.
+    function depthDisplacement(node) {
+      if (!depthEnabled || reducedMotionQuery.matches) return { x: 0, y: 0 }
+      const layer = depthLayers.get(node.id) ?? 0
+      return {
+        x: layer * DEPTH_STRENGTH * (depthPanX + depthSwayX),
+        y: layer * DEPTH_STRENGTH * (depthPanY + depthSwayY),
+      }
+    }
+
     // Edges, dots and pointer hit tests all use this same projection.
     function screenPoint(node) {
       const point = unrotatedScreenPoint(node)
-      return rotateScreenPoint(point.x, point.y, galaxyAngle)
+      const rotated = rotateScreenPoint(point.x, point.y, galaxyAngle)
+      const depth = depthDisplacement(node)
+      return { x: rotated.x + depth.x, y: rotated.y + depth.y }
     }
 
-    // Convert clicks and drag positions back into the original graph space.
-    function graphPoint(x, y) {
-      const point = rotateScreenPoint(x, y, -galaxyAngle)
+    // For dragging an actual star, first undo its unique depth offset.
+    // Zoom/pinch use the unchanged neutral (middle layer) camera.
+    function graphPoint(x, y, node = null) {
+      const depth = node ? depthDisplacement(node) : { x: 0, y: 0 }
+      const point = rotateScreenPoint(x - depth.x, y - depth.y, -galaxyAngle)
       return unrotatedGraphPoint(point.x, point.y)
     }
 
@@ -1196,6 +1245,9 @@
       const centreY = (minY + maxY) / 2
 
       scale = clamp(fitScale, 0.16, 5)
+      // Refit clears accumulated pan-induced parallax without changing the data.
+      depthPanX = 0
+      depthPanY = 0
 
       offsetX =
         width / 2 - centreX * scale
@@ -1343,6 +1395,18 @@
       toolbar.appendChild(motionButton)
       updateAmbientButton()
 
+      const depthButton = document.createElement("button")
+      depthButton.type = "button"
+      depthButton.className = "qod-graph-reset-button"
+      depthButton.dataset.qodDepth = "true"
+      depthButton.addEventListener("click", () => {
+        depthEnabled = !depthEnabled
+        updateDepthButton()
+        draw()
+      })
+      toolbar.appendChild(depthButton)
+      updateDepthButton()
+
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
       key.textContent =
@@ -1461,6 +1525,8 @@
         y: pointer.y,
         offsetX,
         offsetY,
+        depthPanX,
+        depthPanY,
       }
 
       moved = false
@@ -1549,6 +1615,7 @@
         const graph = graphPoint(
           pointer.x,
           pointer.y,
+          dragNode,
         )
 
         dragNode.fx = graph.x
@@ -1568,6 +1635,11 @@
           pointerStart.offsetY +
           pointer.y -
           pointerStart.y
+
+        // Near QODs shift up to 15% farther; distant QODs up to 15% less.
+        // Keep the effect bounded so the established layout stays recognizable.
+        depthPanX = clamp(pointerStart.depthPanX + pointer.x - pointerStart.x, -80, 80)
+        depthPanY = clamp(pointerStart.depthPanY + pointer.y - pointerStart.y, -80, 80)
 
         draw()
         tooltip && (tooltip.hidden = true)
@@ -1643,6 +1715,8 @@
           y: remaining.y,
           offsetX,
           offsetY,
+          depthPanX,
+          depthPanY,
         }
 
         moved = true
