@@ -764,10 +764,16 @@
 
     // For dragging an actual star, first undo its unique depth offset.
     // Zoom/pinch use the unchanged neutral (middle layer) camera.
-    function graphPoint(x, y, node = null) {
-      const depth = node ? depthDisplacement(node) : { x: 0, y: 0 }
-      const point = rotateScreenPoint(x - depth.x, y - depth.y, -galaxyAngle)
+    function graphPoint(x, y) {
+      const point = rotateScreenPoint(x, y, -galaxyAngle)
       return unrotatedGraphPoint(point.x, point.y)
+    }
+
+    // Undo the star-specific depth displacement only while dragging a star.
+    // The normal camera projection retains the original graphPoint interface.
+    function graphPointForNode(x, y, node) {
+      const depth = depthDisplacement(node)
+      return graphPoint(x - depth.x, y - depth.y)
     }
 
     // Preserve the cursor as the zoom anchor even with a rotated network.
@@ -1612,7 +1618,7 @@
       }
 
       if (dragNode) {
-        const graph = graphPoint(
+        const graph = graphPointForNode(
           pointer.x,
           pointer.y,
           dragNode,
