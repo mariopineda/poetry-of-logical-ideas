@@ -7,19 +7,26 @@ topic: Combinations
 show_solution: false
 ---
 
-## Question
-
 | | |
 | :--- | ---: |
 | A **dodecagon** is a polygon with 12 sides. Consider the regular dodecagon shown here. | ![[Combinations - Dodecagon.png\|180]] |
+**A.** How many different line segments can be drawn by connecting any two vertices of the polygon?
+**B.** How many **diagonals** does the polygon have? Explain how you determined your answer.
 
-### A.
+> [!abstract] Review First
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
-How many different line segments can be drawn by connecting any two vertices of the polygon?
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
-### B.
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations - Playing Card Hands 1|Combinations - Playing Card Hands 1]]
+> - [[Math/Combinatorics/Combinations - Research Team 1|Combinations - Research Team 1]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
 
-How many **diagonals** does the polygon have? Explain how you determined your answer.
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
 
 ## Solution
 
@@ -53,15 +60,3 @@ How many **diagonals** does the polygon have? Explain how you determined your an
 > $$
 >
 > Therefore, the dodecagon has **54 diagonals**.
-
-## Review First
-
-- [[Combinations 1]]
-
-## Explore Also
-
-- [[Combinations - Playing Card Hands 1]]
-- [[Combinations - Research Team 1]]
-- [[Combinations 3]]
-
-## Build Toward

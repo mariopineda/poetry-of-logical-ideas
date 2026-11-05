@@ -7,19 +7,25 @@ topic: Combinations
 show_solution: false
 ---
 
-## Question
+A conservation organization has **6 wildlife biologists** and **5 ecologists** available for a research project. A team of 4 researchers must be selected.
 
-A conservation organization has **6 wildlife biologists** and **5 ecologists** available for a research project.
+**A.** How many different teams can be formed if the team must contain exactly **2 wildlife biologists and 2 ecologists**?
+**B.** How many different teams can be formed if the team must contain **at least 2 wildlife biologists**?
 
-A team of 4 researchers must be selected.
+> [!abstract] Review First
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 
-### A.
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
-How many different teams can be formed if the team must contain exactly **2 wildlife biologists and 2 ecologists**?
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations - Polygon Diagonals 1|Combinations - Polygon Diagonals 1]]
+> - [[Math/Combinatorics/Combinations - Playing Card Hands 1|Combinations - Playing Card Hands 1]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
 
-### B.
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
 
-How many different teams can be formed if the team must contain **at least 2 wildlife biologists**?
+> [!success] Build Toward
+> _No linked questions yet._
 
 ## Solution
 
@@ -56,15 +62,3 @@ How many different teams can be formed if the team must contain **at least 2 wil
 > $$
 >
 > Therefore, **265 different teams** are possible.
-
-## Review First
-
-- [[Combinations 1]]
-
-## Explore Also
-
-- [[Combinations - Polygon Diagonals 1]]
-- [[Combinations - Playing Card Hands 1]]
-- [[Combinations 3]]
-
-## Build Toward

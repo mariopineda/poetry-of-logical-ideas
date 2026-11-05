@@ -71,7 +71,6 @@ The festival adds a **fifth digit**, leaving all other rules unchanged. How many
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 1|Counting Odd Natural Numbers 1]]
 > - [[Math/Combinatorics/Permutations with Restrictions - Practice 8 - Library Book Return Codes|Permutations with Restrictions - Practice 8 - Library Book Return Codes]]
 
-
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward

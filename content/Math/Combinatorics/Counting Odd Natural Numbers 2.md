@@ -64,10 +64,8 @@ Digits may be repeated?
 > [!info] Explore Also
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 1|Counting Odd Natural Numbers 1]]
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]
-> - [[Math/Combinatorics/Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers|Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers]]
-
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers|Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers]]

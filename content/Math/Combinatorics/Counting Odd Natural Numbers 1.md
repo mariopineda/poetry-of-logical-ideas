@@ -64,10 +64,10 @@ Digits may be repeated?
 > [!info] Explore Also
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 2|Counting Odd Natural Numbers 2]]
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]
-> - [[Math/Combinatorics/Fundamental Counting Principle 13 - Festival Pass Identifiers|Fundamental Counting Principle 13 - Festival Pass Identifiers]]
-> - [[Math/Combinatorics/Fundamental Counting Principle 14 - Four-Digit Race Numbers|Fundamental Counting Principle 14 - Four-Digit Race Numbers]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
+> - [[Math/Combinatorics/Fundamental Counting Principle 13 - Festival Pass Identifiers|Fundamental Counting Principle 13 - Festival Pass Identifiers]]
+> - [[Math/Combinatorics/Fundamental Counting Principle 14 - Four-Digit Race Numbers|Fundamental Counting Principle 14 - Four-Digit Race Numbers]]
 > - [[Math/Combinatorics/Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers|Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers]]

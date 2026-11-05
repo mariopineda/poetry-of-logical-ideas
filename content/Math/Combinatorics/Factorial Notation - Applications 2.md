@@ -73,10 +73,6 @@ How many different arrangements are possible for the three medals?
 > - [[Math/Combinatorics/Factorial Notation - Applications 1|Factorial Notation - Applications 1]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 5 - Three Event Arrangements|Factorial Notation - Applications 5 - Three Event Arrangements]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 9 - Exhibition Corridor|Factorial Notation - Applications 9 - Exhibition Corridor]]
-> - [[Math/Combinatorics/Permutation Formula - Practice 2 - Seven Rare Minerals|Permutation Formula - Practice 2 - Seven Rare Minerals]]
-
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -85,3 +81,6 @@ How many different arrangements are possible for the three medals?
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 2|Factorial Notation - Algebraic 2]]
+> - [[Math/Combinatorics/Permutation Formula - Practice 2 - Seven Rare Minerals|Permutation Formula - Practice 2 - Seven Rare Minerals]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 5 - Three Event Arrangements|Factorial Notation - Applications 5 - Three Event Arrangements]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 9 - Exhibition Corridor|Factorial Notation - Applications 9 - Exhibition Corridor]]

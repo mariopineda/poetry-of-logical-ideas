@@ -109,11 +109,10 @@ $$
 > [!info] Explore Also
 > - [[Math/Set Theory/Set Theory 1|Set Theory 1]]
 > - [[Math/Set Theory/Set Theory 3|Set Theory 3]]
-> - [[Math/Set Theory/Set Theory - Subsets - Practice 2 - Multiples and Subset Claims|Set Theory - Subsets - Practice 2 - Multiples and Subset Claims]]
-> - [[Math/Set Theory/Set Theory - Subsets - Practice 10 - A Nest of Number Systems|Set Theory - Subsets - Practice 10 - A Nest of Number Systems]]
-
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
+> - [[Math/Set Theory/Set Theory - Subsets - Practice 2 - Multiples and Subset Claims|Set Theory - Subsets - Practice 2 - Multiples and Subset Claims]]
+> - [[Math/Set Theory/Set Theory - Subsets - Practice 10 - A Nest of Number Systems|Set Theory - Subsets - Practice 10 - A Nest of Number Systems]]
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]]

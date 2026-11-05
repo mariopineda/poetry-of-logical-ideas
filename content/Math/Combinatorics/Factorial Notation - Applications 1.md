@@ -73,8 +73,6 @@ How many different arrangements are possible for first, second, and third place?
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 3|Factorial Notation - Applications 3]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 1|Factorial Notation - Algebraic 1]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 4 - Science Fair Flags|Factorial Notation - Applications 4 - Science Fair Flags]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 8 - Observatory Demonstrations|Factorial Notation - Applications 8 - Observatory Demonstrations]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -83,3 +81,5 @@ How many different arrangements are possible for first, second, and third place?
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 1|Factorial Notation - Algebraic 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 4 - Science Fair Flags|Factorial Notation - Applications 4 - Science Fair Flags]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 8 - Observatory Demonstrations|Factorial Notation - Applications 8 - Observatory Demonstrations]]

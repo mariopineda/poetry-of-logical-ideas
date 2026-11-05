@@ -99,9 +99,9 @@ Use permutation notation.
 > [!info] Explore Also
 > - [[Math/Combinatorics/Counting Methods Challenge 2|Counting Methods Challenge 2]]
 > - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
-> - [[Math/Combinatorics/Factorial Notation - Applications 11 - Five-Digit Number Error|Factorial Notation - Applications 11 - Five-Digit Number Error]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> - [[Math/Combinatorics/Factorial Notation - Applications 11 - Five-Digit Number Error|Factorial Notation - Applications 11 - Five-Digit Number Error]]

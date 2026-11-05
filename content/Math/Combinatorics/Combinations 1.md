@@ -54,20 +54,15 @@ Consider a circle with five points marked on the circumference.
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
-> - [[Math/Combinatorics/Combinations - Practice 11 - Connect-Thirteen Geometry|Combinations - Practice 11 - Connect-Thirteen Geometry]]
-
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Binomial Theorem 1|Binomial Theorem 1]]
 > - [[Math/Combinatorics/Pascal's Triangle|Pascal's Triangle]]
+> - [[Math/Combinatorics/Combinations - Practice 11 - Connect-Thirteen Geometry|Combinations - Practice 11 - Connect-Thirteen Geometry]]
 > - [[Math/Combinatorics/Combinations - Practice 1 - Evaluate Combination Notation|Combinations - Practice 1 - Evaluate Combination Notation]]
 > - [[Math/Combinatorics/Counting Methods Review - Practice 1 - Permutation or Combination|Counting Methods Review - Practice 1 - Permutation or Combination]]
-
-## Build Toward
-
-- [[Combinations - Polygon Diagonals 1]]
-- [[Combinations - Playing Card Hands 1]]
-- [[Combinations - Research Team 1]]
-
+> - [[Math/Combinatorics/Combinations - Polygon Diagonals 1|Combinations - Polygon Diagonals 1]]
+> - [[Math/Combinatorics/Combinations - Playing Card Hands 1|Combinations - Playing Card Hands 1]]
+> - [[Math/Combinatorics/Combinations - Research Team 1|Combinations - Research Team 1]]

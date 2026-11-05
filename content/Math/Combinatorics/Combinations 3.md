@@ -54,15 +54,11 @@ Consider a standard deck of 52 cards. Determine the number of distinct six card 
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
+> - [[Math/Combinatorics/Combinations - Polygon Diagonals 1|Combinations - Polygon Diagonals 1]]
+> - [[Math/Combinatorics/Combinations - Playing Card Hands 1|Combinations - Playing Card Hands 1]]
+> - [[Math/Combinatorics/Combinations - Research Team 1|Combinations - Research Team 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Explore Also
-
-- [[Combinations - Polygon Diagonals 1]]
-- [[Combinations - Playing Card Hands 1]]
-- [[Combinations - Research Team 1]]
-

@@ -65,10 +65,9 @@ Using **permutations and factorial notation**, determine the number of distinct 
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations - Map Pathways 1|Permutations - Map Pathways 1]]
-> - [[Math/Combinatorics/Identical-Object Permutations - Practice 5 - Monotone Grid Walks|Identical-Object Permutations - Practice 5 - Monotone Grid Walks]]
-
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Permutations - Map Pathways 3|Permutations - Map Pathways 3]]
+> - [[Math/Combinatorics/Identical-Object Permutations - Practice 5 - Monotone Grid Walks|Identical-Object Permutations - Practice 5 - Monotone Grid Walks]]
