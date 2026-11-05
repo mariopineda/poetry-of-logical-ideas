@@ -86,6 +86,8 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Permutations 2|Permutations 2]]
+> - [[Math/Combinatorics/Permutation Formula - Practice 1 - Eco Council Officers|Permutation Formula - Practice 1 - Eco Council Officers]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -96,3 +98,4 @@ Using the digits 2 ,3, 4, and 5 and if no digits can be repeated...
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
 > - [[Math/Combinatorics/Combinations 2|Combinations 2]]
 > - [[Math/Combinatorics/Combinations 3|Combinations 3]]
+> - [[Math/Combinatorics/Counting Methods Review - Practice 1 - Permutation or Combination|Counting Methods Review - Practice 1 - Permutation or Combination]]

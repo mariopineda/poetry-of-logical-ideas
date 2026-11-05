@@ -64,6 +64,8 @@ Determine the number of different colour arrangements possible if the display co
 > - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
 > - [[Math/Combinatorics/Permutations with Identical Objects 2|Permutations with Identical Objects 2]]
 > - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+> - [[Math/Combinatorics/Identical-Object Permutations - Practice 11 - Why Duplicate Letters Matter|Identical-Object Permutations - Practice 11 - Why Duplicate Letters Matter]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

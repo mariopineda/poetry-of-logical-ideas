@@ -102,8 +102,11 @@ $$
 
 > [!info] Explore Also
 > - [[Math/Set Theory/Set Theory 2|Set Theory 2]]
+> - [[Math/Set Theory/Set Theory - Venn - Practice 3 - Union and Intersection of Integers|Set Theory - Venn - Practice 3 - Union and Intersection of Integers]]
+> - [[Math/Set Theory/Set Theory - Venn - Practice 13 - Eight Set-Shading Challenges|Set Theory - Venn - Practice 13 - Eight Set-Shading Challenges]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Set Theory/Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School|Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School]]

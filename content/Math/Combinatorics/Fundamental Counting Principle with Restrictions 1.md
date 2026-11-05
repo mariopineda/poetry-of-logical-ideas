@@ -73,3 +73,4 @@ How many security codes are possible if the first digit must be \(4\) and the la
 > - [[Math/Combinatorics/Counting Odd Natural Numbers 3|Counting Odd Natural Numbers 3]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 9 - Archive Access Codes|Fundamental Counting Principle 9 - Archive Access Codes]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 13 - Festival Pass Identifiers|Fundamental Counting Principle 13 - Festival Pass Identifiers]]
+> - [[Math/Combinatorics/Permutations with Restrictions - Practice 6 - Wildlife Tracker Codes|Permutations with Restrictions - Practice 6 - Wildlife Tracker Codes]]

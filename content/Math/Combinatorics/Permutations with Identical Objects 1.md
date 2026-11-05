@@ -69,3 +69,4 @@ There are **1 Canadian**, **2 British**, **2 Ethiopian**, **1 Algerian**, and **
 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+> - [[Math/Combinatorics/Identical-Object Permutations - Practice 1 - Coin Flip Patterns|Identical-Object Permutations - Practice 1 - Coin Flip Patterns]]

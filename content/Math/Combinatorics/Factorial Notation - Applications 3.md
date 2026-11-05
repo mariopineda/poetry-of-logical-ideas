@@ -74,6 +74,8 @@ How many different arrangements are possible for the top three positions?
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 > - [[Math/Combinatorics/Factorial Notation - Algebraic 3|Factorial Notation - Algebraic 3]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 10 - Arts Showcase Opening|Factorial Notation - Applications 10 - Arts Showcase Opening]]
+> - [[Math/Combinatorics/Permutation Formula - Practice 3 - Festival Volunteer Roles|Permutation Formula - Practice 3 - Festival Volunteer Roles]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -106,4 +106,4 @@ Use the conventional block-letter forms in which $J$ and $U$ contain curved port
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Set Theory/Set Theory - Subsets - Practice 7 - Icons with Straight and Curved Features|Set Theory - Subsets - Practice 7 - Icons with Straight and Curved Features]]

@@ -64,6 +64,8 @@ The researcher records **1 elk**, **2 deer**, **2 coyotes**, **1 owl**, and **2 
 > - [[Math/Combinatorics/Permutations with Identical Objects 1|Permutations with Identical Objects 1]]
 > - [[Math/Combinatorics/Permutations with Identical Objects 3|Permutations with Identical Objects 3]]
 > - [[Math/Combinatorics/Permutations 5|Permutations 5]]
+> - [[Math/Combinatorics/Identical-Object Permutations - Practice 3 - Words and Repeated Letters|Identical-Object Permutations - Practice 3 - Words and Repeated Letters]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

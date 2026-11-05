@@ -71,6 +71,8 @@ _Hint: Draw a schematic of the hubs and their connecting routes_
 > - [[Math/Combinatorics/Fundamental Counting Principle 2|Fundamental Counting Principle 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 4|Fundamental Counting Principle 4]]
 > - [[Math/Combinatorics/Fundamental Counting Principle 12 - Robot Delivery Routes|Fundamental Counting Principle 12 - Robot Delivery Routes]]
+> - [[Math/Combinatorics/Permutation Formula - Practice 7 - Miscounted Trail Lunches|Permutation Formula - Practice 7 - Miscounted Trail Lunches]]
+
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

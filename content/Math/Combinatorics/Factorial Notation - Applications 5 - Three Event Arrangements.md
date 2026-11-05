@@ -67,3 +67,4 @@ A short-film club will screen **five different documentaries**, one per evening 
 > [!success] Build Toward
 > - [[Math/Combinatorics/Factorial Notation - Applications 7 - Factorial Expression Skills|Factorial Notation - Applications 7 - Factorial Expression Skills]]
 > - [[Math/Combinatorics/Factorial Notation - Applications 8 - Observatory Demonstrations|Factorial Notation - Applications 8 - Observatory Demonstrations]]
+> - [[Math/Combinatorics/Permutation Formula - Practice 1 - Eco Council Officers|Permutation Formula - Practice 1 - Eco Council Officers]]

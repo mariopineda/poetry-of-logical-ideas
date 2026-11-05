@@ -70,4 +70,4 @@ Digits may be repeated?
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Combinatorics/Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers|Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers]]
