@@ -4,28 +4,13 @@ publish: true
 course:
   - Mathematics 30-2
 topic: Combinations
-show_solution: false
+show_solution: true
 ---
 
 A standard deck of playing cards contains 52 cards, including 13 cards of each suit and four sevens. Determine how many different **six-card hands** can be dealt if:
 
 **A.** The hand contains exactly **2 clubs and 4 diamonds**.
 **B.** The hand contains **no sevens**.
-
-> [!abstract] Review First
-> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Combinatorics/Combinations - Polygon Diagonals 1|Combinations - Polygon Diagonals 1]]
-> - [[Math/Combinatorics/Combinations - Research Team 1|Combinations - Research Team 1]]
-> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -56,3 +41,18 @@ A standard deck of playing cards contains 52 cards, including 13 cards of each s
 > $$
 >
 > Therefore, **12,271,512 different hands** contain no sevens.
+
+> [!abstract] Review First
+> - [[Math/Combinatorics/Combinations 1|Combinations 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Combinatorics/Combinations - Polygon Diagonals 1|Combinations - Polygon Diagonals 1]]
+> - [[Math/Combinatorics/Combinations - Research Team 1|Combinations - Research Team 1]]
+> - [[Math/Combinatorics/Combinations 3|Combinations 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
