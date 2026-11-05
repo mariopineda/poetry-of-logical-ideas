@@ -18,7 +18,7 @@ A café asks **92 customers** whether they enjoy tea (T) or coffee (C).
 - **17** enjoy **only tea**.
 
 ### A. Draw and complete a two-set Venn diagram.
-![[Counting - SV-05 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-05%20-%20Question.png)
 ### B. Find the numbers who enjoy (i) only coffee, (ii) coffee, and (iii) tea.
 
 ## Solution
@@ -27,19 +27,19 @@ A café asks **92 customers** whether they enjoy tea (T) or coffee (C).
 >
 > ### A.
 >
-> At least one drink is enjoyed by \(92-12=80\) customers. Subtract the known two regions:
+> At least one drink is enjoyed by $92-12=80$ customers. Subtract the known two regions:
 >
 > $$\text{Coffee only}=80-17-15=\boxed{48}.$$
 >
-> ![[Counting - SV-05 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-05%20-%20Solution.png)
 >
 > ### B.
 >
-> 1. Coffee only: \(\boxed{48}\).
-> 2. Coffee total: \(48+15=\boxed{63}\).
-> 3. Tea total: \(17+15=\boxed{32}\).
+> 1. Coffee only: $\boxed{48}$.
+> 2. Coffee total: $48+15=\boxed{63}$.
+> 3. Tea total: $17+15=\boxed{32}$.
 >
-> Check: \(17+15+48+12=92\).
+> Check: $17+15+48+12=92$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School|Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School]]

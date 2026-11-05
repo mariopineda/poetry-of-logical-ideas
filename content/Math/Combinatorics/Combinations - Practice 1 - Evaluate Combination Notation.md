@@ -13,16 +13,16 @@ related:
 
 Evaluate **by hand**, showing the combination formula and any useful simplification.
 
-### A. \(\binom72\)
-### B. \(\binom{11}4\)
-### C. \(\binom90\)
-### D. \(\binom{10}1\)
+### A. $\binom72$
+### B. $\binom{11}4$
+### C. $\binom90$
+### D. $\binom{10}1$
 
 ## Solution
 
 > [!example]- Show solution
 >
-> The combination formula is \(\displaystyle\binom nr=\frac{n!}{r!(n-r)!}\).
+> The combination formula is $\displaystyle\binom nr=\frac{n!}{r!(n-r)!}$.
 >
 > ### A.
 >

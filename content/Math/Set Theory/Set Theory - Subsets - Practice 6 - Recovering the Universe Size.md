@@ -11,9 +11,9 @@ related:
   - "Set Theory - Subsets - Practice 5 - Known and Unknown Complements"
 ---
 
-In a universal set \(U\), a subset \(T\) contains **46 elements**, while its complement \(T'\) contains **39 elements**.
+In a universal set $U$, a subset $T$ contains **46 elements**, while its complement $T'$ contains **39 elements**.
 
-Find \(n(U)\) and justify why the two counts may be added.
+Find $n(U)$ and justify why the two counts may be added.
 
 ## Solution
 

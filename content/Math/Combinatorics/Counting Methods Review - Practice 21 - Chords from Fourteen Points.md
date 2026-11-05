@@ -15,7 +15,7 @@ Fourteen distinct points are positioned on the circumference of a circle. Each s
 
 How many different chords can be formed?
 
-![[Counting - MR-21 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20MR-21%20-%20Question.png)
 
 ## Solution
 

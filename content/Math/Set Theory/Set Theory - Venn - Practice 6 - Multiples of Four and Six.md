@@ -15,10 +15,10 @@ A class sorts the natural numbers from **1 through 36**, inclusive, into two set
 
 $$A=\{\text{multiples of 4}\},\qquad B=\{\text{multiples of 6}\}.$$
 
-### A. Determine the elements in \(A\cap B\).
+### A. Determine the elements in $A\cap B$.
 ### B. Find the elements in A-only and B-only.
 ### C. Draw a Venn diagram with the **number of elements** in each region, including neither.
-![[Counting - SV-06 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-06%20-%20Question.png)
 
 ## Solution
 
@@ -26,7 +26,7 @@ $$A=\{\text{multiples of 4}\},\qquad B=\{\text{multiples of 6}\}.$$
 >
 > ### A.
 >
-> A number in both sets must be a multiple of \(\operatorname{lcm}(4,6)=12\):
+> A number in both sets must be a multiple of $\operatorname{lcm}(4,6)=12$:
 >
 > $$\boxed{A\cap B=\{12,24,36\}},\quad n(A\cap B)=3.$$
 >
@@ -37,9 +37,9 @@ $$A=\{\text{multiples of 4}\},\qquad B=\{\text{multiples of 6}\}.$$
 >
 > ### C.
 >
-> ![[Counting - SV-06 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-06%20-%20Solution.png)
 >
-> A-only 6, both 3, B-only 3. The union contains 12 numbers, so **neither** contains \(36-12=\boxed{24}\). The counts sum to 36.
+> A-only 6, both 3, B-only 3. The union contains 12 numbers, so **neither** contains $36-12=\boxed{24}$. The counts sum to 36.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 3 - Union and Intersection of Integers|Set Theory - Venn - Practice 3 - Union and Intersection of Integers]]

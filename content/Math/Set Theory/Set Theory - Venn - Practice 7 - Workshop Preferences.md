@@ -18,7 +18,7 @@ At a community centre, **120 people** are surveyed about a **ceramics workshop (
 - everyone likes **at least one** of the two.
 
 ### A. Complete a Venn diagram for the survey.
-![[Counting - SV-07 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-07%20-%20Question.png)
 ### B. Find the number who like (i) photography only, (ii) photography in total, and (iii) ceramics only.
 
 ## Solution
@@ -27,17 +27,17 @@ At a community centre, **120 people** are surveyed about a **ceramics workshop (
 >
 > ### A.
 >
-> Ceramics only: \(75-26=49\). Since nobody likes neither, photography only is \(120-49-26=45\).
+> Ceramics only: $75-26=49$. Since nobody likes neither, photography only is $120-49-26=45$.
 >
-> ![[Counting - SV-07 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-07%20-%20Solution.png)
 >
 > ### B.
 >
-> 1. Photography only: \(\boxed{45}\).
-> 2. Photography total: \(45+26=\boxed{71}\).
-> 3. Ceramics only: \(75-26=\boxed{49}\).
+> 1. Photography only: $\boxed{45}$.
+> 2. Photography total: $45+26=\boxed{71}$.
+> 3. Ceramics only: $75-26=\boxed{49}$.
 >
-> Check: \(49+26+45=120\).
+> Check: $49+26+45=120$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 5 - Tea and Coffee Survey|Set Theory - Venn - Practice 5 - Tea and Coffee Survey]]

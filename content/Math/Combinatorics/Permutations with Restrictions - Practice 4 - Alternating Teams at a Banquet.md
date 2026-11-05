@@ -19,7 +19,7 @@ How many seating arrangements are possible if a person from one club must sit be
 
 > [!example]- Show solution
 >
-> There are two club patterns: R P R P R P R P or P R P R P R P R. Within each pattern the robotics members can be arranged in \(4!\) ways and the photography members in \(4!\) ways:
+> There are two club patterns: R P R P R P R P or P R P R P R P R. Within each pattern the robotics members can be arranged in $4!$ ways and the photography members in $4!$ ways:
 >
 > $$2\cdot4!\cdot4!=2\cdot24\cdot24=\boxed{1152}.$$
 

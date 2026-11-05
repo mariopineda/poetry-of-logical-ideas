@@ -19,7 +19,7 @@ How many distinguishable arrangements are possible across the 12 positions?
 
 > [!example]- Show solution
 >
-> Treat the six positions in the top row followed by the six positions in the bottom row as 12 distinguishable slots. Every colour is repeated twice, so divide by \(2!\) six times:
+> Treat the six positions in the top row followed by the six positions in the bottom row as 12 distinguishable slots. Every colour is repeated twice, so divide by $2!$ six times:
 >
 > $$\frac{12!}{(2!)^6}=\boxed{7\,484\,400}.$$
 

@@ -11,27 +11,27 @@ related:
   - "Set Theory - Subsets - Practice 1 - Numbered Museum Collections"
 ---
 
-The universe \(U\) contains books numbered 1–24. A library creates these sets:
+The universe $U$ contains books numbered 1–24. A library creates these sets:
 
 $$V=\{1,\ldots,18\},\quad M=\{1,\ldots,8\},$$
 $$F=\{9,10,11,12\},\quad N=\{13,14,15,16,17,18\}.$$
 
-![[Counting - SS-03 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SS-03%20-%20Question.png)
 
-### A. Write all of the subset statements among \(V,M,F,N\) that follow directly from these lists.
+### A. Write all of the subset statements among $V,M,F,N$ that follow directly from these lists.
 ### B. Propose meaningful categories the four letters might represent.
-### C. Is \(M'=V\), where the complement is taken in U?
-### D. Identify disjoint pairs among \(M,F,N\).
+### C. Is $M'=V$, where the complement is taken in U?
+### D. Identify disjoint pairs among $M,F,N$.
 
 ## Solution
 
 > [!example]- Show solution
 >
-> ![[Counting - SS-03 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SS-03%20-%20Solution.png)
 >
 > ### A.
 >
-> \(M\subseteq V\), \(F\subseteq V\) and \(N\subseteq V\). Also, all four are subsets of U.
+> $M\subseteq V$, $F\subseteq V$ and $N\subseteq V$. Also, all four are subsets of U.
 >
 > ### B.
 >
@@ -39,7 +39,7 @@ $$F=\{9,10,11,12\},\quad N=\{13,14,15,16,17,18\}.$$
 >
 > ### C.
 >
-> **No.** \(M'=\{9,10,\ldots,24\}\), whereas \(V=\{1,\ldots,18\}\). The complement includes numbers outside V and excludes all members of M.
+> **No.** $M'=\{9,10,\ldots,24\}$, whereas $V=\{1,\ldots,18\}$. The complement includes numbers outside V and excludes all members of M.
 >
 > ### D.
 >

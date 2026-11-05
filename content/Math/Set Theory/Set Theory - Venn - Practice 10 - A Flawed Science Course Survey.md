@@ -13,11 +13,11 @@ related:
 
 A class of **38** students is surveyed. **17** take an astronomy elective (A), **20** take environmental science (E), and **6** take both.
 
-A student writes \(17+20+6=43\) and concludes that everyone in the class takes at least one of these electives.
+A student writes $17+20+6=43$ and concludes that everyone in the class takes at least one of these electives.
 
 ### A. Explain why adding the intersection is an error.
 ### B. Determine the number taking neither elective and complete a Venn diagram.
-![[Counting - SV-10 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-10%20-%20Question.png)
 
 ## Solution
 
@@ -33,11 +33,11 @@ A student writes \(17+20+6=43\) and concludes that everyone in the class takes a
 >
 > $$n((A\cup E)')=38-31=\boxed{7}.$$
 >
-> The A-only count is \(17-6=11\), and the E-only count is \(20-6=14\).
+> The A-only count is $17-6=11$, and the E-only count is $20-6=14$.
 >
-> ![[Counting - SV-10 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-10%20-%20Solution.png)
 >
-> Check: \(11+6+14+7=38\).
+> Check: $11+6+14+7=38$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 8 - Visitors to Two Nature Centres|Set Theory - Venn - Practice 8 - Visitors to Two Nature Centres]]

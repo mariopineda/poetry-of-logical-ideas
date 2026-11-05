@@ -36,13 +36,13 @@ A cyclist must travel 9 blocks north and 4 blocks west, and can move only in tho
 
 The route diagrams use a small grid as a model; each corner represents a possible intersection.
 
-![[Counting - IO-05 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20IO-05%20-%20Question.png)
 
 ## Solution
 
 > [!example]- Show solution
 >
-> Each shortest path is an arrangement of repeated directions. If a path requires \(e\) east moves and \(s\) south moves, its count is \(\binom{e+s}{e}\).
+> Each shortest path is an arrangement of repeated directions. If a path requires $e$ east moves and $s$ south moves, its count is $\binom{e+s}{e}$.
 >
 > ### A.
 >

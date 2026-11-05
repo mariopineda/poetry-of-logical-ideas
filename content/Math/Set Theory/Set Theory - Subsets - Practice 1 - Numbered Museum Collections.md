@@ -11,47 +11,47 @@ related:
   - "Set Theory 2"
 ---
 
-The universal set is \(U=\{1,2,\ldots,18\}\), representing 18 numbered museum specimens. Define:
+The universal set is $U=\{1,2,\ldots,18\}$, representing 18 numbered museum specimens. Define:
 
 $$F=\{1,2,\ldots,11\},\quad V=\{12,13,\ldots,18\},\quad S=\{2,4,6,8\}.$$
 
-A curator calls \(F\) the fossils, \(V\) the volcanic rocks, and \(S\) the selected fossils.
+A curator calls $F$ the fossils, $V$ the volcanic rocks, and $S$ the selected fossils.
 
-![[Counting - SS-01 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SS-01%20-%20Question.png)
 
-### A. Is \(S\subseteq F\subseteq U\) true? Explain.
+### A. Is $S\subseteq F\subseteq U$ true? Explain.
 ### B. Suggest a different real-world classification consistent with the same subset diagram.
-### C. Explain why \(S\subseteq F\) and \(S\subseteq U\).
+### C. Explain why $S\subseteq F$ and $S\subseteq U$.
 ### D. Which displayed sets are disjoint?
-### E. Is \(F'\) equal to \(V\)?
-### F. Find \(n(V)\) from \(n(U)\) and \(n(F)\).
-### G. List all elements of \(S'\).
+### E. Is $F'$ equal to $V$?
+### F. Find $n(V)$ from $n(U)$ and $n(F)$.
+### G. List all elements of $S'$.
 
 ## Solution
 
 > [!example]- Show solution
 >
-> ![[Counting - SS-01 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SS-01%20-%20Solution.png)
 >
 > ### A.
 >
-> **Yes.** Every element of \(S\) appears in \(F\), and every element of \(F\) appears in \(U\).
+> **Yes.** Every element of $S$ appears in $F$, and every element of $F$ appears in $U$.
 >
 > ### B.
 >
-> For example, \(U\) could be 18 labelled photographs, \(F\) the 11 outdoor photographs, \(V\) the seven indoor photographs, and \(S\) the four outdoor photographs selected for display. The membership lists, not the labels, determine the set relationships.
+> For example, $U$ could be 18 labelled photographs, $F$ the 11 outdoor photographs, $V$ the seven indoor photographs, and $S$ the four outdoor photographs selected for display. The membership lists, not the labels, determine the set relationships.
 >
 > ### C.
 >
-> The elements 2, 4, 6 and 8 are all in \(F\) and in \(U\), so both subset statements hold.
+> The elements 2, 4, 6 and 8 are all in $F$ and in $U$, so both subset statements hold.
 >
 > ### D.
 >
-> \(F\cap V=\varnothing\) and \(S\cap V=\varnothing\), because the elements of \(V\) are 12–18.
+> $F\cap V=\varnothing$ and $S\cap V=\varnothing$, because the elements of $V$ are 12–18.
 >
 > ### E.
 >
-> **Yes:** all elements of \(U\) not in \(F\) form exactly \(V\).
+> **Yes:** all elements of $U$ not in $F$ form exactly $V$.
 >
 > ### F.
 >

@@ -13,7 +13,7 @@ related:
 
 Thirteen distinct points are marked on a circle. How many different straight **chords** can be drawn if every chord connects two distinct marked points? Explain why order does not matter.
 
-![[Counting - CO-11 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20CO-11%20-%20Question.png)
 
 ## Solution
 

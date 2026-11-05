@@ -28,9 +28,9 @@ $$
 1. Draw a Venn diagram to illustrate this information.
 2. List the elements of $A\cap B$.
 3. List the elements of $A\cup B$.
-4. List the elements of $A^c$.
-5. List the elements of $(A\cup B)^c$.
-6. List the elements of $(A\cap B)^c$.
+4. List the elements of $A'$.
+5. List the elements of $(A\cup B)'$.
+6. List the elements of $(A\cap B)'$.
 
 ## Solution
 
@@ -58,19 +58,19 @@ $$
 > ### 4.
 >
 > $$
-> A^c=U\setminus A,
+> A'=U\setminus A,
 > $$
 >
 > so
 >
 > $$
-> \boxed{A^c=\{2,13,17\}}.
+> \boxed{A'=\{2,13,17\}}.
 > $$
 >
 > ### 5.
 >
 > $$
-> (A\cup B)^c
+> (A\cup B)'
 > =
 > U\setminus(A\cup B),
 > $$
@@ -78,13 +78,13 @@ $$
 > so
 >
 > $$
-> \boxed{(A\cup B)^c=\{17\}}.
+> \boxed{(A\cup B)'=\{17\}}.
 > $$
 >
 > ### 6.
 >
 > $$
-> (A\cap B)^c
+> (A\cap B)'
 > =
 > U\setminus(A\cap B),
 > $$
@@ -92,7 +92,7 @@ $$
 > so
 >
 > $$
-> \boxed{(A\cap B)^c=\{2,5,11,13,17,19\}}.
+> \boxed{(A\cap B)'=\{2,5,11,13,17,19\}}.
 > $$
 
 > [!abstract] Review First

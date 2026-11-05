@@ -28,7 +28,7 @@ Five researchers and four field guides are all distinct and are lining up in a r
 >
 > ### B.
 >
-> The first three are researchers (\({}_5P_3\) ways). The fourth **must** be one of four guides, and the remaining five can be arranged freely:
+> The first three are researchers (${}_5P_3$ ways). The fourth **must** be one of four guides, and the remaining five can be arranged freely:
 >
 > $${}_5P_3\cdot4\cdot5!=60\cdot4\cdot120=\boxed{28\,800}.$$
 

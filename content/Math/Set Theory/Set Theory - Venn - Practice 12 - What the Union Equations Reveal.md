@@ -11,7 +11,7 @@ related:
   - "Set Theory - Subsets - Practice 4 - Colour Families of Trading Cards"
 ---
 
-Three sets \(A,B,C\) are subsets of the same finite universal set. Suppose
+Three sets $A,B,C$ are subsets of the same finite universal set. Suppose
 
 $$n(A)+n(B)=n(A\cup B),$$
 
@@ -31,15 +31,15 @@ $$n(A)+n(C)>n(A\cup C).$$
 >
 > ### A.
 >
-> Equality for A and B forces \(n(A\cap B)=0\), so \(\boxed{A\cap B=\varnothing}\).
+> Equality for A and B forces $n(A\cap B)=0$, so $\boxed{A\cap B=\varnothing}$.
 >
 > ### B.
 >
-> The strict inequality for A and C forces \(n(A\cap C)>0\), so \(\boxed{A\cap C\ne\varnothing}\).
+> The strict inequality for A and C forces $n(A\cap C)>0$, so $\boxed{A\cap C\ne\varnothing}$.
 >
 > ### C.
 >
-> \(\boxed{B\text{ and }C}\) could intersect or be disjoint. Nothing states whether B shares an element with C. For example, any C element in A cannot also be in B, but C could have additional elements outside A that belong to B.
+> $\boxed{B\text{ and }C}$ could intersect or be disjoint. Nothing states whether B shares an element with C. For example, any C element in A cannot also be in B, but C could have additional elements outside A that belong to B.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 3 - Union and Intersection of Integers|Set Theory - Venn - Practice 3 - Union and Intersection of Integers]]

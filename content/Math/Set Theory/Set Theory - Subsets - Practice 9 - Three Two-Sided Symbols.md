@@ -15,8 +15,8 @@ Three distinct two-sided tokens—**East**, **North**, **West**—are tossed. Ea
 
 ### A. List the universal set U of all three-symbol outcomes.
 ### B. Let E be the event that the **North token is moon**. List E.
-### C. Determine \(n(U)\) and \(n(E)\).
-### D. Is \(E\subseteq U\)? Explain.
+### C. Determine $n(U)$ and $n(E)$.
+### D. Is $E\subseteq U$? Explain.
 ### E. Describe and list E', and verify its size by subtraction.
 ### F. Are E and E' disjoint?
 
@@ -52,7 +52,7 @@ Three distinct two-sided tokens—**East**, **North**, **West**—are tossed. Ea
 >
 > ### F.
 >
-> **Yes:** no outcome can have the middle symbol simultaneously S and M, so \(E\cap E'=\varnothing\).
+> **Yes:** no outcome can have the middle symbol simultaneously S and M, so $E\cap E'=\varnothing$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 5 - Known and Unknown Complements|Set Theory - Subsets - Practice 5 - Known and Unknown Complements]]

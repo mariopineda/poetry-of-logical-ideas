@@ -18,28 +18,28 @@ Seventy people are surveyed about visits to the **wetlands centre (W)** and **fo
 - 35 visited F.
 
 ### A. Draw a Venn diagram with all region counts.
-![[Counting - SV-08 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-08%20-%20Question.png)
 ### B. Determine the numbers who visited (i) both, (ii) W only, and (iii) F only.
 
 ## Solution
 
 > [!example]- Show solution
 >
-> At least one centre was visited by \(70-18=52\) people. Inclusion-exclusion gives
+> At least one centre was visited by $70-18=52$ people. Inclusion-exclusion gives
 >
 > $$n(W\cap F)=42+35-52=\boxed{25}.$$
 >
 > ### A.
 >
-> ![[Counting - SV-08 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-08%20-%20Solution.png)
 >
 > ### B.
 >
-> 1. Both: \(\boxed{25}\).
-> 2. W only: \(42-25=\boxed{17}\).
-> 3. F only: \(35-25=\boxed{10}\).
+> 1. Both: $\boxed{25}$.
+> 2. W only: $42-25=\boxed{17}$.
+> 3. F only: $35-25=\boxed{10}$.
 >
-> Check: \(17+25+10+18=70\).
+> Check: $17+25+10+18=70$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 5 - Tea and Coffee Survey|Set Theory - Venn - Practice 5 - Tea and Coffee Survey]]

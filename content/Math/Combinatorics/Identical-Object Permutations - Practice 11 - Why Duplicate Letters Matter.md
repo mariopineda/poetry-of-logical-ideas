@@ -41,7 +41,7 @@ Explain **how many times as many** arrangements PROBING has, and why.
 >
 > $$\frac{7!}{7!/(2!2!)}=2!2!=\boxed{4}.$$
 >
-> PROBING has **four times as many** arrangements. For BALLOON, swapping identical Ls or identical Os does not create new outcomes, so the naive \(7!\) count overcounts by a factor of four.
+> PROBING has **four times as many** arrangements. For BALLOON, swapping identical Ls or identical Os does not create new outcomes, so the naive $7!$ count overcounts by a factor of four.
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Identical-Object Permutations - Practice 3 - Words and Repeated Letters|Identical-Object Permutations - Practice 3 - Words and Repeated Letters]]

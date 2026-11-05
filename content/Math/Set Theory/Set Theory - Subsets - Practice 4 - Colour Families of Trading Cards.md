@@ -13,16 +13,16 @@ related:
 
 A collector has **40 distinct cards**: 10 red dragon, 10 red comet, 10 blue moon and 10 blue star cards. Define:
 
-- \(R\): all red cards; \(B\): all blue cards;
-- \(D\): dragon cards; \(C\): comet cards;
-- \(M\): moon cards; \(S\): star cards.
+- $R$: all red cards; $B$: all blue cards;
+- $D$: dragon cards; $C$: comet cards;
+- $M$: moon cards; $S$: star cards.
 
 ### A. Draw a Venn diagram showing the disjoint colour groups and their subsets.
-![[Counting - SS-04 - Question.svg]]
-### B. Which named sets are subsets of \(R\)?
-### C. Which named sets are subsets of \(B\)?
-### D. Are \(D\) and \(C\) disjoint?
-### E. Explain why \(n(D\cup M)=n(D)+n(M)\), and calculate the union size.
+![Question diagram](../../Assets/Counting%20-%20SS-04%20-%20Question.png)
+### B. Which named sets are subsets of $R$?
+### C. Which named sets are subsets of $B$?
+### D. Are $D$ and $C$ disjoint?
+### E. Explain why $n(D\cup M)=n(D)+n(M)$, and calculate the union size.
 
 ## Solution
 
@@ -30,19 +30,19 @@ A collector has **40 distinct cards**: 10 red dragon, 10 red comet, 10 blue moon
 >
 > ### A.
 >
-> ![[Counting - SS-04 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SS-04%20-%20Solution.png)
 >
 > ### B.
 >
-> \(\boxed{D\subseteq R\text{ and }C\subseteq R}\).
+> $\boxed{D\subseteq R\text{ and }C\subseteq R}$.
 >
 > ### C.
 >
-> \(\boxed{M\subseteq B\text{ and }S\subseteq B}\).
+> $\boxed{M\subseteq B\text{ and }S\subseteq B}$.
 >
 > ### D.
 >
-> **Yes.** No card is both a dragon card and a comet card. Thus \(D\cap C=\varnothing\).
+> **Yes.** No card is both a dragon card and a comet card. Thus $D\cap C=\varnothing$.
 >
 > ### E.
 >

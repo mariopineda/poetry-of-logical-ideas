@@ -18,20 +18,20 @@ Sixty students are surveyed about **online tutoring (O)** and **in-person tutori
 - 15 use neither.
 
 ### A. Determine how many students **do not use in-person tutoring**.
-### B. A student calculates \(38-17=21\) and says 21 is the answer to part A, where 17 is the number who use both. Explain why this reasoning is incorrect. Use a Venn diagram to justify your answer.
-![[Counting - SV-11 - Question.svg]]
+### B. A student calculates $38-17=21$ and says 21 is the answer to part A, where 17 is the number who use both. Explain why this reasoning is incorrect. Use a Venn diagram to justify your answer.
+![Question diagram](../../Assets/Counting%20-%20SV-11%20-%20Question.png)
 
 ## Solution
 
 > [!example]- Show solution
 >
-> The number using at least one service is \(60-15=45\). Thus
+> The number using at least one service is $60-15=45$. Thus
 >
 > $$n(O\cap I)=38+24-45=\boxed{17}.$$
 >
-> The exclusive regions are online only \(38-17=21\), in-person only \(24-17=7\), and neither 15.
+> The exclusive regions are online only $38-17=21$, in-person only $24-17=7$, and neither 15.
 >
-> ![[Counting - SV-11 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-11%20-%20Solution.png)
 >
 > ### A.
 >
@@ -41,7 +41,7 @@ Sixty students are surveyed about **online tutoring (O)** and **in-person tutori
 >
 > ### B.
 >
-> The calculation \(38-17=21\) counts only \(O\setminus I\) and **omits the 15 students using neither**. Therefore it is not \(n(I')\).
+> The calculation $38-17=21$ counts only $O\setminus I$ and **omits the 15 students using neither**. Therefore it is not $n(I')$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 10 - A Flawed Science Course Survey|Set Theory - Venn - Practice 10 - A Flawed Science Course Survey]]

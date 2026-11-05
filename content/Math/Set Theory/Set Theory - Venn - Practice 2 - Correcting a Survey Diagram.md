@@ -15,9 +15,9 @@ A library survey has **28 respondents**. **Fourteen** use the e-book app (A), **
 
 A student incorrectly writes **14** in the A-only region, **17** in the B-only region, **8** in the overlap, and **5** outside. These region counts cannot be correct.
 
-### A. Find the correct counts for \(A\cap B\), A-only, and B-only.
+### A. Find the correct counts for $A\cap B$, A-only, and B-only.
 ### B. Redraw the Venn diagram with the correct four region counts.
-![[Counting - SV-02 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-02%20-%20Question.png)
 
 ## Solution
 
@@ -25,7 +25,7 @@ A student incorrectly writes **14** in the A-only region, **17** in the B-only r
 >
 > ### A.
 >
-> At least one app is used by \(28-5=23\) respondents. By inclusion-exclusion,
+> At least one app is used by $28-5=23$ respondents. By inclusion-exclusion,
 >
 > $$n(A\cap B)=14+17-23=\boxed{8}.$$
 >
@@ -37,9 +37,9 @@ A student incorrectly writes **14** in the A-only region, **17** in the B-only r
 >
 > ### B.
 >
-> ![[Counting - SV-02 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-02%20-%20Solution.png)
 >
-> Check: \(6+8+9+5=28\).
+> Check: $6+8+9+5=28$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School|Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School]]

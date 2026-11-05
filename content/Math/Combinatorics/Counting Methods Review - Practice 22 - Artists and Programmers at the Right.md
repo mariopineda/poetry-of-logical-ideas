@@ -22,7 +22,7 @@ Four artists and three programmers (seven **different people**) will sit in a si
 >
 > ### A.
 >
-> Fill the rightmost two seats with two of the three programmers in order: \({}_3P_2\) ways. The third seat from the right must be one of four artists. Arrange the remaining four people freely:
+> Fill the rightmost two seats with two of the three programmers in order: ${}_3P_2$ ways. The third seat from the right must be one of four artists. Arrange the remaining four people freely:
 >
 > $${}_3P_2\cdot4\cdot4!=6\cdot4\cdot24=\boxed{576}.$$
 >

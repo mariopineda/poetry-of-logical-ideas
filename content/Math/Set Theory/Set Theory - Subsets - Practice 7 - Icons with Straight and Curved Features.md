@@ -21,10 +21,10 @@ Two inspectors classify them by **independent features**:
 $$S=\{A,B,D,E,F,H,K\}\quad\text{(includes a straight segment)},$$
 $$C=\{B,C,D,G,H,J\}\quad\text{(includes a curved segment)}.$$
 
-### A. List \(S\cap C\), \(S\setminus C\), and \(C\setminus S\).
-### B. Is the claim \(C=S'\) true? Explain using at least one element.
+### A. List $S\cap C$, $S\setminus C$, and $C\setminus S$.
+### B. Is the claim $C=S'$ true? Explain using at least one element.
 ### C. Identify icons that have neither recorded feature.
-![[Counting - SS-07 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SS-07%20-%20Question.png)
 
 ## Solution
 
@@ -46,7 +46,7 @@ $$C=\{B,C,D,G,H,J\}\quad\text{(includes a curved segment)}.$$
 >
 > $$U\setminus(S\cup C)=\boxed{\{I,L\}}.$$
 >
-> ![[Counting - SS-07 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SS-07%20-%20Solution.png)
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]]

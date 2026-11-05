@@ -13,11 +13,11 @@ related:
 
 ### A.
 
-Let \(U=\{1,2,\ldots,250\,000\}\), and let \(X\subseteq U\) contain exactly 17 numbers. Determine \(n(X')\).
+Let $U=\{1,2,\ldots,250\,000\}$, and let $X\subseteq U$ contain exactly 17 numbers. Determine $n(X')$.
 
 ### B.
 
-In the **same universe**, another subset \(Y\) is defined, but all you are told is \(n(X)=17\). Can you determine \(n(Y)\)? Explain what additional information would be required.
+In the **same universe**, another subset $Y$ is defined, but all you are told is $n(X)=17$. Can you determine $n(Y)$? Explain what additional information would be required.
 
 ## Solution
 
@@ -31,11 +31,11 @@ In the **same universe**, another subset \(Y\) is defined, but all you are told 
 >
 > ### B.
 >
-> **No.** Knowledge of \(n(X)\) alone places no restriction on the size of a different subset Y beyond
+> **No.** Knowledge of $n(X)$ alone places no restriction on the size of a different subset Y beyond
 >
 > $$\boxed{0\le n(Y)\le250\,000}.$$
 >
-> We would need information about Y itself, such as \(n(Y')\), a complete membership rule or enough counts to determine it.
+> We would need information about Y itself, such as $n(Y')$, a complete membership rule or enough counts to determine it.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]]

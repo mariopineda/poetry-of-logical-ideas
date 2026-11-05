@@ -23,15 +23,15 @@ How many diagonals are in a **17-sided polygon**?
 
 ### C.
 
-Use combinations to derive a formula for the number of diagonals in an arbitrary \(n\)-sided polygon.
+Use combinations to derive a formula for the number of diagonals in an arbitrary $n$-sided polygon.
 
-![[Counting - CO-07 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20CO-07%20-%20Question.png)
 
 ## Solution
 
 > [!example]- Show solution
 >
-> A pair of vertices determines a segment. There are \(\binom n2\) segments, but the \(n\) sides are not diagonals.
+> A pair of vertices determines a segment. There are $\binom n2$ segments, but the $n$ sides are not diagonals.
 >
 > ### A.
 >

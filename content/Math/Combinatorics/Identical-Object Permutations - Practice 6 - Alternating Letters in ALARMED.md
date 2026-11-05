@@ -19,7 +19,7 @@ How many distinct arrangements of all seven letters of **ALARMED** have **vowels
 >
 > The vowels are A, A and E (3). The consonants L, R, M and D are four distinct letters. The only alternating pattern is C V C V C V C.
 >
-> Arrange the consonants in \(4!\) ways. Arrange the vowels in \(3!/2!\) ways because A repeats twice:
+> Arrange the consonants in $4!$ ways. Arrange the vowels in $3!/2!$ ways because A repeats twice:
 >
 > $$4!\cdot\frac{3!}{2!}=24\cdot3=\boxed{72}.$$
 

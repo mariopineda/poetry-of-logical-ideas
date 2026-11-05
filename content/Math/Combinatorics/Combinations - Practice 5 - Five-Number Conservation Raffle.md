@@ -28,7 +28,7 @@ To support wetland conservation, participants select **five different numbers** 
 >
 > ### B.
 >
-> Exactly one selection matches all five winning numbers: \(\boxed{1}\).
+> Exactly one selection matches all five winning numbers: $\boxed{1}$.
 >
 > ### C.
 >

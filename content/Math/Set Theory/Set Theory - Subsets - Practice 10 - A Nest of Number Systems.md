@@ -11,17 +11,17 @@ related:
   - "Set Theory 2"
 ---
 
-Using the **real numbers** \(\mathbb R\) as the universal set, consider
+Using the **real numbers** $\mathbb R$ as the universal set, consider
 
-- \(\mathbb N=\{1,2,3,\ldots\}\), natural numbers;
-- \(\mathbb W=\{0,1,2,3,\ldots\}\), whole numbers;
-- \(\mathbb Z\), integers;
-- \(\mathbb Q\), rational numbers.
+- $\mathbb N=\{1,2,3,\ldots\}$, natural numbers;
+- $\mathbb W=\{0,1,2,3,\ldots\}$, whole numbers;
+- $\mathbb Z$, integers;
+- $\mathbb Q$, rational numbers.
 
-### A. Draw a nested Venn-style diagram for these sets inside \(\mathbb R\).
-![[Counting - SS-10 - Question.svg]]
+### A. Draw a nested Venn-style diagram for these sets inside $\mathbb R$.
+![Question diagram](../../Assets/Counting%20-%20SS-10%20-%20Question.png)
 ### B. State all successive subset relationships.
-### C. Give one example lying in each successive region: \(W\setminus N\), \(Z\setminus W\), \(Q\setminus Z\), and \(R\setminus Q\).
+### C. Give one example lying in each successive region: $W\setminus N$, $Z\setminus W$, $Q\setminus Z$, and $R\setminus Q$.
 
 ## Solution
 
@@ -29,7 +29,7 @@ Using the **real numbers** \(\mathbb R\) as the universal set, consider
 >
 > ### A.
 >
-> ![[Counting - SS-10 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SS-10%20-%20Solution.png)
 >
 > ### B.
 >
@@ -37,10 +37,10 @@ Using the **real numbers** \(\mathbb R\) as the universal set, consider
 >
 > ### C.
 >
-> - \(W\setminus N:\quad\boxed{0}\).
-> - \(Z\setminus W:\quad\boxed{-1}\).
-> - \(Q\setminus Z:\quad\boxed{\tfrac12}\).
-> - \(R\setminus Q:\quad\boxed{\sqrt2}\) (irrational).
+> - $W\setminus N:\quad\boxed{0}$.
+> - $Z\setminus W:\quad\boxed{-1}$.
+> - $Q\setminus Z:\quad\boxed{\tfrac12}$.
+> - $R\setminus Q:\quad\boxed{\sqrt2}$ (irrational).
 >
 > The sets in the diagram are nested; they are not independent overlapping circles.
 

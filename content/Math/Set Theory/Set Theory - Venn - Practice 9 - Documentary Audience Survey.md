@@ -18,7 +18,7 @@ Fifty people answer whether they like **wildlife documentaries (W)** and **histo
 - 9 like neither.
 
 ### A. Draw a Venn diagram.
-![[Counting - SV-09 - Question.svg]]
+![Question diagram](../../Assets/Counting%20-%20SV-09%20-%20Question.png)
 ### B. Determine how many like (i) both genres, (ii) wildlife in total, and (iii) history in total.
 
 ## Solution
@@ -31,13 +31,13 @@ Fifty people answer whether they like **wildlife documentaries (W)** and **histo
 >
 > $$50-21-14-9=\boxed{6}.$$
 >
-> ![[Counting - SV-09 - Solution.svg]]
+> ![Solution diagram](../../Assets/Counting%20-%20SV-09%20-%20Solution.png)
 >
 > ### B.
 >
-> 1. Both genres: \(\boxed{6}\).
-> 2. Wildlife total: \(21+6=\boxed{27}\).
-> 3. History total: \(14+6=\boxed{20}\).
+> 1. Both genres: $\boxed{6}$.
+> 2. Wildlife total: $21+6=\boxed{27}$.
+> 3. History total: $14+6=\boxed{20}$.
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 5 - Tea and Coffee Survey|Set Theory - Venn - Practice 5 - Tea and Coffee Survey]]

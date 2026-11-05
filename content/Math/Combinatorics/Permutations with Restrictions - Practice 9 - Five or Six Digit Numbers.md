@@ -39,7 +39,7 @@ Remember that a natural number cannot begin with 0.
 >
 > $$5\cdot{}_5P_4=5\cdot120=600.$$
 >
-> Exactly six digits: \(5\cdot5!=600\). Add these cases:
+> Exactly six digits: $5\cdot5!=600$. Add these cases:
 >
 > $$\boxed{600+600=1200}.$$
 

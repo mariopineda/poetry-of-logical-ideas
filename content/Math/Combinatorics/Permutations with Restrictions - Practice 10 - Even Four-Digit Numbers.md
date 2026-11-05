@@ -32,8 +32,8 @@ Explain why treating 0 as the last digit requires a separate case.
 >
 > The final digit must be 0, 2, 4 or 6, and the first digit cannot be 0. Count **last digit 0** separately:
 >
-> - Last digit 0: the first has 6 choices; the middle positions have 5 and 4 choices: \(6\cdot5\cdot4=120\).
-> - Last digit 2, 4 or 6: 3 choices for the last; the first digit has 5 nonzero choices other than the last; the middle digits have 5 and 4 choices: \(3\cdot5\cdot5\cdot4=300\).
+> - Last digit 0: the first has 6 choices; the middle positions have 5 and 4 choices: $6\cdot5\cdot4=120$.
+> - Last digit 2, 4 or 6: 3 choices for the last; the first digit has 5 nonzero choices other than the last; the middle digits have 5 and 4 choices: $3\cdot5\cdot5\cdot4=300$.
 >
 > $$120+300=\boxed{420}.$$
 >

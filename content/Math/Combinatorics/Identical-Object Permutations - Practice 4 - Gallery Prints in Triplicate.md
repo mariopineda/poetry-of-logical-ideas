@@ -19,7 +19,7 @@ How many distinguishable sequences of the 12 prints are possible?
 
 > [!example]- Show solution
 >
-> Without duplicates there would be \(12!\) arrangements. Permuting the four copies of any one photograph does not change the display. Divide by \(4!\) for each of the three photograph types:
+> Without duplicates there would be $12!$ arrangements. Permuting the four copies of any one photograph does not change the display. Divide by $4!$ for each of the three photograph types:
 >
 > $$\frac{12!}{4!\,4!\,4!}=\boxed{34\,650}.$$
 
