@@ -15,7 +15,7 @@ A smart-lock prototype has a **3-by-4 grid of 12 positions**. Each position may 
 
 How many different settings are possible? Explain what the exponent represents.
 
-![Question diagram](../../Assets/Counting%20-%20MR-12%20-%20Question.png)
+![[Counting - MR-12 - Question.png]]
 
 ## Solution
 

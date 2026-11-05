@@ -25,7 +25,7 @@ How many diagonals are in a **17-sided polygon**?
 
 Use combinations to derive a formula for the number of diagonals in an arbitrary $n$-sided polygon.
 
-![Question diagram](../../Assets/Counting%20-%20CO-07%20-%20Question.png)
+![[Counting - CO-07 - Question.png]]
 
 ## Solution
 

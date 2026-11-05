@@ -36,7 +36,7 @@ A cyclist must travel 9 blocks north and 4 blocks west, and can move only in tho
 
 The route diagrams use a small grid as a model; each corner represents a possible intersection.
 
-![Question diagram](../../Assets/Counting%20-%20IO-05%20-%20Question.png)
+![[Counting - IO-05 - Question.png]]
 
 ## Solution
 

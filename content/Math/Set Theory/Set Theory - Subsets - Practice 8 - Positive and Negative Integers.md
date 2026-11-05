@@ -16,7 +16,7 @@ Let $U$ be the integers from $-12$ through $12$, inclusive. Define
 $$P=\{1,2,\ldots,12\},\qquad N=\{-12,-11,\ldots,-1\}.$$
 
 ### A. Draw a Venn diagram with P, N and the element 0.
-![Question diagram](../../Assets/Counting%20-%20SS-08%20-%20Question.png)
+![[Counting - SS-08 - Question.png]]
 ### B. Which of P and N are disjoint?
 ### C. State true or false and explain:
 1. $P\subseteq N$
@@ -31,7 +31,7 @@ $$P=\{1,2,\ldots,12\},\qquad N=\{-12,-11,\ldots,-1\}.$$
 >
 > ### A.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-08%20-%20Solution.png)
+> ![[Counting - SS-08 - Solution.png]]
 >
 > ### B.
 >

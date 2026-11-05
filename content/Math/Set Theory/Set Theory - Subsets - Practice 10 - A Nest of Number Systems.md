@@ -19,7 +19,7 @@ Using the **real numbers** $\mathbb R$ as the universal set, consider
 - $\mathbb Q$, rational numbers.
 
 ### A. Draw a nested Venn-style diagram for these sets inside $\mathbb R$.
-![Question diagram](../../Assets/Counting%20-%20SS-10%20-%20Question.png)
+![[Counting - SS-10 - Question.png]]
 ### B. State all successive subset relationships.
 ### C. Give one example lying in each successive region: $W\setminus N$, $Z\setminus W$, $Q\setminus Z$, and $R\setminus Q$.
 
@@ -29,7 +29,7 @@ Using the **real numbers** $\mathbb R$ as the universal set, consider
 >
 > ### A.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-10%20-%20Solution.png)
+> ![[Counting - SS-10 - Solution.png]]
 >
 > ### B.
 >

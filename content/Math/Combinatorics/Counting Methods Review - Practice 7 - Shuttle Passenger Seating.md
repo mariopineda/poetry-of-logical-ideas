@@ -17,7 +17,7 @@ A community shuttle has **nine distinct passenger seats**. The driver is fixed a
 ### B. How many ways can seven passengers occupy any seven seats?
 ### C. Twelve passengers arrive, but only nine can ride this shuttle. How many seated passenger arrangements are possible (the other three travel separately)?
 
-![Question diagram](../../Assets/Counting%20-%20MR-07%20-%20Question.png)
+![[Counting - MR-07 - Question.png]]
 
 ## Solution
 

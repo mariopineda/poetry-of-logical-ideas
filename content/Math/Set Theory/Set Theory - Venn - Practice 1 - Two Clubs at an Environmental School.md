@@ -14,7 +14,7 @@ related:
 
 A school has 44 students. The Venn diagram represents membership in the **photography club (P)** and **robotics club (R)**. The number in each region is the number of students there.
 
-![Question diagram](../../Assets/Counting%20-%20SV-01%20-%20Question.png)
+![[Counting - SV-01 - Question.png]]
 
 ### A. How many belong to both clubs?
 ### B. How many belong to photography but not robotics?
@@ -28,7 +28,7 @@ A school has 44 students. The Venn diagram represents membership in the **photog
 
 > [!example]- Show solution
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-01%20-%20Solution.png)
+> ![[Counting - SV-01 - Solution.png]]
 >
 > The diagram's disjoint region counts are **13 photography only**, **5 both**, **17 robotics only**, and **9 neither**. They total $13+5+17+9=44$.
 >

@@ -102,6 +102,11 @@ function stringList(value: unknown): string[] {
 
 const qodByName = new Map<string, QodEntry>()
 const qodBySlug = new Map<string, QodEntry>()
+// OSC_QOD_CANONICAL_CALLOUTS_V1
+// The Learning Path / QOD graph use the source callout links as the
+// canonical relationship graph. Render these source callouts only once:
+// QodRelationships must not append a second, frontmatter-derived block.
+const qodWithManualRelationshipCallouts = new Set<string>()
 
 for (const filePath of getMarkdownFiles(QOD_ROOT)) {
   const source = fs.readFileSync(filePath, "utf8")
@@ -131,6 +136,12 @@ for (const filePath of getMarkdownFiles(QOD_ROOT)) {
         : "",
     prerequisites: relationshipList(frontmatter.prerequisites),
     related: relationshipList(frontmatter.related),
+  }
+
+  // OSC_QOD_CANONICAL_CALLOUTS_V1: Keep source-defined relationships
+  // available in the rendered QOD and in the canonical QOD graph.
+  if (/^> \[![^\]]+\] (?:Review First|Explore Also|Builds? Toward)\s*$/m.test(source)) {
+    qodWithManualRelationshipCallouts.add(slug)
   }
 
   qodByName.set(name.toLowerCase(), entry)
@@ -442,6 +453,12 @@ config.plugins.transformers.push({
         const currentQod = qodBySlug.get(currentSlug)
 
         if (!currentQod) return
+
+        // OSC_QOD_CANONICAL_CALLOUTS_V1: When the QOD already includes
+        // Review First / Explore Also / Build Toward callouts, do not
+        // append a duplicate "Explore this idea" relationship grid.
+        // QODs without manual callouts retain the generated grid.
+        if (qodWithManualRelationshipCallouts.has(currentSlug)) return
 
         const prerequisiteSlugs = currentQod.prerequisites
           .map((name) =>

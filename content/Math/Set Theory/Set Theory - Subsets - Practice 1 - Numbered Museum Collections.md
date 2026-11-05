@@ -17,7 +17,7 @@ $$F=\{1,2,\ldots,11\},\quad V=\{12,13,\ldots,18\},\quad S=\{2,4,6,8\}.$$
 
 A curator calls $F$ the fossils, $V$ the volcanic rocks, and $S$ the selected fossils.
 
-![Question diagram](../../Assets/Counting%20-%20SS-01%20-%20Question.png)
+![[Counting - SS-01 - Question.png]]
 
 ### A. Is $S\subseteq F\subseteq U$ true? Explain.
 ### B. Suggest a different real-world classification consistent with the same subset diagram.
@@ -31,7 +31,7 @@ A curator calls $F$ the fossils, $V$ the volcanic rocks, and $S$ the selected fo
 
 > [!example]- Show solution
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-01%20-%20Solution.png)
+> ![[Counting - SS-01 - Solution.png]]
 >
 > ### A.
 >

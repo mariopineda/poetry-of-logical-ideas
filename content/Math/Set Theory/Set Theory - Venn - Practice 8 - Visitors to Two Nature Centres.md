@@ -18,7 +18,7 @@ Seventy people are surveyed about visits to the **wetlands centre (W)** and **fo
 - 35 visited F.
 
 ### A. Draw a Venn diagram with all region counts.
-![Question diagram](../../Assets/Counting%20-%20SV-08%20-%20Question.png)
+![[Counting - SV-08 - Question.png]]
 ### B. Determine the numbers who visited (i) both, (ii) W only, and (iii) F only.
 
 ## Solution
@@ -31,7 +31,7 @@ Seventy people are surveyed about visits to the **wetlands centre (W)** and **fo
 >
 > ### A.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-08%20-%20Solution.png)
+> ![[Counting - SV-08 - Solution.png]]
 >
 > ### B.
 >

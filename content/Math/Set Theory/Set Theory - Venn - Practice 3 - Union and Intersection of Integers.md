@@ -16,7 +16,7 @@ Take
 $$U=\{-6,-4,-2,0,2,3,4,5,6,7,9\},$$
 $$A=\{-6,-4,-2,0,2,4,6\},\quad B=\{2,3,4,5,7\}.$$
 
-![Question diagram](../../Assets/Counting%20-%20SV-03%20-%20Question.png)
+![[Counting - SV-03 - Question.png]]
 
 ### A. List $A\cup B$ in set notation.
 ### B. Determine $n(A\cup B)$.
@@ -27,7 +27,7 @@ $$A=\{-6,-4,-2,0,2,4,6\},\quad B=\{2,3,4,5,7\}.$$
 
 > [!example]- Show solution
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-03%20-%20Solution.png)
+> ![[Counting - SV-03 - Solution.png]]
 >
 > The overlap is $\{2,4\}$. The only element of U outside both sets is 9.
 >

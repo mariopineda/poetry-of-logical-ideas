@@ -24,7 +24,7 @@ Use a two-circle diagram for parts Aâ€“D and a three-circle diagram for parts Eâ
 ### G. $C\setminus(A\cap B)$
 ### H. $(A\cap B')\cup C'$
 
-![Question diagram](../../Assets/Counting%20-%20SV-13%20-%20Question.png)
+![[Counting - SV-13 - Question.png]]
 
 ## Solution
 
@@ -32,7 +32,7 @@ Use a two-circle diagram for parts Aâ€“D and a three-circle diagram for parts Eâ
 >
 > The eight solved diagrams shade **only** regions satisfying the expression; areas inside the universe but outside the shaded result are excluded.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-13%20-%20Solution.png)
+> ![[Counting - SV-13 - Solution.png]]
 >
 > ### A.
 >

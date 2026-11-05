@@ -18,7 +18,7 @@ A café asks **92 customers** whether they enjoy tea (T) or coffee (C).
 - **17** enjoy **only tea**.
 
 ### A. Draw and complete a two-set Venn diagram.
-![Question diagram](../../Assets/Counting%20-%20SV-05%20-%20Question.png)
+![[Counting - SV-05 - Question.png]]
 ### B. Find the numbers who enjoy (i) only coffee, (ii) coffee, and (iii) tea.
 
 ## Solution
@@ -31,7 +31,7 @@ A café asks **92 customers** whether they enjoy tea (T) or coffee (C).
 >
 > $$\text{Coffee only}=80-17-15=\boxed{48}.$$
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-05%20-%20Solution.png)
+> ![[Counting - SV-05 - Solution.png]]
 >
 > ### B.
 >

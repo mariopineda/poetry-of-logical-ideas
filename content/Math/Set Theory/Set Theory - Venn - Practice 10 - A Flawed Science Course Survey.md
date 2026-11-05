@@ -17,7 +17,7 @@ A student writes $17+20+6=43$ and concludes that everyone in the class takes at 
 
 ### A. Explain why adding the intersection is an error.
 ### B. Determine the number taking neither elective and complete a Venn diagram.
-![Question diagram](../../Assets/Counting%20-%20SV-10%20-%20Question.png)
+![[Counting - SV-10 - Question.png]]
 
 ## Solution
 
@@ -35,7 +35,7 @@ A student writes $17+20+6=43$ and concludes that everyone in the class takes at 
 >
 > The A-only count is $17-6=11$, and the E-only count is $20-6=14$.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-10%20-%20Solution.png)
+> ![[Counting - SV-10 - Solution.png]]
 >
 > Check: $11+6+14+7=38$.
 

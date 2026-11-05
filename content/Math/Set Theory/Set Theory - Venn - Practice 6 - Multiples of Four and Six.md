@@ -18,7 +18,7 @@ $$A=\{\text{multiples of 4}\},\qquad B=\{\text{multiples of 6}\}.$$
 ### A. Determine the elements in $A\cap B$.
 ### B. Find the elements in A-only and B-only.
 ### C. Draw a Venn diagram with the **number of elements** in each region, including neither.
-![Question diagram](../../Assets/Counting%20-%20SV-06%20-%20Question.png)
+![[Counting - SV-06 - Question.png]]
 
 ## Solution
 
@@ -37,7 +37,7 @@ $$A=\{\text{multiples of 4}\},\qquad B=\{\text{multiples of 6}\}.$$
 >
 > ### C.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-06%20-%20Solution.png)
+> ![[Counting - SV-06 - Solution.png]]
 >
 > A-only 6, both 3, B-only 3. The union contains 12 numbers, so **neither** contains $36-12=\boxed{24}$. The counts sum to 36.
 

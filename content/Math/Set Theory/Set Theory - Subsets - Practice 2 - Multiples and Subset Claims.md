@@ -18,7 +18,7 @@ $$B=\{\text{multiples of 4 in }U\},$$
 $$C=\{\text{multiples of 9 in }U\}.$$
 
 ### A. List the elements of the three sets and represent them in a Venn diagram.
-![Question diagram](../../Assets/Counting%20-%20SS-02%20-%20Question.png)
+![[Counting - SS-02 - Question.png]]
 ### B. Which pairs of sets are disjoint?
 ### C. Decide whether each statement is true or false. Justify each.
 
@@ -38,7 +38,7 @@ $$C=\{\text{multiples of 9 in }U\}.$$
 > $$B=\{4,8,12,16,20,24,28\},$$
 > $$C=\{9,18,27\}.$$
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-02%20-%20Solution.png)
+> ![[Counting - SS-02 - Solution.png]]
 >
 > ### B.
 >

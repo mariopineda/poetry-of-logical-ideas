@@ -17,7 +17,7 @@ A student incorrectly writes **14** in the A-only region, **17** in the B-only r
 
 ### A. Find the correct counts for $A\cap B$, A-only, and B-only.
 ### B. Redraw the Venn diagram with the correct four region counts.
-![Question diagram](../../Assets/Counting%20-%20SV-02%20-%20Question.png)
+![[Counting - SV-02 - Question.png]]
 
 ## Solution
 
@@ -37,7 +37,7 @@ A student incorrectly writes **14** in the A-only region, **17** in the B-only r
 >
 > ### B.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-02%20-%20Solution.png)
+> ![[Counting - SV-02 - Solution.png]]
 >
 > Check: $6+8+9+5=28$.
 

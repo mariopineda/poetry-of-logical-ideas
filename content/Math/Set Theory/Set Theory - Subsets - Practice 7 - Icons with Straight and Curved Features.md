@@ -24,7 +24,7 @@ $$C=\{B,C,D,G,H,J\}\quad\text{(includes a curved segment)}.$$
 ### A. List $S\cap C$, $S\setminus C$, and $C\setminus S$.
 ### B. Is the claim $C=S'$ true? Explain using at least one element.
 ### C. Identify icons that have neither recorded feature.
-![Question diagram](../../Assets/Counting%20-%20SS-07%20-%20Question.png)
+![[Counting - SS-07 - Question.png]]
 
 ## Solution
 
@@ -46,7 +46,7 @@ $$C=\{B,C,D,G,H,J\}\quad\text{(includes a curved segment)}.$$
 >
 > $$U\setminus(S\cup C)=\boxed{\{I,L\}}.$$
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-07%20-%20Solution.png)
+> ![[Counting - SS-07 - Solution.png]]
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]]

@@ -18,7 +18,7 @@ At a community centre, **120 people** are surveyed about a **ceramics workshop (
 - everyone likes **at least one** of the two.
 
 ### A. Complete a Venn diagram for the survey.
-![Question diagram](../../Assets/Counting%20-%20SV-07%20-%20Question.png)
+![[Counting - SV-07 - Question.png]]
 ### B. Find the number who like (i) photography only, (ii) photography in total, and (iii) ceramics only.
 
 ## Solution
@@ -29,7 +29,7 @@ At a community centre, **120 people** are surveyed about a **ceramics workshop (
 >
 > Ceramics only: $75-26=49$. Since nobody likes neither, photography only is $120-49-26=45$.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-07%20-%20Solution.png)
+> ![[Counting - SV-07 - Solution.png]]
 >
 > ### B.
 >

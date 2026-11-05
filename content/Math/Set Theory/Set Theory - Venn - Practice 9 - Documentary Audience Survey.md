@@ -18,7 +18,7 @@ Fifty people answer whether they like **wildlife documentaries (W)** and **histo
 - 9 like neither.
 
 ### A. Draw a Venn diagram.
-![Question diagram](../../Assets/Counting%20-%20SV-09%20-%20Question.png)
+![[Counting - SV-09 - Question.png]]
 ### B. Determine how many like (i) both genres, (ii) wildlife in total, and (iii) history in total.
 
 ## Solution
@@ -31,7 +31,7 @@ Fifty people answer whether they like **wildlife documentaries (W)** and **histo
 >
 > $$50-21-14-9=\boxed{6}.$$
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-09%20-%20Solution.png)
+> ![[Counting - SV-09 - Solution.png]]
 >
 > ### B.
 >

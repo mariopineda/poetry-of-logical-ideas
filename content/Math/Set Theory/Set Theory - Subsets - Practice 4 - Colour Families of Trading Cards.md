@@ -18,7 +18,7 @@ A collector has **40 distinct cards**: 10 red dragon, 10 red comet, 10 blue moon
 - $M$: moon cards; $S$: star cards.
 
 ### A. Draw a Venn diagram showing the disjoint colour groups and their subsets.
-![Question diagram](../../Assets/Counting%20-%20SS-04%20-%20Question.png)
+![[Counting - SS-04 - Question.png]]
 ### B. Which named sets are subsets of $R$?
 ### C. Which named sets are subsets of $B$?
 ### D. Are $D$ and $C$ disjoint?
@@ -30,7 +30,7 @@ A collector has **40 distinct cards**: 10 red dragon, 10 red comet, 10 blue moon
 >
 > ### A.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-04%20-%20Solution.png)
+> ![[Counting - SS-04 - Solution.png]]
 >
 > ### B.
 >

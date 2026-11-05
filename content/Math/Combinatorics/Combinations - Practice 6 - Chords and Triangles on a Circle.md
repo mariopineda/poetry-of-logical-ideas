@@ -21,7 +21,7 @@ How many straight **chords** can be drawn by joining two of the points?
 
 How many different triangles have their vertices among those points?
 
-![Question diagram](../../Assets/Counting%20-%20CO-06%20-%20Question.png)
+![[Counting - CO-06 - Question.png]]
 
 ## Solution
 

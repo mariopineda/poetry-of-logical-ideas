@@ -15,7 +15,7 @@ A visitor walks from the **northwest corner** A of a rectangular street grid to 
 
 How many shortest routes are possible? Use factorial notation for repeated steps.
 
-![Question diagram](../../Assets/Counting%20-%20MR-18%20-%20Question.png)
+![[Counting - MR-18 - Question.png]]
 
 ## Solution
 

@@ -19,7 +19,7 @@ Sixty students are surveyed about **online tutoring (O)** and **in-person tutori
 
 ### A. Determine how many students **do not use in-person tutoring**.
 ### B. A student calculates $38-17=21$ and says 21 is the answer to part A, where 17 is the number who use both. Explain why this reasoning is incorrect. Use a Venn diagram to justify your answer.
-![Question diagram](../../Assets/Counting%20-%20SV-11%20-%20Question.png)
+![[Counting - SV-11 - Question.png]]
 
 ## Solution
 
@@ -31,7 +31,7 @@ Sixty students are surveyed about **online tutoring (O)** and **in-person tutori
 >
 > The exclusive regions are online only $38-17=21$, in-person only $24-17=7$, and neither 15.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-11%20-%20Solution.png)
+> ![[Counting - SV-11 - Solution.png]]
 >
 > ### A.
 >

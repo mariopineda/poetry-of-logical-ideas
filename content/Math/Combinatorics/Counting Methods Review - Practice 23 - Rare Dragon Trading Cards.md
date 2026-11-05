@@ -15,7 +15,7 @@ A display box contains **12 different trading cards**: three rare **dragon cards
 
 How many hands contain **at least two dragon cards**?
 
-![Question diagram](../../Assets/Counting%20-%20MR-23%20-%20Question.png)
+![[Counting - MR-23 - Question.png]]
 
 ## Solution
 

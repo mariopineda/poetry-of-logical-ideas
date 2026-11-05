@@ -16,7 +16,7 @@ The universe $U$ contains books numbered 1–24. A library creates these sets:
 $$V=\{1,\ldots,18\},\quad M=\{1,\ldots,8\},$$
 $$F=\{9,10,11,12\},\quad N=\{13,14,15,16,17,18\}.$$
 
-![Question diagram](../../Assets/Counting%20-%20SS-03%20-%20Question.png)
+![[Counting - SS-03 - Question.png]]
 
 ### A. Write all of the subset statements among $V,M,F,N$ that follow directly from these lists.
 ### B. Propose meaningful categories the four letters might represent.
@@ -27,7 +27,7 @@ $$F=\{9,10,11,12\},\quad N=\{13,14,15,16,17,18\}.$$
 
 > [!example]- Show solution
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SS-03%20-%20Solution.png)
+> ![[Counting - SS-03 - Solution.png]]
 >
 > ### A.
 >

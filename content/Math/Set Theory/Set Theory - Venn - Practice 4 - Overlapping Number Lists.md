@@ -19,7 +19,7 @@ $$C=\{0,3,6,9,12,15,18\}.$$
 ### A. Determine $A\cup C$ and $n(A\cup C)$.
 ### B. Determine $A\cap C$ and $n(A\cap C)$.
 ### C. Draw a labelled Venn diagram showing the elements in each region.
-![Question diagram](../../Assets/Counting%20-%20SV-04%20-%20Question.png)
+![[Counting - SV-04 - Question.png]]
 
 ## Solution
 
@@ -39,7 +39,7 @@ $$C=\{0,3,6,9,12,15,18\}.$$
 >
 > ### C.
 >
-> ![Solution diagram](../../Assets/Counting%20-%20SV-04%20-%20Solution.png)
+> ![[Counting - SV-04 - Solution.png]]
 >
 > The A-only elements are $\{-9,-6,-3\}$, and the C-only elements are $\{15,18\}$. The region sizes check: $3+5+2=10$.
 
