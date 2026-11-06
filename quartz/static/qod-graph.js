@@ -173,6 +173,10 @@
       return [node.id, (hash >>> 0) % 3 - 1]
     }))
 
+    const depthDrawOrder = [...nodes].sort(
+      (a, b) => (depthLayers.get(a.id) ?? 0) - (depthLayers.get(b.id) ?? 0),
+    )
+
     const nodeById = new Map(
       nodes.map((node) => [node.id, node]),
     )
@@ -253,7 +257,8 @@
       "Paths use the existing links in either direction, so they reveal documented conceptual connections, not necessarily a recommended learning order. If no route is found, the published collection does not currently record one; the mathematical ideas may still be related.",
     ]
     guideParagraphs.push("Fit Graph recentres and zooms the universe without changing your selected QODs or course. Reset All clears selections and highlighted paths, shows every course, and fits the entire universe.")
-    guideParagraphs.push("Depth: On gives near and far QOD stars gentle parallax during ambient motion and panning. Depth: Off restores the original flat projection. This changes no QOD or recorded relationship.")
+    guideParagraphs.push("Depth: On gives near and far QOD stars stronger parallax during ambient motion and panning; Depth: Off restores the original flat projection without changing the network.")
+    guideParagraphs.push("Tilt: On gently pitches and yaws the universe toward the observer. Tilt: Off leaves parallax on. Pause motion freezes the animation; reduced-motion preferences disable both depth effects.")
     for (const explanation of guideParagraphs) {
       const paragraph = document.createElement("p")
       paragraph.style.cssText = "margin:0.65rem 0 0;line-height:1.55;font-size:0.91rem"
@@ -360,14 +365,22 @@
       "(prefers-reduced-motion: reduce)",
     )
     let ambientMotionEnabled = true
-    // A mild 15% differential camera shift; never displaces the physics nodes.
-    const DEPTH_STRENGTH = 0.15
+    // 26% layer-relative parallax; original D3 physics coordinates stay unchanged.
+    const DEPTH_STRENGTH = 0.26
     let depthEnabled = true
     let depthPanX = 0
     let depthPanY = 0
     let depthSwayTime = 0
     let depthSwayX = 0
     let depthSwayY = 0
+    // OSC-QOD-ENHANCED-DEPTH-V1: observer-facing 3D projection (not a 3D engine).
+    const TILT_PITCH_MAX = 11 * Math.PI / 180
+    const TILT_YAW_MAX = 5 * Math.PI / 180
+    const TILT_Z_SPREAD = 85
+    const TILT_CAMERA_DISTANCE = 1100
+    let tiltEnabled = true
+    let tiltPitch = 0
+    let tiltYaw = 0
     let ambientFrame = 0
     let graphVisible = true
 
@@ -417,10 +430,26 @@
       button.setAttribute("aria-pressed", String(depthEnabled && !reducedMotionQuery.matches))
     }
 
+    function observerTiltActive() {
+      return depthEnabled && tiltEnabled && !reducedMotionQuery.matches
+    }
+
+    function updateTiltButton() {
+      const button = toolbar.querySelector('button[data-qod-tilt]')
+      if (!button) return
+      button.disabled = reducedMotionQuery.matches || !depthEnabled
+      button.textContent = reducedMotionQuery.matches
+        ? "Tilt: Reduced motion"
+        : !depthEnabled ? "Tilt: Depth off" : tiltEnabled ? "Tilt: On" : "Tilt: Off"
+      button.title = "Toggle slow rotation toward and away from the observer"
+      button.setAttribute("aria-pressed", String(observerTiltActive()))
+    }
+
     function onAmbientPreferenceChange() {
       ambientFrame = 0
       updateAmbientButton()
       updateDepthButton()
+      updateTiltButton()
       draw()
     }
     reducedMotionQuery.addEventListener?.("change", onAmbientPreferenceChange)
@@ -439,8 +468,10 @@
       ambientFrame = performance.now()
       // Smooth camera sway, frozen when motion pauses or a QOD is selected.
       depthSwayTime += 110
-      depthSwayX = 32 * Math.sin(depthSwayTime / 13000)
-      depthSwayY = 24 * Math.sin(depthSwayTime / 18000)
+      depthSwayX = 40 * Math.sin(depthSwayTime / 13000)
+      depthSwayY = 32 * Math.sin(depthSwayTime / 18000)
+      tiltPitch = TILT_PITCH_MAX * Math.sin(depthSwayTime / 17000)
+      tiltYaw = TILT_YAW_MAX * Math.sin(depthSwayTime / 26000 + 0.8)
       draw()
     }, 110)
 
@@ -754,12 +785,41 @@
       }
     }
 
-    // Edges, dots and pointer hit tests all use this same projection.
+    function projectObserverTilt(point, node) {
+      if (!observerTiltActive()) return { ...point, apparentScale: 1 }
+
+      // Positions are CSS pixels, so use the real graph pivot, not canvas.width
+      // (which is device-pixel scaled on retina/high-DPI screens).
+      const dx = point.x - galaxyPivotX
+      const dy = point.y - galaxyPivotY
+      const layer = depthLayers.get(node.id) ?? 0
+      const z = layer * TILT_Z_SPREAD
+
+      const cp = Math.cos(tiltPitch)
+      const sp = Math.sin(tiltPitch)
+      const cy = Math.cos(tiltYaw)
+      const sy = Math.sin(tiltYaw)
+      const y1 = dy * cp - z * sp
+      const z1 = dy * sp + z * cp
+      const x2 = dx * cy + z1 * sy
+      const z2 = -dx * sy + z1 * cy
+
+      // Bound perspective even at maximum user zoom to avoid clipping/inversion.
+      const boundedZ = clamp(z2, -220, 220)
+      const factor = TILT_CAMERA_DISTANCE / (TILT_CAMERA_DISTANCE - boundedZ)
+      return {
+        x: galaxyPivotX + x2 * factor,
+        y: galaxyPivotY + y1 * factor,
+        apparentScale: factor * (1 + 0.065 * layer),
+      }
+    }
+
+    // Edges, dots and pointer hit tests all use this shared projection.
     function screenPoint(node) {
       const point = unrotatedScreenPoint(node)
       const rotated = rotateScreenPoint(point.x, point.y, galaxyAngle)
       const depth = depthDisplacement(node)
-      return { x: rotated.x + depth.x, y: rotated.y + depth.y }
+      return projectObserverTilt({ x: rotated.x + depth.x, y: rotated.y + depth.y }, node)
     }
 
     // For dragging an actual star, first undo its unique depth offset.
@@ -769,11 +829,35 @@
       return unrotatedGraphPoint(point.x, point.y)
     }
 
-    // Undo the star-specific depth displacement only while dragging a star.
-    // The normal camera projection retains the original graphPoint interface.
+    // Reverse the node-specific projection for dragging without changing
+    // graphPoint(x, y), which is also used by zoom/pinch and the build guards.
     function graphPointForNode(x, y, node) {
       const depth = depthDisplacement(node)
-      return graphPoint(x - depth.x, y - depth.y)
+      const first = graphPoint(x - depth.x, y - depth.y)
+      if (!observerTiltActive()) return first
+
+      // A tiny Newton solve keeps the pointer aligned even at high zoom.
+      // Only this one dragged star is evaluated; the 661-node layout is untouched.
+      let guess = first
+      for (let i = 0; i < 5; i += 1) {
+        const at = screenPoint({ ...node, x: guess.x, y: guess.y })
+        const ex = x - at.x
+        const ey = y - at.y
+        if (Math.hypot(ex, ey) < 0.01) break
+        const px = screenPoint({ ...node, x: guess.x + 1, y: guess.y })
+        const py = screenPoint({ ...node, x: guess.x, y: guess.y + 1 })
+        const a = px.x - at.x
+        const b = py.x - at.x
+        const c = px.y - at.y
+        const d = py.y - at.y
+        const det = a * d - b * c
+        if (Math.abs(det) < 1e-8) break
+        guess = {
+          x: guess.x + (d * ex - b * ey) / det,
+          y: guess.y + (-c * ex + a * ey) / det,
+        }
+      }
+      return guess
     }
 
     // Preserve the cursor as the zoom anchor even with a rotated network.
@@ -828,7 +912,7 @@
 
       for (const node of nodes) {
         const point = screenPoint(node)
-        const radius = clamp(node.radius * scale, 4, 20)
+        const radius = clamp(node.radius * scale * point.apparentScale, 4, 20)
         const distance = Math.hypot(point.x - x, point.y - y)
         if (distance <= radius + 5 && distance < closestDistance) {
           closest = node
@@ -936,7 +1020,7 @@
       const point = screenPoint(node)
 
       const radius = clamp(
-        node.radius * scale,
+        node.radius * scale * point.apparentScale,
         3.5,
         19,
       )
@@ -1003,6 +1087,11 @@
           : destinationNode ? 0.075 : (courseHighlighted ? 0.24 : 0.09)
       }
 
+      // Distance is indicated by slight luminance falloff, never new course colours.
+      if (!selectedNode && courseHighlighted && observerTiltActive()) {
+        const layer = depthLayers.get(node.id) ?? 0
+        if (layer < 0) nodeAlpha *= 0.86
+      }
       ctx.globalAlpha = nodeAlpha
 
       if (nodeColours.length === 1) {
@@ -1139,7 +1228,7 @@
         ctx.restore()
       }
 
-      for (const node of nodes) {
+      for (const node of observerTiltActive() ? depthDrawOrder : nodes) {
         drawNode(node)
       }
     }
@@ -1408,10 +1497,23 @@
       depthButton.addEventListener("click", () => {
         depthEnabled = !depthEnabled
         updateDepthButton()
+        updateTiltButton()
         draw()
       })
       toolbar.appendChild(depthButton)
       updateDepthButton()
+
+      const tiltButton = document.createElement("button")
+      tiltButton.type = "button"
+      tiltButton.className = "qod-graph-reset-button"
+      tiltButton.dataset.qodTilt = "true"
+      tiltButton.addEventListener("click", () => {
+        tiltEnabled = !tiltEnabled
+        updateTiltButton()
+        draw()
+      })
+      toolbar.appendChild(tiltButton)
+      updateTiltButton()
 
       const key = document.createElement("span")
       key.className = "qod-graph-link-key"
