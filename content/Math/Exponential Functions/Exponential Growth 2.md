@@ -28,8 +28,8 @@ Two savings accounts each start with \$500. Account A adds \$50 every year. Acco
 >
 > | Year | $0$ | $1$ | $2$ | $3$ |
 > |---|---:|---:|---:|---:|
-> | Account A: add $\$50$ each year | $\$500$ | $\$550$ | $\$600$ | **$\$650$** |
-> | Account B: increase by $10\%$ each year | $\$500$ | $\$550$ | $\$605$ | **$\$665.50$** |
+> | Account A: add \$50 each year | \$500 | \$550 | \$600 | **\$650** |
+> | Account B: increase by 10% each year | \$500 | \$550 | \$605 | **\$665.50** |
 >
 > Account B calculations:
 >
@@ -44,7 +44,7 @@ Two savings accounts each start with \$500. Account A adds \$50 every year. Acco
 > **Account B** has more at the end of year $3$:
 >
 > $$
-> \$665.50-\$650=\boxed{\$15.50}
+> 665.50-650=\boxed{15.50}
 > $$
 
 > [!abstract] Review First
