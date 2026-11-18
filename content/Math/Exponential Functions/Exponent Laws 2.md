@@ -82,6 +82,10 @@ $$
 > - [[Math/Polynomials/Exponent and Polynomial Skills 2|Exponent and Polynomial Skills 2]]
 > - [[Math/Polynomials/Exponent and Polynomial Skills 3|Exponent and Polynomial Skills 3]]
 > - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+> - [[Math/Exponent Laws/Exponent Laws 6|Exponent Laws 6]]
+> - [[Math/Exponent Laws/Exponent Laws 7|Exponent Laws 7]]
+> - [[Math/Exponent Laws/Exponent Laws 8|Exponent Laws 8]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

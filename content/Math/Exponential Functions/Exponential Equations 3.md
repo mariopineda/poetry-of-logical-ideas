@@ -106,6 +106,7 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 > - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
 > - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
 > - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

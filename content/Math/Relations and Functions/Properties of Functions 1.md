@@ -53,6 +53,9 @@ If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.
 
 > [!info] Explore Also
 > - [[Math/Relations and Functions/Properties of Functions 2|Properties of Functions 2]]
+> - [[Math/Functions/Properties of Functions 14|Properties of Functions 14]]
+> - [[Math/Functions/Linear Functions 1|Linear Functions 1]]
+> - [[Math/Functions/Domain and Range 1|Domain and Range 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

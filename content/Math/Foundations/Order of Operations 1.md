@@ -50,4 +50,6 @@ Evaluate without a calculator:
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+> - [[Math/Foundations/Percentages 1|Percentages 1]]
+> - [[Math/Exponent Laws/Exponent Laws 9|Exponent Laws 9]]

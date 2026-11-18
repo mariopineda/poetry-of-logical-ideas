@@ -84,6 +84,8 @@ $$
 
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+> - [[Math/Exponent Laws/Exponent Laws 9|Exponent Laws 9]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -119,3 +121,8 @@ $$
 > - [[Math/Polynomials/Exponent and Polynomial Skills 1|Exponent and Polynomial Skills 1]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
 > - [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1|Rational Functions - Multiple Holes and Restrictions 1]]
+> - [[Math/Exponent Laws/Exponent Laws 6|Exponent Laws 6]]
+> - [[Math/Exponent Laws/Exponent Laws 7|Exponent Laws 7]]
+> - [[Math/Exponent Laws/Exponent Laws 8|Exponent Laws 8]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

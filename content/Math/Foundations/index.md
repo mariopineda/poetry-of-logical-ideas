@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **12 Questions of the Day** Â· **Courses:** Not specified
+> **16 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Path]]
 
@@ -28,5 +28,9 @@ Practice questions for **Foundations**.
 | [[Math/Foundations/Integer Arithmetic 1\|Integer Arithmetic 1]] | Not specified |
 | [[Math/Foundations/Integer Arithmetic 2\|Integer Arithmetic 2]] | Not specified |
 | [[Math/Foundations/Integer Arithmetic 3\|Integer Arithmetic 3]] | Not specified |
+| [[Math/Foundations/Linear Equations 1\|Linear Equations 1]] | Not specified |
+| [[Math/Foundations/Number Patterns 1\|Number Patterns 1]] | Not specified |
 | [[Math/Foundations/Order of Operations 1\|Order of Operations 1]] | Not specified |
+| [[Math/Foundations/Percentages 1\|Percentages 1]] | Not specified |
+| [[Math/Foundations/Percentages 2\|Percentages 2]] | Not specified |
 

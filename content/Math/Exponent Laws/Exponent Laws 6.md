@@ -1,0 +1,48 @@
+---
+publish: true
+show_solution: true
+type: qod
+domain: "Exponent Laws"
+topic: "Exponent Laws"
+course:
+  - Mathematics 10C
+source: "Math 30-2 Exponential Functions Pre-Unit Review"
+source_question: 2
+curriculum_alignment: "10C Algebra and Number SO3 indicator 3.3"
+curriculum_review_required: false
+calculator: prohibited
+---
+
+# Exponent Laws 6
+
+Simplify. Express each answer as a single power.
+
+(a) $3^4\times 3^2$  
+(b) $7^8\div 7^3$  
+(c) $(2^3)^4$
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $3^4\times3^2=\boxed{3^6}$
+>
+> (b) $7^8\div7^3=\boxed{7^5}$
+>
+> (c) $(2^3)^4=\boxed{2^{12}}$
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+> - [[Math/Exponential Functions/Exponent Laws 3|Exponent Laws 3]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

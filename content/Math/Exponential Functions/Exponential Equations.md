@@ -136,6 +136,7 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponent Laws/Exponent Laws 7|Exponent Laws 7]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

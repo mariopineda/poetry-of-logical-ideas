@@ -101,6 +101,8 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponent Laws/Exponent Laws 8|Exponent Laws 8]]
+> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

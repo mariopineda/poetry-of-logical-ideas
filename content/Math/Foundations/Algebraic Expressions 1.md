@@ -188,3 +188,5 @@ $$
 > - [[Math/Relations and Functions/Representing Relations 7|Representing Relations 7]]
 > - [[Math/Relations and Functions/Representing Relations 8|Representing Relations 8]]
 > - [[Math/Relations and Functions/Representing Relations 9|Representing Relations 9]]
+> - [[Math/Functions/Properties of Functions 14|Properties of Functions 14]]
+> - [[Math/Foundations/Linear Equations 1|Linear Equations 1]]

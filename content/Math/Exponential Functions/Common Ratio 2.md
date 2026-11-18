@@ -48,6 +48,8 @@ $$
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
 > - [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]
+> - [[Math/Foundations/Number Patterns 1|Number Patterns 1]]
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

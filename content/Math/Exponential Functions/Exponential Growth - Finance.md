@@ -78,11 +78,17 @@ How much will the bond be worth after $1$ year?
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Foundations/Percentages 1|Percentages 1]]
+> - [[Math/Foundations/Percentages 2|Percentages 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
+> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

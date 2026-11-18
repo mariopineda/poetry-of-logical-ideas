@@ -108,6 +108,8 @@ Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

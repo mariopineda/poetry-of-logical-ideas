@@ -108,6 +108,7 @@ $$
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
 > - [[Math/Exponential Functions/Exponent Laws 4|Exponent Laws 4]]
+> - [[Math/Exponent Laws/Exponent Laws 6|Exponent Laws 6]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

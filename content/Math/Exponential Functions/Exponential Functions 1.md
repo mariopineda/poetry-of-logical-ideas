@@ -129,6 +129,14 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+> - [[Math/Foundations/Number Patterns 1|Number Patterns 1]]
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Functions/Properties of Functions 14|Properties of Functions 14]]
+> - [[Math/Functions/Linear Functions 1|Linear Functions 1]]
+> - [[Math/Functions/Domain and Range 1|Domain and Range 1]]
+> - [[Math/Exponent Laws/Exponent Laws 9|Exponent Laws 9]]
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

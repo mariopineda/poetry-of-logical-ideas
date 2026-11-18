@@ -72,6 +72,7 @@ The number, $N$, of throat swab bacteria being grown in a culture after $t$ hour
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

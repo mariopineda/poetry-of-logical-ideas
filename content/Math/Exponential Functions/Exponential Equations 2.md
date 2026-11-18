@@ -97,6 +97,8 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponent Laws/Exponent Laws 6|Exponent Laws 6]]
+> - [[Math/Foundations/Linear Equations 1|Linear Equations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -104,6 +106,7 @@ $$
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
 > - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
