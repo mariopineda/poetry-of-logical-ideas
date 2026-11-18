@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponential Functions"
 topic: "Common Ratio"
@@ -21,16 +21,6 @@ Complete the table. Explain whether the outputs change by a constant difference 
 |---|---:|---:|---:|---:|---:|
 | $y$ | $6$ | $18$ | $54$ | | |
 
-## Solution
-
-> [!example]- Show solution
->
-> | $x$ | $0$ | $1$ | $2$ | $3$ | $4$ |
-> |---|---:|---:|---:|---:|---:|
-> | $y$ | $6$ | $18$ | $54$ | **$162$** | **$486$** |
->
-> The outputs change by a **constant ratio** of $3$, since $18\div6=54\div18=162\div54=486\div162=3$. The differences are not constant.
-
 > [!abstract] Review First
 > - [[Math/Foundations/Number Patterns 1|Number Patterns 1]]
 
@@ -46,3 +36,13 @@ Complete the table. Explain whether the outputs change by a constant difference 
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> | $x$ | $0$ | $1$ | $2$ | $3$ | $4$ |
+> |---|---:|---:|---:|---:|---:|
+> | $y$ | $6$ | $18$ | $54$ | **$162$** | **$486$** |
+>
+> The outputs change by a **constant ratio** of $3$, since $18\div6=54\div18=162\div54=486\div162=3$. The differences are not constant.

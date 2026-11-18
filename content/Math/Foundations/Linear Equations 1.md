@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Foundations"
 topic: "Linear Equations"
@@ -20,6 +20,20 @@ Solve for $x$.
 (a) $4x+7=31$  
 (b) $3(x-2)=15$  
 (c) $2x+5=x+12$
+
+> [!abstract] Review First
+> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 
 ## Solution
 
@@ -42,17 +56,3 @@ Solve for $x$.
 > $$
 > 2x+5=x+12\implies x=7\implies\boxed{x=7}
 > $$
-
-> [!abstract] Review First
-> - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> _No linked questions yet._
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
-> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

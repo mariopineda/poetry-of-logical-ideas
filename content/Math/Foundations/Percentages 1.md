@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Foundations"
 topic: "Percentages"
@@ -22,18 +22,6 @@ Convert each percent to a decimal.
 (c) $125\%$  
 (d) $37.5\%$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $8\%=\boxed{0.08}$
->
-> (b) $0.5\%=\boxed{0.005}$
->
-> (c) $125\%=\boxed{1.25}$
->
-> (d) $37.5\%=\boxed{0.375}$
-
 > [!abstract] Review First
 > - [[Math/Foundations/Order of Operations 1|Order of Operations 1]]
 
@@ -50,3 +38,15 @@ Convert each percent to a decimal.
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $8\%=\boxed{0.08}$
+>
+> (b) $0.5\%=\boxed{0.005}$
+>
+> (c) $125\%=\boxed{1.25}$
+>
+> (d) $37.5\%=\boxed{0.375}$

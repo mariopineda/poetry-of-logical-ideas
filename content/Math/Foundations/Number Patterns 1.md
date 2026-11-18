@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Foundations"
 topic: "Patterns"
@@ -21,16 +21,6 @@ Complete each pattern and describe its rule.
 (b) $80,\ 40,\ 20,\ 10,\ \underline{\qquad},\ \underline{\qquad}$  
 (c) $3,\ 8,\ 13,\ 18,\ \underline{\qquad},\ \underline{\qquad}$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $5,10,20,40,\boxed{80},\boxed{160}$ — multiply by $2$.
->
-> (b) $80,40,20,10,\boxed{5},\boxed{2.5}$ — divide by $2$.
->
-> (c) $3,8,13,18,\boxed{23},\boxed{28}$ — add $5$.
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -46,3 +36,13 @@ Complete each pattern and describe its rule.
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $5,10,20,40,\boxed{80},\boxed{160}$ — multiply by $2$.
+>
+> (b) $80,40,20,10,\boxed{5},\boxed{2.5}$ — divide by $2$.
+>
+> (c) $3,8,13,18,\boxed{23},\boxed{28}$ — add $5$.

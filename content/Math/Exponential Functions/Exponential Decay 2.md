@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponential Functions"
 topic: "Growth and Decay"
@@ -16,17 +16,6 @@ calculator: prohibited
 # Exponential Decay 2
 
 Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quantity every time. Give a numerical example.
-
-## Solution
-
-> [!example]- Show solution
->
-> Starting with $100$:
->
-> - Decrease by $20\%$ each time: $100\to80\to64$.
-> - Subtract $20$ each time: $100\to80\to60$.
->
-> A repeated percentage decrease is calculated from the **current amount** each time; subtracting $20$ removes a **fixed amount** each time.
 
 > [!abstract] Review First
 > - [[Math/Foundations/Percentages 1|Percentages 1]]
@@ -44,3 +33,14 @@ Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quan
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> Starting with $100$:
+>
+> - Decrease by $20\%$ each time: $100\to80\to64$.
+> - Subtract $20$ each time: $100\to80\to60$.
+>
+> A repeated percentage decrease is calculated from the **current amount** each time; subtracting $20$ removes a **fixed amount** each time.

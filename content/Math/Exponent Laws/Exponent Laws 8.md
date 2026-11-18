@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponent Laws"
 topic: "Exponent Laws"
@@ -21,16 +21,6 @@ Evaluate.
 (b) $\left(\frac34\right)^2$  
 (c) $\left(\frac15\right)^{-1}$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $\left(\dfrac12\right)^3=\boxed{\dfrac18}$
->
-> (b) $\left(\dfrac34\right)^2=\boxed{\dfrac9{16}}$
->
-> (c) $\left(\dfrac15\right)^{-1}=\boxed{5}$
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -45,3 +35,13 @@ Evaluate.
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $\left(\dfrac12\right)^3=\boxed{\dfrac18}$
+>
+> (b) $\left(\dfrac34\right)^2=\boxed{\dfrac9{16}}$
+>
+> (c) $\left(\dfrac15\right)^{-1}=\boxed{5}$

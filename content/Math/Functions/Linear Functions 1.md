@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Functions"
 topic: "Linear Functions"
@@ -17,13 +17,6 @@ calculator: prohibited
 
 For $y=-2x+8$, determine the $y$-intercept and $x$-intercept. Explain what each intercept means on a graph.
 
-## Solution
-
-> [!example]- Show solution
->
-> - $y$-intercept: when $x=0$, $y=8$, so $\boxed{(0,8)}$. This is where the graph crosses the $y$-axis.
-> - $x$-intercept: when $y=0$, $0=-2x+8$, giving $x=4$, so $\boxed{(4,0)}$. This is where the graph crosses the $x$-axis.
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -37,3 +30,10 @@ For $y=-2x+8$, determine the $y$-intercept and $x$-intercept. Explain what each 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
 > - [[Math/Functions/Domain and Range 1|Domain and Range 1]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> - $y$-intercept: when $x=0$, $y=8$, so $\boxed{(0,8)}$. This is where the graph crosses the $y$-axis.
+> - $x$-intercept: when $y=0$, $0=-2x+8$, giving $x=4$, so $\boxed{(4,0)}$. This is where the graph crosses the $x$-axis.

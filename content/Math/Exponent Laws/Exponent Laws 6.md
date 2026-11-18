@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponent Laws"
 topic: "Exponent Laws"
@@ -21,16 +21,6 @@ Simplify. Express each answer as a single power.
 (b) $7^8\div 7^3$  
 (c) $(2^3)^4$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $3^4\times3^2=\boxed{3^6}$
->
-> (b) $7^8\div7^3=\boxed{7^5}$
->
-> (c) $(2^3)^4=\boxed{2^{12}}$
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -46,3 +36,13 @@ Simplify. Express each answer as a single power.
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $3^4\times3^2=\boxed{3^6}$
+>
+> (b) $7^8\div7^3=\boxed{7^5}$
+>
+> (c) $(2^3)^4=\boxed{2^{12}}$

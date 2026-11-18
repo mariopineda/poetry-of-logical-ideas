@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponent Laws"
 topic: "Powers and Exponents"
@@ -22,18 +22,6 @@ Evaluate.
 (c) $(-3)^3$  
 (d) $4^{-2}$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $2^5=32$
->
-> (b) $5^0=1$
->
-> (c) $(-3)^3=-27$
->
-> (d) $4^{-2}=\dfrac{1}{4^2}=\boxed{\dfrac{1}{16}}$
-
 > [!abstract] Review First
 > - [[Math/Foundations/Order of Operations 1|Order of Operations 1]]
 
@@ -51,3 +39,15 @@ Evaluate.
 > - [[Math/Exponent Laws/Exponent Laws 7|Exponent Laws 7]]
 > - [[Math/Exponent Laws/Exponent Laws 8|Exponent Laws 8]]
 > - [[Math/Exponent Laws/Exponent Laws 9|Exponent Laws 9]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $2^5=32$
+>
+> (b) $5^0=1$
+>
+> (c) $(-3)^3=-27$
+>
+> (d) $4^{-2}=\dfrac{1}{4^2}=\boxed{\dfrac{1}{16}}$

@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Functions"
 topic: "Function Notation"
@@ -21,16 +21,6 @@ Given $f(x)=3x^2-4$, evaluate the following. Show substitution.
 (b) $f(-2)$  
 (c) $f(3)$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $f(0)=3(0)^2-4=\boxed{-4}$
->
-> (b) $f(-2)=3(-2)^2-4=12-4=\boxed{8}$
->
-> (c) $f(3)=3(3)^2-4=27-4=\boxed{23}$
-
 > [!abstract] Review First
 > - [[Math/Foundations/Algebraic Expressions 1|Algebraic Expressions 1]]
 
@@ -43,3 +33,13 @@ Given $f(x)=3x^2-4$, evaluate the following. Show substitution.
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $f(0)=3(0)^2-4=\boxed{-4}$
+>
+> (b) $f(-2)=3(-2)^2-4=12-4=\boxed{8}$
+>
+> (c) $f(3)=3(3)^2-4=27-4=\boxed{23}$

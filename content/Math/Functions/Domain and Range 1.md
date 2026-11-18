@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Functions"
 topic: "Domain and Range"
@@ -17,6 +17,19 @@ calculator: prohibited
 
 A graph represents a quantity that starts at $50$ and decreases continuously to $20$ over six hours. State a reasonable contextual domain and range.
 
+> [!abstract] Review First
+> - [[Math/Functions/Linear Functions 1|Linear Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+
 ## Solution
 
 > [!example]- Show solution
@@ -30,16 +43,3 @@ A graph represents a quantity that starts at $50$ and decreases continuously to 
 > $$
 > \boxed{20\le y\le50}
 > $$
-
-> [!abstract] Review First
-> - [[Math/Functions/Linear Functions 1|Linear Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]

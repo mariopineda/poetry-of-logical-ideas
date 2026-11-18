@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponential Functions"
 topic: "Growth and Decay"
@@ -21,6 +21,24 @@ Two savings accounts each start with \$500. Account A adds \$50 every year. Acco
 |---|---:|---:|---:|---:|
 | Account A | \$500 | | | |
 | Account B | \$500 | | | |
+
+> [!abstract] Review First
+> - [[Math/Foundations/Percentages 1|Percentages 1]]
+> - [[Math/Foundations/Number Patterns 1|Number Patterns 1]]
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
 
 ## Solution
 
@@ -46,21 +64,3 @@ Two savings accounts each start with \$500. Account A adds \$50 every year. Acco
 > $$
 > 665.50-650=\boxed{15.50}
 > $$
-
-> [!abstract] Review First
-> - [[Math/Foundations/Percentages 1|Percentages 1]]
-> - [[Math/Foundations/Number Patterns 1|Number Patterns 1]]
-> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
-> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
-> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
-> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]

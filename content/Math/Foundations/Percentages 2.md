@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Foundations"
 topic: "Percentages"
@@ -17,18 +17,6 @@ calculator: prohibited
 
 A jacket costs \$160. Its price increases by $15\%$. Determine the dollar increase and the new price.
 
-## Solution
-
-> [!example]- Show solution
->
-> $$
-> \text{Increase}=160(0.15)=\$24
-> $$
->
-> $$
-> \text{New price}=160+24=\boxed{\$184}
-> $$
-
 > [!abstract] Review First
 > _No linked questions yet._
 
@@ -44,3 +32,15 @@ A jacket costs \$160. Its price increases by $15\%$. Determine the dollar increa
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> $$
+> \text{Increase}=160(0.15)=\$24
+> $$
+>
+> $$
+> \text{New price}=160+24=\boxed{\$184}
+> $$

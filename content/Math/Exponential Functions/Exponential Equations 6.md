@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponential Functions"
 topic: "Exponential Equations"
@@ -20,14 +20,6 @@ Without using logarithms, solve each equation. Explain your strategy.
 (a) $2^x=32$  
 (b) $3^{x+1}=81$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $2^x=32=2^5$, so $\boxed{x=5}$.
->
-> (b) $3^{x+1}=81=3^4$, so $x+1=4$ and $\boxed{x=3}$.
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 > - [[Math/Exponent Laws/Exponent Laws 6|Exponent Laws 6]]
@@ -45,3 +37,11 @@ Without using logarithms, solve each equation. Explain your strategy.
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $2^x=32=2^5$, so $\boxed{x=5}$.
+>
+> (b) $3^{x+1}=81=3^4$, so $x+1=4$ and $\boxed{x=3}$.

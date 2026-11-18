@@ -1,6 +1,6 @@
 ---
 publish: true
-show_solution: true
+show_solution: false
 type: qod
 domain: "Exponent Laws"
 topic: "Powers and Exponents"
@@ -21,16 +21,6 @@ Rewrite using the indicated base.
 (b) $125$ as a power of $5$  
 (c) $\frac{1}{27}$ as a power of $3$
 
-## Solution
-
-> [!example]- Show solution
->
-> (a) $64=\boxed{2^6}$
->
-> (b) $125=\boxed{5^3}$
->
-> (c) $\dfrac{1}{27}=\boxed{3^{-3}}$
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -45,3 +35,13 @@ Rewrite using the indicated base.
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $64=\boxed{2^6}$
+>
+> (b) $125=\boxed{5^3}$
+>
+> (c) $\dfrac{1}{27}=\boxed{3^{-3}}$
