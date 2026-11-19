@@ -7,18 +7,16 @@ course:
 topic: "Scale Drawings and Models"
 show_solution: true
 ---
-# Scale Drawings 3 - Community Garden Plan
-
 A community garden is rectangular, measuring **240 m by 90 m**. Draw a scale plan using **1 cm : 40 m**. State the dimensions your drawing must have.
 
-![[Scale-03-question.svg]]
+![Question diagram](../../Assets/Scale-03-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > $$240\div40=6\text{ cm},\qquad90\div40=2.25\text{ cm}.$$ Draw a $6\text{ cm}\times2.25\text{ cm}$ rectangle with a ruler.
 >
-> ![[Scale-03-solution.svg]]
+> ![Worked solution diagram](../../Assets/Scale-03-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]

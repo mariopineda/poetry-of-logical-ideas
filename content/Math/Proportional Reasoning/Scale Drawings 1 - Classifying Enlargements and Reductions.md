@@ -7,8 +7,6 @@ course:
 topic: "Scale Drawings and Models"
 show_solution: true
 ---
-# Scale Drawings 1 - Classifying Enlargements and Reductions
-
 The ratios below compare the size of the **image or model** to the size of the **actual object**.
 
 For each example, identify whether it represents an **enlargement** or a **reduction**. Explain how the scale ratio supports your answer.

@@ -6,18 +6,16 @@ course:
 topic: "Two-Dimensional Representations"
 show_solution: true
 ---
-# Orthographic Views 3 - Unit Cube Model
-
 The image shows a new solid built from identical unit cubes. **Draw its front, top, and right-side views.** For the top view, also draw a **mat plan** indicating the height of every occupied stack. Use the explicit **FRONT VIEW** and **RIGHT VIEW** markers beneath the model.
 
-![[Orthographic-03-question.svg]]
+![Question diagram](../../Assets/Orthographic-03-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > The three orthographic views and the numbered mat plan are shown below. Looking left-to-right, the front profile has heights **[1, 2, 1]**; looking from front to back, the right-side profile has heights **[2, 1]**. The top/mat plan is **[1, 2, 1]; [1, 1, 1]** (rows run front to back).
 >
-> ![[Orthographic-03-solution.svg]]
+> ![Worked solution diagram](../../Assets/Orthographic-03-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Geometry/Orthographic Views 1 - Unit Cube Model|Orthographic Views 1 - Unit Cube Model]]

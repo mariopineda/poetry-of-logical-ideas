@@ -7,18 +7,16 @@ course:
 topic: "Scale Drawings and Models"
 show_solution: true
 ---
-# Scale Drawings 2 - Lighthouse Model
-
 A museum builds a miniature **lighthouse**. The model is 18 cm tall and its scale is $1:75$. Determine the height of the real lighthouse in **metres**.
 
-![[Scale-02-question.svg]]
+![Question diagram](../../Assets/Scale-02-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > $$18\text{ cm}\times75=1350\text{ cm}=13.5\text{ m}.$$
 >
-> ![[Scale-02-solution.svg]]
+> ![Worked solution diagram](../../Assets/Scale-02-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]
