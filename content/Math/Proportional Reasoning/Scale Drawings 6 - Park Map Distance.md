@@ -14,7 +14,28 @@ A regional map uses **1 cm = 35 km**. Two provincial parks are **4.8 cm** apart 
 ## Solution
 
 > [!example]- Show solution
-> $$4.8\times35=168\text{ km}.$$
+>
+> **Step 1 — Read the map scale.** Each $1$ cm on the map represents $35$ km on the ground. The two parks measure $4.8$ cm apart **on the map**.
+>
+> **Step 2 — Set up a proportion.** Let $d$ be the actual straight-line distance in kilometres.
+>
+> $$
+> \frac{1\text{ cm}}{35\text{ km}}=\frac{4.8\text{ cm}}{d}
+> $$
+>
+> **Step 3 — Cross-multiply.**
+>
+> $$
+> 1\times d=4.8\times35
+> $$
+>
+> $$
+> d=\boxed{168\text{ km}}
+> $$
+>
+> **Step 4 — Check the answer.** $168\div35=4.8$, so $168$ km would be represented by $4.8$ cm at the given scale.
+>
+> **Important:** This is the **straight-line** distance represented by the marked measurement, not the length of a winding road between the parks. The schematic map should not be measured from the screen.
 >
 > ![Worked solution diagram](/assets/scale-06-solution.svg)
 

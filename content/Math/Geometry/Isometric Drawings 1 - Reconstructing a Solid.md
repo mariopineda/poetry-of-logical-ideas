@@ -13,7 +13,22 @@ Use **isometric dot paper** for this question. If you need a printable copy, use
 ## Solution
 
 > [!example]- Show solution
-> One correct isometric drawing is illustrated. Build a vertical stack of the indicated number of cubes at every occupied position. The solution shown is one valid orientation of the solid that matches all three given views.
+>
+> **Step 1 — Read the mat plan.** Each square in the top view gives the position of a vertical stack; its number tells you **how many unit cubes high** to build that stack. A $0$ means no cubes. Read the rows from **front to back**, and each row from **left to right**:
+>
+> $[2, 1]$; $[1, 0]$
+>
+> This plan has **3 occupied stack positions** and **4 cubes in total**. Counting cubes now helps you catch missing or extra cubes later.
+>
+> **Step 2 — Set up the isometric axes.** On the printable isometric dot paper, choose a starting corner for the front of the solid. Use the two sloping directions of the dot grid for the horizontal length and depth of the base, and **vertical lines** for cube heights. Keep every unit edge the same length on the dot grid; parallel edges of the solid must remain parallel in your drawing.
+>
+> **Step 3 — Construct the base footprint.** Mark the positions occupied by stacks in the given mat plan. Keep **front and back** oriented consistently with the markers in the supplied orthographic views. Do not fill the positions marked $0$.
+>
+> **Step 4 — Build each stack upward.** At every occupied position, draw its given number of cubes. For example, a stack marked $2$ consists of two unit cubes vertically, while a stack marked $3$ consists of three. Join adjacent cubes along common faces, and show only the exposed outer edges and visible boundaries between units. Do not draw an interior or back face as though it were visible through the solid.
+>
+> **Step 5 — Verify against both elevation views.** The tallest stack above each left-to-right position gives the **front profile**, $[2, 1]$. The tallest stack across each row gives the **right-side profile**, indexed front to back, $[2, 1]$. Your finished solid must agree with **both** profiles as well as the numbered mat plan. Label the directions **front** and **right**.
+>
+> **One valid completed isometric drawing** is shown below. Drawings with a different overall orientation are acceptable only if the directional labels and all three views remain consistent.
 >
 > ![Worked solution diagram](/assets/isometric-01-solution.svg)
 

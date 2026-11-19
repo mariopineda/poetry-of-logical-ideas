@@ -14,7 +14,24 @@ A route between two recreation areas measures **210 km** in a straight line. At 
 ## Solution
 
 > [!example]- Show solution
-> $$210\div30=7\text{ cm}.$$
+>
+> **Step 1 — Interpret the scale.** Every **30 km of actual distance** must be drawn as **1 cm on the map**.
+>
+> **Step 2 — Write a proportion.** Let $x$ be the distance between the locations on the map, in centimetres.
+>
+> $$
+> \frac{1\text{ cm}}{30\text{ km}}=\frac{x}{210\text{ km}}
+> $$
+>
+> **Step 3 — Solve for the map distance.**
+>
+> $$
+> x=\frac{210\times1}{30}\text{ cm}=\boxed{7\text{ cm}}
+> $$
+>
+> **Step 4 — Check the result.** $7$ cm on the map represents $7\times30=210$ km, matching the given actual distance.
+>
+> **If drawing it:** Mark the two recreation areas exactly $7$ cm apart using a ruler, and label the scale. The background map is schematic; use the stated dimensions rather than measuring the illustration.
 >
 > ![Worked solution diagram](/assets/scale-07-solution.svg)
 

@@ -13,7 +13,24 @@ The image shows a new solid built from identical unit cubes. **Draw its front, t
 ## Solution
 
 > [!example]- Show solution
-> The three orthographic views and the numbered mat plan are shown below. Looking left-to-right, the front profile has heights **[3, 2]**; looking from front to back, the right-side profile has heights **[3, 1]**. The top/mat plan is **[3, 2]; [1, 1]** (rows run front to back).
+>
+> **Step 1 — Locate the viewing directions.** The **FRONT VIEW** and **RIGHT VIEW** arrows below the model determine which faces to look at. In an orthographic view, look directly toward the solid: do not draw diagonal/isometric edges. Each occupied unit-cube column is represented by a rectangle of the correct height.
+>
+> **Step 2 — Make the numbered top/mat plan.** Looking straight down, draw one square for each potential stack position and write the number of cubes in each occupied stack. A $0$ means there is no cube at that position. Read rows **front to back**, and entries **left to right**:
+>
+> $[3, 2]$; $[1, 1]$
+>
+> For the *ordinary top view*, show the footprint (occupied positions), without needing to include the height numbers. The occupancy rows are $[1, 1]$; $[1, 1]$. The numbered mat plan adds the height information needed to distinguish stacks.
+>
+> **Step 3 — Draw the front view.** For every left-to-right position, use the **tallest stack** anywhere behind that position. Hidden stacks do not increase the visible outline. Here the column heights come from: $\max(3, 1)=3$; $\max(2, 1)=2$.
+>
+> Therefore the **front silhouette heights**, left to right, are $[3, 2]$. Draw each occupied position as a column of that many unit squares, aligned on the same baseline; leave any zero-height positions empty.
+>
+> **Step 4 — Draw the right-side view.** Looking straight at the right side, each depth position is represented by the tallest stack across its row: $\max(3, 2)=3$; $\max(1, 1)=1$.
+>
+> Therefore the **right-side silhouette heights**, indexed **front to back**, are $[3, 1]$. Observe the direction marker when arranging these positions on the page.
+>
+> **Step 5 — Check all three drawings.** The top view must occupy exactly the positions in the mat plan; the front silhouette must agree with the highest stack in each column; and the right silhouette must agree with the highest stack in each row. The views need consistent unit-square spacing, not perspective.
 >
 > ![Worked solution diagram](/assets/orthographic-05-solution.svg)
 

@@ -13,7 +13,18 @@ Complete a **one-point perspective** drawing of the rectangular prism shown. Use
 ## Solution
 
 > [!example]- Show solution
-> Join each corner of the front rectangle to the given vanishing point. Select a consistent depth along the converging edges, construct a smaller rear rectangle with horizontal and vertical edges, and retain the visible edges. Erase or lighten the guide rays and hidden back edges.
+>
+> **Step 1 — Identify the vanishing point.** Locate the point marked $V$ in the question. In **one-point perspective**, edges travelling away from the viewer point toward this *single* vanishing point. The horizontal and vertical edges of the front face remain horizontal and vertical.
+>
+> **Step 2 — Draw light construction rays.** Using a straightedge, lightly connect **each of the four corners of the front rectangle to $V$**. Extend the rays only as far as necessary. These rays show the directions that the prism's depth edges must follow.
+>
+> **Step 3 — Choose the prism's depth.** Select a position for its rear face on the construction rays, between the front face and the vanishing point. The back face must be **smaller than the front face** because it is farther from the viewer.
+>
+> **Step 4 — Construct the back rectangle.** Draw a horizontal upper and lower edge and vertical side edges through the chosen points on the converging rays. The back rectangle's horizontal and vertical edges must remain **parallel to the corresponding edges of the front rectangle**; only the edges going *into* the picture converge toward $V$.
+>
+> **Step 5 — Finish the visible solid.** Darken the front-face outline and only the depth edges and portions of the rear face that would actually be visible from the viewer's position. Erase or lighten unnecessary construction rays extending toward $V$, and omit or make dashed any edges hidden behind visible faces.
+>
+> **Check:** Extend any retained depth edge with a ruler: it should pass through $V$. The front and rear rectangles must each have horizontal top/bottom edges and vertical sides, with the rear rectangle smaller in the drawing.
 >
 > ![Worked solution diagram](/assets/perspective-07-solution.svg)
 

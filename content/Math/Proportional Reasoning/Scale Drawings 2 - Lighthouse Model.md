@@ -14,7 +14,34 @@ A museum builds a miniature **lighthouse**. The model is 18 cm tall and its scal
 ## Solution
 
 > [!example]- Show solution
-> $$18\text{ cm}\times75=1350\text{ cm}=13.5\text{ m}.$$
+>
+> **Step 1 — Interpret the scale.** A scale of $1:75$ means that **1 cm on the model represents 75 cm on the actual lighthouse**. We need the actual height, so it must be greater than the model's $18$ cm.
+>
+> **Step 2 — Set up a proportion.** Keep the same order on both sides: model height divided by actual height.
+>
+> $$
+> \frac{1\text{ cm}}{75\text{ cm}}=\frac{18\text{ cm}}{h}
+> $$
+>
+> Cross-multiply:
+>
+> $$
+> 1\cdot h=75\cdot18\text{ cm}
+> $$
+>
+> $$
+> h=1350\text{ cm}
+> $$
+>
+> **Step 3 — Convert to metres.** Since $100\text{ cm}=1\text{ m}$,
+>
+> $$
+> 1350\text{ cm}\times\frac{1\text{ m}}{100\text{ cm}}=\boxed{13.5\text{ m}}
+> $$
+>
+> **Reasonableness check:** The scale is a reduction, so a $13.5$ m real lighthouse is reasonable for an $18$ cm model. Multiplying $18$ cm by $75$ gives $1350$ cm, as required.
+>
+> **Diagram:** The completed height is marked in the solution illustration.
 >
 > ![Worked solution diagram](/assets/scale-02-solution.svg)
 

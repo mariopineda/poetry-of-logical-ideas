@@ -23,16 +23,23 @@ For each example, identify whether it represents an **enlargement** or a **reduc
 ## Solution
 
 > [!example]- Show solution
-> A ratio **greater than $1:1$** represents an **enlargement**: the image or model is bigger than the actual subject. A ratio **less than $1:1$** represents a **reduction**: the image or model is smaller.
 >
-> | | Classification | Reason |
-> |---|---|---|
-> | a) | **Enlargement** | At $15:1$, the image is 15 times the actual size. |
-> | b) | **Reduction** | At $1:80$, the plan is $\frac{1}{80}$ of actual size. |
-> | c) | **Reduction** | At $1:65$, the train model is $\frac{1}{65}$ of actual size. |
-> | d) | **Enlargement** | At $4:1$, the printed poster is 4 times the original size. |
-> | e) | **Reduction** | At $1:25\,000\,000$, the globe is much smaller than Earth. |
-> | f) | **Enlargement** | At $20:1$, the illustration is 20 times the insect’s size. |
+> **Step 1 — Interpret the order of the scale.** Each ratio compares **image or model : actual object**. A ratio $a:b$ means that $a$ units on the image represent $b$ of the same units on the real object.
+>
+> **Step 2 — Compare the two parts.** If the first number is greater than the second, the image is an **enlargement**. If the first is smaller, it is a **reduction**. A scale of $1:1$ would be actual size, neither an enlargement nor a reduction.
+>
+> **Step 3 — Apply the rule to each example.**
+>
+> | Part | Scale | Classification | Explanation |
+> |---|---|---|---|
+> | a) Cell photograph | $15:1$ | **Enlargement** | $15$ units in the photograph correspond to $1$ actual unit: the image is $15$ times as large. |
+> | b) Floor plan | $1:80$ | **Reduction** | $1$ unit on the plan represents $80$ actual units: the plan is $\frac{1}{80}$ of actual size. |
+> | c) Train model | $1:65$ | **Reduction** | $1$ unit on the model represents $65$ actual units: the model is $\frac{1}{65}$ of actual size. |
+> | d) Poster | $4:1$ | **Enlargement** | $4$ units on the poster represent $1$ unit in the original: it is $4$ times as large. |
+> | e) Globe | $1:25\,000\,000$ | **Reduction** | $1$ unit on the globe represents $25\,000\,000$ actual units. |
+> | f) Insect illustration | $20:1$ | **Enlargement** | $20$ units in the illustration represent $1$ actual unit. |
+>
+> **Check:** In a reduction the real object is larger than its drawing or model; in an enlargement the image is larger than the original object.
 
 > [!abstract] Review First
 > _No linked questions yet._

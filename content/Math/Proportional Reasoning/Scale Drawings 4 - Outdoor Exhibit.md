@@ -14,7 +14,32 @@ An outdoor exhibit measures **3.6 m by 2.4 m**. Sketch a scaled rectangle using 
 ## Solution
 
 > [!example]- Show solution
-> $$3.6\div0.6=6\text{ cm},\qquad2.4\div0.6=4\text{ cm}.$$ The plan is $6\text{ cm}\times4\text{ cm}$.
+>
+> **Step 1 — Read the scale.** A length of **0.6 m in the actual exhibit** is shown as **1 cm in the sketch**. Use the same scale for both dimensions.
+>
+> **Step 2 — Calculate the scaled length.** Let $L$ represent the length on the drawing.
+>
+> $$
+> \frac{1\text{ cm}}{0.6\text{ m}}=\frac{L}{3.6\text{ m}}
+> $$
+>
+> $$
+> L=\frac{3.6}{0.6}\text{ cm}=\boxed{6\text{ cm}}
+> $$
+>
+> **Step 3 — Calculate the scaled width.** Let $W$ represent the width on the drawing.
+>
+> $$
+> \frac{1\text{ cm}}{0.6\text{ m}}=\frac{W}{2.4\text{ m}}
+> $$
+>
+> $$
+> W=\frac{2.4}{0.6}\text{ cm}=\boxed{4\text{ cm}}
+> $$
+>
+> **Step 4 — Construct the drawing.** Draw a **6 cm by 4 cm** rectangle with a ruler. Mark the $6$ cm and $4$ cm drawing dimensions and identify the scale.
+>
+> **Check:** $6\times0.6=3.6$ m and $4\times0.6=2.4$ m. Both give the original exhibit dimensions.
 >
 > ![Worked solution diagram](/assets/scale-04-solution.svg)
 
