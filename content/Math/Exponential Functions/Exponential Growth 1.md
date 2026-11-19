@@ -15,7 +15,7 @@ calculator: prohibited
 
 # Exponential Growth 1
 
-A community has 2,000 residents. Its population rises by $10\%$ in the first year. Calculate the population at the end of the first year and then at the end of the second year if it grows by another $10\%$. Explain why adding \$200$ residents each year would not represent the same process.
+A community has 2,000 residents. Its population rises by $10\%$ in the first year. Calculate the population at the end of the first year and then at the end of the second year if it grows by another $10\%$. Explain why adding 200 residents each year would not represent the same process.
 
 > [!abstract] Review First
 > - [[Math/Foundations/Percentages 1|Percentages 1]]
