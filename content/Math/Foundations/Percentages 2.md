@@ -32,7 +32,7 @@ A jacket costs \$160. Its price increases by $15\%$. Determine the dollar increa
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q02 - Laptop Depreciation Half Value|Exponential Functions Practice T2 Q02 - Laptop Depreciation Half Value]]
+> - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
 
 ## Solution
 

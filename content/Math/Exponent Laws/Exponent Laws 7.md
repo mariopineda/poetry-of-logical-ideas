@@ -35,7 +35,7 @@ Rewrite using the indicated base.
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T3 Q02 - Solving Exponentials by Common Bases|Exponential Functions Practice T3 Q02 - Solving Exponentials by Common Bases]]
+> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
 
 ## Solution
 

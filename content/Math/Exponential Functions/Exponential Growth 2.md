@@ -34,11 +34,11 @@ Two savings accounts each start with \$500. Account A adds \$50 every year. Acco
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q06 - Reading Annual Change from Models|Exponential Functions Practice T2 Q06 - Reading Annual Change from Models]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q07 - Comparing Compounding Frequencies|Exponential Functions Practice T2 Q07 - Comparing Compounding Frequencies]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q09 - Bacterial Doubling Time|Exponential Functions Practice T2 Q09 - Bacterial Doubling Time]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T3 Q04 - Solving a Bacterial Doubling Model|Exponential Functions Practice T3 Q04 - Solving a Bacterial Doubling Model]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T4 Q03 - Plant Growth Regression|Exponential Functions Practice T4 Q03 - Plant Growth Regression]]
+> - [[Math/Exponential Functions/Appreciation and Depreciation 1|Appreciation and Depreciation 1]]
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+> - [[Math/Exponential Functions/Exponential Regression - Plant Growth 1|Exponential Regression - Plant Growth 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -32,7 +32,7 @@ Without using logarithms, solve each equation. Explain your strategy.
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Exponential Equations 2|Exponential Equations 2]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T3 Q07 - Interpreting an Exponential Loan Equation|Exponential Functions Practice T3 Q07 - Interpreting an Exponential Loan Equation]]
+> - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -29,11 +29,11 @@ A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth a
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q02 - Reading Exponential Graph Characteristics|Exponential Functions Practice T1 Q02 - Reading Exponential Graph Characteristics]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q05 - Characteristics from Exponential Plots|Exponential Functions Practice T1 Q05 - Characteristics from Exponential Plots]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q06 - Intercept and Growth or Decay|Exponential Functions Practice T1 Q06 - Intercept and Growth or Decay]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q10 - Contrasting Growth and Decay|Exponential Functions Practice T1 Q10 - Contrasting Growth and Decay]]
-> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q11 - Comparing Caffeine Decay Graphs|Exponential Functions Practice T1 Q11 - Comparing Caffeine Decay Graphs]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 1|Exponential Graph Characteristics 1]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 2|Exponential Graph Characteristics 2]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 1|Exponential Growth and Decay 1]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 3|Exponential Growth and Decay 3]]
+> - [[Math/Exponential Functions/Caffeine Decay 1|Caffeine Decay 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -1,0 +1,56 @@
+---
+type: qod
+publish: true
+course:
+  - Mathematics 30-2
+  - Mathematics 30-1
+topic: "Solving Exponential Equations"
+learning_order: 3305
+show_solution: false
+source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice"
+source_question: 5
+domain: "Exponential Functions"
+curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
+curriculum_review_required: false
+calculator: required
+---
+
+# Exponential Decay - Food Storage 1
+
+In an idealized experiment the storage lifetime (hours) of a food sample at temperature $T$ °C is $H(T)=150(1/2)^{T/40}$. a) Calculate shelf life at $T=6$ to the nearest tenth of an hour. b) Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a degree.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+> - [[Math/Exponential Functions/Depreciation - Camera Value 1|Depreciation - Camera Value 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> **Step 1 — Interpret the model.** $H(T)=150(1/2)^{T/40}$ predicts storage life, in hours, as a function of temperature $T$ (°C). Because $0<1/2<1$, predicted life gets shorter as temperature increases.
+> 
+> **a) Substitute $T=6$.**
+> 
+> $$H(6)=150\left(\frac12\right)^{6/40}\approx\boxed{135.2\text{ hours}}.$$
+> 
+> **b) Convert days to hours first.** Five days is $5(24)=120$ hours. Set the model equal to $120$:
+> 
+> $$120=150\left(\frac12\right)^{T/40}\implies0.8=\left(\frac12\right)^{T/40}.$$
+> 
+> Take logarithms:
+> 
+> $$\ln0.8=\frac{T}{40}\ln0.5\implies T=40\frac{\ln0.8}{\ln0.5}\approx\boxed{12.9^\circ\mathrm C}.$$
+> 
+> **Check:** Since $120<150$, a positive temperature is reasonable for this particular model. It is an idealized mathematical example, not a food-safety recommendation.
