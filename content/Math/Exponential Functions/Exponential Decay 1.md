@@ -1,19 +1,35 @@
 ---
 publish: true
-show_solution: false
+show_solution: true
 type: qod
-domain: "Exponential Functions"
-topic: "Growth and Decay"
+domain: Exponential Functions
+topic: Growth and Decay
 course:
   - Mathematics 30-2
-source: "Math 30-2 Exponential Functions Pre-Unit Review"
+source: Math 30-2 Exponential Functions Pre-Unit Review
 source_question: 7
-curriculum_alignment: "30-2 Relations and Functions SO6 exponential models of contextual data"
+curriculum_alignment: 30-2 Relations and Functions SO6 exponential models of contextual data
 curriculum_review_required: false
 calculator: prohibited
 ---
 
 A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth after one year? If it loses another $20\%$ of its **new value** in the second year, what is it worth then?
+
+## Solution
+
+> [!example]- Show solution
+>
+> After one year:
+>
+> $$
+> 1200(1-0.20)=1200(0.80)=\boxed{\$960}
+> $$
+>
+> After the second year, the $20\%$ decrease applies to the **new value**:
+>
+> $$
+> 960(0.80)=\boxed{\$768}
+> $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -37,19 +53,3 @@ A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth a
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
-
-## Solution
-
-> [!example]- Show solution
->
-> After one year:
->
-> $$
-> 1200(1-0.20)=1200(0.80)=\boxed{\$960}
-> $$
->
-> After the second year, the $20\%$ decrease applies to the **new value**:
->
-> $$
-> 960(0.80)=\boxed{\$768}
-> $$

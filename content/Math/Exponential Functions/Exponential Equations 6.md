@@ -1,14 +1,14 @@
 ---
 publish: true
-show_solution: false
+show_solution: true
 type: qod
-domain: "Exponential Functions"
-topic: "Exponential Equations"
+domain: Exponential Functions
+topic: Exponential Equations
 course:
   - Mathematics 30-2
-source: "Math 30-2 Exponential Functions Pre-Unit Review"
+source: Math 30-2 Exponential Functions Pre-Unit Review
 source_question: 17
-curriculum_alignment: "30-2 Relations and Functions SO5 exponential equations"
+curriculum_alignment: 30-2 Relations and Functions SO5 exponential equations
 curriculum_review_required: false
 calculator: prohibited
 ---
@@ -17,6 +17,14 @@ Without using logarithms, solve each equation. Explain your strategy.
 
 (a) $2^x=32$  
 (b) $3^{x+1}=81$
+
+## Solution
+
+> [!example]- Show solution
+>
+> (a) $2^x=32=2^5$, so $\boxed{x=5}$.
+>
+> (b) $3^{x+1}=81=3^4$, so $x+1=4$ and $\boxed{x=3}$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
@@ -36,11 +44,3 @@ Without using logarithms, solve each equation. Explain your strategy.
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
-
-## Solution
-
-> [!example]- Show solution
->
-> (a) $2^x=32=2^5$, so $\boxed{x=5}$.
->
-> (b) $3^{x+1}=81=3^4$, so $x+1=4$ and $\boxed{x=3}$.
