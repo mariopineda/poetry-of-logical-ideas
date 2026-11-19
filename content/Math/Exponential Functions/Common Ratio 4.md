@@ -29,6 +29,10 @@ Complete the table. Explain whether the outputs change by a constant difference 
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
 > - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q09 - Matching Equations to Exponential Plots|Exponential Functions Practice T1 Q09 - Matching Equations to Exponential Plots]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q12 - Modelling News Spread|Exponential Functions Practice T1 Q12 - Modelling News Spread]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T4 Q02 - Fish Length and Mass Regression|Exponential Functions Practice T4 Q02 - Fish Length and Mass Regression]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T4 Q06 - Culture Growth from Repeated Observations|Exponential Functions Practice T4 Q06 - Culture Growth from Repeated Observations]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

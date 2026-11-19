@@ -38,6 +38,7 @@ Convert each percent to a decimal.
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q06 - Reading Annual Change from Models|Exponential Functions Practice T2 Q06 - Reading Annual Change from Models]]
 
 ## Solution
 

@@ -28,6 +28,11 @@ Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quan
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q08 - Classifying Growth Without Graphing|Exponential Functions Practice T1 Q08 - Classifying Growth Without Graphing]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q11 - Comparing Caffeine Decay Graphs|Exponential Functions Practice T1 Q11 - Comparing Caffeine Decay Graphs]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q01 - Comparing Two Investment Models|Exponential Functions Practice T2 Q01 - Comparing Two Investment Models]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q02 - Laptop Depreciation Half Value|Exponential Functions Practice T2 Q02 - Laptop Depreciation Half Value]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q10 - Dating an Ancient Wood Sample|Exponential Functions Practice T2 Q10 - Dating an Ancient Wood Sample]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

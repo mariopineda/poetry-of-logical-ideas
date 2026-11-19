@@ -29,6 +29,11 @@ A community has 2,000 residents. Its population rises by $10\%$ in the first yea
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q06 - Intercept and Growth or Decay|Exponential Functions Practice T1 Q06 - Intercept and Growth or Decay]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q08 - Classifying Growth Without Graphing|Exponential Functions Practice T1 Q08 - Classifying Growth Without Graphing]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q10 - Contrasting Growth and Decay|Exponential Functions Practice T1 Q10 - Contrasting Growth and Decay]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T1 Q12 - Modelling News Spread|Exponential Functions Practice T1 Q12 - Modelling News Spread]]
+> - [[Math/Exponential Functions/Exponential Functions Practice T2 Q05 - Annual Compound Interest|Exponential Functions Practice T2 Q05 - Annual Compound Interest]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
