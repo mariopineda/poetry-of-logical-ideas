@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-Two volunteers consume different quantities of caffeine. The graphs show estimated caffeine remaining over eight hours.
+Two volunteers take part in a supervised classroom study of how caffeine levels decline over time. The volunteers begin with different amounts of caffeine in their systems, and the graphs show the estimated amount remaining, in milligrams, during the eight hours after the initial measurement. Use the graphs to compare both the starting quantities and how rapidly they decrease.
 
 ![[EF_T1_Q11.png]]
 

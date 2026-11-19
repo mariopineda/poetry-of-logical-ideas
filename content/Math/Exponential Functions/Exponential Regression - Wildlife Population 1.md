@@ -14,7 +14,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-A wildlife survey observes population changes:
+Wildlife managers monitoring an isolated island have counted a declining population of small mammals over six annual surveys. The survey method is kept consistent so the counts can be compared from year to year. The table shows the number of years $x$ after the first survey and the estimated number of animals $y$ on the island. The managers want to describe the rate of decline and estimate how quickly the population might halve if the trend continues.
 
 | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|

@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A vehicle is purchased for $\$28\,000$. Its value after $t$ years is modelled by $V(t)=28000(0.82)^t$. The buyer finances $\$23\,000$ at a monthly interest rate of $0.8\%$ and makes payments of $\$390$ per month. The standard loan equation is
+A driver buys a used SUV for \$28,000 and finances \$23,000 of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays \$390 each month. The lender gives the following standard equation for the estimated number of monthly payments:
 
 $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right),$$
 

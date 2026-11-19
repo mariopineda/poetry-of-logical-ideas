@@ -14,7 +14,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-A tenant tracks yearly rent after moving into an apartment:
+A tenant is reviewing how much it costs to rent an apartment as housing expenses rise. The tenant records the *total annual rent paid* in each of the first four years after moving in, with year $0$ representing the first year of the lease. In the table, $x$ is the number of years since the first lease year and $y$ is annual rent in dollars. Use the data to estimate the trend and forecast a future annual rent; assume no major change in the apartment or lease terms.
 
 | $x$ | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|

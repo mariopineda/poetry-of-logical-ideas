@@ -14,7 +14,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-A survey records the percentage of a wetland pool covered by floating plants each week:
+During a summer field project, students monitor a small wetland pond where floating plants are spreading across the water surface. They estimate the percentage of the pond covered by plants at the same time each week. The table shows the number of weeks $t$ since the first observation and the percentage $C$ of the water surface covered. A model fitted to these early observations may be useful for short-term prediction, but coverage cannot exceed 100\%.
 
 | Week $t$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|

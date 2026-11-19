@@ -14,7 +14,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-Second-hand camera body prices are recorded by age:
+A photography student is researching the resale market before buying a used camera body. The student gathers asking prices for similar models in comparable condition, grouping them by age. In the table, $x$ is the age of the camera in years and $y$ is its typical listed price, in Canadian dollars. The goal is to model the overall depreciation trend, not to predict the exact price of an individual camera.
 
 | $x$ | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|

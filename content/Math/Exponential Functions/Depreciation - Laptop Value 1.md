@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A laptop is purchased for \$3200 and loses $16\%$ of its value annually.
+A student buys a high-performance laptop for \$3200 and wants to estimate its resale value before upgrading. A consumer-price model assumes that the laptop loses $16\%$ of its value each year, relative to its value at the beginning of that year. There is no additional damage or repair cost in this model.
 
 ### A.
 

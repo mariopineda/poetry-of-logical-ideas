@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-Two business partners borrow $165,000 with monthly payments of $1000$. A loan model has been simplified to $(1.0038)^n=2.6813$, where $n$ represents months.
+Two partners take out a \$165,000 loan to purchase equipment for a small business. They plan to make payments of \$1000 each month. Their lender has provided a simplified model for estimating the repayment period: $(1.0038)^n=2.6813$, where $n$ is the number of monthly payments. Use this supplied equation rather than constructing a new loan model; assume its result can be used to estimate total interest.
 
 ### A.
 

@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A bacterial culture initially has $75,000$ organisms and doubles every $35$ minutes. Given $N(t)=75000(2)^{t/35}$, calculate how many minutes it takes to reach $450,000$, rounded to the nearest minute.
+In a school science lab, students place a bacterial culture in conditions under which its population is expected to double every $35$ minutes. The culture begins with 75,000 organisms. The model $N(t)=75000(2)^{t/35}$ estimates the number of organisms after $t$ minutes. Assuming the growth pattern continues, calculate how long it takes the population to reach 450,000, rounded to the nearest minute.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]

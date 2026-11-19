@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-Morgan holds two investments whose values after $t$ years are $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$. Determine:
+Morgan is comparing two long-term savings accounts before deciding where to keep money for a future purchase. Both accounts earn interest once per year, but they begin with different deposits and offer different annual rates. After $t$ years, their balances are modelled by $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$, respectively, with amounts in dollars. Determine:
 
 ### A.
 

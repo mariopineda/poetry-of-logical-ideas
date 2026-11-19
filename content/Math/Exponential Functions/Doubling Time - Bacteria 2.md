@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A culture has $240$ organisms at the beginning of an experiment, doubling every $10$ hours. Solve algebraically for the time needed to reach $245,760$ bacteria, and confirm on a graph.
+A research technician is monitoring a slowly growing bacterial culture. At the start of an experiment there are 240 organisms, and the measured population is modelled as doubling every $10$ hours. The technician wants to know when the population could reach 245,760 organisms if the same conditions persist. Solve algebraically for the elapsed time and confirm the result on a graph.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

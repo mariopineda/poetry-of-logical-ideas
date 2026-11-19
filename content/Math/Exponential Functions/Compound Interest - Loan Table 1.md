@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A borrower postpones loan repayment for five years. The debt compounds annually according to this table.
+A small business borrows money to replace a delivery vehicle but makes no payments during the first five years. Interest is added to the outstanding balance at the end of each year. The lender provides the following table, where $x$ is the number of years since the loan began and $y$ is the amount owing, in dollars. Assume the interest rate remains unchanged.
 
 | $x$ | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|

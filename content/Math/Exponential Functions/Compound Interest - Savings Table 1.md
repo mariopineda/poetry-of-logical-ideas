@@ -16,7 +16,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A deposit earns annually compounded interest. The account balances are:
+A recent graduate puts a lump sum into a savings account to build an emergency fund. No additional deposits or withdrawals are made, and interest is compounded once per year. The table shows the year $x$ since opening the account and the corresponding balance $y$, in dollars. Use the pattern in the balances to determine how the investment grows.
 
 | $x$ | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|

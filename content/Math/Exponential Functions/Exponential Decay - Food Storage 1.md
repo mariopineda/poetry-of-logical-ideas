@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-In an idealized experiment the storage lifetime (hours) of a food sample at temperature $T$ °C is $H(T)=150(1/2)^{T/40}$.
+A food-science team investigates how storage temperature affects the usable life of a particular prepared food under controlled conditions. Their simplified experimental model gives the estimated shelf life $H$, in hours, at storage temperature $T$, in degrees Celsius: $H(T)=150(1/2)^{T/40}$. This is a mathematical model for the investigation, not a general food-safety guideline.
 
 ### A.
 

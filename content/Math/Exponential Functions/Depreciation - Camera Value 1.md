@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-A camera was purchased in January 2016 for $3600$. Its estimated value is $V(t)=3600(0.88)^t$, where $t$ is years from purchase.
+A freelance photographer purchased a professional camera body in January 2016 for \$3600. To plan when it might be worth replacing, the photographer uses the estimated resale-value model $V(t)=3600(0.88)^t$, where $t$ is the number of years since January 2016 and $V(t)$ is measured in dollars. Assume the same percentage depreciation each year.
 
 ### A.
 

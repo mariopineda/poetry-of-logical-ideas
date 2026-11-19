@@ -16,7 +16,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A $1600 award can be invested for 2 years in either Plan A at $6.5\%$ compounded annually or Plan B at $6.2\%$ compounded monthly. Which provides the greater final balance, and by how much?
+A student receives a \$1600 achievement award and plans to leave it untouched for two years. Two savings products are available: Plan A offers $6.5\%$ annual interest compounded once per year, while Plan B offers $6.2\%$ annual interest compounded monthly. The student wants to compare the actual balances at the end of two years, not just the advertised rates. Which option produces more money, and by how much?
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

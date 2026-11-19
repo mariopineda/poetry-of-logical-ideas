@@ -14,7 +14,7 @@ curriculum_review_required: false
 calculator: required
 ---
 
-A study estimates a substance remaining in a sample:
+In an environmental science lab, students investigate the breakdown of a biodegradable tracing compound mixed into a closed water sample. At the start of the experiment and at several later times, they measure how much of the compound remains. In the table, $x$ is the elapsed time in **hours** and $y$ is the mass of compound remaining, in **milligrams**. The students want to use an exponential regression model to estimate how quickly the compound disappears.
 
 | $x$ | 0 | 1 | 3 | 4 | 6 |
 |---|---|---|---|---|---|

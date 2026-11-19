@@ -15,7 +15,7 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-A recovered wooden artifact retains $68\%$ of its original carbon-14. Using $C(t)=100(0.5)^{t/5730}$, find its age, to the nearest year.
+During an archaeological survey, researchers recover an old wooden tool from a dry storage site. Laboratory analysis suggests that the wood contains $68\%$ of the carbon-14 that would be expected in a comparable living sample. The half-life of carbon-14 is approximately 5730 years. Using the model $C(t)=100(0.5)^{t/5730}$, where $C(t)$ is the percentage remaining after $t$ years, estimate when the wood stopped exchanging carbon with the environment, to the nearest year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
