@@ -11,14 +11,14 @@ show_solution: true
 ---
 A web banner measures **7.5 cm wide and 3 cm high** in a printed proof. **(a)** If the new width is 5 cm, what height preserves the proportions? **(b)** If the height becomes 4.2 cm, what width is needed?
 
-![Question diagram](/poetry-of-logical-ideas/assets/scale-08-question.svg)
+![Question diagram](/assets/scale-08-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > a) $$3\times\frac{5}{7.5}=2\text{ cm}.$$ b) $$7.5\times\frac{4.2}{3}=10.5\text{ cm}.$$
 >
-> ![Worked solution diagram](/poetry-of-logical-ideas/assets/scale-08-solution.svg)
+> ![Worked solution diagram](/assets/scale-08-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]
