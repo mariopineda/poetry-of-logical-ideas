@@ -32,8 +32,6 @@ Determine annual rent growth to nearest percent.
 
 Forecast year 10 rent, nearest dollar.
 
-**Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
