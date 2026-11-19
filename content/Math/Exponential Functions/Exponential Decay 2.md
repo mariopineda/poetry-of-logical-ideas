@@ -1,19 +1,30 @@
 ---
 publish: true
-show_solution: false
+show_solution: true
 type: qod
-domain: "Exponential Functions"
-topic: "Growth and Decay"
+domain: Exponential Functions
+topic: Growth and Decay
 course:
   - Mathematics 30-2
-source: "Math 30-2 Exponential Functions Pre-Unit Review"
+source: Math 30-2 Exponential Functions Pre-Unit Review
 source_question: 18
-curriculum_alignment: "30-2 Relations and Functions SO6 exponential representation and growth/decay comparison"
+curriculum_alignment: 30-2 Relations and Functions SO6 exponential representation and growth/decay comparison
 curriculum_review_required: false
 calculator: prohibited
 ---
 
 Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quantity every time. Give a numerical example.
+
+## Solution
+
+> [!example]- Show solution
+>
+> Starting with $100$:
+>
+> - Decrease by $20\%$ each time: $100\to80\to64$.
+> - Subtract $20$ each time: $100\to80\to60$.
+>
+> A repeated percentage decrease is calculated from the **current amount** each time; subtracting $20$ removes a **fixed amount** each time.
 
 > [!abstract] Review First
 > - [[Math/Foundations/Percentages 1|Percentages 1]]
@@ -36,14 +47,3 @@ Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quan
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
-
-## Solution
-
-> [!example]- Show solution
->
-> Starting with $100$:
->
-> - Decrease by $20\%$ each time: $100\to80\to64$.
-> - Subtract $20$ each time: $100\to80\to60$.
->
-> A repeated percentage decrease is calculated from the **current amount** each time; subtracting $20$ removes a **fixed amount** each time.
