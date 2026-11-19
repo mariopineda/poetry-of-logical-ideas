@@ -69,6 +69,10 @@ Evaluate $\sum_{n=2}^{\infty} 8\left( -\frac{1}{3} \right)^n$
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Compound Interest - Savings Table 1|Compound Interest - Savings Table 1]]
+> - [[Math/Exponential Functions/Exponential Growth - Information Spread 1|Exponential Growth - Information Spread 1]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 2|Exponential Growth and Decay 2]]
+> - [[Math/Exponential Functions/Exponential Patterns in Tables 1|Exponential Patterns in Tables 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

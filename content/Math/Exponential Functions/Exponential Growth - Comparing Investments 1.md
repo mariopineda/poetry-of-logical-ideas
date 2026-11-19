@@ -17,21 +17,13 @@ calculator: allowed
 
 Morgan is comparing two long-term savings accounts before deciding where to keep money for a future purchase. Both accounts earn interest once per year, but they begin with different deposits and offer different annual rates. After $t$ years, their balances are modelled by $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$, respectively, with amounts in dollars. Determine:
 
-### A.
+A. each principal
 
-each principal
+B. each annual rate
 
-### B.
+C. both balances after 5 years
 
-each annual rate
-
-### C.
-
-both balances after 5 years
-
-### D.
-
-the time to reach $3600$, to the nearest tenth of a year.
+D. the time to reach $3600$, to the nearest tenth of a year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
@@ -46,7 +38,8 @@ the time to reach $3600$, to the nearest tenth of a year.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 3|Infinite Geometric Sequences 3]]
 
 ## Solution
 

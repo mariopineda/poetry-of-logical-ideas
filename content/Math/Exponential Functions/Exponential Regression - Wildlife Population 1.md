@@ -20,17 +20,11 @@ Wildlife managers monitoring an isolated island have counted a declining populat
 |---|---|---|---|---|---|---|
 | $y$ | 720 | 576 | 461 | 369 | 295 | 236 |
 
-### A.
+A. Estimate yearly percentage decrease without regression.
 
-Estimate yearly percentage decrease without regression.
+B. Determine exponential regression function with parameters to hundredths.
 
-### B.
-
-Determine exponential regression function with parameters to hundredths.
-
-### C.
-
-Determine the population half-life in years, to one decimal.
+C. Determine the population half-life in years, to one decimal.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -46,7 +40,8 @@ Determine the population half-life in years, to one decimal.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
 
 ## Solution
 
@@ -72,11 +67,11 @@ Determine the population half-life in years, to one decimal.
 > 
 > The coefficient $a\approx720.0902$ estimates the value when $x=0$; the base $b\approx0.800067$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b<1$, so the fitted values decrease by approximately $19.99\%$ per unit.
 > 
-> **a) Estimate the loss directly from the table.** For example, $576/720=0.80$. This means about $80\%$ remains after one year, a decrease of $20\%$; later ratios are close to $0.80$ because population counts were rounded.
+> **A. Estimate the loss directly from the table.** For example, $576/720=0.80$. This means about $80\%$ remains after one year, a decrease of $20\%$; later ratios are close to $0.80$ because population counts were rounded.
 > 
-> **b) Fitted equation:** $P(t)\approx720.09(0.80007)^t$ (full calculator precision for predictions).
+> **B. Fitted equation:** $P(t)\approx720.09(0.80007)^t$ (full calculator precision for predictions).
 > 
-> **c) Find the half-life.** Half-life is the time required for the model to fall to half its starting amount. Divide $P(t)=a/2$ by $a$:
+> **C. Find the half-life.** Half-life is the time required for the model to fall to half its starting amount. Divide $P(t)=a/2$ by $a$:
 > 
 > $$0.5=b^t\implies t=\frac{\ln0.5}{\ln b}\approx\boxed{3.1\text{ years}}.$$
 > 

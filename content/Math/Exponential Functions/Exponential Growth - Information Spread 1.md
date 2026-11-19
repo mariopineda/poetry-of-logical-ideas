@@ -17,17 +17,11 @@ calculator: allowed
 
 A local environmental club is promoting a community creek-cleanup event. Four club members are the first people to know about the event. During the first hour, each member tells three people who have not yet heard the news. During the next hour, each newly informed person tells three more people, with no overlap between groups. Suppose this idealized pattern continues for several hours, even though a real community has a limited population.
 
-### A.
+A. Make a table for the number of *new* people informed at hours $0$ through $5$.
 
-Make a table for the number of *new* people informed at hours $0$ through $5$.
+B. Explain whether the data are exponential.
 
-### B.
-
-Explain whether the data are exponential.
-
-### C.
-
-Graph the model and predict the number newly informed in hour $8$.
+C. Graph the model and predict the number newly informed in hour $8$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
@@ -42,6 +36,8 @@ Graph the model and predict the number newly informed in hour $8$.
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Growth - Comparing Investments 1|Exponential Growth - Comparing Investments 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
 
 ## Solution
 

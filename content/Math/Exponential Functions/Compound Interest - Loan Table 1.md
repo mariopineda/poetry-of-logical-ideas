@@ -21,21 +21,13 @@ A small business borrows money to replace a delivery vehicle but makes no paymen
 |---|---|---|---|---|
 | $y$ | 2160 | 2332.8 | 2519.42 | 2720.98 |
 
-### A.
+A. Estimate the annual interest rate.
 
-Estimate the annual interest rate.
+B. Determine the original amount borrowed.
 
-### B.
+C. Write the debt model.
 
-Determine the original amount borrowed.
-
-### C.
-
-Write the debt model.
-
-### D.
-
-If the balance is paid in full at the end of year 5, calculate total interest paid.
+D. If the balance is paid in full at the end of year 5, calculate total interest paid.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
@@ -51,7 +43,8 @@ If the balance is paid in full at the end of year 5, calculate total interest pa
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 ## Solution
 

@@ -17,33 +17,28 @@ calculator: allowed
 
 For every table, decide whether it is exponential, explain using successive ratios, determine the $y$-intercept, and classify any exponential trend as growth or decay.
 
-### A.
+A. | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 
-| $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | $y$ | 9 | 27 | 81 | 243 | 729 | 2187 |
 
-### B.
+B. | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 
-| $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | $y$ | 2048 | 512 | 128 | 32 | 8 | 2 |
 
-### C.
+C. | $x$ | -4 | -3 | -2 | -1 | 0 | 1 |
 
-| $x$ | -4 | -3 | -2 | -1 | 0 | 1 |
 |---|---|---|---|---|---|---|
 | $y$ | -7 | -4 | -1 | 2 | 5 | 8 |
 
-### D.
+D. | $x$ | -1 | 0 | 1 | 2 | 3 | 4 |
 
-| $x$ | -1 | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|---|
 | $y$ | 500 | 100 | 20 | 4 | 0.8 | 0.16 |
 
-### E.
+E. | $x$ | -2 | -1 | 0 | 1 | 2 | 3 |
 
-| $x$ | -2 | -1 | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|---|---|
 | $y$ | 8 | 4 | 2 | 5 | 9 | 14 |
 
@@ -51,6 +46,7 @@ For every table, decide whether it is exponential, explain using successive rati
 > - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
 > - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]
 > - [[Math/Exponential Functions/Common Ratio 3|Common Ratio 3]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 2|Exponential Growth and Decay 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -61,7 +57,8 @@ For every table, decide whether it is exponential, explain using successive rati
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
 
 ## Solution
 
@@ -71,10 +68,10 @@ For every table, decide whether it is exponential, explain using successive rati
 > 
 > | Table | Ratios or differences | Exponential? | $y$-intercept | Interpretation |
 > |---|---|---|---|---|
-> | a | $27/9=81/27=243/81=3$ | Yes | $9$ | Growth, $y=9(3)^x$ |
-> | b | $512/2048=128/512=\frac14$ | Yes | $2048$ | Decay, $y=2048(\frac14)^x$ |
-> | c | Differences are consistently $+3$; ratios change | No | $5$ | Linear, not exponential |
-> | d | $100/500=20/100=\frac15$ | Yes | $100$ | Decay, $y=100(\frac15)^x$ |
-> | e | Ratios $4/8$, $2/4$, $5/2$ are not equal | No | $2$ | Not exponential |
+> | A | $27/9=81/27=243/81=3$ | Yes | $9$ | Growth, $y=9(3)^x$ |
+> | B | $512/2048=128/512=\frac14$ | Yes | $2048$ | Decay, $y=2048(\frac14)^x$ |
+> | C | Differences are consistently $+3$; ratios change | No | $5$ | Linear, not exponential |
+> | D | $100/500=20/100=\frac15$ | Yes | $100$ | Decay, $y=100(\frac15)^x$ |
+> | E | Ratios $4/8$, $2/4$, $5/2$ are not equal | No | $2$ | Not exponential |
 > 
 > **Reasoning check:** For table d, $x=-1$ gives $100(\frac15)^{-1}=500$, which matches the table. A constant difference is evidence for a linear function; a constant ratio is evidence for an exponential function.

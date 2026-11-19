@@ -111,6 +111,7 @@ Use a graphing calculator.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Plant Growth 1|Exponential Regression - Plant Growth 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

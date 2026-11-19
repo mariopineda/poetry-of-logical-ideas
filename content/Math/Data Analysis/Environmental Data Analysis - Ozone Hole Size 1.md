@@ -43,6 +43,7 @@ The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

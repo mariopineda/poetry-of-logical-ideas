@@ -115,6 +115,9 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Exponential Functions/Depreciation and Loan Repayment 1|Depreciation and Loan Repayment 1]]
+> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

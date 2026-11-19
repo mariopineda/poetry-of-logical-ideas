@@ -20,21 +20,13 @@ Aquatic biologists are studying fish from the same population in a freshwater la
 |---|---|---|---|---|---|---|---|---|
 | $y$ | 182 | 250 | 320 | 385 | 460 | 548 | 275 | 414 |
 
-### A.
+A. Make a scatter plot.
 
-Make a scatter plot.
+B. Fit an exponential model $M=ab^L$ and plot the curve; round parameters to thousandths.
 
-### B.
+C. Predict mass at $L=400$ mm.
 
-Fit an exponential model $M=ab^L$ and plot the curve; round parameters to thousandths.
-
-### C.
-
-Predict mass at $L=400$ mm.
-
-### D.
-
-Find length for $M=650$ g; explain how you read each estimate.
+D. Find length for $M=650$ g; explain how you read each estimate.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -49,7 +41,8 @@ Find length for $M=650$ g; explain how you read each estimate.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
 
 ## Solution
 
@@ -77,15 +70,15 @@ Find length for $M=650$ g; explain how you read each estimate.
 > 
 > **Use the regression to answer the biological questions.**
 > 
-> **a–b) Model:** $M(L)=a\,b^L$ with coefficients shown above. The horizontal axis is length in **millimetres**, not time; so the factor $b$ corresponds to a one-millimetre change in length.
+> **A–B. Model:** $M(L)=a\,b^L$ with coefficients shown above. The horizontal axis is length in **millimetres**, not time; so the factor $b$ corresponds to a one-millimetre change in length.
 > 
-> **c) Predict at 400 mm.** Substitute $L=400$ using the unrounded regression coefficients:
+> **C. Predict at 400 mm.** Substitute $L=400$ using the unrounded regression coefficients:
 > 
 > $$M(400)=a\,b^{400}\approx\boxed{526\text{ g}}.$$
 > 
 > You can also use `2nd` → `TRACE` → `1:value` at $x=400$ on the plotted fitted curve.
 > 
-> **d) Solve for a mass of 650 g.** Set the fitted function equal to 650:
+> **D. Solve for a mass of 650 g.** Set the fitted function equal to 650:
 > 
 > $$650=a\,b^L\implies L=\frac{\ln(650/a)}{\ln b}\approx\boxed{432\text{ mm}}.$$
 > 

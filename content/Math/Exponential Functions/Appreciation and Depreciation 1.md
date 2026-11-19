@@ -17,25 +17,15 @@ calculator: allowed
 
 A financial adviser is preparing a display comparing how different assets change in value over time. Each formula models the estimated dollar value of one asset after $t$ years, with $t=0$ representing the date of purchase. Assume a constant percentage change each year. For each model, state the starting value, whether the asset appreciates or depreciates, and the yearly percentage change.
 
-### A.
+A. $y=850(1.08)^t$
 
-$y=850(1.08)^t$
+B. $y=1750(0.92)^t$
 
-### B.
+C. $y=4200(1.12)^t$
 
-$y=1750(0.92)^t$
+D. $y=2600(0.97)^t$
 
-### C.
-
-$y=4200(1.12)^t$
-
-### D.
-
-$y=2600(0.97)^t$
-
-### E.
-
-$y=750(0.2)^t$.
+E. $y=750(0.2)^t$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
@@ -51,7 +41,8 @@ $y=750(0.2)^t$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 ## Solution
 

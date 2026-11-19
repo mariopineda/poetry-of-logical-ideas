@@ -99,6 +99,7 @@ Determine the infinite sum (in terms of $x$).
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Exponential Growth - Comparing Investments 1|Exponential Growth - Comparing Investments 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

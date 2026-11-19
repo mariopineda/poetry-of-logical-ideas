@@ -17,29 +17,17 @@ calculator: required
 
 Match each equation to one of the six graphs. Explain how the intercept and growth/decay rate guided each match.
 
-### I.
+A. $y=3(0.65)^x$
 
-$y=3(0.65)^x$
+B. $y=2(3)^x$
 
-### II.
+C. $y=5(0.4)^x$
 
-$y=2(3)^x$
+D. $y=4(1.7)^x$
 
-### III.
+E. $y=6(1.15)^x$
 
-$y=5(0.4)^x$
-
-### IV.
-
-$y=4(1.7)^x$
-
-### V.
-
-$y=6(1.15)^x$
-
-### VI.
-
-$y=4^x$.
+F. $y=4^x$.
 
 ![[EF_T1_Q09.png]]
 
@@ -57,7 +45,8 @@ $y=4^x$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 
 ## Solution
 
@@ -69,11 +58,11 @@ $y=4^x$.
 > 
 > | Equation | Intercept | Type | Matching graph |
 > |---|---:|---|---|
-> | i) $3(0.65)^x$ | $3$ | Decay | 4 |
-> | ii) $2(3)^x$ | $2$ | Fast growth | 2 |
-> | iii) $5(0.4)^x$ | $5$ | Faster decay | 1 |
-> | iv) $4(1.7)^x$ | $4$ | Growth | 6 |
-> | v) $6(1.15)^x$ | $6$ | Slow growth | 3 |
-> | vi) $4^x$ | $1$ | Very fast growth | 5 |
+> | A. $3(0.65)^x$ | $3$ | Decay | 4 |
+> | B. $2(3)^x$ | $2$ | Fast growth | 2 |
+> | C. $5(0.4)^x$ | $5$ | Faster decay | 1 |
+> | D. $4(1.7)^x$ | $4$ | Growth | 6 |
+> | E. $6(1.15)^x$ | $6$ | Slow growth | 3 |
+> | F. $4^x$ | $1$ | Very fast growth | 5 |
 > 
-> **Check:** A point at $x=1$ has height $ab$. For example, equation iv has $y(1)=4(1.7)=6.8$. Use this second point if two graphs look similar.
+> **Check:** A point at $x=1$ has height $ab$. For example, equation D has $y(1)=4(1.7)=6.8$. Use this second point if two graphs look similar.

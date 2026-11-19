@@ -30,6 +30,8 @@ During an archaeological survey, researchers recover an old wooden tool from a d
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

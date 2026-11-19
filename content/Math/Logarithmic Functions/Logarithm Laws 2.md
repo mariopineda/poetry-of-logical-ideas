@@ -123,6 +123,9 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
+> - [[Math/Exponential Functions/Exponential Decay - Food Storage 1|Exponential Decay - Food Storage 1]]
+> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

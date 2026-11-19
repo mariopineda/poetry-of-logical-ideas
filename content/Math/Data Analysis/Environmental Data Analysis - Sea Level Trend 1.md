@@ -89,6 +89,8 @@ Let $S(t)$ represent the change in global mean sea level, in millimetres, relati
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Apartment Rent 1|Exponential Regression - Apartment Rent 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Fish Growth 1|Exponential Regression - Fish Growth 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -17,69 +17,37 @@ calculator: allowed
 
 Solve all sixteen equations by converting each side to a common base. Verify with substitution.
 
-### A.
+A. $4^x=64$
 
-$4^x=64$
+B. $3^{t-2}=27$
 
-### B.
+C. $9^x=27^2$
 
-$3^{t-2}=27$
+D. $16^{2x-1}=4^3$
 
-### C.
+E. $2^{x+3}=8^{2x-1}$
 
-$9^x=27^2$
+F. $5^{x+2}=25^{x-1}$
 
-### D.
+G. $11^n=1/121$
 
-$16^{2x-1}=4^3$
+H. $4^{2n+1}=1/64$
 
-### E.
+I. $8^x=32$
 
-$2^{x+3}=8^{2x-1}$
+J. $2^{2x+1}\cdot4^{x-1}=128$
 
-### F.
+K. $7(2^{3x})=56$
 
-$5^{x+2}=25^{x-1}$
+L. $9(3^{2x+1})=243$
 
-### G.
+M. $10^{2(x-2)}=1000$
 
-$11^n=1/121$
+N. $5(25^{x+1})=625$
 
-### H.
+O. $32^{1/5}=2^{1-2x}$
 
-$4^{2n+1}=1/64$
-
-### I.
-
-$8^x=32$
-
-### J.
-
-$2^{2x+1}\cdot4^{x-1}=128$
-
-### K.
-
-$7(2^{3x})=56$
-
-### L.
-
-$9(3^{2x+1})=243$
-
-### M.
-
-$10^{2(x-2)}=1000$
-
-### N.
-
-$5(25^{x+1})=625$
-
-### O.
-
-$32^{1/5}=2^{1-2x}$
-
-### P.
-
-$(1/8)^{2x}=2^{x-3}$.
+P. $(1/8)^{2x}=2^{x-3}$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -97,7 +65,8 @@ $(1/8)^{2x}=2^{x-3}$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
 
 ## Solution
 
@@ -107,22 +76,22 @@ $(1/8)^{2x}=2^{x-3}$.
 > 
 > | Part | Rewrite with a common base | Solve the exponent equation |
 > |---|---|---|
-> | a | $2^{2x}=2^6$ | $2x=6\Rightarrow\boxed{x=3}$ |
-> | b | $3^{t-2}=3^3$ | $t-2=3\Rightarrow\boxed{t=5}$ |
-> | c | $3^{2x}=3^6$ | $2x=6\Rightarrow\boxed{x=3}$ |
-> | d | $2^{4(2x-1)}=2^6$ | $8x-4=6\Rightarrow\boxed{x=\frac54}$ |
-> | e | $2^{x+3}=2^{3(2x-1)}$ | $x+3=6x-3\Rightarrow\boxed{x=\frac65}$ |
-> | f | $5^{x+2}=5^{2(x-1)}$ | $x+2=2x-2\Rightarrow\boxed{x=4}$ |
-> | g | $11^n=11^{-2}$ | $\boxed{n=-2}$ |
-> | h | $2^{2(2n+1)}=2^{-6}$ | $4n+2=-6\Rightarrow\boxed{n=-2}$ |
-> | i | $2^{3x}=2^5$ | $3x=5\Rightarrow\boxed{x=\frac53}$ |
-> | j | $2^{2x+1}2^{2(x-1)}=2^7$ | $4x-1=7\Rightarrow\boxed{x=2}$ |
-> | k | $7\cdot2^{3x}=7\cdot2^3$ | $3x=3\Rightarrow\boxed{x=1}$ |
-> | l | $3^2\cdot3^{2x+1}=3^5$ | $2x+3=5\Rightarrow\boxed{x=1}$ |
-> | m | $10^{2x-4}=10^3$ | $2x-4=3\Rightarrow\boxed{x=\frac72}$ |
-> | n | $5\cdot5^{2x+2}=5^4$ | $2x+3=4\Rightarrow\boxed{x=\frac12}$ |
-> | o | $2^1=2^{1-2x}$ | $1=1-2x\Rightarrow\boxed{x=0}$ |
-> | p | $2^{-6x}=2^{x-3}$ | $-6x=x-3\Rightarrow\boxed{x=\frac37}$ |
+> | A | $2^{2x}=2^6$ | $2x=6\Rightarrow\boxed{x=3}$ |
+> | B | $3^{t-2}=3^3$ | $t-2=3\Rightarrow\boxed{t=5}$ |
+> | C | $3^{2x}=3^6$ | $2x=6\Rightarrow\boxed{x=3}$ |
+> | D | $2^{4(2x-1)}=2^6$ | $8x-4=6\Rightarrow\boxed{x=\frac54}$ |
+> | E | $2^{x+3}=2^{3(2x-1)}$ | $x+3=6x-3\Rightarrow\boxed{x=\frac65}$ |
+> | F | $5^{x+2}=5^{2(x-1)}$ | $x+2=2x-2\Rightarrow\boxed{x=4}$ |
+> | G | $11^n=11^{-2}$ | $\boxed{n=-2}$ |
+> | H | $2^{2(2n+1)}=2^{-6}$ | $4n+2=-6\Rightarrow\boxed{n=-2}$ |
+> | I | $2^{3x}=2^5$ | $3x=5\Rightarrow\boxed{x=\frac53}$ |
+> | J | $2^{2x+1}2^{2(x-1)}=2^7$ | $4x-1=7\Rightarrow\boxed{x=2}$ |
+> | K | $7\cdot2^{3x}=7\cdot2^3$ | $3x=3\Rightarrow\boxed{x=1}$ |
+> | L | $3^2\cdot3^{2x+1}=3^5$ | $2x+3=5\Rightarrow\boxed{x=1}$ |
+> | M | $10^{2x-4}=10^3$ | $2x-4=3\Rightarrow\boxed{x=\frac72}$ |
+> | N | $5\cdot5^{2x+2}=5^4$ | $2x+3=4\Rightarrow\boxed{x=\frac12}$ |
+> | O | $2^1=2^{1-2x}$ | $1=1-2x\Rightarrow\boxed{x=0}$ |
+> | P | $2^{-6x}=2^{x-3}$ | $-6x=x-3\Rightarrow\boxed{x=\frac37}$ |
 > 
 > **Example check:** For part e, $x=\frac65$ gives equal exponents on both sides: $x+3=4.2$ and $3(2x-1)=3(1.4)=4.2$. Thus both sides really are the same number.
 > 

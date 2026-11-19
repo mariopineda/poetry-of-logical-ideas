@@ -17,26 +17,20 @@ calculator: required
 
 Use graphing technology to find every real solution to the nearest tenth.
 
-### A.
+A. $8^{1-x}=2^{x+3}$
 
-$8^{1-x}=2^{x+3}$
+B. $3^{2x}=5^x$
 
-### B.
+C. $2^{x+2}=4^x+2$
 
-$3^{2x}=5^x$
-
-### C.
-
-$2^{x+2}=4^x+2$
-
-### D.
-
-$6^{x-1}=(1/3)^{x+2}$.
+D. $6^{x-1}=(1/3)^{x+2}$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
 > - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -47,7 +41,8 @@ $6^{x-1}=(1/3)^{x+2}$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 ## Solution
 
@@ -55,15 +50,15 @@ $6^{x-1}=(1/3)^{x+2}$.
 >
 > **Graphing method (for each part):** Enter the left expression as `Y1` and the right expression as `Y2`. Choose a window where both curves are visible, then use `2nd` → `TRACE` → `5:intersect` to find the $x$-coordinate where their $y$-values agree. Scan for additional intersections rather than assuming there is only one.
 > 
-> **a)** $8^{1-x}=2^{x+3}$. Since $8=2^3$, write $2^{3-3x}=2^{x+3}$. Equating exponents gives $3-3x=x+3$, so $\boxed{x=0.0}$.
+> **A.** $8^{1-x}=2^{x+3}$. Since $8=2^3$, write $2^{3-3x}=2^{x+3}$. Equating exponents gives $3-3x=x+3$, so $\boxed{x=0.0}$.
 > 
-> **b)** $3^{2x}=5^x$. The left side is $9^x$, so $(9/5)^x=1$. The only real solution is $\boxed{x=0.0}$.
+> **B.** $3^{2x}=5^x$. The left side is $9^x$, so $(9/5)^x=1$. The only real solution is $\boxed{x=0.0}$.
 > 
-> **c)** $2^{x+2}=4^x+2$. This one has **two intersections**. Let $u=2^x>0$, so $4u=u^2+2$, or $u^2-4u+2=0$. The quadratic formula gives $u=2\pm\sqrt2$, both positive. Therefore
+> **C.** $2^{x+2}=4^x+2$. This one has **two intersections**. Let $u=2^x>0$, so $4u=u^2+2$, or $u^2-4u+2=0$. The quadratic formula gives $u=2\pm\sqrt2$, both positive. Therefore
 > 
 > $$x=\frac{\ln(2-\sqrt2)}{\ln2}\approx-0.8\quad\text{or}\quad x=\frac{\ln(2+\sqrt2)}{\ln2}\approx1.8.$$
 > 
-> **d)** $6^{x-1}=(1/3)^{x+2}$. Take logs:
+> **D.** $6^{x-1}=(1/3)^{x+2}$. Take logs:
 > 
 > $$(x-1)\ln6=-(x+2)\ln3,$$
 > $$x=\frac{\ln6-2\ln3}{\ln6+\ln3}=\frac{\ln(2/3)}{\ln18}\approx\boxed{-0.1}.$$

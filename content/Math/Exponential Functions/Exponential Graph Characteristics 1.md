@@ -21,6 +21,7 @@ Use only the exponential graphs from [[Recognizing Function Types 1]]. For each,
 > - [[Math/Functions/Domain and Range 1|Domain and Range 1]]
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Recognizing Function Types 1|Recognizing Function Types 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -31,7 +32,8 @@ Use only the exponential graphs from [[Recognizing Function Types 1]]. For each,
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 3|Exponential Graph Characteristics 3]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

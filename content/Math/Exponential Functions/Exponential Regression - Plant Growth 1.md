@@ -20,21 +20,13 @@ A greenhouse assistant is testing how quickly a climbing vine grows when kept un
 |---|---|---|---|---|---|---|
 | $y$ | 12.5 | 23.1 | 41.6 | 74.7 | 134.8 | 242.6 |
 
-### A.
+A. Create an exponential regression equation, rounding parameters to hundredths.
 
-Create an exponential regression equation, rounding parameters to hundredths.
+B. Estimate height on day 10.
 
-### B.
+C. Estimate height on day 30 and comment on interpolation.
 
-Estimate height on day 10.
-
-### C.
-
-Estimate height on day 30 and comment on interpolation.
-
-### D.
-
-Predict day it reaches 60 cm.
+D. Predict day it reaches 60 cm.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -50,7 +42,8 @@ Predict day it reaches 60 cm.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity|Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1|Environmental Data Analysis - Seasonal Sea Ice Extent 1]]
 
 ## Solution
 
@@ -76,19 +69,19 @@ Predict day it reaches 60 cm.
 > 
 > The coefficient $a\approx7.0041$ estimates the value when $x=0$; the base $b\approx1.088187$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b>1$, so the fitted values increase by approximately $8.82\%$ per unit.
 > 
-> **a) Equation:** $h(t)=a\,b^t$ with the coefficients above; report them to hundredths as directed, but use more digits for calculations.
+> **A. Equation:** $h(t)=a\,b^t$ with the coefficients above; report them to hundredths as directed, but use more digits for calculations.
 > 
-> **b) Day 10 (interpolation):**
+> **B. Day 10 (interpolation):**
 > 
 > $$h(10)=a\,b^{10}\approx\boxed{16.3\text{ cm}}.$$
 > 
-> **c) Day 30 (interpolation):**
+> **C. Day 30 (interpolation):**
 > 
 > $$h(30)=a\,b^{30}\approx\boxed{88.4\text{ cm}}.$$
 > 
 > Both days 10 and 30 lie **inside** the observed day range 7–42. They are interpolations, although no actual measurements were taken on those days.
 > 
-> **d) Height 60 cm:** set $60=a\,b^t$, then solve:
+> **D. Height 60 cm:** set $60=a\,b^t$, then solve:
 > 
 > $$t=\frac{\ln(60/a)}{\ln b}\approx\boxed{25.4\text{ days}}.$$
 > 

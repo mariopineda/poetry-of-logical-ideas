@@ -17,17 +17,11 @@ calculator: required
 
 A freelance photographer purchased a professional camera body in January 2016 for \$3600. To plan when it might be worth replacing, the photographer uses the estimated resale-value model $V(t)=3600(0.88)^t$, where $t$ is the number of years since January 2016 and $V(t)$ is measured in dollars. Assume the same percentage depreciation each year.
 
-### A.
+A. State annual depreciation.
 
-State annual depreciation.
+B. Determine when it is worth $1800$, to the nearest hundredth of a year.
 
-### B.
-
-Determine when it is worth $1800$, to the nearest hundredth of a year.
-
-### C.
-
-Identify the calendar year.
+C. Identify the calendar year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
@@ -43,15 +37,16 @@ Identify the calendar year.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 
 > [!example]- Show solution
 >
-> **a) Interpret the annual factor.** The base $0.88$ represents $88\%$ of value retained each year, which is $\boxed{12\%}$ annual depreciation.
+> **A. Interpret the annual factor.** The base $0.88$ represents $88\%$ of value retained each year, which is $\boxed{12\%}$ annual depreciation.
 > 
-> **b) Find when the value reaches $\$1800$.**
+> **B. Find when the value reaches $\$1800$.**
 > 
 > $$1800=3600(0.88)^t\implies0.5=(0.88)^t.$$
 > 
@@ -59,6 +54,6 @@ Identify the calendar year.
 > 
 > $$t=\frac{\ln0.5}{\ln0.88}\approx\boxed{5.42\text{ years}}.$$
 > 
-> **c) Convert elapsed time to a calendar year.** The purchase was in January 2016. Adding about $5.42$ years places the half-value point in **2021** (roughly early June 2021).
+> **C. Convert elapsed time to a calendar year.** The purchase was in January 2016. Adding about $5.42$ years places the half-value point in **2021** (roughly early June 2021).
 > 
 > **Check:** Because the camera loses $12\%$ each year rather than a fixed dollar amount, each year's dollar decline is smaller than the previous year's.

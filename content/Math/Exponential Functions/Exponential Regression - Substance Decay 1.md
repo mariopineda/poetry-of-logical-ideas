@@ -20,22 +20,19 @@ In an environmental science lab, students investigate the breakdown of a biodegr
 |---|---|---|---|---|---|
 | $y$ | 54 | 42 | 25 | 20 | 12 |
 
-### A.
+A. Fit and graph an exponential regression $C(t)=ab^t$ (three decimals).
 
-Fit and graph an exponential regression $C(t)=ab^t$ (three decimals).
+B. Find when the amount falls below 4 mg, nearest hour.
 
-### B.
-
-Find when the amount falls below 4 mg, nearest hour.
-
-### C.
-
-Calculate the half-life, nearest tenth of an hour.
+C. Calculate the half-life, nearest tenth of an hour.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
 > - [[Math/Exponential Functions/Radioactive Decay|Radioactive Decay]]
+> - [[Math/Exponential Functions/Caffeine Decay 1|Caffeine Decay 1]]
+> - [[Math/Exponential Functions/Exponential Decay - Food Storage 1|Exponential Decay - Food Storage 1]]
+> - [[Math/Exponential Functions/Half-Life - Carbon Dating 1|Half-Life - Carbon Dating 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -46,7 +43,8 @@ Calculate the half-life, nearest tenth of an hour.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]
 
 ## Solution
 
@@ -72,15 +70,15 @@ Calculate the half-life, nearest tenth of an hour.
 > 
 > The coefficient $a\approx53.8415$ estimates the value when $x=0$; the base $b\approx0.778575$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b<1$, so the fitted values decrease by approximately $22.14\%$ per unit.
 > 
-> **a) Model:** $C(t)\approx53.842(0.779)^t$. Here the substance declines because $b<1$.
+> **A. Model:** $C(t)\approx53.842(0.779)^t$. Here the substance declines because $b<1$.
 > 
-> **b) Find when the amount falls below 4 mg.** First calculate the boundary $C(t)=4$:
+> **B. Find when the amount falls below 4 mg.** First calculate the boundary $C(t)=4$:
 > 
 > $$4=a\,b^t\implies t=\frac{\ln(4/a)}{\ln b}\approx 10.39\text{ hours}.$$
 > 
 > Because the model is **decreasing**, the amount is below 4 mg for times **greater than** this boundary. The first whole hour below 4 mg is **hour 11**.
 > 
-> **c) Half-life:**
+> **C. Half-life:**
 > 
 > $$t_{1/2}=\frac{\ln0.5}{\ln b}\approx\boxed{2.8\text{ hours}}.$$
 > 

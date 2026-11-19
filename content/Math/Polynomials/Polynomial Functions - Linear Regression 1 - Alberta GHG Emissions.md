@@ -112,6 +112,11 @@ Use a graphing calculator.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Apartment Rent 1|Exponential Regression - Apartment Rent 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Fish Growth 1|Exponential Regression - Fish Growth 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Wetland Coverage 1|Exponential Regression - Wetland Coverage 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Wildlife Population 1|Exponential Regression - Wildlife Population 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

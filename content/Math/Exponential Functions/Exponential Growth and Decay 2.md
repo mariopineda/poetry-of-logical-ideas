@@ -17,29 +17,17 @@ calculator: allowed
 
 Decide whether each exponential function increases or decreases, and justify using its base.
 
-### A.
+A. $f(x)=9(3/5)^x$
 
-$f(x)=9(3/5)^x$
+B. $h(x)=0.7(0.8)^x$
 
-### B.
+C. $g(x)=0.3(2.2)^x$
 
-$h(x)=0.7(0.8)^x$
+D. $k(x)=6(4)^x$
 
-### C.
+E. $y=11(7/4)^x$
 
-$g(x)=0.3(2.2)^x$
-
-### D.
-
-$k(x)=6(4)^x$
-
-### E.
-
-$y=11(7/4)^x$
-
-### F.
-
-$y=16(1/8)^x$.
+F. $y=16(1/8)^x$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -55,7 +43,8 @@ $y=16(1/8)^x$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Patterns in Tables 1|Exponential Patterns in Tables 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
 
 ## Solution
 
@@ -65,11 +54,11 @@ $y=16(1/8)^x$.
 > 
 > | Function | Base | Classification | Explanation |
 > |---|---:|---|---|
-> | a | $\frac35=0.6$ | Decreasing | Each step retains $60\%$ of the previous value. |
-> | b | $0.8$ | Decreasing | Each step retains $80\%$. |
-> | c | $2.2$ | Increasing | Each step multiplies the value by $2.2$. |
-> | d | $4$ | Increasing | Each step makes the value four times as large. |
-> | e | $\frac74=1.75$ | Increasing | The multiplier exceeds $1$. |
-> | f | $\frac18=0.125$ | Decreasing | Only one-eighth remains after each step. |
+> | A | $\frac35=0.6$ | Decreasing | Each step retains $60\%$ of the previous value. |
+> | B | $0.8$ | Decreasing | Each step retains $80\%$. |
+> | C | $2.2$ | Increasing | Each step multiplies the value by $2.2$. |
+> | D | $4$ | Increasing | Each step makes the value four times as large. |
+> | E | $\frac74=1.75$ | Increasing | The multiplier exceeds $1$. |
+> | F | $\frac18=0.125$ | Decreasing | Only one-eighth remains after each step. |
 > 
 > **Why the coefficient is not the deciding factor:** The coefficient $a$ changes the starting height. Since every $a$ here is positive, growth or decay is controlled by the base $b$.

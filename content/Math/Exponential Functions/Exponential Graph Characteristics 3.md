@@ -17,42 +17,29 @@ calculator: allowed
 
 Without first graphing, make a table identifying the base, $y$-intercept, end behaviour, growth/decay, domain, range and number of $x$-intercepts of each function. Then verify using technology.
 
-### A.
+A. $y=4(3)^x$
 
-$y=4(3)^x$
+B. $y=6(0.4)^x$
 
-### B.
+C. $y=3(1/6)^x$
 
-$y=6(0.4)^x$
+D. $y=(3/4)(1/5)^x$
 
-### C.
+E. $y=18(1.6)^x$
 
-$y=3(1/6)^x$
+F. $y=5(2.5)^x$
 
-### D.
+G. $y=7(0.2)^x$
 
-$y=(3/4)(1/5)^x$
-
-### E.
-
-$y=18(1.6)^x$
-
-### F.
-
-$y=5(2.5)^x$
-
-### G.
-
-$y=7(0.2)^x$
-
-### H.
-
-$y=2.5(1/7)^x$.
+H. $y=2.5(1/7)^x$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
 > - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 1|Exponential Graph Characteristics 1]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 1|Exponential Growth and Decay 1]]
+> - [[Math/Exponential Functions/Exponential Growth and Decay 3|Exponential Growth and Decay 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -63,7 +50,8 @@ $y=2.5(1/7)^x$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Graphing Exponential Functions 1|Graphing Exponential Functions 1]]
+> - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 
 ## Solution
 
@@ -73,14 +61,14 @@ $y=2.5(1/7)^x$.
 > 
 > | Function | Base $b$ | $y$-intercept | Trend |
 > |---|---:|---:|---|
-> | a | $3$ | $4$ | Growth |
-> | b | $0.4$ | $6$ | Decay |
-> | c | $\frac16$ | $3$ | Decay |
-> | d | $\frac15$ | $\frac34$ | Decay |
-> | e | $1.6$ | $18$ | Growth |
-> | f | $2.5$ | $5$ | Growth |
-> | g | $0.2$ | $7$ | Decay |
-> | h | $\frac17$ | $2.5$ | Decay |
+> | A | $3$ | $4$ | Growth |
+> | B | $0.4$ | $6$ | Decay |
+> | C | $\frac16$ | $3$ | Decay |
+> | D | $\frac15$ | $\frac34$ | Decay |
+> | E | $1.6$ | $18$ | Growth |
+> | F | $2.5$ | $5$ | Growth |
+> | G | $0.2$ | $7$ | Decay |
+> | H | $\frac17$ | $2.5$ | Decay |
 > 
 > **Step 2 — Apply the shared properties.** For all eight models: domain $x\in\mathbb R$, range $y>0$, no $x$-intercepts, and horizontal asymptote $y=0$. Growth functions approach $0$ on the left and increase without bound on the right; decay functions do the reverse.
 > 

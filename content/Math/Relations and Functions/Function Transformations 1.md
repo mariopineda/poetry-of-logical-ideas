@@ -110,6 +110,8 @@ Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 3|Exponential Graph Characteristics 3]]
+> - [[Math/Exponential Functions/Matching Exponential Graphs 1|Matching Exponential Graphs 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

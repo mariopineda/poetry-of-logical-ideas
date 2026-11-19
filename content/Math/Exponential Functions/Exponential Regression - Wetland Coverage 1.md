@@ -20,21 +20,13 @@ During a summer field project, students monitor a small wetland pond where float
 |---|---|---|---|---|---|---|
 | Coverage $C$ (%) | 18.0 | 19.8 | 21.8 | 24.0 | 26.4 | 29.0 |
 
-### A.
+A. Enter the observations into the graphing calculator and generate a labelled scatter plot.
 
-Enter the observations into the graphing calculator and generate a labelled scatter plot.
+B. Fit an exponential regression $C(t)=ab^t$ and graph the regression curve on top of the scatter plot.
 
-### B.
+C. Estimate the weekly percentage growth to the nearest percent.
 
-Fit an exponential regression $C(t)=ab^t$ and graph the regression curve on top of the scatter plot.
-
-### C.
-
-Estimate the weekly percentage growth to the nearest percent.
-
-### D.
-
-Use the **unrounded** model to predict when the covered area reaches $60\%$, to the nearest tenth of a week. Explain a limitation of the model.
+D. Use the **unrounded** model to predict when the covered area reaches $60\%$, to the nearest tenth of a week. Explain a limitation of the model.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -50,7 +42,8 @@ Use the **unrounded** model to predict when the covered area reaches $60\%$, to 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1|Environmental Data Analysis - Seasonal Sea Ice Extent 1]]
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
 
 ## Solution
 
@@ -76,13 +69,13 @@ Use the **unrounded** model to predict when the covered area reaches $60\%$, to 
 > 
 > The coefficient $a\approx18.0042$ estimates the value when $x=0$; the base $b\approx1.100250$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b>1$, so the fitted values increase by approximately $10.03\%$ per unit.
 > 
-> **a–b)** The image overlays the six measured percentages with the best-fit exponential curve. The fitted model is $C(t)=a\,b^t$.
+> **A–B.** The image overlays the six measured percentages with the best-fit exponential curve. The fitted model is $C(t)=a\,b^t$.
 > 
-> **c) Weekly growth:**
+> **C. Weekly growth:**
 > 
 > $$r=(b-1)\times100\%\approx10.03\%\approx\boxed{10\%\text{ per week}}.$$
 > 
-> **d) Find 60% coverage:**
+> **D. Find 60% coverage:**
 > 
 > $$60=a\,b^t\implies t=\frac{\ln(60/a)}{\ln b}\approx\boxed{12.6\text{ weeks}}.$$
 > 

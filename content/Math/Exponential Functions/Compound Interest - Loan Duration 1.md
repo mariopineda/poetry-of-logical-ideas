@@ -17,21 +17,17 @@ calculator: required
 
 Two partners take out a \$165,000 loan to purchase equipment for a small business. They plan to make payments of \$1000 each month. Their lender has provided a simplified model for estimating the repayment period: $(1.0038)^n=2.6813$, where $n$ is the number of monthly payments. Use this supplied equation rather than constructing a new loan model; assume its result can be used to estimate total interest.
 
-### A.
+A. Solve for $n$.
 
-Solve for $n$.
+B. Express in years, nearest whole year.
 
-### B.
-
-Express in years, nearest whole year.
-
-### C.
-
-Estimate total interest with the model time.
+C. Estimate total interest with the model time.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Exponential Functions/Compound Interest - Loan Table 1|Compound Interest - Loan Table 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -42,6 +38,7 @@ Estimate total interest with the model time.
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Regression - Apartment Rent 1|Exponential Regression - Apartment Rent 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 ## Solution
 

@@ -51,6 +51,8 @@ The amount of sea ice in the arctic varies seasonally and for the year 2018 it c
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Plant Growth 1|Exponential Regression - Plant Growth 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Wetland Coverage 1|Exponential Regression - Wetland Coverage 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

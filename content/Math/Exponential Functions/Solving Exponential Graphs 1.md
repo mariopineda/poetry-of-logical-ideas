@@ -32,7 +32,8 @@ For each graph, estimate the $x$-value at $y=5$ and $y=12$. Show horizontal read
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

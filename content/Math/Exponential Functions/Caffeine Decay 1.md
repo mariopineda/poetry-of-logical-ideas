@@ -19,25 +19,15 @@ Two volunteers take part in a supervised classroom study of how caffeine levels 
 
 ![[EF_T1_Q11.png]]
 
-### A.
+A. Read the initial amount, contextual domain and range for each.
 
-Read the initial amount, contextual domain and range for each.
+B. Explain the downward trends.
 
-### B.
+C. Identify who began with more caffeine and who eliminates it faster proportionally.
 
-Explain the downward trends.
+D. Estimate both amounts after four hours.
 
-### C.
-
-Identify who began with more caffeine and who eliminates it faster proportionally.
-
-### D.
-
-Estimate both amounts after four hours.
-
-### E.
-
-Interpret the intercepts in context.
+E. Interpret the intercepts in context.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -53,7 +43,8 @@ Interpret the intercepts in context.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

@@ -17,27 +17,23 @@ calculator: allowed
 
 Sketch each function, label the $y$-intercept, and give its $x$-intercepts, end behaviour, domain, and range.
 
-### A.
+A. $$
 
-$$
 y=8(3)^x
 $$
 
-### B.
+B. $$
 
-$$
 y=5(2)^x
 $$
 
-### C.
+C. $$
 
-$$
 y=18\left(\frac13\right)^x
 $$
 
-### D.
+D. $$
 
-$$
 y=7\left(\frac12\right)^x
 $$
 
@@ -45,6 +41,7 @@ $$
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
 > - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 3|Exponential Graph Characteristics 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -55,7 +52,8 @@ $$
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

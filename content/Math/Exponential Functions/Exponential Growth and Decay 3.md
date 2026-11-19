@@ -15,13 +15,9 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-### A.
+A. Write an exponential growth function and an exponential decay function that each intersect the $y$-axis at $7$.
 
-Write an exponential growth function and an exponential decay function that each intersect the $y$-axis at $7$.
-
-### B.
-
-Describe their shared and differing properties.
+B. Describe their shared and differing properties.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
@@ -37,17 +33,18 @@ Describe their shared and differing properties.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 3|Exponential Graph Characteristics 3]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 
 > [!example]- Show solution
 >
-> **a) Choose the coefficient and bases.** We need $y(0)=7$. Since $b^0=1$, both coefficients must equal $7$. Choose a base greater than $1$ for growth and a base between $0$ and $1$ for decay:
+> **A. Choose the coefficient and bases.** We need $y(0)=7$. Since $b^0=1$, both coefficients must equal $7$. Choose a base greater than $1$ for growth and a base between $0$ and $1$ for decay:
 > 
 > $$f(x)=7(1.4)^x\qquad\text{and}\qquad g(x)=7(0.6)^x.$$
 > 
-> **b) Compare characteristics.** Both pass through $(0,7)$, have domain $\mathbb R$, range $(0,\infty)$, no $x$-intercepts, and horizontal asymptote $y=0$.
+> **B. Compare characteristics.** Both pass through $(0,7)$, have domain $\mathbb R$, range $(0,\infty)$, no $x$-intercepts, and horizontal asymptote $y=0$.
 > 
 > They differ in direction: $f$ increases to the right, while $g$ decreases. More precisely, $f(x)\to0^+$ as $x\to-\infty$ and $f(x)\to\infty$ as $x\to\infty$; for $g$ the limits are reversed.
 > 

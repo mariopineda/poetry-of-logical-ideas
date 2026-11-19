@@ -17,13 +17,9 @@ calculator: required
 
 A food-science team investigates how storage temperature affects the usable life of a particular prepared food under controlled conditions. Their simplified experimental model gives the estimated shelf life $H$, in hours, at storage temperature $T$, in degrees Celsius: $H(T)=150(1/2)^{T/40}$. This is a mathematical model for the investigation, not a general food-safety guideline.
 
-### A.
+A. Calculate shelf life at $T=6$ to the nearest tenth of an hour.
 
-Calculate shelf life at $T=6$ to the nearest tenth of an hour.
-
-### B.
-
-Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a degree.
+B. Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a degree.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
@@ -39,7 +35,8 @@ Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 ## Solution
 
@@ -47,11 +44,11 @@ Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a 
 >
 > **Step 1 — Interpret the model.** $H(T)=150(1/2)^{T/40}$ predicts storage life, in hours, as a function of temperature $T$ (°C). Because $0<1/2<1$, predicted life gets shorter as temperature increases.
 > 
-> **a) Substitute $T=6$.**
+> **A. Substitute $T=6$.**
 > 
 > $$H(6)=150\left(\frac12\right)^{6/40}\approx\boxed{135.2\text{ hours}}.$$
 > 
-> **b) Convert days to hours first.** Five days is $5(24)=120$ hours. Set the model equal to $120$:
+> **B. Convert days to hours first.** Five days is $5(24)=120$ hours. Set the model equal to $120$:
 > 
 > $$120=150\left(\frac12\right)^{T/40}\implies0.8=\left(\frac12\right)^{T/40}.$$
 > 

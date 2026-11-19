@@ -18,17 +18,14 @@ calculator: allowed
 
 To help pay for a professional certification course, a student deposits \$425 in a savings account. The account pays $4.8\%$ interest per year, compounded annually, and the student makes no additional deposits or withdrawals. Assume the annual rate stays constant.
 
-### A.
+A. Write the future-value function.
 
-Write the future-value function.
-
-### B.
-
-How much interest accumulates after two years?
+B. How much interest accumulates after two years?
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Compound Interest - Savings Table 1|Compound Interest - Savings Table 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -39,7 +36,8 @@ How much interest accumulates after two years?
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 ## Solution
 

@@ -22,6 +22,9 @@ Each graph includes two marked points. Determine its exponential equation in the
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 2|Exponential Graph Characteristics 2]]
+> - [[Math/Exponential Functions/Graphing Exponential Functions 1|Graphing Exponential Functions 1]]
+> - [[Math/Exponential Functions/Matching Exponential Graphs 1|Matching Exponential Graphs 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -32,7 +35,8 @@ Each graph includes two marked points. Determine its exponential equation in the
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 

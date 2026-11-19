@@ -21,26 +21,19 @@ $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right),$$
 
 where $n$ is the number of monthly payments. Assume the model permits a fractional final payment for estimation.
 
-### A.
+A. State the original vehicle value and the annual depreciation rate.
 
-State the original vehicle value and the annual depreciation rate.
+B. Solve for $n$.
 
-### B.
+C. Estimate the total interest paid.
 
-Solve for $n$.
-
-### C.
-
-Estimate the total interest paid.
-
-### D.
-
-Using the unrounded value of $n$, estimate the vehicle's resale value when the loan is paid off. Explain why years and months must not be mixed.
+D. Using the unrounded value of $n$, estimate the vehicle's resale value when the loan is paid off. Explain why years and months must not be mixed.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -51,7 +44,8 @@ Using the unrounded value of $n$, estimate the vehicle's resale value when the l
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
 
 ## Solution
 

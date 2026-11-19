@@ -20,21 +20,19 @@ A technician at a biotechnology lab grows a microorganism culture in a nutrient-
 |---|---|---|---|---|---|
 | $y$ | 4200 | 6300 | 9450 | 14175 | 21263 |
 
-### A.
+A. Determine an exponential regression equation to hundredths.
 
-Determine an exponential regression equation to hundredths.
+B. Predict the population at observation 10.
 
-### B.
-
-Predict the population at observation 10.
-
-### C.
-
-A treatment changes growth to 18% per hour. Write the treated-population function taking the first observation as $t=1$.
+C. A treatment changes growth to 18% per hour. Write the treated-population function taking the first observation as $t=1$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+> - [[Math/Exponential Functions/Exponential Growth - Information Spread 1|Exponential Growth - Information Spread 1]]
+> - [[Math/Exponential Functions/Exponential Patterns in Tables 1|Exponential Patterns in Tables 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -45,7 +43,8 @@ A treatment changes growth to 18% per hour. Write the treated-population functio
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
 
 ## Solution
 
@@ -71,15 +70,15 @@ A treatment changes growth to 18% per hour. Write the treated-population functio
 > 
 > The coefficient $a\approx2799.9737$ estimates the value when $x=0$; the base $b\approx1.500007$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b>1$, so the fitted values increase by approximately $50.00\%$ per unit.
 > 
-> **a) Regression equation:** approximately $N(t)=2799.97(1.50001)^t$. The initial coefficient estimates the population at $t=0$, one hour **before** the first observation.
+> **A. Regression equation:** approximately $N(t)=2799.97(1.50001)^t$. The initial coefficient estimates the population at $t=0$, one hour **before** the first observation.
 > 
-> **b) Forecast at hour 10.**
+> **B. Forecast at hour 10.**
 > 
 > $$N(10)=a\,b^{10}\approx\boxed{161,468\text{ organisms}}.$$
 > 
 > This is **extrapolation** beyond the measured hours 1–5.
 > 
-> **c) Change the growth rate to 18% per hour.** The treated model starts at the observed $N(1)=4200$, and each subsequent hour multiplies by $1.18$. Because the starting point is at $t=1$ rather than $t=0$, the exponent is $t-1$:
+> **C. Change the growth rate to 18% per hour.** The treated model starts at the observed $N(1)=4200$, and each subsequent hour multiplies by $1.18$. Because the starting point is at $t=1$ rather than $t=0$, the exponent is $t-1$:
 > 
 > $$\boxed{N_{\mathrm{treated}}(t)=4200(1.18)^{t-1}}.$$
 > 

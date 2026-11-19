@@ -20,22 +20,17 @@ A tenant is reviewing how much it costs to rent an apartment as housing expenses
 |---|---|---|---|---|
 | $y$ | 10800 | 11232 | 11682 | 12149 |
 
-### A.
+A. Find the exponential regression model $y=ab^x$, rounding parameters to hundredths.
 
-Find the exponential regression model $y=ab^x$, rounding parameters to hundredths.
+B. Determine annual rent growth to nearest percent.
 
-### B.
-
-Determine annual rent growth to nearest percent.
-
-### C.
-
-Forecast year 10 rent, nearest dollar.
+C. Forecast year 10 rent, nearest dollar.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
 > - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -45,7 +40,8 @@ Forecast year 10 rent, nearest dollar.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Sea Level Trend 1|Environmental Data Analysis - Sea Level Trend 1]]
 
 ## Solution
 

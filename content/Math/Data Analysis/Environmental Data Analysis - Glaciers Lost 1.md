@@ -27,6 +27,9 @@ Due to human caused global warming glaciers in the Rocky Mountains have been shr
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Properties of Functions 1|Properties of Functions 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Production Decline 1|Exponential Regression - Production Decline 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Wildlife Population 1|Exponential Regression - Wildlife Population 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

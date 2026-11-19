@@ -20,25 +20,15 @@ A small workshop operates a machine that produces a specialized component. As th
 |---|---|---|---|---|---|---|
 | Weekly output $Q$ | 4200 | 3696 | 3252 | 2861 | 2518 | 2216 |
 
-### A.
+A. Enter the measurements in the calculator and produce a scatter plot.
 
-Enter the measurements in the calculator and produce a scatter plot.
+B. Calculate an exponential regression equation, and overlay its graph on the plotted data.
 
-### B.
+C. Compare the fitted weekly rate with the expected $12\%$ decrease.
 
-Calculate an exponential regression equation, and overlay its graph on the plotted data.
+D. Predict week-20 output to the nearest unit.
 
-### C.
-
-Compare the fitted weekly rate with the expected $12\%$ decrease.
-
-### D.
-
-Predict week-20 output to the nearest unit.
-
-### E.
-
-Estimate when weekly output first falls below six units and discuss the reliability of such a distant forecast.
+E. Estimate when weekly output first falls below six units and discuss the reliability of such a distant forecast.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -53,7 +43,8 @@ Estimate when weekly output first falls below six units and discuss the reliabil
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions|Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
 
 ## Solution
 
@@ -79,15 +70,15 @@ Estimate when weekly output first falls below six units and discuss the reliabil
 > 
 > The coefficient $a\approx4199.9155$ estimates the value when $x=0$; the base $b\approx0.879945$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b<1$, so the fitted values decrease by approximately $12.01\%$ per unit.
 > 
-> **a–b) Graph and fit the model.** Enter the six weekly measurements in `L1` and `L2`. The image shows the scatter plot and the exponential curve fitted by `ExpReg`.
+> **A–B. Graph and fit the model.** Enter the six weekly measurements in `L1` and `L2`. The image shows the scatter plot and the exponential curve fitted by `ExpReg`.
 > 
-> **c) Compare rates.** The regression predicts a weekly multiplier of $b\approx0.879945$, which corresponds to a decrease of $(1-b)\times100\%\approx12.01\%$. This is close to the stated $12\%$ decrease, with minor differences because the observed outputs were rounded.
+> **C. Compare rates.** The regression predicts a weekly multiplier of $b\approx0.879945$, which corresponds to a decrease of $(1-b)\times100\%\approx12.01\%$. This is close to the stated $12\%$ decrease, with minor differences because the observed outputs were rounded.
 > 
-> **d) Forecast output at week 20.**
+> **D. Forecast output at week 20.**
 > 
 > $$Q(20)=a\,b^{20}\approx\boxed{325\text{ units/week}}.$$
 > 
-> **e) Solve for output below 6.** Find the crossing of the fitted model and $y=6$:
+> **E. Solve for output below 6.** Find the crossing of the fitted model and $y=6$:
 > 
 > $$6=a\,b^t\implies t=\frac{\ln(6/a)}{\ln b}\approx\boxed{51.2\text{ weeks}}.$$
 > 

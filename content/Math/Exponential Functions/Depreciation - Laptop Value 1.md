@@ -17,13 +17,9 @@ calculator: allowed
 
 A student buys a high-performance laptop for \$3200 and wants to estimate its resale value before upgrading. A consumer-price model assumes that the laptop loses $16\%$ of its value each year, relative to its value at the beginning of that year. There is no additional damage or repair cost in this model.
 
-### A.
+A. Write $V(t)$ for its value after $t$ years.
 
-Write $V(t)$ for its value after $t$ years.
-
-### B.
-
-Find when it reaches half its purchase value, to the nearest tenth of a year.
+B. Find when it reaches half its purchase value, to the nearest tenth of a year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
@@ -38,7 +34,8 @@ Find when it reaches half its purchase value, to the nearest tenth of a year.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Depreciation and Loan Repayment 1|Depreciation and Loan Repayment 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 ## Solution
 

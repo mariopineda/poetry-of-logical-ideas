@@ -33,6 +33,7 @@ The six graphs in the figure represent linear, quadratic, cubic, or exponential 
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Graph Characteristics 1|Exponential Graph Characteristics 1]]
+> - [[Math/Polynomials/Polynomial Functions - Matching Equations and Graphs 1|Polynomial Functions - Matching Equations and Graphs 1]]
 
 ## Solution
 
@@ -44,11 +45,11 @@ The six graphs in the figure represent linear, quadratic, cubic, or exponential 
 > 
 > | Graph | Family | Reason |
 > |---|---|---|
-> | a | Linear | It is a straight line with constant slope. |
-> | b | Exponential growth | It stays above $y=0$ and becomes steeper toward the right. |
-> | c | Quadratic | Its graph is a parabola. |
-> | d | Cubic | Its overall shape has the characteristic bend of a third-degree polynomial. |
-> | e | Exponential decay | It decreases and levels off toward $y=0$ on the right. |
-> | f | Quadratic | It is another parabola, with a different orientation or position. |
+> | A | Linear | It is a straight line with constant slope. |
+> | B | Exponential growth | It stays above $y=0$ and becomes steeper toward the right. |
+> | C | Quadratic | Its graph is a parabola. |
+> | D | Cubic | Its overall shape has the characteristic bend of a third-degree polynomial. |
+> | E | Exponential decay | It decreases and levels off toward $y=0$ on the right. |
+> | F | Quadratic | It is another parabola, with a different orientation or position. |
 > 
 > **How to check:** Look for the horizontal asymptote $y=0$ in b and e. Merely being curved is not sufficient to classify a function as exponential.

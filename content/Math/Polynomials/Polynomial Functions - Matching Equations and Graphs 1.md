@@ -61,6 +61,7 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 1|Domain and Range - Reading Graphs 1]]
+> - [[Math/Exponential Functions/Recognizing Function Types 1|Recognizing Function Types 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

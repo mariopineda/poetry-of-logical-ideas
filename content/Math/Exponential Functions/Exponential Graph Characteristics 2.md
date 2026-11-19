@@ -33,7 +33,8 @@ For each plotted exponential function, record the number of $x$-intercepts, $y$-
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 
@@ -43,10 +44,10 @@ For each plotted exponential function, record the number of $x$-intercepts, $y$-
 > 
 > | Graph | $y$-intercept | Increasing/decreasing | $x$-intercepts | Domain | Range |
 > |---|---:|---|---:|---|---|
-> | a | $6$ | Decreasing | 0 | $\mathbb R$ | $(0,\infty)$ |
-> | b | $3$ | Increasing | 0 | $\mathbb R$ | $(0,\infty)$ |
-> | c | $8$ | Decreasing | 0 | $\mathbb R$ | $(0,\infty)$ |
-> | d | $4$ | Increasing | 0 | $\mathbb R$ | $(0,\infty)$ |
+> | A | $6$ | Decreasing | 0 | $\mathbb R$ | $(0,\infty)$ |
+> | B | $3$ | Increasing | 0 | $\mathbb R$ | $(0,\infty)$ |
+> | C | $8$ | Decreasing | 0 | $\mathbb R$ | $(0,\infty)$ |
+> | D | $4$ | Increasing | 0 | $\mathbb R$ | $(0,\infty)$ |
 > 
 > **Step 2 — Describe the end behaviour.** For a and c, moving right makes $y$ approach $0$ from above, while moving left makes $y$ grow without bound. For b and d, the behaviour is reversed.
 > 

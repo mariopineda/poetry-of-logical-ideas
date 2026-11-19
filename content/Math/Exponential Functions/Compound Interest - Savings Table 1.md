@@ -22,21 +22,13 @@ A recent graduate puts a lump sum into a savings account to build an emergency f
 |---|---|---|---|---|---|
 | $y$ | 1800 | 1890 | 1984.5 | 2083.73 | 2187.91 |
 
-### A.
+A. Determine the exponential rule without regression.
 
-Determine the exponential rule without regression.
+B. Find the annual rate.
 
-### B.
+C. Calculate the balance after 10 years.
 
-Find the annual rate.
-
-### C.
-
-Calculate the balance after 10 years.
-
-### D.
-
-Determine total interest earned.
+D. Determine total interest earned.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
@@ -52,7 +44,8 @@ Determine total interest earned.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
 
 ## Solution
 

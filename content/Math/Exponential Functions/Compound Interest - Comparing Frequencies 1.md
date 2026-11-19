@@ -22,6 +22,8 @@ A student receives a \$1600 achievement award and plans to leave it untouched fo
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
+> - [[Math/Exponential Functions/Exponential Growth - Comparing Investments 1|Exponential Growth - Comparing Investments 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -32,7 +34,8 @@ A student receives a \$1600 achievement award and plans to leave it untouched fo
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
 
 ## Solution
 

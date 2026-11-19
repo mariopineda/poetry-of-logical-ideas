@@ -17,27 +17,23 @@ calculator: allowed
 
 Find the $y$-intercept and state whether each function grows or decays.
 
-### A.
+A. $$
 
-$$
 y=7(3)^x
 $$
 
-### B.
+B. $$
 
-$$
 y=4\left(\frac13\right)^x
 $$
 
-### C.
+C. $$
 
-$$
 y=12(1.25)^x
 $$
 
-### D.
+D. $$
 
-$$
 y=(0.6)^x
 $$
 
@@ -55,7 +51,8 @@ $$
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Exponential Graph Characteristics 3|Exponential Graph Characteristics 3]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 ## Solution
 
