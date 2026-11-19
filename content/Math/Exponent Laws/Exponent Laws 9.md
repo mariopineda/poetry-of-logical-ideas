@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponent Laws 9
-
 Evaluate the following **without a calculator**. Show how you can do the multiplication by hand.
 
 $$

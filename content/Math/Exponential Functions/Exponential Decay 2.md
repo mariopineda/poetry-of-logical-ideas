@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponential Decay 2
-
 Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quantity every time. Give a numerical example.
 
 > [!abstract] Review First

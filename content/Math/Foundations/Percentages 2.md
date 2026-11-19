@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Percentages 2
-
 A jacket costs \$160. Its price increases by $15\%$. Determine the dollar increase and the new price.
 
 > [!abstract] Review First

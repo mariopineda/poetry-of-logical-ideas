@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponential Growth 2
-
 Two savings accounts each start with \$500. Account A adds \$50 every year. Account B increases by $10\%$ of its current balance every year. Complete the table for years $0$–$3$. Which account has more at the end of year $3$?
 
 | Year | $0$ | $1$ | $2$ | $3$ |

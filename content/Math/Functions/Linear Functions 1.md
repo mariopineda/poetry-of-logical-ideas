@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Linear Functions 1
-
 For $y=-2x+8$, determine the $y$-intercept and $x$-intercept. Explain what each intercept means on a graph.
 
 > [!abstract] Review First

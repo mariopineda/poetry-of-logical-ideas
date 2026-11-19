@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponent Laws 8
-
 Evaluate.
 
 (a) $\left(\frac12\right)^3$  

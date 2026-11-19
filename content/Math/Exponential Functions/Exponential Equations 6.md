@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponential Equations 6
-
 Without using logarithms, solve each equation. Explain your strategy.
 
 (a) $2^x=32$  

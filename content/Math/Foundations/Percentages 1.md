@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Percentages 1
-
 Convert each percent to a decimal.
 
 (a) $8\%$  

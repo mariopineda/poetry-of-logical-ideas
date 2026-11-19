@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponent Laws 5
-
 Evaluate.
 
 (a) $2^5$  

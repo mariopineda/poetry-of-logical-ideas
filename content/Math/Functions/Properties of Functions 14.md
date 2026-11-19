@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Properties of Functions 14
-
 Given $f(x)=3x^2-4$, evaluate the following. Show substitution.
 
 (a) $f(0)$  

@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Domain and Range 1
-
 A graph represents a quantity that starts at $50$ and decreases continuously to $20$ over six hours. State a reasonable contextual domain and range.
 
 > [!abstract] Review First

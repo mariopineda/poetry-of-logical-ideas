@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Number Patterns 1
-
 Complete each pattern and describe its rule.
 
 (a) $5,\ 10,\ 20,\ 40,\ \underline{\qquad},\ \underline{\qquad}$  

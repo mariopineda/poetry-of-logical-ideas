@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Linear Equations 1
-
 Solve for $x$.
 
 (a) $4x+7=31$  

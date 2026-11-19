@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponential Decay 1
-
 A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth after one year? If it loses another $20\%$ of its **new value** in the second year, what is it worth then?
 
 > [!abstract] Review First

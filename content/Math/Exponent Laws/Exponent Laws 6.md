@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponent Laws 6
-
 Simplify. Express each answer as a single power.
 
 (a) $3^4\times 3^2$  

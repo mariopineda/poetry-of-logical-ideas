@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Exponent Laws 7
-
 Rewrite using the indicated base.
 
 (a) $64$ as a power of $2$  

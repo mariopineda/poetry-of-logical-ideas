@@ -13,8 +13,6 @@ curriculum_review_required: false
 calculator: prohibited
 ---
 
-# Common Ratio 4
-
 Complete the table. Explain whether the outputs change by a constant difference or a constant ratio.
 
 | $x$ | $0$ | $1$ | $2$ | $3$ | $4$ |
