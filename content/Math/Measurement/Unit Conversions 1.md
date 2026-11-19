@@ -116,4 +116,5 @@ $$
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Proportional Reasoning/Scale Drawings 2 - Lighthouse Model|Scale Drawings 2 - Lighthouse Model]]
+> - [[Math/Proportional Reasoning/Scale Drawings 5 - Wind Turbine Model|Scale Drawings 5 - Wind Turbine Model]]

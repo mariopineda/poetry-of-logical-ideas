@@ -55,6 +55,7 @@ Complete the following table. Express all scale factors as ratios (either as $a:
 
 > [!abstract] Review First
 > - [[Math/Measurement/Surface Area and Volume 1|Surface Area and Volume 1]]
+> - [[Math/Proportional Reasoning/Scale Drawings 8 - Resizing a Banner|Scale Drawings 8 - Resizing a Banner]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

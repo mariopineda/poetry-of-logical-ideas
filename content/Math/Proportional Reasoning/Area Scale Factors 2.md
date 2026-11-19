@@ -50,6 +50,10 @@ The area of the province of Alberta is approximately 661850 $\text{km}^2$. On a 
 > [!info] Explore Also
 > - [[Math/Proportional Reasoning/Area Scale Factors 1|Area Scale Factors 1]]
 > - [[Math/Proportional Reasoning/Scale Factors 1|Scale Factors 1]]
+> - [[Math/Proportional Reasoning/Scale Drawings 3 - Community Garden Plan|Scale Drawings 3 - Community Garden Plan]]
+> - [[Math/Proportional Reasoning/Scale Drawings 4 - Outdoor Exhibit|Scale Drawings 4 - Outdoor Exhibit]]
+> - [[Math/Proportional Reasoning/Scale Drawings 6 - Park Map Distance|Scale Drawings 6 - Park Map Distance]]
+> - [[Math/Proportional Reasoning/Scale Drawings 7 - Map Distance Between Recreation Areas|Scale Drawings 7 - Map Distance Between Recreation Areas]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
