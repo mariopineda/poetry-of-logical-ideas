@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Recognizing Function Types 1
-
 The six graphs in the figure represent linear, quadratic, cubic, or exponential functions. Identify the function family of each graph and explain which features distinguish exponential functions from polynomial functions.
 
 ![[EF_T1_Q01.png]]

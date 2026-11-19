@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Solving Exponential Graphs 1
-
 For each graph, estimate the $x$-value at $y=5$ and $y=12$. Show horizontal reading lines and report answers to one decimal place.
 
 ![[EF_T3_Q01.png]]

@@ -15,15 +15,27 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Depreciation and Loan Repayment 1
-
 A vehicle is purchased for $\$28\,000$. Its value after $t$ years is modelled by $V(t)=28000(0.82)^t$. The buyer finances $\$23\,000$ at a monthly interest rate of $0.8\%$ and makes payments of $\$390$ per month. The standard loan equation is
 
 $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right),$$
 
 where $n$ is the number of monthly payments. Assume the model permits a fractional final payment for estimation.
 
-a) State the original vehicle value and the annual depreciation rate. b) Solve for $n$. c) Estimate the total interest paid. d) Using the unrounded value of $n$, estimate the vehicle's resale value when the loan is paid off. Explain why years and months must not be mixed.
+### A.
+
+State the original vehicle value and the annual depreciation rate.
+
+### B.
+
+Solve for $n$.
+
+### C.
+
+Estimate the total interest paid.
+
+### D.
+
+Using the unrounded value of $n$, estimate the vehicle's resale value when the loan is paid off. Explain why years and months must not be mixed.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

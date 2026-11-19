@@ -15,11 +15,39 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Graph Characteristics 3
-
 Without first graphing, make a table identifying the base, $y$-intercept, end behaviour, growth/decay, domain, range and number of $x$-intercepts of each function. Then verify using technology.
 
-a) $y=4(3)^x$; b) $y=6(0.4)^x$; c) $y=3(1/6)^x$; d) $y=(3/4)(1/5)^x$; e) $y=18(1.6)^x$; f) $y=5(2.5)^x$; g) $y=7(0.2)^x$; h) $y=2.5(1/7)^x$.
+### A.
+
+$y=4(3)^x$
+
+### B.
+
+$y=6(0.4)^x$
+
+### C.
+
+$y=3(1/6)^x$
+
+### D.
+
+$y=(3/4)(1/5)^x$
+
+### E.
+
+$y=18(1.6)^x$
+
+### F.
+
+$y=5(2.5)^x$
+
+### G.
+
+$y=7(0.2)^x$
+
+### H.
+
+$y=2.5(1/7)^x$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]

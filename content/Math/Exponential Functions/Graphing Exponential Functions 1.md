@@ -15,20 +15,29 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Graphing Exponential Functions 1
-
 Sketch each function, label the $y$-intercept, and give its $x$-intercepts, end behaviour, domain, and range.
 
-a) $$
+### A.
+
+$$
 y=8(3)^x
 $$
-b) $$
+
+### B.
+
+$$
 y=5(2)^x
 $$
-c) $$
+
+### C.
+
+$$
 y=18\left(\frac13\right)^x
 $$
-d) $$
+
+### D.
+
+$$
 y=7\left(\frac12\right)^x
 $$
 

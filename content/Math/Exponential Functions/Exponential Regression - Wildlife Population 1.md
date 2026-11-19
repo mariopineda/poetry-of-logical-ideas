@@ -14,15 +14,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Wildlife Population 1
-
 A wildlife survey observes population changes:
 
 | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | $y$ | 720 | 576 | 461 | 369 | 295 | 236 |
 
-a) Estimate yearly percentage decrease without regression. b) Determine exponential regression function with parameters to hundredths. c) Determine the population half-life in years, to one decimal.
+### A.
+
+Estimate yearly percentage decrease without regression.
+
+### B.
+
+Determine exponential regression function with parameters to hundredths.
+
+### C.
+
+Determine the population half-life in years, to one decimal.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

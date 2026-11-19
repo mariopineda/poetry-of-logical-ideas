@@ -14,15 +14,27 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Fish Growth 1
-
 Biologists record length $L$ (mm) and mass $M$ (g) for fish:
 
 | $x$ | 245 | 285 | 320 | 350 | 380 | 410 | 300 | 365 |
 |---|---|---|---|---|---|---|---|---|
 | $y$ | 182 | 250 | 320 | 385 | 460 | 548 | 275 | 414 |
 
-a) Make a scatter plot. b) Fit an exponential model $M=ab^L$ and plot the curve; round parameters to thousandths. c) Predict mass at $L=400$ mm. d) Find length for $M=650$ g; explain how you read each estimate.
+### A.
+
+Make a scatter plot.
+
+### B.
+
+Fit an exponential model $M=ab^L$ and plot the curve; round parameters to thousandths.
+
+### C.
+
+Predict mass at $L=400$ mm.
+
+### D.
+
+Find length for $M=650$ g; explain how you read each estimate.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]

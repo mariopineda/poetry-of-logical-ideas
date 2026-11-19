@@ -16,9 +16,15 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Compound Interest - Annual Savings 1
+A student deposits $425 in a savings account earning $4.8\%$ annually, compounded once each year.
 
-A student deposits $425 in a savings account earning $4.8\%$ annually, compounded once each year. a) Write the future-value function. b) How much interest accumulates after two years?
+### A.
+
+Write the future-value function.
+
+### B.
+
+How much interest accumulates after two years?
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

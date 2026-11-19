@@ -15,9 +15,19 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Compound Interest - Loan Duration 1
+Two business partners borrow $165,000 with monthly payments of $1000$. A loan model has been simplified to $(1.0038)^n=2.6813$, where $n$ represents months.
 
-Two business partners borrow $165,000 with monthly payments of $1000$. A loan model has been simplified to $(1.0038)^n=2.6813$, where $n$ represents months. a) Solve for $n$. b) Express in years, nearest whole year. c) Estimate total interest with the model time.
+### A.
+
+Solve for $n$.
+
+### B.
+
+Express in years, nearest whole year.
+
+### C.
+
+Estimate total interest with the model time.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

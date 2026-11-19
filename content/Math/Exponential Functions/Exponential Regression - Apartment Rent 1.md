@@ -14,15 +14,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Apartment Rent 1
-
 A tenant tracks yearly rent after moving into an apartment:
 
 | $x$ | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
 | $y$ | 10800 | 11232 | 11682 | 12149 |
 
-a) Find the exponential regression model $y=ab^x$, rounding parameters to hundredths. b) Determine annual rent growth to nearest percent. c) Forecast year 10 rent, nearest dollar.
+### A.
+
+Find the exponential regression model $y=ab^x$, rounding parameters to hundredths.
+
+### B.
+
+Determine annual rent growth to nearest percent.
+
+### C.
+
+Forecast year 10 rent, nearest dollar.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

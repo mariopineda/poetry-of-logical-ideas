@@ -14,8 +14,6 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Models from Graphs 1
-
 Each graph includes two marked points. Determine its exponential equation in the form $y=ab^x$. Show how you obtain both $a$ and $b$.
 
 ![[EF_T4_Q08.png]]

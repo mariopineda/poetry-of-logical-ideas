@@ -15,15 +15,27 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Compound Interest - Loan Table 1
-
 A borrower postpones loan repayment for five years. The debt compounds annually according to this table.
 
 | $x$ | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | $y$ | 2160 | 2332.8 | 2519.42 | 2720.98 |
 
-a) Estimate the annual interest rate. b) Determine the original amount borrowed. c) Write the debt model. d) If the balance is paid in full at the end of year 5, calculate total interest paid.
+### A.
+
+Estimate the annual interest rate.
+
+### B.
+
+Determine the original amount borrowed.
+
+### C.
+
+Write the debt model.
+
+### D.
+
+If the balance is paid in full at the end of year 5, calculate total interest paid.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

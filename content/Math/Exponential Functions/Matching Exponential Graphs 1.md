@@ -15,11 +15,31 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Matching Exponential Graphs 1
-
 Match each equation to one of the six graphs. Explain how the intercept and growth/decay rate guided each match.
 
-i. $y=3(0.65)^x$; ii. $y=2(3)^x$; iii. $y=5(0.4)^x$; iv. $y=4(1.7)^x$; v. $y=6(1.15)^x$; vi. $y=4^x$.
+### I.
+
+$y=3(0.65)^x$
+
+### II.
+
+$y=2(3)^x$
+
+### III.
+
+$y=5(0.4)^x$
+
+### IV.
+
+$y=4(1.7)^x$
+
+### V.
+
+$y=6(1.15)^x$
+
+### VI.
+
+$y=4^x$.
 
 ![[EF_T1_Q09.png]]
 

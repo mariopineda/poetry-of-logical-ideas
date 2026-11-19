@@ -14,15 +14,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Substance Decay 1
-
 A study estimates a substance remaining in a sample:
 
 | $x$ | 0 | 1 | 3 | 4 | 6 |
 |---|---|---|---|---|---|
 | $y$ | 54 | 42 | 25 | 20 | 12 |
 
-a) Fit and graph an exponential regression $C(t)=ab^t$ (three decimals). b) Find when the amount falls below 4 mg, nearest hour. c) Calculate the half-life, nearest tenth of an hour.
+### A.
+
+Fit and graph an exponential regression $C(t)=ab^t$ (three decimals).
+
+### B.
+
+Find when the amount falls below 4 mg, nearest hour.
+
+### C.
+
+Calculate the half-life, nearest tenth of an hour.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

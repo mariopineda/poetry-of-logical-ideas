@@ -15,9 +15,15 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Depreciation - Laptop Value 1
+A laptop is purchased for \$3200 and loses $16\%$ of its value annually.
 
-A laptop is purchased for \$3200 and loses $16\%$ of its value annually. a) Write $V(t)$ for its value after $t$ years. b) Find when it reaches half its purchase value, to the nearest tenth of a year.
+### A.
+
+Write $V(t)$ for its value after $t$ years.
+
+### B.
+
+Find when it reaches half its purchase value, to the nearest tenth of a year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]

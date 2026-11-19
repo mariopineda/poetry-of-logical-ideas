@@ -15,20 +15,29 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Growth and Decay 1
-
 Find the $y$-intercept and state whether each function grows or decays.
 
-a) $$
+### A.
+
+$$
 y=7(3)^x
 $$
-b) $$
+
+### B.
+
+$$
 y=4\left(\frac13\right)^x
 $$
-c) $$
+
+### C.
+
+$$
 y=12(1.25)^x
 $$
-d) $$
+
+### D.
+
+$$
 y=(0.6)^x
 $$
 

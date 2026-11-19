@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Graph Characteristics 1
-
 Use only the exponential graphs from [[Recognizing Function Types 1]]. For each, identify the number of $x$-intercepts, $y$-intercept, end behaviour, domain, and range.
 
 > [!abstract] Review First

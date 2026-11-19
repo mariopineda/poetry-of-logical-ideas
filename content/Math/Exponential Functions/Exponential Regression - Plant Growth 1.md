@@ -14,15 +14,27 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Plant Growth 1
-
 A greenhouse records the height of a climbing vine:
 
 | $x$ | 7 | 14 | 21 | 28 | 35 | 42 |
 |---|---|---|---|---|---|---|
 | $y$ | 12.5 | 23.1 | 41.6 | 74.7 | 134.8 | 242.6 |
 
-a) Create an exponential regression equation, rounding parameters to hundredths. b) Estimate height on day 10. c) Estimate height on day 30 and comment on interpolation. d) Predict day it reaches 60 cm.
+### A.
+
+Create an exponential regression equation, rounding parameters to hundredths.
+
+### B.
+
+Estimate height on day 10.
+
+### C.
+
+Estimate height on day 30 and comment on interpolation.
+
+### D.
+
+Predict day it reaches 60 cm.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

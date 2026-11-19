@@ -15,35 +15,33 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Patterns in Tables 1
-
 For every table, decide whether it is exponential, explain using successive ratios, determine the $y$-intercept, and classify any exponential trend as growth or decay.
 
-**a)**
+### A.
 
 | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | $y$ | 9 | 27 | 81 | 243 | 729 | 2187 |
 
-**b)**
+### B.
 
 | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | $y$ | 2048 | 512 | 128 | 32 | 8 | 2 |
 
-**c)**
+### C.
 
 | $x$ | -4 | -3 | -2 | -1 | 0 | 1 |
 |---|---|---|---|---|---|---|
 | $y$ | -7 | -4 | -1 | 2 | 5 | 8 |
 
-**d)**
+### D.
 
 | $x$ | -1 | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|---|
 | $y$ | 500 | 100 | 20 | 4 | 0.8 | 0.16 |
 
-**e)**
+### E.
 
 | $x$ | -2 | -1 | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|---|---|

@@ -14,15 +14,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Culture Growth 1
-
 A technician makes five hourly observations:
 
 | $x$ | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
 | $y$ | 4200 | 6300 | 9450 | 14175 | 21263 |
 
-a) Determine an exponential regression equation to hundredths. b) Predict the population at observation 10. c) A treatment changes growth to 18% per hour. Write the treated-population function taking the first observation as $t=1$.
+### A.
+
+Determine an exponential regression equation to hundredths.
+
+### B.
+
+Predict the population at observation 10.
+
+### C.
+
+A treatment changes growth to 18% per hour. Write the treated-population function taking the first observation as $t=1$.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

@@ -15,9 +15,19 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Depreciation - Camera Value 1
+A camera was purchased in January 2016 for $3600$. Its estimated value is $V(t)=3600(0.88)^t$, where $t$ is years from purchase.
 
-A camera was purchased in January 2016 for $3600$. Its estimated value is $V(t)=3600(0.88)^t$, where $t$ is years from purchase. a) State annual depreciation. b) Determine when it is worth $1800$, to the nearest hundredth of a year. c) Identify the calendar year.
+### A.
+
+State annual depreciation.
+
+### B.
+
+Determine when it is worth $1800$, to the nearest hundredth of a year.
+
+### C.
+
+Identify the calendar year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

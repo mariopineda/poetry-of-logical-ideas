@@ -14,15 +14,27 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Wetland Coverage 1
-
 A survey records the percentage of a wetland pool covered by floating plants each week:
 
 | Week $t$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | Coverage $C$ (%) | 18.0 | 19.8 | 21.8 | 24.0 | 26.4 | 29.0 |
 
-a) Enter the observations into the graphing calculator and generate a labelled scatter plot. b) Fit an exponential regression $C(t)=ab^t$ and graph the regression curve on top of the scatter plot. c) Estimate the weekly percentage growth to the nearest percent. d) Use the **unrounded** model to predict when the covered area reaches $60\%$, to the nearest tenth of a week. Explain a limitation of the model.
+### A.
+
+Enter the observations into the graphing calculator and generate a labelled scatter plot.
+
+### B.
+
+Fit an exponential regression $C(t)=ab^t$ and graph the regression curve on top of the scatter plot.
+
+### C.
+
+Estimate the weekly percentage growth to the nearest percent.
+
+### D.
+
+Use the **unrounded** model to predict when the covered area reaches $60\%$, to the nearest tenth of a week. Explain a limitation of the model.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]

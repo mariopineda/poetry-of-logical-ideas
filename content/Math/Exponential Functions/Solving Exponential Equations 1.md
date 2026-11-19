@@ -15,11 +15,71 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Solving Exponential Equations 1
-
 Solve all sixteen equations by converting each side to a common base. Verify with substitution.
 
-a) $4^x=64$; b) $3^{t-2}=27$; c) $9^x=27^2$; d) $16^{2x-1}=4^3$; e) $2^{x+3}=8^{2x-1}$; f) $5^{x+2}=25^{x-1}$; g) $11^n=1/121$; h) $4^{2n+1}=1/64$; i) $8^x=32$; j) $2^{2x+1}\cdot4^{x-1}=128$; k) $7(2^{3x})=56$; l) $9(3^{2x+1})=243$; m) $10^{2(x-2)}=1000$; n) $5(25^{x+1})=625$; o) $32^{1/5}=2^{1-2x}$; p) $(1/8)^{2x}=2^{x-3}$.
+### A.
+
+$4^x=64$
+
+### B.
+
+$3^{t-2}=27$
+
+### C.
+
+$9^x=27^2$
+
+### D.
+
+$16^{2x-1}=4^3$
+
+### E.
+
+$2^{x+3}=8^{2x-1}$
+
+### F.
+
+$5^{x+2}=25^{x-1}$
+
+### G.
+
+$11^n=1/121$
+
+### H.
+
+$4^{2n+1}=1/64$
+
+### I.
+
+$8^x=32$
+
+### J.
+
+$2^{2x+1}\cdot4^{x-1}=128$
+
+### K.
+
+$7(2^{3x})=56$
+
+### L.
+
+$9(3^{2x+1})=243$
+
+### M.
+
+$10^{2(x-2)}=1000$
+
+### N.
+
+$5(25^{x+1})=625$
+
+### O.
+
+$32^{1/5}=2^{1-2x}$
+
+### P.
+
+$(1/8)^{2x}=2^{x-3}$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]

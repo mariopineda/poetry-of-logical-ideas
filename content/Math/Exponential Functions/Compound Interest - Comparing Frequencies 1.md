@@ -16,8 +16,6 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Compound Interest - Comparing Frequencies 1
-
 A $1600 award can be invested for 2 years in either Plan A at $6.5\%$ compounded annually or Plan B at $6.2\%$ compounded monthly. Which provides the greater final balance, and by how much?
 
 > [!abstract] Review First

@@ -16,15 +16,27 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Compound Interest - Savings Table 1
-
 A deposit earns annually compounded interest. The account balances are:
 
 | $x$ | 0 | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|
 | $y$ | 1800 | 1890 | 1984.5 | 2083.73 | 2187.91 |
 
-a) Determine the exponential rule without regression. b) Find the annual rate. c) Calculate the balance after 10 years. d) Determine total interest earned.
+### A.
+
+Determine the exponential rule without regression.
+
+### B.
+
+Find the annual rate.
+
+### C.
+
+Calculate the balance after 10 years.
+
+### D.
+
+Determine total interest earned.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

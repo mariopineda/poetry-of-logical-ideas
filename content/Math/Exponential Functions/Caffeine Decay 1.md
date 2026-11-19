@@ -15,13 +15,29 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Caffeine Decay 1
-
 Two volunteers consume different quantities of caffeine. The graphs show estimated caffeine remaining over eight hours.
 
-a) Read the initial amount, contextual domain and range for each. b) Explain the downward trends. c) Identify who began with more caffeine and who eliminates it faster proportionally. d) Estimate both amounts after four hours. e) Interpret the intercepts in context.
-
 ![[EF_T1_Q11.png]]
+
+### A.
+
+Read the initial amount, contextual domain and range for each.
+
+### B.
+
+Explain the downward trends.
+
+### C.
+
+Identify who began with more caffeine and who eliminates it faster proportionally.
+
+### D.
+
+Estimate both amounts after four hours.
+
+### E.
+
+Interpret the intercepts in context.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]

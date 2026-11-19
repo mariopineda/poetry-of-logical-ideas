@@ -15,11 +15,27 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Appreciation and Depreciation 1
-
 For each model, state the starting value, whether the asset appreciates or depreciates, and the yearly percentage change.
 
-a) $y=850(1.08)^t$; b) $y=1750(0.92)^t$; c) $y=4200(1.12)^t$; d) $y=2600(0.97)^t$; e) $y=750(0.2)^t$.
+### A.
+
+$y=850(1.08)^t$
+
+### B.
+
+$y=1750(0.92)^t$
+
+### C.
+
+$y=4200(1.12)^t$
+
+### D.
+
+$y=2600(0.97)^t$
+
+### E.
+
+$y=750(0.2)^t$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

@@ -15,11 +15,19 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Growth - Information Spread 1
-
 Four members of an environmental club each tell three new people about a community event in the first hour. Each new recipient tells three additional people during the next hour, and this continues.
 
-a) Make a table for the number of *new* people informed at hours $0$ through $5$. b) Explain whether the data are exponential. c) Graph the model and predict the number newly informed in hour $8$.
+### A.
+
+Make a table for the number of *new* people informed at hours $0$ through $5$.
+
+### B.
+
+Explain whether the data are exponential.
+
+### C.
+
+Graph the model and predict the number newly informed in hour $8$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

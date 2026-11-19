@@ -14,15 +14,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Used Camera Prices 1
-
 Second-hand camera body prices are recorded by age:
 
 | $x$ | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|
 | $y$ | 2700 | 2320 | 2000 | 1720 | 1480 |
 
-a) Find exponential regression $P(t)=ab^t$, coefficients to hundredths. b) Estimate initial selling price to nearest dollar. c) Determine percentage loss per year, to nearest whole percent.
+### A.
+
+Find exponential regression $P(t)=ab^t$, coefficients to hundredths.
+
+### B.
+
+Estimate initial selling price to nearest dollar.
+
+### C.
+
+Determine percentage loss per year, to nearest whole percent.
 
 **Calculator requirement:** Enter the data in `L1` and `L2`, generate a scatter plot, run exponential regression, and display the fitted function on the *same graph* before answering the numerical questions.
 

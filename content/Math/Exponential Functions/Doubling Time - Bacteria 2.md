@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Doubling Time - Bacteria 2
-
 A culture has $240$ organisms at the beginning of an experiment, doubling every $10$ hours. Solve algebraically for the time needed to reach $245,760$ bacteria, and confirm on a graph.
 
 > [!abstract] Review First

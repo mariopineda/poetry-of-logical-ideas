@@ -15,9 +15,15 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Decay - Food Storage 1
+In an idealized experiment the storage lifetime (hours) of a food sample at temperature $T$ °C is $H(T)=150(1/2)^{T/40}$.
 
-In an idealized experiment the storage lifetime (hours) of a food sample at temperature $T$ °C is $H(T)=150(1/2)^{T/40}$. a) Calculate shelf life at $T=6$ to the nearest tenth of an hour. b) Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a degree.
+### A.
+
+Calculate shelf life at $T=6$ to the nearest tenth of an hour.
+
+### B.
+
+Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of a degree.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

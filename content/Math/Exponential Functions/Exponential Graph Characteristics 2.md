@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Graph Characteristics 2
-
 For each plotted exponential function, record the number of $x$-intercepts, $y$-intercept, end behaviour, domain and range.
 
 ![[EF_T1_Q05.png]]

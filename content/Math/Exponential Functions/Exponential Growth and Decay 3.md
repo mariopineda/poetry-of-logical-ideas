@@ -15,9 +15,13 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Growth and Decay 3
+### A.
 
-a) Write an exponential growth function and an exponential decay function that each intersect the $y$-axis at $7$. b) Describe their shared and differing properties.
+Write an exponential growth function and an exponential decay function that each intersect the $y$-axis at $7$.
+
+### B.
+
+Describe their shared and differing properties.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]

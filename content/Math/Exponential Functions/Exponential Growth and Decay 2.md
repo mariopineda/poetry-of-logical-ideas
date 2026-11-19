@@ -15,11 +15,31 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Growth and Decay 2
-
 Decide whether each exponential function increases or decreases, and justify using its base.
 
-a) $f(x)=9(3/5)^x$; b) $h(x)=0.7(0.8)^x$; c) $g(x)=0.3(2.2)^x$; d) $k(x)=6(4)^x$; e) $y=11(7/4)^x$; f) $y=16(1/8)^x$.
+### A.
+
+$f(x)=9(3/5)^x$
+
+### B.
+
+$h(x)=0.7(0.8)^x$
+
+### C.
+
+$g(x)=0.3(2.2)^x$
+
+### D.
+
+$k(x)=6(4)^x$
+
+### E.
+
+$y=11(7/4)^x$
+
+### F.
+
+$y=16(1/8)^x$.
 
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]

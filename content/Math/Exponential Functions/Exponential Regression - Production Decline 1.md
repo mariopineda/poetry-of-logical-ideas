@@ -14,15 +14,31 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Exponential Regression - Production Decline 1
-
 A small production site initially produces approximately $4200$ units per week and production decreases by roughly $12\%$ each operating week. A supervisor records the following measurements:
 
 | Operating week $t$ | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
 | Weekly output $Q$ | 4200 | 3696 | 3252 | 2861 | 2518 | 2216 |
 
-a) Enter the measurements in the calculator and produce a scatter plot. b) Calculate an exponential regression equation, and overlay its graph on the plotted data. c) Compare the fitted weekly rate with the expected $12\%$ decrease. d) Predict week-20 output to the nearest unit. e) Estimate when weekly output first falls below six units and discuss the reliability of such a distant forecast.
+### A.
+
+Enter the measurements in the calculator and produce a scatter plot.
+
+### B.
+
+Calculate an exponential regression equation, and overlay its graph on the plotted data.
+
+### C.
+
+Compare the fitted weekly rate with the expected $12\%$ decrease.
+
+### D.
+
+Predict week-20 output to the nearest unit.
+
+### E.
+
+Estimate when weekly output first falls below six units and discuss the reliability of such a distant forecast.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]

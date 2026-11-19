@@ -15,9 +15,23 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Exponential Growth - Comparing Investments 1
+Morgan holds two investments whose values after $t$ years are $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$. Determine:
 
-Morgan holds two investments whose values after $t$ years are $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$. Determine: a) each principal; b) each annual rate; c) both balances after 5 years; d) the time to reach $3600$, to the nearest tenth of a year.
+### A.
+
+each principal
+
+### B.
+
+each annual rate
+
+### C.
+
+both balances after 5 years
+
+### D.
+
+the time to reach $3600$, to the nearest tenth of a year.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]

@@ -15,11 +15,23 @@ curriculum_review_required: false
 calculator: required
 ---
 
-# Solving Exponential Equations Graphically 1
-
 Use graphing technology to find every real solution to the nearest tenth.
 
-a) $8^{1-x}=2^{x+3}$; b) $3^{2x}=5^x$; c) $2^{x+2}=4^x+2$; d) $6^{x-1}=(1/3)^{x+2}$.
+### A.
+
+$8^{1-x}=2^{x+3}$
+
+### B.
+
+$3^{2x}=5^x$
+
+### C.
+
+$2^{x+2}=4^x+2$
+
+### D.
+
+$6^{x-1}=(1/3)^{x+2}$.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]

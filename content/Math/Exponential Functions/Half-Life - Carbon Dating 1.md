@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Half-Life - Carbon Dating 1
-
 A recovered wooden artifact retains $68\%$ of its original carbon-14. Using $C(t)=100(0.5)^{t/5730}$, find its age, to the nearest year.
 
 > [!abstract] Review First

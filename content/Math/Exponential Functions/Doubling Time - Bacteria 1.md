@@ -15,8 +15,6 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-# Doubling Time - Bacteria 1
-
 A bacterial culture initially has $75,000$ organisms and doubles every $35$ minutes. Given $N(t)=75000(2)^{t/35}$, calculate how many minutes it takes to reach $450,000$, rounded to the nearest minute.
 
 > [!abstract] Review First
