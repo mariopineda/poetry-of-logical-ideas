@@ -9,14 +9,14 @@ show_solution: true
 ---
 A route between two recreation areas measures **210 km** in a straight line. At a scale of **1 cm = 30 km**, how far apart should the locations be drawn?
 
-![Question diagram](../../Assets/Scale-07-question.svg)
+![Question diagram](/poetry-of-logical-ideas/assets/scale-07-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > $$210\div30=7\text{ cm}.$$
 >
-> ![Worked solution diagram](../../Assets/Scale-07-solution.svg)
+> ![Worked solution diagram](/poetry-of-logical-ideas/assets/scale-07-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]

@@ -9,14 +9,14 @@ show_solution: true
 ---
 A small wind-turbine model has a **total height of 24 cm**, measured **from the base to the tip of the highest rotor blade** at a scale of **1:125**. What is the corresponding total height of the full-size turbine, in metres?
 
-![Question diagram](../../Assets/Scale-05-question.svg)
+![Question diagram](/poetry-of-logical-ideas/assets/scale-05-question.svg)
 
 ## Solution
 
 > [!example]- Show solution
 > $$24\times125=3000\text{ cm}=30\text{ m}.$$
 >
-> ![Worked solution diagram](../../Assets/Scale-05-solution.svg)
+> ![Worked solution diagram](/poetry-of-logical-ideas/assets/scale-05-solution.svg)
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]
