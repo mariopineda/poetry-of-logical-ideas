@@ -5,13 +5,20 @@ course:
   - Mathematics 20-2
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
-show_solution: false
+show_solution: true
 ---
 # Scale Drawings 7 - Map Distance Between Recreation Areas
 
 A route between two recreation areas measures **210 km** in a straight line. At a scale of **1 cm = 30 km**, how far apart should the locations be drawn?
 
 ![[Scale-07-question.svg]]
+
+## Solution
+
+> [!example]- Show solution
+> $$210\div30=7\text{ cm}.$$
+>
+> ![[Scale-07-solution.svg]]
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]
@@ -28,10 +35,3 @@ A route between two recreation areas measures **210 km** in a straight line. At 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
-> $$210\div30=7\text{ cm}.$$
->
-> ![[Scale-07-solution.svg]]

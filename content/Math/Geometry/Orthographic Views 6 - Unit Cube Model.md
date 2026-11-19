@@ -4,13 +4,20 @@ publish: true
 course:
   - Mathematics 20-3
 topic: "Two-Dimensional Representations"
-show_solution: false
+show_solution: true
 ---
 # Orthographic Views 6 - Unit Cube Model
 
 The image shows a new solid built from identical unit cubes. **Draw its front, top, and right-side views.** For the top view, also draw a **mat plan** indicating the height of every occupied stack. Use the explicit **FRONT VIEW** and **RIGHT VIEW** markers beneath the model.
 
 ![[Orthographic-06-question.svg]]
+
+## Solution
+
+> [!example]- Show solution
+> The three orthographic views and the numbered mat plan are shown below. Looking left-to-right, the front profile has heights **[2, 3, 1]**; looking from front to back, the right-side profile has heights **[3, 1]**. The top/mat plan is **[2, 3, 1]; [1, 1, 0]** (rows run front to back).
+>
+> ![[Orthographic-06-solution.svg]]
 
 > [!abstract] Review First
 > - [[Math/Geometry/Orthographic Views 1 - Unit Cube Model|Orthographic Views 1 - Unit Cube Model]]
@@ -25,10 +32,3 @@ The image shows a new solid built from identical unit cubes. **Draw its front, t
 
 > [!success] Build Toward
 > - [[Math/Geometry/Isometric Drawings 6 - Reconstructing a Solid|Isometric Drawings 6 - Reconstructing a Solid]]
-
-## Solution
-
-> [!example]- Show solution
-> The three orthographic views and the numbered mat plan are shown below. Looking left-to-right, the front profile has heights **[2, 3, 1]**; looking from front to back, the right-side profile has heights **[3, 1]**. The top/mat plan is **[2, 3, 1]; [1, 1, 0]** (rows run front to back).
->
-> ![[Orthographic-06-solution.svg]]

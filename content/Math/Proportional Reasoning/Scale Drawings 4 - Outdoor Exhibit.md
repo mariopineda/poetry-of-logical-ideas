@@ -5,13 +5,20 @@ course:
   - Mathematics 20-2
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
-show_solution: false
+show_solution: true
 ---
 # Scale Drawings 4 - Outdoor Exhibit
 
 An outdoor exhibit measures **3.6 m by 2.4 m**. Sketch a scaled rectangle using **1 cm : 0.6 m**. Label the scaled lengths.
 
 ![[Scale-04-question.svg]]
+
+## Solution
+
+> [!example]- Show solution
+> $$3.6\div0.6=6\text{ cm},\qquad2.4\div0.6=4\text{ cm}.$$ The plan is $6\text{ cm}\times4\text{ cm}$.
+>
+> ![[Scale-04-solution.svg]]
 
 > [!abstract] Review First
 > - [[Math/Proportional Reasoning/Scale Drawings 1 - Classifying Enlargements and Reductions|Scale Drawings 1 - Classifying Enlargements and Reductions]]
@@ -29,10 +36,3 @@ An outdoor exhibit measures **3.6 m by 2.4 m**. Sketch a scaled rectangle using 
 
 > [!success] Build Toward
 > _No linked questions yet._
-
-## Solution
-
-> [!example]- Show solution
-> $$3.6\div0.6=6\text{ cm},\qquad2.4\div0.6=4\text{ cm}.$$ The plan is $6\text{ cm}\times4\text{ cm}$.
->
-> ![[Scale-04-solution.svg]]

@@ -5,7 +5,7 @@ course:
   - Mathematics 20-2
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
-show_solution: false
+show_solution: true
 ---
 # Scale Drawings 1 - Classifying Enlargements and Reductions
 
@@ -21,6 +21,20 @@ For each example, identify whether it represents an **enlargement** or a **reduc
 | d) | Enlarged event poster | $4:1$ |
 | e) | Globe model | $1:25\,000\,000$ |
 | f) | Enlarged insect illustration | $20:1$ |
+
+## Solution
+
+> [!example]- Show solution
+> A ratio **greater than $1:1$** represents an **enlargement**: the image or model is bigger than the actual subject. A ratio **less than $1:1$** represents a **reduction**: the image or model is smaller.
+>
+> | | Classification | Reason |
+> |---|---|---|
+> | a) | **Enlargement** | At $15:1$, the image is 15 times the actual size. |
+> | b) | **Reduction** | At $1:80$, the plan is $\frac{1}{80}$ of actual size. |
+> | c) | **Reduction** | At $1:65$, the train model is $\frac{1}{65}$ of actual size. |
+> | d) | **Enlargement** | At $4:1$, the printed poster is 4 times the original size. |
+> | e) | **Reduction** | At $1:25\,000\,000$, the globe is much smaller than Earth. |
+> | f) | **Enlargement** | At $20:1$, the illustration is 20 times the insect’s size. |
 
 > [!abstract] Review First
 > _No linked questions yet._
@@ -40,17 +54,3 @@ For each example, identify whether it represents an **enlargement** or a **reduc
 > - [[Math/Proportional Reasoning/Scale Drawings 6 - Park Map Distance|Scale Drawings 6 - Park Map Distance]]
 > - [[Math/Proportional Reasoning/Scale Drawings 7 - Map Distance Between Recreation Areas|Scale Drawings 7 - Map Distance Between Recreation Areas]]
 > - [[Math/Proportional Reasoning/Scale Drawings 8 - Resizing a Banner|Scale Drawings 8 - Resizing a Banner]]
-
-## Solution
-
-> [!example]- Show solution
-> A ratio **greater than $1:1$** represents an **enlargement**: the image or model is bigger than the actual subject. A ratio **less than $1:1$** represents a **reduction**: the image or model is smaller.
->
-> | | Classification | Reason |
-> |---|---|---|
-> | a) | **Enlargement** | At $15:1$, the image is 15 times the actual size. |
-> | b) | **Reduction** | At $1:80$, the plan is $\frac{1}{80}$ of actual size. |
-> | c) | **Reduction** | At $1:65$, the train model is $\frac{1}{65}$ of actual size. |
-> | d) | **Enlargement** | At $4:1$, the printed poster is 4 times the original size. |
-> | e) | **Reduction** | At $1:25\,000\,000$, the globe is much smaller than Earth. |
-> | f) | **Enlargement** | At $20:1$, the illustration is 20 times the insect’s size. |
