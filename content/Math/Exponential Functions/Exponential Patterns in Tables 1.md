@@ -15,33 +15,37 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-For every table, decide whether it is exponential, explain using successive ratios, determine the $y$-intercept, and classify any exponential trend as growth or decay.
+For every table, decide whether it represents an exponential function. Explain using successive ratios, state the $y$-intercept, and classify each exponential relationship as growth or decay.
 
-A. | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
+**A**
 
-|---|---|---|---|---|---|---|
+| $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|---:|
 | $y$ | 9 | 27 | 81 | 243 | 729 | 2187 |
 
-B. | $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
+**B**
 
-|---|---|---|---|---|---|---|
+| $x$ | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|---:|
 | $y$ | 2048 | 512 | 128 | 32 | 8 | 2 |
 
-C. | $x$ | -4 | -3 | -2 | -1 | 0 | 1 |
+**C**
 
-|---|---|---|---|---|---|---|
+| $x$ | -4 | -3 | -2 | -1 | 0 | 1 |
+|---|---:|---:|---:|---:|---:|---:|
 | $y$ | -7 | -4 | -1 | 2 | 5 | 8 |
 
-D. | $x$ | -1 | 0 | 1 | 2 | 3 | 4 |
+**D**
 
-|---|---|---|---|---|---|---|
+| $x$ | -1 | 0 | 1 | 2 | 3 | 4 |
+|---|---:|---:|---:|---:|---:|---:|
 | $y$ | 500 | 100 | 20 | 4 | 0.8 | 0.16 |
 
-E. | $x$ | -2 | -1 | 0 | 1 | 2 | 3 |
+**E**
 
-|---|---|---|---|---|---|---|
+| $x$ | -2 | -1 | 0 | 1 | 2 | 3 |
+|---|---:|---:|---:|---:|---:|---:|
 | $y$ | 8 | 4 | 2 | 5 | 9 | 14 |
-
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
 > - [[Math/Exponential Functions/Common Ratio 2|Common Ratio 2]]

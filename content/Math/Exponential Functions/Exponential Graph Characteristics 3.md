@@ -15,24 +15,19 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-Without first graphing, make a table identifying the base, $y$-intercept, end behaviour, growth/decay, domain, range and number of $x$-intercepts of each function. Then verify using technology.
+**10-minute QOD** â€” Without graphing, use the equations to answer the questions.
 
 A. $y=4(3)^x$
 
 B. $y=6(0.4)^x$
 
-C. $y=3(1/6)^x$
+C. $y=\frac{3}{4}\left(\frac{1}{5}\right)^x$
 
-D. $y=(3/4)(1/5)^x$
+D. $y=18(1.6)^x$
 
-E. $y=18(1.6)^x$
-
-F. $y=5(2.5)^x$
-
-G. $y=7(0.2)^x$
-
-H. $y=2.5(1/7)^x$.
-
+1. For each function, state the base, $y$-intercept, and whether it shows growth or decay.
+2. State the domain, range, and number of $x$-intercepts shared by all four functions.
+3. Describe how the end behaviour of a growth function differs from that of a decay function.
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
 > - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
@@ -57,19 +52,15 @@ H. $y=2.5(1/7)^x$.
 
 > [!example]- Show solution
 >
-> **Step 1 — Read the coefficients.** In $y=ab^x$, $a$ gives the $y$-intercept and $b$ gives the multiplier for each increase of $1$ in $x$.
-> 
-> | Function | Base $b$ | $y$-intercept | Trend |
+> **1. Identify $a$ and $b$.** For $y=ab^x$, the coefficient $a$ is the $y$-intercept and the base $b$ is the common ratio. A base greater than $1$ means growth; a base between $0$ and $1$ means decay.
+>
+> | Function | Base $b$ | $y$-intercept | Behaviour |
 > |---|---:|---:|---|
 > | A | $3$ | $4$ | Growth |
 > | B | $0.4$ | $6$ | Decay |
-> | C | $\frac16$ | $3$ | Decay |
-> | D | $\frac15$ | $\frac34$ | Decay |
-> | E | $1.6$ | $18$ | Growth |
-> | F | $2.5$ | $5$ | Growth |
-> | G | $0.2$ | $7$ | Decay |
-> | H | $\frac17$ | $2.5$ | Decay |
-> 
-> **Step 2 — Apply the shared properties.** For all eight models: domain $x\in\mathbb R$, range $y>0$, no $x$-intercepts, and horizontal asymptote $y=0$. Growth functions approach $0$ on the left and increase without bound on the right; decay functions do the reverse.
-> 
-> **Step 3 — Verify using the graphing calculator.** Enter each expression in `Y=` and select a window that shows $x=0$ clearly (for example, $-3\le x\le3$). Confirm that the graph crosses at the predicted $a$ and heads in the direction predicted from $b$. Do not confuse the asymptote $y=0$ with an $x$-intercept.
+> | C | $\frac{1}{5}$ | $\frac{3}{4}$ | Decay |
+> | D | $1.6$ | $18$ | Growth |
+>
+> **2. Shared characteristics:** Domain $x\in\mathbb{R}$; range $y>0$; zero $x$-intercepts. Each has horizontal asymptote $y=0$.
+>
+> **3. End behaviour:** A growth function approaches $0$ as $x\to-\infty$ and increases without bound as $x\to\infty$. A decay function increases without bound as $x\to-\infty$ and approaches $0$ as $x\to\infty$.
