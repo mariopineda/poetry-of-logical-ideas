@@ -15,15 +15,28 @@ curriculum_review_required: false
 calculator: allowed
 ---
 
-Find the $y$-intercept of each function and state whether the function shows exponential growth or decay. Justify your choice using the base.
+Find the $y$-intercept and state whether each function grows or decays.
 
-A. $y=7(3)^x$
+A. $$
 
-B. $y=4\left(\frac{1}{3}\right)^x$
+y=7(3)^x
+$$
 
-C. $y=12(1.25)^x$
+B. $$
 
-D. $y=(0.6)^x$
+y=4\left(\frac13\right)^x
+$$
+
+C. $$
+
+y=12(1.25)^x
+$$
+
+D. $$
+
+y=(0.6)^x
+$$
+
 > [!abstract] Review First
 > - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
