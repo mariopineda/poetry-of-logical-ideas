@@ -26,45 +26,44 @@ $$
 
 > [!example]- Show solution
 >
-> ### A.
+> ### A. $x^{2} + 5 x + 6=0$
+>
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=5$, and $c=6$. Thus $ac=6$; we need two numbers with product $6$ and sum $5$. Since $ac$ is positive, the numbers have same signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=6$ until a factor pair has the required sum: $6\div1=6$ (sum $7$); $6\div2=3$ (sum $5$, **match**).
+> - **Square-root-guided search:** $\sqrt{6}\approx 2.45$, so the possible smaller divisors end at $2$. Start at $2$ and work downward: $6\div2=3$ (sum $5$, **match**).
+>
+> The required numbers are $m=3$ and $n=2$: $3+(2)=5$ and $(3)(2)=6$.
 >
 > $$
-> x^2+5x+6=0
+> \begin{aligned}
+> x^2+5x+6 &= (x+2)(x+3) =0\\
+> \implies\quad &\boxed{x=-2,\;-3}.
+> \end{aligned}
 > $$
 >
-> $$
-> (x+2)(x+3)=0
-> $$
+> ### B. $2 x^{2} + 7 x + 3=0$
 >
-> Therefore,
+> **Decomposition ($a\ne1$).**
 >
-> $$
-> x=-2,\,-3
-> $$
+> Identify the numerical coefficients $a=2$, $b=7$, and $c=3$. Thus $ac=6$; we need two numbers with product $6$ and sum $7$. Since $ac$ is positive, the numbers have same signs.
 >
-> ### B.
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=6$ until a factor pair has the required sum: $6\div1=6$ (sum $7$, **match**).
+> - **Square-root-guided search:** $\sqrt{6}\approx 2.45$, so the possible smaller divisors end at $2$. Start at $2$ and work downward: $6\div2=3$ (sum $5$); $6\div1=6$ (sum $7$, **match**).
 >
-> $$
-> 2x^2+7x+3=0
-> $$
+> The required numbers are $m=6$ and $n=1$: $6+(1)=7$ and $(6)(1)=6$.
 >
 > $$
-> 2x^2+6x+x+3=0
+> \begin{aligned}
+> 2x^2+7x+3 &=2x^2+6x+x+3\\
+> &=2x(x+3)+(x+3)\\
+> &=(2x+1)(x+3)=0\\
+> \implies\quad &\boxed{x=-\tfrac12,\;-3}.
+> \end{aligned}
 > $$
 >
-> $$
-> 2x(x+3)+(x+3)=0
-> $$
->
-> $$
-> (2x+1)(x+3)=0
-> $$
->
-> Therefore,
->
-> $$
-> x=-\frac{1}{2},\,-3
-> $$
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 4|Factoring Polynomials 4]]

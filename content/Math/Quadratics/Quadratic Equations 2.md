@@ -35,7 +35,28 @@ $$
 
 > [!example]- Show solution
 >
-> Correct answer: B
+> Only the candidate $x^2+2x+x+2$ produces the required factor after simplifying the middle terms:
+>
+> $$
+> x^2+2x+x+2=x^2+3x+2.
+> $$
+>
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=3$, and $c=2$. Thus $ac=2$; we need two numbers with product $2$ and sum $3$. Since $ac$ is positive, the numbers have same signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=2$ until a factor pair has the required sum: $2\div1=2$ (sum $3$, **match**).
+> - **Square-root-guided search:** $\sqrt{2}\approx 1.41$, so the possible smaller divisors end at $1$. Start at $1$ and work downward: $2\div1=2$ (sum $3$, **match**).
+>
+> The required numbers are $m=2$ and $n=1$: $2+(1)=3$ and $(2)(1)=2$.
+>
+> $$
+> \begin{aligned}
+> x^2+3x+2&=\boxed{(x+1)(x+2)}.
+> \end{aligned}
+> $$
+>
+> Therefore the correct answer is **choice 2**. (The other choices do not contain $x+2$ as a factor.)
 >
 
 > [!abstract] Review First

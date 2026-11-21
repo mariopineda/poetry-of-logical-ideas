@@ -26,41 +26,42 @@ $$
 
 > [!example]- Show solution
 >
-> ### A.
+> ### A. $x^2-10x+24=0$
+>
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=-10$, and $c=24$. Thus $ac=24$; we need two numbers with product $24$ and sum $-10$. Since $ac$ is positive, the numbers have same signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=24$ until a factor pair has the required sum: $24\div1=24$ (sum $25$); $24\div2=12$ (sum $14$); $24\div3=8$ (sum $11$); $24\div4=6$ (sum $10$, **match**).
+> - **Square-root-guided search:** $\sqrt{24}\approx 4.90$, so the possible smaller divisors end at $4$. Start at $4$ and work downward: $24\div4=6$ (sum $10$, **match**).
+>
+> The required numbers are $m=-6$ and $n=-4$: $-6+(-4)=-10$ and $(-6)(-4)=24$.
 >
 > $$
-> x^2-10x+24=0
+> \begin{aligned}
+> x^2-10x+24&=(x-4)(x-6)=0\\
+> \implies\quad &\boxed{x=4,\;6}.
+> \end{aligned}
 > $$
 >
-> factors as
+> ### B. $x^2-10x-24=0$
+>
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=-10$, and $c=-24$. Thus $ac=-24$; we need two numbers with product $-24$ and sum $-10$. Since $ac$ is negative, the numbers have opposite signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=24$ until a factor pair has the required difference: $24\div1=24$ (difference $23$); $24\div2=12$ (difference $10$, **match**).
+> - **Square-root-guided search:** $\sqrt{24}\approx 4.90$, so the possible smaller divisors end at $4$. Start at $4$ and work downward: $24\div4=6$ (difference $2$); $24\div3=8$ (difference $5$); $24\div2=12$ (difference $10$, **match**).
+>
+> The required numbers are $m=-12$ and $n=2$: $-12+(2)=-10$ and $(-12)(2)=-24$.
 >
 > $$
-> (x-4)(x-6)=0.
+> \begin{aligned}
+> x^2-10x-24&=(x-12)(x+2)=0\\
+> \implies\quad &\boxed{x=12,\;-2}.
+> \end{aligned}
 > $$
 >
-> Therefore,
->
-> $$
-> \boxed{x=4,\ 6}.
-> $$
->
-> ### B.
->
-> $$
-> x^2-10x-24=0
-> $$
->
-> factors as
->
-> $$
-> (x-12)(x+2)=0.
-> $$
->
-> Therefore,
->
-> $$
-> \boxed{x=-2,\ 12}.
-> $$
 
 > [!abstract] Review First
 > - [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients|Arithmetic Operations with Quotients]]

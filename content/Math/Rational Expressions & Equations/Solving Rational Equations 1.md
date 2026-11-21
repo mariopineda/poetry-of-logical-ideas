@@ -13,14 +13,35 @@ Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3
 
 > [!example]- Show solution
 >
-> $$\frac{2x}{x+3} - \frac{x}{x-3} - \frac{-18}{(x-3)(x+3)} = 0$$
-> $$\text{LCD: } (x-3)(x+3)$$
-> $$2x(x-3) - x(x+3) - (-18) = 0$$
-> $$2x^2-6x-x^2-3x+18=0$$
-> $$x^2-9x+18=0$$
-> $$(x-3)(x-6)=0$$
-> $$x=3, 6, x\neq\pm3$$
-> $$x=3 \text{ is an extraneous root, so the only valid solution is } x=6, x\neq\pm3$$
+> The original denominators require $x
+e-3$ and $x
+e3$. The LCD is $(x+3)(x-3)$.
+>
+> $$
+> \begin{aligned}
+> \frac{2x}{x+3}-\frac{x}{x-3}&=\frac{-18}{(x+3)(x-3)}\\
+> 2x(x-3)-x(x+3)&=-18\\
+> x^2-9x+18&=0.
+> \end{aligned}
+> $$
+>
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=-9$, and $c=18$. Thus $ac=18$; we need two numbers with product $18$ and sum $-9$. Since $ac$ is positive, the numbers have same signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=18$ until a factor pair has the required sum: $18\div1=18$ (sum $19$); $18\div2=9$ (sum $11$); $18\div3=6$ (sum $9$, **match**).
+> - **Square-root-guided search:** $\sqrt{18}\approx 4.24$, so the possible smaller divisors end at $4$. Start at $4$ and work downward: $18\div4$ is not a whole number; $18\div3=6$ (sum $9$, **match**).
+>
+> The required numbers are $m=-6$ and $n=-3$: $-6+(-3)=-9$ and $(-6)(-3)=18$.
+>
+> $$
+> \begin{aligned}
+> x^2-9x+18&=(x-3)(x-6)=0\\
+> \implies\quad &x=3\text{ or }x=6.
+> \end{aligned}
+> $$
+>
+> Since $x=3$ is non-permissible, the **only valid solution** is $\boxed{x=6}$.
 >
 
 > [!abstract] Review First

@@ -19,31 +19,30 @@ The roots of the equation $x(x-1)=2$ are
 
 > [!example]- Show solution
 >
-> Start with
+> First rearrange:
 >
 > $$
-> x(x-1)=2.
+> x(x-1)=2\quad\Longrightarrow\quad x^2-x-2=0.
 > $$
 >
-> Then
+> **Inspection ($a=1$).**
+>
+> Identify the numerical coefficients $a=1$, $b=-1$, and $c=-2$. Thus $ac=-2$; we need two numbers with product $-2$ and sum $-1$. Since $ac$ is negative, the numbers have opposite signs.
+>
+> - **Sequential division:** Test divisors $1,2,3,\ldots$ of $|ac|=2$ until a factor pair has the required difference: $2\div1=2$ (difference $1$, **match**).
+> - **Square-root-guided search:** $\sqrt{2}\approx 1.41$, so the possible smaller divisors end at $1$. Start at $1$ and work downward: $2\div1=2$ (difference $1$, **match**).
+>
+> The required numbers are $m=-2$ and $n=1$: $-2+(1)=-1$ and $(-2)(1)=-2$.
 >
 > $$
-> x^2-x-2=0.
+> \begin{aligned}
+> x^2-x-2&=(x-2)(x+1)=0\\
+> \implies\quad &\boxed{x=-1,\;2}.
+> \end{aligned}
 > $$
 >
-> Factor:
+> The correct answer is **choice 3**.
 >
-> $$
-> (x-2)(x+1)=0.
-> $$
->
-> Therefore,
->
-> $$
-> \boxed{x=-1,\ 2},
-> $$
->
-> which is **choice 3**.
 
 > [!abstract] Review First
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
