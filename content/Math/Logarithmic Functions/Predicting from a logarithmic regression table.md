@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Logarithmic Functions
 show_solution: true
 qod_id: DIP-30-2-2013-NR4
@@ -59,4 +60,4 @@ Use logarithmic regression of the form $h=a+b\ln t$ to estimate the average heig
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> _No linked questions yet._

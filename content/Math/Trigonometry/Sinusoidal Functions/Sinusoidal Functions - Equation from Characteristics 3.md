@@ -3,6 +3,8 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
+  - Mathematics 31
 topic: Sinusoidal Functions
 show_solution: true
 ---
@@ -78,7 +80,7 @@ Show how you determined the values of $a$, $b$, and $d$.
 > $$
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Amplitude and frequency from wildlife counts|Amplitude and frequency from wildlife counts]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

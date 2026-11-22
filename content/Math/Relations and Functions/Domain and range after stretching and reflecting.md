@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 31
 topic: Relations and Functions
 show_solution: true
 qod_id: DIP-30-1-2019-MC2
@@ -30,12 +31,12 @@ The domain of $f$ is $[1,5]$ and its range is $[-3,7]$. Define $g(x)=-2f\left(\f
 > The expression $x/3$ must lie in $[1,5]$, hence $3\le x\le15$. The range values are multiplied by $-2$, sending $[-3,7]$ to $[-14,6]$. Therefore $\boxed{D_g=[3,15]}$ and $\boxed{R_g=[-14,6]}$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Translating a point on an exponential curve|Translating a point on an exponential curve]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

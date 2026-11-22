@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: Permutations
 show_solution: true
 ---
@@ -62,6 +63,8 @@ That is, the first two samples must be pottery, but the third must be bone.
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Assigning lockers with two fixed ends|Assigning lockers with two fixed ends]]
+> - [[Math/Combinatorics/Reserved seat on a shuttle|Reserved seat on a shuttle]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

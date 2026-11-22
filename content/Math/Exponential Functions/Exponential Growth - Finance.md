@@ -3,6 +3,8 @@ type: qod
 publish: true
 course:
   - "Mathematics 20-3"
+  - Mathematics 30-1
+  - Mathematics 30-2
 topic: "Exponential Growth and Decay"
 show_solution: true
 ---

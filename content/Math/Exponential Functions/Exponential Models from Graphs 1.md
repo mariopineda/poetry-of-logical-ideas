@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: "Exponential Equations and Regression"
 learning_order: 3408
 show_solution: false

@@ -39,6 +39,7 @@ In the **same universe**, another subset $Y$ is defined, but all you are told is
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]]
+> - [[Math/Set Theory/Interpreting three Venn shading instructions|Interpreting three Venn shading instructions]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

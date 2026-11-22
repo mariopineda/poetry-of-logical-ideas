@@ -50,4 +50,4 @@ where $h$ is measured in metres and $t\ge0$ in seconds. How long after release w
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> _No linked questions yet._

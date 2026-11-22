@@ -80,4 +80,5 @@ Use the graph to determine:
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Comparing periods of two periodic motion models|Comparing periods of two periodic motion models]]
+> - [[Math/Sinusoidal Functions/Interpreting a zero in a cyclical illumination model|Interpreting a zero in a cyclical illumination model]]

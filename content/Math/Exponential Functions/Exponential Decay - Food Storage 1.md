@@ -31,12 +31,12 @@ B. Determine $T$ for a shelf life of 5 days (120 hours), to the nearest tenth of
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
 > - [[Math/Exponential Functions/Depreciation - Camera Value 1|Depreciation - Camera Value 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
-> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 ## Solution
 

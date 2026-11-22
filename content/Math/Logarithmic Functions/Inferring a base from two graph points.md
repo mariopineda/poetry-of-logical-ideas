@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 30-2
 topic: Logarithmic Functions
 show_solution: true
 qod_id: DIP-30-1-X023
@@ -33,6 +34,7 @@ A logarithmic sensor is modelled by $f(x)=\log_b(x+c)$ with $b>1$. The curve pas
 
 > [!abstract] Review First
 > - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Exponential Functions/Graphing Exponential Functions 1|Graphing Exponential Functions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -42,4 +44,4 @@ A logarithmic sensor is modelled by $f(x)=\log_b(x+c)$ with $b>1$. The curve pas
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Exponential Functions/Graphing Exponential Functions 1|Graphing Exponential Functions 1]]
+> _No linked questions yet._

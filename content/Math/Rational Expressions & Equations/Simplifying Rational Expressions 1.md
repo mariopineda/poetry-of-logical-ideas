@@ -172,3 +172,4 @@ $$
 > - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 > - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions and Equations/Producing equivalent rational expressions|Producing equivalent rational expressions]]

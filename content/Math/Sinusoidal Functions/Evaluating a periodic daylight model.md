@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Sinusoidal Functions
 show_solution: true
 qod_id: DIP-30-2-2016-NR12
@@ -40,7 +41,7 @@ where $t$ is the day of the year and $D$ is measured in hours. Evaluate $D(172)$
 > To the nearest hundredth of an hour, $\boxed{D(172)=15.00\text{ h}}$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from an Equation 1|Sinusoidal Functions - Characteristics from an Equation 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

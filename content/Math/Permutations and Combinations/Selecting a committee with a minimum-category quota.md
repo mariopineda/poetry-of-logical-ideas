@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 30-2
 topic: Permutations and Combinations
 show_solution: true
 qod_id: DIP-30-1-2016-MC26

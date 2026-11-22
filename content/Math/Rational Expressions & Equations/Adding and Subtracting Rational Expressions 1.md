@@ -4,6 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
+  - Mathematics 31
 topic: "Rational Expressions"
 
 learning_order: 160
@@ -159,3 +160,4 @@ $$
 > - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1|Sums and Differences with Binomial Denominators 1]]
 > - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 2|Sums and Differences with Binomial Denominators 2]]
 > - [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3|Sums and Differences with Binomial Denominators 3]]
+> - [[Math/Rational Expressions and Equations/Adding rational expressions with a common denominator|Adding rational expressions with a common denominator]]

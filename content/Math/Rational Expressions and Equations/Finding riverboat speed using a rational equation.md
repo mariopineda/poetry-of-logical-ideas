@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2016-MC25
@@ -46,7 +47,7 @@ Build a rational equation for the trip and solve for $v$ to the nearest tenth. S
 > The calculated times are approximately $60/28.649=2.094$ h and $60/20.649=2.906$ h, totalling about $5.000$ h.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

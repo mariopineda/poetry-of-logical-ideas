@@ -60,7 +60,6 @@ e3$. The LCD is $(x+3)(x-3)$.
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2|Simplifying Rational Expressions 2]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7|Simplifying Rational Expressions 7]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6|Simplifying Rational Expressions 6]]
-> - [[Math/Rational Expressions & Equations/Rational Expressions - Error Analysis 1|Rational Expressions - Error Analysis 1]]
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5|Simplifying Rational Expressions 5]]
 > - [[Math/Rational Expressions & Equations/Rational Functions - Equivalent Rules and Domains 1|Rational Functions - Equivalent Rules and Domains 1]]
 > - [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1|Rational Functions - Reciprocal Form and Asymptotes 1]]
@@ -89,4 +88,5 @@ e3$. The LCD is $(x+3)(x-3)$.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Rational Expressions and Equations/Finding riverboat speed using a rational equation|Finding riverboat speed using a rational equation]]
+> - [[Math/Relations and Functions/Solving a rational equation|Solving a rational equation]]

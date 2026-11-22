@@ -88,6 +88,8 @@ Round non-integer coordinates to the nearest hundredth.
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
 > - [[Math/Relations and Functions/Domain and Range - Reading Graphs 2|Domain and Range - Reading Graphs 2]]
+> - [[Math/Polynomials/Identifying a polynomial factor from its zeros|Identifying a polynomial factor from its zeros]]
+> - [[Math/Polynomials/Comparing maximum heights and travel distances|Comparing maximum heights and travel distances]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

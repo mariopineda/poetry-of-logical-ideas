@@ -124,16 +124,16 @@ $$
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 > - [[Math/Exponential Functions/Compound Interest - Loan Duration 1|Compound Interest - Loan Duration 1]]
-> - [[Math/Exponential Functions/Exponential Decay - Food Storage 1|Exponential Decay - Food Storage 1]]
-> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
+> - [[Math/Logarithmic Functions/Applying logarithm power laws to roots|Applying logarithm power laws to roots]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
 > - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
 > - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Solving a mixed exponential and logarithmic condition|Solving a mixed exponential and logarithmic condition]]

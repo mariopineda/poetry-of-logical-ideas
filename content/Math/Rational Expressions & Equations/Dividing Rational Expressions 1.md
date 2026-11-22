@@ -4,6 +4,7 @@ publish: true
 course:
   - Mathematics 20-1
   - Mathematics 30-2
+  - Mathematics 31
 topic: Rational Expressions
 show_solution: true
 ---
@@ -175,3 +176,4 @@ $$
 > - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
 > - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 > - [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 6|Multiplying and Dividing Rational Expressions 6]]
+> - [[Math/Rational Expressions and Equations/Dividing and simplifying rational expressions|Dividing and simplifying rational expressions]]

@@ -132,4 +132,4 @@ For this model, the highest point of the wheel is **135 m above the ground**, th
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Trigonometry/Sinusoidal Functions/Comparing two rotating observation wheels|Comparing two rotating observation wheels]]

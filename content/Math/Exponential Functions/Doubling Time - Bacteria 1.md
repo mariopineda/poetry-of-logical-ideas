@@ -20,6 +20,7 @@ In a school science lab, students place a bacterial culture in conditions under 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -31,7 +32,6 @@ In a school science lab, students place a bacterial culture in conditions under 
 
 > [!success] Build Toward
 > - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
-> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
 
 ## Solution
 

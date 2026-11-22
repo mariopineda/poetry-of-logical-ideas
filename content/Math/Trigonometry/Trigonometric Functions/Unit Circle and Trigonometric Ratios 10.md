@@ -32,6 +32,7 @@ Find $\theta$ exactly for $0\leq\theta<2\pi$.
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometric Functions/Two reciprocal trigonometric ratios with equal values|Two reciprocal trigonometric ratios with equal values]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

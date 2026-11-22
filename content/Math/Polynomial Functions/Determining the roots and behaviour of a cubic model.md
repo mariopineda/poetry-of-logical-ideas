@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Polynomial Functions
 show_solution: true
 qod_id: DIP-30-2-2016-MC26
@@ -57,4 +58,4 @@ From the **graph**, estimate the $x$-intercepts and determine the left- and righ
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> _No linked questions yet._

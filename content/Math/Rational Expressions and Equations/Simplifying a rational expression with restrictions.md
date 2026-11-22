@@ -3,6 +3,8 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
+- Mathematics 31
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2016-MC22
@@ -43,12 +45,12 @@ List **every** non-permissible value from the *original* denominator and explain
 > The original denominator is zero at $-4$ and $-3$. Cancelling $x+4$ does not restore the missing point at $x=-4$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3|Simplifying Rational Expressions 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Rational Expressions and Equations/Adding rational expressions with a common denominator|Adding rational expressions with a common denominator]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

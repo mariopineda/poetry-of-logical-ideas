@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
 ---
@@ -41,6 +42,7 @@ How many bib numbers meet this requirement? Explain the restrictions on the firs
 > [!abstract] Review First
 > - [[Math/Combinatorics/Fundamental Counting Principle 13 - Festival Pass Identifiers|Fundamental Counting Principle 13 - Festival Pass Identifiers]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Fundamental Counting Principle/Counting constrained identification codes|Counting constrained identification codes]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

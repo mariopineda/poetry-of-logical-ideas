@@ -41,7 +41,8 @@ Using a balance scale and no standard weights, explain how to guarantee finding 
 > $$
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Reasoning/Assigning outdoor activities from weather constraints|Assigning outdoor activities from weather constraints]]
+> - [[Math/Reasoning/Complement of a raffle jackpot|Complement of a raffle jackpot]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

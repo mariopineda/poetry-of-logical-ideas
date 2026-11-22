@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: Permutations
 show_solution: true
 ---
@@ -93,6 +94,7 @@ Use permutation notation.
 > [!abstract] Review First
 > - [[Math/Combinatorics/Factorial Notation - Applications 2|Factorial Notation - Applications 2]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 2|Fundamental Counting Principle with Restrictions 2]]
+> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -103,4 +105,4 @@ Use permutation notation.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Combinatorics/Permutations 1|Permutations 1]]
+> _No linked questions yet._

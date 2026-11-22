@@ -5,6 +5,7 @@ course:
 - Mathematics 20-1
 - Mathematics 30-1
 - Mathematics 30-2
+- Mathematics 31
 topic: Rational Expressions
 show_solution: true
 qod_id: DIP-30-2-V016

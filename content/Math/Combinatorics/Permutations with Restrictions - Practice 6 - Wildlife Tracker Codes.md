@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: "Permutations"
 show_solution: true
 prerequisites:
@@ -41,6 +42,7 @@ How many codes are possible if the digit **4 occurs exactly once**, while other 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Permutations with Restrictions - Practice 5 - Colour Chip Trials|Permutations with Restrictions - Practice 5 - Colour Chip Trials]]
 > - [[Math/Combinatorics/Fundamental Counting Principle with Restrictions 1|Fundamental Counting Principle with Restrictions 1]]
+> - [[Math/Combinatorics/Forgotten digits of a locker code|Forgotten digits of a locker code]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

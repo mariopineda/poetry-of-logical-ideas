@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Sinusoidal Functions
 show_solution: true
 qod_id: DIP-30-2-2016-MC27
@@ -43,12 +44,12 @@ Identify **which graphical feature** determines when the panel is completely dar
 > The point $(12,0)$ means that **0% of the panel is illuminated** 12 hours after the cycle begins; it is not the maximum or the midline.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1|Sinusoidal Functions - Characteristics from a Graph 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Comparing periods of two periodic motion models|Comparing periods of two periodic motion models]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -124,6 +124,7 @@ Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
 > - [[Math/Polynomials/Factoring Polynomials 1|Factoring Polynomials 1]]
+> - [[Math/Polynomial Functions/Determining polynomial coefficients from a quartic graph|Determining polynomial coefficients from a quartic graph]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -136,4 +137,6 @@ Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Factoring a fourth-degree polynomial using a root|Factoring a fourth-degree polynomial using a root]]
+> - [[Math/Polynomials/Inferring polynomial coefficients from intercept behaviour|Inferring polynomial coefficients from intercept behaviour]]
+> - [[Math/Polynomial Functions/Leading coefficient from roots and one intercept|Leading coefficient from roots and one intercept]]

@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Logarithmic Functions
 show_solution: true
 qod_id: DIP-30-2-2016-MC21
@@ -39,7 +40,7 @@ Express the equation in **logarithmic notation**, isolating $t$. Explain how the
 > Checking $t=3$: $5^3=125$ is equivalent to $\boxed{\log_5 125=3}$.
 
 > [!abstract] Review First
-> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
+> _No linked questions yet._
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -50,3 +51,4 @@ Express the equation in **logarithmic notation**, isolating $t$. Explain how the
 
 > [!success] Build Toward
 > - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]

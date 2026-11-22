@@ -92,6 +92,8 @@ i. the range.
 
 > [!abstract] Review First
 > - [[Math/Relations and Functions/Function Notation 1|Function Notation 1]]
+> - [[Math/Polynomials/Minimum polynomial degree from root multiplicity|Minimum polynomial degree from root multiplicity]]
+> - [[Math/Polynomial Functions/Factoring a cubic when one zero is known|Factoring a cubic when one zero is known]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -4,6 +4,7 @@ publish: true
 course:
   - Mathematics 10C
   - Mathematics 30-2
+  - Mathematics 20-1
 topic: Quadratics
 show_solution: true
 ---

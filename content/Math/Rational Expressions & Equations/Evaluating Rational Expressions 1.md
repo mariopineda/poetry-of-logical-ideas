@@ -4,6 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
+  - Mathematics 31
 topic: "Rational Expressions"
 learning_order: 10
 show_solution: true
@@ -61,3 +62,5 @@ $$
 
 > [!success] Build Toward
 > - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
+> - [[Math/Rational Expressions/Simplifying a rational expression with a restriction|Simplifying a rational expression with a restriction]]
+> - [[Math/Rational Expressions/Subtracting rational expressions with different denominators|Subtracting rational expressions with different denominators]]

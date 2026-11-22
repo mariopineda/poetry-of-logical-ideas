@@ -60,9 +60,9 @@ in **descending powers of $x$**. Find an expression for the exponent of $x$ in t
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Combinatorics/Counting Methods Challenge 3|Counting Methods Challenge 3]]
+> _No linked questions yet._

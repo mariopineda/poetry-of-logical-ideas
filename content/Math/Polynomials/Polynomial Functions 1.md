@@ -119,3 +119,5 @@ State whether or not each of the following functions is a polynomial function? E
 
 > [!success] Build Toward
 > - [[Math/Polynomials/Polynomial Functions 26 - Reading an Equation|Polynomial Functions 26 - Reading an Equation]]
+> - [[Math/Polynomial Functions/Determining polynomial coefficients from a quartic graph|Determining polynomial coefficients from a quartic graph]]
+> - [[Math/Polynomial Functions/Determining the roots and behaviour of a cubic model|Determining the roots and behaviour of a cubic model]]

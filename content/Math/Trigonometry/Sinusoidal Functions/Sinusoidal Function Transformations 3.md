@@ -4,6 +4,7 @@ publish: true
 course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
+  - Mathematics 31
 topic: "Sinusoidal Functions"
 show_solution: true
 ---
@@ -74,6 +75,7 @@ The London Eye has a diameter of $135\text{ m}$. Passengers board at the lowest 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Sinusoidal Functions/Recognizing a sinusoid with shortened period|Recognizing a sinusoid with shortened period]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

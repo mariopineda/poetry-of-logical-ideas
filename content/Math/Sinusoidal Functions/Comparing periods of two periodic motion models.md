@@ -39,12 +39,12 @@ Estimate the period of each pendulum **from the graphs**, and explain which pend
 > **Pendulum B swings more slowly**, because each of its cycles takes longer. Equal amplitude does **not** imply equal period.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Trigonometry/Sinusoidal Functions/Sinusoidal Functions - Characteristics from a Graph 1|Sinusoidal Functions - Characteristics from a Graph 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Interpreting a zero in a cyclical illumination model|Interpreting a zero in a cyclical illumination model]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

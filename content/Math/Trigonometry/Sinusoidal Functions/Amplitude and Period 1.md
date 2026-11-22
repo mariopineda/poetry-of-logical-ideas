@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - "Mathematics 30-1"
+  - Mathematics 31
 topic: "Sinusoidal Functions"
 show_solution: true
 ---
@@ -94,4 +95,5 @@ State the following for the function $f(x)=\sin{x}$ defined on the set of real n
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Amplitude and frequency from wildlife counts|Amplitude and frequency from wildlife counts]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Oscillating platform and repeated selections|Oscillating platform and repeated selections]]

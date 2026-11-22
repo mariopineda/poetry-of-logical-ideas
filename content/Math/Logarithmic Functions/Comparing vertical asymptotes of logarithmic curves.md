@@ -38,8 +38,9 @@ Consider the five functions below, all with base $4$. Determine which have the v
 
 > [!info] Explore Also
 > - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
+> _No linked questions yet._

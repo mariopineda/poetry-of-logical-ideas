@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2013-NR2

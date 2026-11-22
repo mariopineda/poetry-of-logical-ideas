@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: "Combinations"
 show_solution: true
 prerequisites:
@@ -48,6 +49,7 @@ A science exhibition has **four teachers** and **seven parent volunteers**. A pa
 
 > [!abstract] Review First
 > - [[Math/Combinatorics/Combinations - Practice 4 - Intergrade Environment Committee|Combinations - Practice 4 - Intergrade Environment Committee]]
+> - [[Math/Combinatorics/Selecting a gallery review panel|Selecting a gallery review panel]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -6,6 +6,7 @@ domain: Exponential Functions
 topic: Exponential Equations
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 source: Math 30-2 Exponential Functions Pre-Unit Review
 source_question: 17
 curriculum_alignment: 30-2 Relations and Functions SO5 exponential equations

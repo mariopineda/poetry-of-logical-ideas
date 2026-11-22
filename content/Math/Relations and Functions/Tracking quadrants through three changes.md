@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 31
 topic: Relations and Functions
 show_solution: true
 qod_id: DIP-30-1-2017-NR1

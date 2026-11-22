@@ -68,6 +68,8 @@ Use a two-circle diagram for parts Aâ€“D and a three-circle diagram for parts Eâ
 
 > [!abstract] Review First
 > - [[Math/Set Theory/Set Theory - Venn - Practice 4 - Overlapping Number Lists|Set Theory - Venn - Practice 4 - Overlapping Number Lists]]
+> - [[Math/Set Theory/Counting members in two electives but not a third|Counting members in two electives but not a third]]
+> - [[Math/Set Theory/Making a word from a set intersection|Making a word from a set intersection]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

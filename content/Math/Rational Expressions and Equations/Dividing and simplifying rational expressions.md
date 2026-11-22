@@ -3,6 +3,8 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
+- Mathematics 31
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2016-MC24
@@ -41,7 +43,7 @@ They change the division sign to multiplication **without inverting the divisor*
 > Thus, despite cancellation, the original expression requires $\boxed{x\ne -2,2}$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1|Dividing Rational Expressions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

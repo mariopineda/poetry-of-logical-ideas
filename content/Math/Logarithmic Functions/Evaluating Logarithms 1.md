@@ -130,7 +130,6 @@ $$
 > - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
 > - [[Math/Exponential Functions/Compound Interest - Loan Table 1|Compound Interest - Loan Table 1]]
 > - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
 > - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
@@ -144,8 +143,12 @@ $$
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
 > - [[Math/Exponential Functions/Exponential Equations 5|Exponential Equations 5]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Logarithmic Functions/Applying logarithm power laws to roots|Applying logarithm power laws to roots]]
+> - [[Math/Logarithmic Functions/Combining reciprocal logarithms with different bases|Combining reciprocal logarithms with different bases]]
+> - [[Math/Logarithmic Functions/Combining three logarithms into one|Combining three logarithms into one]]
+> - [[Math/Logarithmic Functions/Combining two logarithmic measurements|Combining two logarithmic measurements]]

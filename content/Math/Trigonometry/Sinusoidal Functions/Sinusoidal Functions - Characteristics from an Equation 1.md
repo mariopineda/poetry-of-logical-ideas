@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - "Mathematics 30-1"
+  - Mathematics 31
 topic: Sinusoidal Functions
 show_solution: true
 ---
@@ -126,4 +127,4 @@ $$
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Evaluating a periodic daylight model|Evaluating a periodic daylight model]]

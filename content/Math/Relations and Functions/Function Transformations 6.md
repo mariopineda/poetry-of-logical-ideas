@@ -5,6 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
   - "Mathematics 30-1"
+  - Mathematics 31
 topic: "Function Transformations"
 show_solution: true
 ---

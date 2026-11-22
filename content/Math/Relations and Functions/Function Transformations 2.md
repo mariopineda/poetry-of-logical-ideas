@@ -232,4 +232,5 @@ $$
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Exponential Functions/Translating a point on an exponential curve|Translating a point on an exponential curve]]
+> - [[Math/Relations and Functions/Domain and range after stretching and reflecting|Domain and range after stretching and reflecting]]

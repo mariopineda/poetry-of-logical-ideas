@@ -4,6 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
   - "Mathematics 30-1"
+  - Mathematics 31
 topic: "Rational Expressions"
 show_solution: true
 ---
@@ -89,6 +90,7 @@ The student's solution contains both an algebraic error and a domain error.
 > - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 4|Simplifying Rational Expressions 4]]
 > - [[Math/Rational Expressions & Equations/Non-Permissible Values 1|Non-Permissible Values 1]]
 > - [[Math/Polynomials/Factoring Polynomials 3|Factoring Polynomials 3]]
+> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -102,4 +104,3 @@ The student's solution contains both an algebraic error and a domain error.
 > [!success] Build Toward
 > - [[Math/Relations and Functions/Domain & Range Algebraically 1|Domain & Range Algebraically 1]]
 > - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
-> - [[Math/Rational Expressions & Equations/Solving Rational Equations 1|Solving Rational Equations 1]]

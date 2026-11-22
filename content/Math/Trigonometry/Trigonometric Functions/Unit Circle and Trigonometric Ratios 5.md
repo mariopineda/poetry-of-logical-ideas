@@ -40,6 +40,7 @@ $$
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometric Functions/Evaluating an exact trigonometric expression|Evaluating an exact trigonometric expression]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

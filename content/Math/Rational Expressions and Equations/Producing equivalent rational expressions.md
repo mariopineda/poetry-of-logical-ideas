@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2016-MC23
@@ -39,7 +40,7 @@ Construct a **different unsimplified rational expression** that has the same val
 > For $x\ne5,0,-4$, cancellation reproduces $R(x)$, so the two functions agree **on their common domain** but are not identical as functions with these stated domains.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1|Simplifying Rational Expressions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

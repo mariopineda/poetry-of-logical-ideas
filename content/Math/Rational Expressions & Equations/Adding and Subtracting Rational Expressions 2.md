@@ -4,6 +4,7 @@ publish: true
 course:
   - "Mathematics 20-1"
   - "Mathematics 30-2"
+  - Mathematics 31
 topic: "Rational Expressions"
 learning_order: 170
 show_solution: true

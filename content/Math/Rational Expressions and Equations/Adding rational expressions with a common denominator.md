@@ -3,6 +3,8 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 20-1
+- Mathematics 31
 topic: Rational Expressions and Equations
 show_solution: true
 qod_id: DIP-30-2-2016-NR9
@@ -43,12 +45,12 @@ Express your result as $\frac{Ax+B}{Cx}$, where $A$, $B$, and $C$ are **single-d
 > The restriction is inherited from the original denominator $4x$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 1|Adding and Subtracting Rational Expressions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Rational Expressions and Equations/Simplifying a rational expression with restrictions|Simplifying a rational expression with restrictions]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

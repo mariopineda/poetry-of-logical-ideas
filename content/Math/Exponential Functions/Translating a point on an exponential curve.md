@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 31
 topic: Exponential Functions
 show_solution: true
 qod_id: DIP-30-1-2019-MC1
@@ -30,12 +31,12 @@ A point $P(2,9)$ lies on $y=b^x$, where $b>1$. A new curve is defined by $y-4=b^
 > The replacement equation is $y=b^{x-2}+4$, so the original graph is translated 2 units right and 4 units up. Thus $(2,9)\mapsto(4,13)$, giving $\boxed{(4,13)}$.
 
 > [!abstract] Review First
-> _No linked questions yet._
+> - [[Math/Relations and Functions/Function Transformations 2|Function Transformations 2]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
-> _No linked questions yet._
+> - [[Math/Relations and Functions/Domain and range after stretching and reflecting|Domain and range after stretching and reflecting]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

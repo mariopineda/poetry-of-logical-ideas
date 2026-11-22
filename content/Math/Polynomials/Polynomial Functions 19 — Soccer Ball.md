@@ -5,6 +5,7 @@ course:
   - "Mathematics 20-1"
   - "Mathematics 20-2"
   - "Mathematics 30-2"
+  - Mathematics 30-1
 topic: Polynomial Functions
 show_solution: true
 ---

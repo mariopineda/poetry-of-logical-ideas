@@ -98,4 +98,5 @@ Round non-integer coordinates to the nearest hundredth.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Polynomials/Comparing maximum heights and travel distances|Comparing maximum heights and travel distances]]
+> - [[Math/Polynomials/Predicting a quadratic regression value|Predicting a quadratic regression value]]

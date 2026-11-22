@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 30-2
 topic: Logarithmic Functions
 show_solution: true
 qod_id: DIP-30-1-201901-MC10
@@ -30,6 +31,7 @@ For a base $a>1$, a quantity $y$ satisfies $y=\dfrac{a^x}{a^{3x-8}}$ and $\log_a
 
 > [!abstract] Review First
 > - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
@@ -40,4 +42,4 @@ For a base $a>1$, a quantity $y$ satisfies $y=\dfrac{a^x}{a^{3x-8}}$ and $\log_a
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> _No linked questions yet._

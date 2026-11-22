@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - "Mathematics 20-1"
+  - Mathematics 31
 topic: "Rational Expressions"
 show_solution: true
 ---

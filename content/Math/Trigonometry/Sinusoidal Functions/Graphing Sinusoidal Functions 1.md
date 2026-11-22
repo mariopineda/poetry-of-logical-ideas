@@ -87,4 +87,4 @@ Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Sinusoidal Functions/Recognizing a sinusoid with shortened period|Recognizing a sinusoid with shortened period]]

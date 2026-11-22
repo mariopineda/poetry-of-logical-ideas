@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 30-2
 topic: Logarithmic Functions
 show_solution: true
 qod_id: DIP-30-1-201901-MC8
@@ -36,8 +37,9 @@ Suppose $\log_5 2=u$, $\log_5 7=v$, and $\log_5(m^2)=4$, where $m>0$. Express $\
 > [!info] Explore Also
 > - [[Math/Logarithmic Functions/Changing a logarithmic equation into exponential form|Changing a logarithmic equation into exponential form]]
 > - [[Math/Logarithmic Functions/Combining dependent logarithmic quantities|Combining dependent logarithmic quantities]]
+> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> _No linked questions yet._

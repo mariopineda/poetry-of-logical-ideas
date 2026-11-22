@@ -31,6 +31,8 @@ Find $\theta$ for $0^\circ\leq\theta<360^\circ$, to the nearest degree.
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometric Functions/Locating a sensor on a rotating boom|Locating a sensor on a rotating boom]]
+> - [[Math/Trigonometric Functions/Smallest central angle between two landmarks|Smallest central angle between two landmarks]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

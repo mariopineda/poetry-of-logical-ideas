@@ -51,4 +51,4 @@ Calculate how many times as intense the stronger earthquake is, **to the nearest
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> _No linked questions yet._

@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-1
+- Mathematics 30-2
 topic: Permutations and Combinations
 show_solution: true
 qod_id: DIP-30-1-2014-NR3
@@ -43,8 +44,9 @@ How many visibly different orders of the five prints are possible? Show why trea
 
 > [!info] Explore Also
 > - [[Math/Combinatorics/Counting Methods Review - Practice 1 - Permutation or Combination|Counting Methods Review - Practice 1 - Permutation or Combination]]
+> - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Combinatorics/Counting Methods Challenge 1|Counting Methods Challenge 1]]
+> _No linked questions yet._

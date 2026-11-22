@@ -47,6 +47,8 @@ The point $(-4,3)$ lies on the terminal arm of $\theta$ in standard position.
 
 > [!abstract] Review First
 > - [[Math/Trigonometry/Right Triangle Trigonometry/Right Triangle Trigonometry 1|Right Triangle Trigonometry 1]]
+> - [[Math/Trigonometric Functions/Factoring a trigonometric equation on an interval|Factoring a trigonometric equation on an interval]]
+> - [[Math/Trigonometric Functions/Simplifying a double-angle quotient|Simplifying a double-angle quotient]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
 qod_id: DIP-30-2-2016-NR3

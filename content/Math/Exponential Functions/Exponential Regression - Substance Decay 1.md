@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - Mathematics 30-2
+  - Mathematics 30-1
 topic: "Exponential Equations and Regression"
 learning_order: 3405
 show_solution: false
@@ -39,11 +40,11 @@ C. Calculate the half-life, nearest tenth of an hour.
 > [!info] Explore Also
 > - [[Math/Exponential Functions/Exponential Regression - Wildlife Population 1|Exponential Regression - Wildlife Population 1]]
 > - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
 > - [[Math/Data Analysis/Environmental Data Analysis - Ozone Hole Size 1|Environmental Data Analysis - Ozone Hole Size 1]]
 
 ## Solution

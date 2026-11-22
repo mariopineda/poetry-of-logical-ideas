@@ -95,4 +95,5 @@ Sketch the graphs of $y=\sin x$ and $y=\cos x$, for $-\pi \leq x \leq 2\pi$. Det
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Trigonometry/Sinusoidal Functions/Modeling the height of a rotating observation ride|Modeling the height of a rotating observation ride]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Water levels and two-event availability probabilities|Water levels and two-event availability probabilities]]

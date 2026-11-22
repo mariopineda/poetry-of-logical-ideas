@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - "Mathematics 30-1"
+  - Mathematics 31
 topic: "Sinusoidal Functions"
 show_solution: true
 ---
@@ -119,6 +120,8 @@ Consider the periodic function $f(x) = 15.3 \sin (\pi x)$
 > [!abstract] Review First
 > - [[Math/Trigonometry/Trigonometric Functions/Angular Measure 1|Angular Measure 1]]
 > - [[Math/Relations and Functions/Function Transformations 1|Function Transformations 1]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Oscillating platform and repeated selections|Oscillating platform and repeated selections]]
+> - [[Math/Trigonometry/Sinusoidal Functions/Water levels and two-event availability probabilities|Water levels and two-event availability probabilities]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

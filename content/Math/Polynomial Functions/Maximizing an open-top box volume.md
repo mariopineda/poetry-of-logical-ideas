@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
 - Mathematics 30-2
+- Mathematics 30-1
 topic: Polynomial Functions
 show_solution: true
 qod_id: DIP-30-2-2016-NR11
@@ -51,4 +52,4 @@ State the physical domain, and use **graphing technology or a table** to determi
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions 1|Polynomial Functions 1]]
+> _No linked questions yet._

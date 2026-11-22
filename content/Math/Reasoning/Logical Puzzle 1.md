@@ -57,4 +57,5 @@ The four $2\times2$ blocks are the top-left, top-right, bottom-left, and bottom-
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Reasoning/Assigning outdoor activities from weather constraints|Assigning outdoor activities from weather constraints]]
+> - [[Math/Reasoning/Complement of a raffle jackpot|Complement of a raffle jackpot]]

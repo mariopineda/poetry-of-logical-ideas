@@ -99,6 +99,7 @@ A country's population is increasing at an annual rate of 2.2%. The current popu
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Relations and Functions/Locating an exponent-law mistake|Locating an exponent-law mistake]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 

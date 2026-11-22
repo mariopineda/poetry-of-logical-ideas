@@ -3,6 +3,7 @@ type: qod
 publish: true
 course:
   - "Mathematics 10C"
+  - Mathematics 30-1
 topic: "Exponent and Polynomial Skills"
 show_solution: true
 ---
