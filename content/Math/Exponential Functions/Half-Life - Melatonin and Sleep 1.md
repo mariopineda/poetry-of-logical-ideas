@@ -12,9 +12,8 @@ source: "Peer-reviewed scientific research; teaching model based on published ph
 curriculum_alignment: "Mathematics 30-2: exponential function characteristics, half-life applications and solving exponential equations; Mathematics 30-1: exponential functions and equations"
 curriculum_review_required: false
 calculator: allowed
+title: "Half-Life - Melatonin and Sleep"
 ---
-
-# Melatonin: How Long Does a Sleep Supplement Remain?
 
 Melatonin is a hormone involved in the body's sleep–wake cycle. Some young adults use melatonin supplements when their sleep schedule is irregular. A peer-reviewed study of healthy adult volunteers found an average elimination half-life of approximately **54 minutes** after oral administration. The amount in the bloodstream alone does not tell us how sleepy someone feels, and different supplement formulations can behave differently.
 

@@ -12,9 +12,8 @@ source: "Peer-reviewed scientific research; teaching model based on published ph
 curriculum_alignment: "Mathematics 30-2: exponential function characteristics, half-life applications and solving exponential equations; Mathematics 30-1: exponential functions and equations"
 curriculum_review_required: false
 calculator: allowed
+title: "Half-Life - Cannabis Metabolite"
 ---
-
-# Cannabis: How Long Can It Be Detected?
 
 THC (tetrahydrocannabinol) is the main psychoactive compound in cannabis. When the body processes THC, it produces *metabolites*, some of which can be found in urine long after the effects of cannabis have worn off. A positive urine test therefore does not necessarily show recent use or current impairment.
 

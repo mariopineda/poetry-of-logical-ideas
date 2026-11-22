@@ -12,9 +12,8 @@ source: "Peer-reviewed scientific research; teaching model based on published ph
 curriculum_alignment: "Mathematics 30-2: exponential function characteristics, half-life applications and solving exponential equations; Mathematics 30-1: exponential functions and equations"
 curriculum_review_required: false
 calculator: allowed
+title: "Half-Life - Emergency Contraception"
 ---
-
-# Emergency Contraception: How Long Does the Hormone Remain?
 
 Emergency contraception can help prevent pregnancy after unprotected sex or contraceptive failure. One kind contains *levonorgestrel*, which primarily acts by delaying or preventing ovulation. Its effectiveness depends partly on timing relative to ovulation; simply measuring how much hormone remains does not show how long the pill is effective.
 

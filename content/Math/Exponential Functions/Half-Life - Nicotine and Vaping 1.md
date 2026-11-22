@@ -12,9 +12,8 @@ source: "Peer-reviewed scientific research; teaching model based on published ph
 curriculum_alignment: "Mathematics 30-2: exponential function characteristics, half-life applications and solving exponential equations; Mathematics 30-1: exponential functions and equations"
 curriculum_review_required: false
 calculator: allowed
+title: "Half-Life - Nicotine and Vaping"
 ---
-
-# Vaping: How Long Does Nicotine Remain?
 
 Many vaping products contain nicotine, a substance that can cause dependence. Studies of nicotine-containing e-cigarettes have also reported temporary changes in heart rate and blood pressure. A peer-reviewed pharmacology review reports that nicotine has an approximate elimination half-life of **2 hours**.
 
