@@ -1,0 +1,43 @@
+---
+type: qod
+publish: true
+course:
+- Mathematics 30-1
+topic: Logarithmic Functions
+show_solution: true
+qod_id: DIP-30-1-201901-MC9
+diploma_eligible: true
+diploma_ready: true
+review_status: certified-batch02-2026-11-22
+question_format: written-response
+diploma_cognitive_level: Procedural
+diploma_performance_standard: Acceptable
+diploma_outcomes: RF 8
+tags:
+- qod
+- diploma-preparation
+- written-response
+historical_source_percent_correct: 56.9
+certified_batch: 2
+---
+
+For $b>1$, $p>0$, and $q>0$, write $\log_b p+3\log_b(bq)-2$ as a single logarithm. Show the intermediate product and quotient steps.
+
+## Solution
+
+> [!example]- Show solution
+> The power law gives $\log_b p+\log_b((bq)^3)-\log_b(b^2)$. The product and quotient laws combine this to $\log_b\left(\dfrac{p b^3q^3}{b^2}\right)=\boxed{\log_b(bp q^3)}$.
+
+> [!abstract] Review First
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Logarithmic Functions/Changing a logarithmic equation into exponential form|Changing a logarithmic equation into exponential form]]
+> - [[Math/Logarithmic Functions/Combining dependent logarithmic quantities|Combining dependent logarithmic quantities]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 540" role="img"><title>Blank festival Venn diagram</title><rect x="44" y="46" width="530" height="450" rx="12" fill="white" stroke="#334155" stroke-width="2.5"/>
+<circle cx="250" cy="218" r="119" fill="none" stroke="#2563eb" stroke-width="2.8"/>
+<circle cx="370" cy="218" r="119" fill="none" stroke="#2563eb" stroke-width="2.8"/>
+<circle cx="310" cy="326" r="119" fill="none" stroke="#2563eb" stroke-width="2.8"/>
+<text x="185" y="121" font-family="Arial,sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">P</text>
+<text x="435" y="121" font-family="Arial,sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">M</text>
+<text x="312" y="475" font-family="Arial,sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">H</text>
+<text x="64" y="80" font-family="Arial,sans-serif" font-size="15" fill="#475569">Universal set U</text>
+<text x="310" y="518" font-family="Arial,sans-serif" font-size="13" fill="#64748b" text-anchor="middle">Complete each region; pair totals include the three-way intersection</text></svg>

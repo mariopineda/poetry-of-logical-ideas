@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **40 Questions of the Day** Â· **Courses:** Not specified
+> **53 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Path]]
 
@@ -23,10 +23,15 @@ Practice questions for **Rational Expressions & Equations**.
 | [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 4\|Adding and Subtracting Rational Expressions 4]] | Not specified |
 | [[Math/Rational Expressions & Equations/Adding and Subtracting Rational Expressions 5\|Adding and Subtracting Rational Expressions 5]] | Not specified |
 | [[Math/Rational Expressions & Equations/Arithmetic Operations with Quotients\|Arithmetic Operations with Quotients]] | Not specified |
+| [[Math/Rational Expressions & Equations/Distinguishing a removable hole from a vertical asymptote\|Distinguishing a removable hole from a vertical asymptote]] | Not specified |
 | [[Math/Rational Expressions & Equations/Dividing Rational Expressions 1\|Dividing Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Dividing Rational Expressions 2\|Dividing Rational Expressions 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Dividing Rational Expressions 3\|Dividing Rational Expressions 3]] | Not specified |
 | [[Math/Rational Expressions & Equations/Evaluating Rational Expressions 1\|Evaluating Rational Expressions 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Factoring a rational expression without losing restrictions\|Factoring a rational expression without losing restrictions]] | Not specified |
+| [[Math/Rational Expressions & Equations/Finding all restrictions in a rational product\|Finding all restrictions in a rational product]] | Not specified |
+| [[Math/Rational Expressions & Equations/Inverting a depth-time rational model\|Inverting a depth-time rational model]] | Not specified |
+| [[Math/Rational Expressions & Equations/Locating a removable discontinuity\|Locating a removable discontinuity]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 1\|Multiplying and Dividing Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 2\|Multiplying and Dividing Rational Expressions 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Multiplying and Dividing Rational Expressions 3\|Multiplying and Dividing Rational Expressions 3]] | Not specified |
@@ -41,6 +46,11 @@ Practice questions for **Rational Expressions & Equations**.
 | [[Math/Rational Expressions & Equations/Rational Functions - Multiple Holes and Restrictions 1\|Rational Functions - Multiple Holes and Restrictions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Rational Functions - Parameter and Removable Discontinuity 1\|Rational Functions - Parameter and Removable Discontinuity 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Rational Functions - Reciprocal Form and Asymptotes 1\|Rational Functions - Reciprocal Form and Asymptotes 1]] | Not specified |
+| [[Math/Rational Expressions & Equations/Reconstructing a rational function from its features\|Reconstructing a rational function from its features]] | Not specified |
+| [[Math/Rational Expressions & Equations/Removable discontinuity versus vertical asymptote\|Removable discontinuity versus vertical asymptote]] | Not specified |
+| [[Math/Rational Expressions & Equations/Restrictions on a composite rational function\|Restrictions on a composite rational function]] | Not specified |
+| [[Math/Rational Expressions & Equations/Simplifying a product using exponent laws\|Simplifying a product using exponent laws]] | Not specified |
+| [[Math/Rational Expressions & Equations/Simplifying a rational quotient with restrictions\|Simplifying a rational quotient with restrictions]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 1\|Simplifying Rational Expressions 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 2\|Simplifying Rational Expressions 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 3\|Simplifying Rational Expressions 3]] | Not specified |
@@ -48,13 +58,16 @@ Practice questions for **Rational Expressions & Equations**.
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 5\|Simplifying Rational Expressions 5]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 6\|Simplifying Rational Expressions 6]] | Not specified |
 | [[Math/Rational Expressions & Equations/Simplifying Rational Expressions 7\|Simplifying Rational Expressions 7]] | Not specified |
+| [[Math/Rational Expressions & Equations/Solving a rational equation and checking exclusions\|Solving a rational equation and checking exclusions]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 1\|Solving Rational Equations 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 2\|Solving Rational Equations 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 3\|Solving Rational Equations 3]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 4\|Solving Rational Equations 4]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 5\|Solving Rational Equations 5]] | Not specified |
 | [[Math/Rational Expressions & Equations/Solving Rational Equations 6\|Solving Rational Equations 6]] | Not specified |
+| [[Math/Rational Expressions & Equations/Subtracting unlike rational fractions\|Subtracting unlike rational fractions]] | Not specified |
 | [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 1\|Sums and Differences with Binomial Denominators 1]] | Not specified |
 | [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 2\|Sums and Differences with Binomial Denominators 2]] | Not specified |
 | [[Math/Rational Expressions & Equations/Sums and Differences with Binomial Denominators 3\|Sums and Differences with Binomial Denominators 3]] | Not specified |
+| [[Math/Rational Expressions & Equations/Travel distance from rational models and combined-speed planning\|Travel distance from rational models and combined-speed planning]] | Not specified |
 

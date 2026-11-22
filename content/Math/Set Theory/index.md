@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **27 Questions of the Day** Â· **Courses:** Not specified
+> **32 Questions of the Day** Â· **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Path]]
 
@@ -17,6 +17,10 @@ Practice questions for **Set Theory**.
 
 | Question | Course(s) |
 | --- | --- |
+| [[Math/Set Theory/Counting members in two electives but not a third\|Counting members in two electives but not a third]] | Not specified |
+| [[Math/Set Theory/Interpreting three Venn shading instructions\|Interpreting three Venn shading instructions]] | Not specified |
+| [[Math/Set Theory/Making a word from a set intersection\|Making a word from a set intersection]] | Not specified |
+| [[Math/Set Theory/Reading a two-language survey Venn diagram\|Reading a two-language survey Venn diagram]] | Not specified |
 | [[Math/Set Theory/Set Theory - Subsets - Practice 1 - Numbered Museum Collections\|Set Theory - Subsets - Practice 1 - Numbered Museum Collections]] | Not specified |
 | [[Math/Set Theory/Set Theory - Subsets - Practice 10 - A Nest of Number Systems\|Set Theory - Subsets - Practice 10 - A Nest of Number Systems]] | Not specified |
 | [[Math/Set Theory/Set Theory - Subsets - Practice 11 - Perfect Cubes in a Number Universe\|Set Theory - Subsets - Practice 11 - Perfect Cubes in a Number Universe]] | Not specified |
@@ -44,4 +48,5 @@ Practice questions for **Set Theory**.
 | [[Math/Set Theory/Set Theory 1\|Set Theory 1]] | Not specified |
 | [[Math/Set Theory/Set Theory 2\|Set Theory 2]] | Not specified |
 | [[Math/Set Theory/Set Theory 3\|Set Theory 3]] | Not specified |
+| [[Math/Set Theory/Union and intersection of nested sets\|Union and intersection of nested sets]] | Not specified |
 

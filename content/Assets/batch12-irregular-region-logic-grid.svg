@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="500" viewBox="0 0 540 500">
+<rect width="540" height="500" fill="white"/>
+<text x="260" y="28" font-family="sans-serif" font-size="19" text-anchor="middle">Four distinct regions: follow the thick borders</text>
+<rect x="70" y="64" width="95" height="95" fill="#f8fafc"/>
+<rect x="165" y="64" width="95" height="95" fill="#f8fafc"/>
+<rect x="260" y="64" width="95" height="95" fill="#e0f2fe"/>
+<rect x="355" y="64" width="95" height="95" fill="#e0f2fe"/>
+<rect x="70" y="159" width="95" height="95" fill="#f8fafc"/>
+<rect x="165" y="159" width="95" height="95" fill="#f0fdf4"/>
+<rect x="260" y="159" width="95" height="95" fill="#e0f2fe"/>
+<rect x="355" y="159" width="95" height="95" fill="#fef3c7"/>
+<rect x="70" y="254" width="95" height="95" fill="#f8fafc"/>
+<rect x="165" y="254" width="95" height="95" fill="#f0fdf4"/>
+<rect x="260" y="254" width="95" height="95" fill="#e0f2fe"/>
+<rect x="355" y="254" width="95" height="95" fill="#fef3c7"/>
+<rect x="70" y="349" width="95" height="95" fill="#f0fdf4"/>
+<rect x="165" y="349" width="95" height="95" fill="#f0fdf4"/>
+<rect x="260" y="349" width="95" height="95" fill="#fef3c7"/>
+<rect x="355" y="349" width="95" height="95" fill="#fef3c7"/>
+<path d="M70 64v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 64v95" stroke="#172554" stroke-width="1.2"/>
+<path d="M260 64v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 64v95" stroke="#172554" stroke-width="1.2"/>
+<path d="M450 64v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 159v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 159v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M260 159v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 159v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M450 159v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 254v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 254v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M260 254v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 254v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M450 254v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 349v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 349v95" stroke="#172554" stroke-width="1.2"/>
+<path d="M260 349v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 349v95" stroke="#172554" stroke-width="1.2"/>
+<path d="M450 349v95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 64h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 64h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M260 64h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 64h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 159h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M165 159h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M260 159h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M355 159h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M70 254h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M165 254h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M260 254h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M355 254h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M70 349h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 349h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M260 349h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 349h95" stroke="#172554" stroke-width="1.2"/>
+<path d="M70 444h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M165 444h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M260 444h95" stroke="#172554" stroke-width="4.5"/>
+<path d="M355 444h95" stroke="#172554" stroke-width="4.5"/>
+<text x="307.5" y="121.94999999999999" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#1d4ed8">X</text>
+<text x="402.5" y="121.94999999999999" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">4</text>
+<text x="307.5" y="216.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">1</text>
+<text x="117.5" y="311.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">4</text>
+<text x="212.5" y="311.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#1d4ed8">Y</text>
+<text x="307.5" y="311.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">2</text>
+<text x="402.5" y="311.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">3</text>
+<text x="117.5" y="406.95" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#0f172a">2</text>
+<text x="260" y="478" text-anchor="middle" font-size="16" fill="#475569" font-family="sans-serif">Numbers 1–4 once in each row, column and irregular region</text>
+</svg>

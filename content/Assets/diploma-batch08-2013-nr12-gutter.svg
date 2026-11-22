@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="440" viewBox="0 0 620 440" role="img" aria-label="Original mathematical question diagram"><rect width="620" height="440" fill="white"/><path d="M140 115 V345 H475 V115" fill="none" stroke="#1c5377" stroke-width="5" stroke-linejoin="round"/>
+<line x1="110" y1="115" x2="110" y2="345" stroke="#627e90" stroke-width="1.8"/>
+<path d="M103 126 L110 115 L117 126 M103 335 L110 345 L117 335" fill="none" stroke="#627e90" stroke-width="1.8"/>
+<line x1="140" y1="375" x2="475" y2="375" stroke="#627e90" stroke-width="1.8"/>
+<path d="M151 368 L140 375 L151 382 M464 368 L475 375 L464 382" fill="none" stroke="#627e90" stroke-width="1.8"/><text x="90" y="240" text-anchor="middle" fill="#172f42" font-family="Arial,sans-serif" font-size="25" font-weight="normal">x</text><text x="305" y="408" text-anchor="middle" fill="#172f42" font-family="Arial,sans-serif" font-size="22" font-weight="normal">36 − 2x</text><text x="304" y="60" text-anchor="middle" fill="#172f42" font-family="Arial,sans-serif" font-size="19" font-weight="normal">Bent sheet: open rectangular channel</text></svg>

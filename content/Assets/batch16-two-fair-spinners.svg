@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 345" width="800" height="345" role="img" aria-label="Two six-sector spinners with sectors labelled as specified in the question">
+<rect width="800" height="345" fill="#ffffff"/>
+<text x="400" y="33" font-size="22" font-family="Arial" font-weight="bold" text-anchor="middle" fill="#1f2937">Two fair spinners — six equal sectors each</text>
+<path d="M 210,173 L 210.00,65.00 A 108,108 0 0,1 303.53,119.00 Z" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="244.0" y="123.1" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">1</text>
+<path d="M 210,173 L 303.53,119.00 A 108,108 0 0,1 303.53,227.00 Z" fill="#e0f2fe" stroke="#334155" stroke-width="2"/>
+<text x="278.0" y="182.0" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">1</text>
+<path d="M 210,173 L 303.53,227.00 A 108,108 0 0,1 210.00,281.00 Z" fill="#fef3c7" stroke="#334155" stroke-width="2"/>
+<text x="244.0" y="240.9" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">2</text>
+<path d="M 210,173 L 210.00,281.00 A 108,108 0 0,1 116.47,227.00 Z" fill="#dcfce7" stroke="#334155" stroke-width="2"/>
+<text x="176.0" y="240.9" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">2</text>
+<path d="M 210,173 L 116.47,227.00 A 108,108 0 0,1 116.47,119.00 Z" fill="#fce7f3" stroke="#334155" stroke-width="2"/>
+<text x="142.0" y="182.0" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">3</text>
+<path d="M 210,173 L 116.47,119.00 A 108,108 0 0,1 210.00,65.00 Z" fill="#f3e8ff" stroke="#334155" stroke-width="2"/>
+<text x="176.0" y="123.1" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">4</text>
+<circle cx="210" cy="173" r="9" fill="#334155"/>
+<text x="210" y="312" text-anchor="middle" font-size="20" font-family="Arial" fill="#111827">Spinner A</text>
+<path d="M 590,173 L 590.00,65.00 A 108,108 0 0,1 683.53,119.00 Z" fill="#dbeafe" stroke="#334155" stroke-width="2"/>
+<text x="624.0" y="123.1" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">1</text>
+<path d="M 590,173 L 683.53,119.00 A 108,108 0 0,1 683.53,227.00 Z" fill="#e0f2fe" stroke="#334155" stroke-width="2"/>
+<text x="658.0" y="182.0" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">2</text>
+<path d="M 590,173 L 683.53,227.00 A 108,108 0 0,1 590.00,281.00 Z" fill="#fef3c7" stroke="#334155" stroke-width="2"/>
+<text x="624.0" y="240.9" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">2</text>
+<path d="M 590,173 L 590.00,281.00 A 108,108 0 0,1 496.47,227.00 Z" fill="#dcfce7" stroke="#334155" stroke-width="2"/>
+<text x="556.0" y="240.9" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">3</text>
+<path d="M 590,173 L 496.47,227.00 A 108,108 0 0,1 496.47,119.00 Z" fill="#fce7f3" stroke="#334155" stroke-width="2"/>
+<text x="522.0" y="182.0" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">3</text>
+<path d="M 590,173 L 496.47,119.00 A 108,108 0 0,1 590.00,65.00 Z" fill="#f3e8ff" stroke="#334155" stroke-width="2"/>
+<text x="556.0" y="123.1" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#111827">4</text>
+<circle cx="590" cy="173" r="9" fill="#334155"/>
+<text x="590" y="312" text-anchor="middle" font-size="20" font-family="Arial" fill="#111827">Spinner B</text>
+</svg>

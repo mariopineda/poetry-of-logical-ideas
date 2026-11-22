@@ -1,0 +1,56 @@
+---
+type: qod
+publish: true
+course:
+- Mathematics 30-2
+topic: Rational Expressions and Equations
+show_solution: true
+qod_id: DIP-30-2-2016-MC22
+diploma_eligible: true
+diploma_ready: true
+review_status: reviewed-batch09
+question_format: written-response
+diploma_cognitive_level: Procedural
+diploma_performance_standard: Acceptable
+diploma_outcomes: '1'
+tags:
+- qod
+- diploma-preparation
+- written-response
+diploma_original_item_format: multiple-choice
+diploma_original_percent_correct: 56.8
+diploma_original_topic: RF
+certified_batch: 9
+---
+
+Simplify the rational expression
+
+$$\frac{x^2-16}{x^2+7x+12}.$$
+
+List **every** non-permissible value from the *original* denominator and explain why a cancelled factor cannot make that value permissible.
+
+## Solution
+
+> [!example]- Show solution
+> Factor both polynomials:
+>
+> $$\frac{(x-4)(x+4)}{(x+3)(x+4)}.$$
+>
+> For allowable $x$, cancel the common factor $x+4$:
+>
+> $$\boxed{\frac{x-4}{x+3}},\qquad\boxed{x\ne-4,-3}.$$
+>
+> The original denominator is zero at $-4$ and $-3$. Cancelling $x+4$ does not restore the missing point at $x=-4$.
+
+> [!abstract] Review First
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> _No linked questions yet._
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
