@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **61 Questions of the Day** · **Courses:** Not specified
+> **66 Questions of the Day** Â· **Courses:** Not specified
 >
-> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
+> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Path]]
 
 Practice questions for **Exponential Functions**.
 
@@ -71,7 +71,12 @@ Practice questions for **Exponential Functions**.
 | [[Math/Exponential Functions/Exponential Regression - Wetland Coverage 1\|Exponential Regression - Wetland Coverage 1]] | Not specified |
 | [[Math/Exponential Functions/Exponential Regression - Wildlife Population 1\|Exponential Regression - Wildlife Population 1]] | Not specified |
 | [[Math/Exponential Functions/Graphing Exponential Functions 1\|Graphing Exponential Functions 1]] | Not specified |
+| [[Math/Exponential Functions/Half-Life - Caffeine and Sleep 1\|Half-Life - Caffeine and Sleep 1]] | Not specified |
+| [[Math/Exponential Functions/Half-Life - Cannabis Metabolite 1\|Half-Life - Cannabis Metabolite 1]] | Not specified |
 | [[Math/Exponential Functions/Half-Life - Carbon Dating 1\|Half-Life - Carbon Dating 1]] | Not specified |
+| [[Math/Exponential Functions/Half-Life - Emergency Contraception 1\|Half-Life - Emergency Contraception 1]] | Not specified |
+| [[Math/Exponential Functions/Half-Life - Melatonin and Sleep 1\|Half-Life - Melatonin and Sleep 1]] | Not specified |
+| [[Math/Exponential Functions/Half-Life - Nicotine and Vaping 1\|Half-Life - Nicotine and Vaping 1]] | Not specified |
 | [[Math/Exponential Functions/Matching Exponential Graphs 1\|Matching Exponential Graphs 1]] | Not specified |
 | [[Math/Exponential Functions/Radioactive Decay\|Radioactive Decay]] | Not specified |
 | [[Math/Exponential Functions/Recognizing Function Types 1\|Recognizing Function Types 1]] | Not specified |
