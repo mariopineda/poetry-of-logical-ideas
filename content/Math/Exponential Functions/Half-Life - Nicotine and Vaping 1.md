@@ -53,20 +53,50 @@ where $N(t)$ represents the amount of nicotine remaining in the body, in mg and 
 > N(4)=4\left(0.5\right)^2=\boxed{1.0\text{ mg }}.
 > $$
 >
-> **4.** Set the dependent variable equal to the given target:
+> **4.** Solve the equation $0.125=4\left(0.5\right)^{t/2}$ in two ways.
+>
+> **Method 1 â€” TI-83/TI-84 (graphing intersection)**
+>
+> 1. Press `Y=` and enter `Y1=4*(0.5)^(X/2)` and `Y2=0.125`.
+> 2. Press `WINDOW`. Set `Xmin=0`, `Xmax=15`, `Ymin=0`, and `Ymax=5`; then press `GRAPH`.
+> 3. Press `2nd` â†’ `TRACE` (CALC) â†’ `5:intersect`. Confirm the first curve, second curve, and guess by pressing `ENTER` at each prompt.
+> 4. The intersection is $(10,0.125)$, so $\boxed{t=10\text{ hours }}$.
+>
+> **Method 2 â€” Algebraically using logarithms**
+>
+> Start by isolating the exponential expression (divide both sides by $4$):
 >
 > $$
-> 0.125=4\left(0.5\right)^{t/2}.
+> \frac{0.125}{4}=\left(0.5\right)^{t/2}
 > $$
 >
-> Divide by $4$:
->
 > $$
-> \frac{0.125}{4}=\frac1{32}=(0.5)^5.
+> 0.03125=\left(0.5\right)^{t/2}
 > $$
 >
-> Therefore $t/2=5$, so $\boxed{t=10\text{ hours }}$.
+> Take the common logarithm of both sides and use the power law $\log(a^b)=b\log(a)$:
 >
+> $$
+> \log(0.03125)=\frac{t}{2}\log(0.5)
+> $$
+>
+> Isolate $t$:
+>
+> $$
+> t=\frac{2\log(0.03125)}{\log(0.5)}
+> $$
+>
+> On a TI-83/TI-84, enter `2*log(0.03125)/log(0.5)`.
+>
+> **TI-84 alternative â€” a single logarithm (change of base):**
+>
+> Since $\displaystyle\frac{\log(a)}{\log(b)}=\log_b(a)$, we can rewrite the result as
+>
+> $$
+> t=2\log_{0.5}(0.03125)=\boxed{10\text{ hours }}.
+> $$
+>
+> On a TI-84 with the `logBASE(` function, press `MATH`, select `A:logBASE(`, and enter **base** `0.5` and **argument** `0.03125` in the displayed template. Multiply by `2`. In Classic entry mode, the function may appear as `logBASE(0.03125,0.5)` (argument first, base second). Older TI-83 models can use the quotient of common logs above.
 > **Interpretation:** Five half-lives leaves $1/32=3.125\%$ of the initial modelled quantity; $96.875\%$ has decreased. This is not a clinical safety, effectiveness, or detection threshold.
 
 > [!abstract] Review First

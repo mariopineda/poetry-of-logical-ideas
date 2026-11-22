@@ -53,20 +53,50 @@ where $M(t)$ represents the supplemental melatonin concentration above the norma
 > M(108)=3200\left(0.5\right)^2=\boxed{800\text{ pg/mL }}.
 > $$
 >
-> **4.** Set the dependent variable equal to the given target:
+> **4.** Solve the equation $100=3200\left(0.5\right)^{t/54}$ in two ways.
+>
+> **Method 1 â€” TI-83/TI-84 (graphing intersection)**
+>
+> 1. Press `Y=` and enter `Y1=3200*(0.5)^(X/54)` and `Y2=100`.
+> 2. Press `WINDOW`. Set `Xmin=0`, `Xmax=325`, `Ymin=0`, and `Ymax=3500`; then press `GRAPH`.
+> 3. Press `2nd` â†’ `TRACE` (CALC) â†’ `5:intersect`. Confirm the first curve, second curve, and guess by pressing `ENTER` at each prompt.
+> 4. The intersection is $(270,100)$, so $\boxed{t=270\text{ minutes }}$.
+>
+> **Method 2 â€” Algebraically using logarithms**
+>
+> Start by isolating the exponential expression (divide both sides by $3200$):
 >
 > $$
-> 100=3200\left(0.5\right)^{t/54}.
+> \frac{100}{3200}=\left(0.5\right)^{t/54}
 > $$
 >
-> Divide by $3200$:
->
 > $$
-> \frac{100}{3200}=\frac1{32}=(0.5)^5.
+> 0.03125=\left(0.5\right)^{t/54}
 > $$
 >
-> Therefore $t/54=5$, so $\boxed{t=270\text{ minutes }}$.
+> Take the common logarithm of both sides and use the power law $\log(a^b)=b\log(a)$:
 >
+> $$
+> \log(0.03125)=\frac{t}{54}\log(0.5)
+> $$
+>
+> Isolate $t$:
+>
+> $$
+> t=\frac{54\log(0.03125)}{\log(0.5)}
+> $$
+>
+> On a TI-83/TI-84, enter `54*log(0.03125)/log(0.5)`.
+>
+> **TI-84 alternative â€” a single logarithm (change of base):**
+>
+> Since $\displaystyle\frac{\log(a)}{\log(b)}=\log_b(a)$, we can rewrite the result as
+>
+> $$
+> t=54\log_{0.5}(0.03125)=\boxed{270\text{ minutes }}.
+> $$
+>
+> On a TI-84 with the `logBASE(` function, press `MATH`, select `A:logBASE(`, and enter **base** `0.5` and **argument** `0.03125` in the displayed template. Multiply by `54`. In Classic entry mode, the function may appear as `logBASE(0.03125,0.5)` (argument first, base second). Older TI-83 models can use the quotient of common logs above.
 > **Interpretation:** Five half-lives leaves $1/32=3.125\%$ of the initial modelled quantity; $96.875\%$ has decreased. This is not a clinical safety, effectiveness, or detection threshold.
 
 > [!abstract] Review First
