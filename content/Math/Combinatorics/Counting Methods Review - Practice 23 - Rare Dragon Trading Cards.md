@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 13 - Five-Card Suit and Rank Counts"
 related:
   - "Combinations - Practice 13 - Five-Card Suit and Rank Counts"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A display box contains **12 different trading cards**: three rare **dragon cards** and nine **landscape cards**. A hand contains **five different cards**, and order does not matter.

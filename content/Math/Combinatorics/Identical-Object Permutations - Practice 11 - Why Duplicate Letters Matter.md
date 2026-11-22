@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
 related:
   - "Permutations with Identical Objects 3"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Compare the number of distinguishable arrangements of all the letters in **PROBING** with those of **BALLOON**.

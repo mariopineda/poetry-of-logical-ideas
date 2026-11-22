@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 8 - Library Book Return Codes"
 related:
   - "Permutations with Restrictions - Practice 8 - Library Book Return Codes"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A field station issues permit numbers consisting of **one of three region prefixes**, **one of four site prefixes**, and **four digits** from 0–9. A code may begin with zero.

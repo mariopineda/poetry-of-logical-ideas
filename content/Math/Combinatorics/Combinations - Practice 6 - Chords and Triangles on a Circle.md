@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 1 - Evaluate Combination Notation"
 related:
   - "Combinations - Practice 11 - Connect-Thirteen Geometry"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Nine distinct points are marked on the circumference of a circle. No three points are collinear.

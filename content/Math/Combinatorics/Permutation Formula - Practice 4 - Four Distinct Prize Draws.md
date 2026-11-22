@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 3 - Festival Volunteer Roles"
 related:
   - "Permutation Formula - Practice 2 - Seven Rare Minerals"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An animal-rescue fundraiser sells **1,200 distinct tickets**. Four prizes (a bicycle, camping set, telescope and gift card) are awarded in that order. A winning ticket is **not returned** before the next draw.

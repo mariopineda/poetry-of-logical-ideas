@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 3 - Field Study Volunteers"
 related:
   - "Combinations - Practice 15 - Eight-Ingredient Lunch Bowl"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A trail-mix recipe must contain **one kind of nut**, **two different dried fruits**, and **three different seeds**. The supply includes 3 kinds of nuts, 6 dried fruits and 8 seeds.

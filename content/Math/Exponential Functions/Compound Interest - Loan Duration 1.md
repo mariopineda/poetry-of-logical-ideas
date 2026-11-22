@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Two partners take out a \$165,000 loan to purchase equipment for a small business. They plan to make payments of \$1000 each month. Their lender has provided a simplified model for estimating the repayment period: $(1.0038)^n=2.6813$, where $n$ is the number of monthly payments. Use this supplied equation rather than constructing a new loan model; assume its result can be used to estimate total interest.

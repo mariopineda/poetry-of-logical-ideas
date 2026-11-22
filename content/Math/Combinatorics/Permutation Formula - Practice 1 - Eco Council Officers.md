@@ -10,6 +10,12 @@ prerequisites:
   - "Factorial Notation - Applications 5 - Three Event Arrangements"
 related:
   - "Permutations 1"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Five students—Aisha, Ben, Chloe, Diego and Eva—volunteer to serve as **chair** and **secretary** of an eco council. No student may hold both offices.

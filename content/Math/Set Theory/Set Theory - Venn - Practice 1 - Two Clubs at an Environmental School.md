@@ -10,6 +10,12 @@ prerequisites:
   - "Set Theory 3"
 related:
   - "Set Theory - Venn - Practice 2 - Correcting a Survey Diagram"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A school has 44 students. The Venn diagram represents membership in the **photography club (P)** and **robotics club (R)**. The number in each region is the number of students there.

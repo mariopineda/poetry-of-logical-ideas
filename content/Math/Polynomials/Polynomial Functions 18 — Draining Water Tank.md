@@ -8,6 +8,12 @@ course:
   - Mathematics 30-1
 topic: Polynomial Functions
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A water tank contains **600 L** of water. The tank is being drained at a constant rate. The volume of water remaining after $t$ minutes is modelled by

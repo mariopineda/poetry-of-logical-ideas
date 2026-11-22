@@ -6,6 +6,12 @@ course:
   - Mathematics 31
 topic: "Sinusoidal Functions"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Consider the periodic function $f(x) = 15.3 \sin (\pi x)$

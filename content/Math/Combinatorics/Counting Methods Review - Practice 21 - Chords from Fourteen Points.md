@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 11 - Connect-Thirteen Geometry"
 related:
   - "Combinations - Practice 11 - Connect-Thirteen Geometry"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Fourteen distinct points are positioned on the circumference of a circle. Each straight chord joins **two distinct points**.

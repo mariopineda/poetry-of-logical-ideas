@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 1 - Vowels First in ASTRIDE"
 related:
   - "Permutations with Restrictions - Practice 1 - Vowels First in ASTRIDE"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Using all seven distinct letters of **EQUATOR**, how many arrangements begin with a **vowel**, followed immediately by a **consonant**? The other five letters may appear in any order.

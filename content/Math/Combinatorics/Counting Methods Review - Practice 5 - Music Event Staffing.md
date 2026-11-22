@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 12 - Chamber Ensemble Casting"
 related:
   - "Combinations - Practice 12 - Chamber Ensemble Casting"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A concert has 3 potential lead presenters, 5 sound technicians and 6 ushers available. An event team requires **one presenter, two technicians and two ushers**.

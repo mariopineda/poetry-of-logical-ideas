@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A photography student is researching the resale market before buying a used camera body. The student gathers asking prices for similar models in comparable condition, grouping them by age. In the table, $x$ is the age of the camera in years and $y$ is its typical listed price, in Canadian dollars. The goal is to model the overall depreciation trend, not to predict the exact price of an individual camera.

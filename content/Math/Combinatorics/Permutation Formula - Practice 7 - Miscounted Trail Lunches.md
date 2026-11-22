@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 3 - Festival Volunteer Roles"
 related:
   - "Fundamental Counting Principle 3"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A hiking lodge offers two types of lunch order:

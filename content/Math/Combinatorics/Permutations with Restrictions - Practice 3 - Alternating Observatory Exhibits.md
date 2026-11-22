@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 1 - Eco Council Officers"
 related:
   - "Permutations with Restrictions - Practice 4 - Alternating Teams at a Banquet"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A gallery is arranging **five different astronomy photographs** and **four different nature photographs** in one row. Every nature photograph must have astronomy photographs immediately on both sides.

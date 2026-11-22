@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 6 - Chords and Triangles on a Circle"
 related:
   - "Combinations - Practice 6 - Chords and Triangles on a Circle"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A diagonal is a segment joining two **nonadjacent** vertices of a polygon.

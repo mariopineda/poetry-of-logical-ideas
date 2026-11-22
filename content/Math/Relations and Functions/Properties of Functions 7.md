@@ -5,6 +5,12 @@ course:
   - "Mathematics 30-1"
 topic: "Function Properties"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.

@@ -9,6 +9,12 @@ prerequisites:
   - "Set Theory - Venn - Practice 8 - Visitors to Two Nature Centres"
 related:
   - "Set Theory - Venn - Practice 11 - Online and In-Person Tutoring"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A class of **38** students is surveyed. **17** take an astronomy elective (A), **20** take environmental science (E), and **6** take both.

@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Aquatic biologists are studying fish from the same population in a freshwater lake. They measure each fish from snout to tail and record its mass. The dataset lists the length $L$ of each fish, in millimetres, and its mass $M$, in grams. The researchers want to investigate whether an exponential model is a useful approximation **over the observed length range**. The table pairs each length with the mass of the same fish.

@@ -9,6 +9,12 @@ prerequisites:
   - "Set Theory - Venn - Practice 5 - Tea and Coffee Survey"
 related:
   - "Set Theory - Venn - Practice 5 - Tea and Coffee Survey"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 At a community centre, **120 people** are surveyed about a **ceramics workshop (C)** and a **photography workshop (P)**.

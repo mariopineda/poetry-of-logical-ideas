@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 1 - Eco Council Officers"
 related:
   - "Permutations with Restrictions - Practice 2 - A Vowel Then a Consonant"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 All seven different letters of **ASTRIDE** are placed in a row. How many arrangements begin with **two vowels**? Explain how the restriction changes the choices.

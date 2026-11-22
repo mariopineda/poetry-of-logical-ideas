@@ -8,6 +8,12 @@ topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 10"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A Ferris wheel takes $3$ minutes to complete one rotation. Riders board at the lowest point, $2$ m above the ground, and reach a maximum height of $64$ m.

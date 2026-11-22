@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Combinations"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Consider a standard deck of 52 cards. Determine the number of distinct six card hands that are possible which include

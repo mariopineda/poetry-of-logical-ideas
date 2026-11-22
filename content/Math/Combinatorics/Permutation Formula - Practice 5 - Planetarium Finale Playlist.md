@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 3 - Festival Volunteer Roles"
 related:
   - "Permutation Formula - Practice 6 - Arctic Research Flags"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A planetarium has **six different original soundtracks**. Its finale consists of a sequence of **at least four** of these tracks, with no track repeated.

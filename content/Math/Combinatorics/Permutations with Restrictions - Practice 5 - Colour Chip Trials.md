@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 2 - Seven Rare Minerals"
 related:
   - "Permutations with Restrictions - Practice 6 - Wildlife Tracker Codes"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Seven distinct coloured chips are available. A student draws **three chips in order** and records their colours.

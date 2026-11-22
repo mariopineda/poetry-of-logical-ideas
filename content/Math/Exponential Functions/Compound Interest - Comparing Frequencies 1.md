@@ -14,6 +14,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A student receives a \$1600 achievement award and plans to leave it untouched for two years. Two savings products are available: Plan A offers $6.5\%$ annual interest compounded once per year, while Plan B offers $6.2\%$ annual interest compounded monthly. The student wants to compare the actual balances at the end of two years, not just the advertised rates. Which option produces more money, and by how much?

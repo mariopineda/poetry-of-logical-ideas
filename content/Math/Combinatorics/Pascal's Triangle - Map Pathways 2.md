@@ -5,6 +5,12 @@ course:
   - "Mathematics 30-1"
 topic: "Pathway Problems"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 The map shows a pedestrian travelling from the **Bus Terminal** to the **Museum**. The intersection marked **Road Closure** cannot be used.

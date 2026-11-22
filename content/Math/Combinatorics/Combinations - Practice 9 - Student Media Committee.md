@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
 related:
   - "Combinations - Practice 10 - Science Exhibition Judging Panel"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Six Grade 11 and nine Grade 12 students volunteer to serve on a **five-member media committee**.

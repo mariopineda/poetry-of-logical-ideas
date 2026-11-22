@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 6 - Chords and Triangles on a Circle"
 related:
   - "Combinations 1"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Thirteen distinct points are marked on a circle. How many different straight **chords** can be drawn if every chord connects two distinct marked points? Explain why order does not matter.

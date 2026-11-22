@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A digital-art installation displays **five-digit natural numbers** made using the digits \(0,1,2,3,4,5,6,7\), with **no repeated digits**.

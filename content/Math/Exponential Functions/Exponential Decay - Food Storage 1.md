@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A food-science team investigates how storage temperature affects the usable life of a particular prepared food under controlled conditions. Their simplified experimental model gives the estimated shelf life $H$, in hours, at storage temperature $T$, in degrees Celsius: $H(T)=150(1/2)^{T/40}$. This is a mathematical model for the investigation, not a general food-safety guideline.

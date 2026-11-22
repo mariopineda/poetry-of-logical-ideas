@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 5 - Planetarium Finale Playlist"
 related:
   - "Counting Methods Review - Practice 13 - Coloured Beacon Sequences"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A research station has **seven differently coloured signal flags**. A signal is made by hoisting flags vertically in a particular order; a flag cannot appear twice in one signal.

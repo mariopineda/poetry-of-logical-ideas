@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
 related:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A neighbourhood art society has **five women and four men** available for committee service. Members have equal voting roles.

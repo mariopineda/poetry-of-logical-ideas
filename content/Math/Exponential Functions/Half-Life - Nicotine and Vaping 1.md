@@ -13,6 +13,12 @@ curriculum_alignment: "Mathematics 30-2: exponential function characteristics, h
 curriculum_review_required: false
 calculator: allowed
 title: "Half-Life - Nicotine and Vaping"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Many vaping products contain nicotine, a substance that can cause dependence. Studies of nicotine-containing e-cigarettes have also reported temporary changes in heart rate and blood pressure. A peer-reviewed pharmacology review reports that nicotine has an approximate elimination half-life of **2 hours**.

@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 4 - Alternating Teams at a Banquet"
 related:
   - "Counting Methods Review - Practice 22 - Artists and Programmers at the Right"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Five researchers and four field guides are all distinct and are lining up in a row for a photograph.

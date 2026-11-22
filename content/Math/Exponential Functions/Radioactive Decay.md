@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Exponential Growth and Decay"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 **Chernobyl Fallout: Modeling Cesium-137 Decay in a Swedish Forest**

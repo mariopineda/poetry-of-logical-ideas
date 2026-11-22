@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A puzzle designer cuts out the **six individual letters** in the word **ORBITS** and arranges them in a row to create a puzzle sequence. The result does **not** need to be an English word.

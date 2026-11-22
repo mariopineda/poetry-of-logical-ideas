@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 3 - Alternating Observatory Exhibits"
 related:
   - "Permutations with Restrictions - Practice 3 - Alternating Observatory Exhibits"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Four members of a robotics club and four members of a photography club will sit in eight seats in one straight row. All eight people are distinct.

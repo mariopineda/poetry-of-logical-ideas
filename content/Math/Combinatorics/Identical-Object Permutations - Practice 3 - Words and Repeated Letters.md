@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 2 - Soccer Season Records"
 related:
   - "Permutations with Identical Objects 2"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 For each word, determine the number of **different arrangements of all its letters**, whether or not the arrangement is a real word. Show how repeated letters affect the count.

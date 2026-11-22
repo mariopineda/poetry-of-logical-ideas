@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Combinations
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A standard deck of playing cards contains 52 cards, including 13 cards of each suit and four sevens. Determine how many different **six-card hands** can be dealt if:

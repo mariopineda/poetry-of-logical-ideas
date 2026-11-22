@@ -10,6 +10,12 @@ prerequisites:
   - "Counting Methods Review - Practice 14 - Research Team Lineup"
 related:
   - "Counting Methods Review - Practice 14 - Research Team Lineup"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Four artists and three programmers (seven **different people**) will sit in a single row.

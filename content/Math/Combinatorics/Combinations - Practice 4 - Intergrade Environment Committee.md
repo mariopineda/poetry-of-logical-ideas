@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 3 - Field Study Volunteers"
 related:
   - "Combinations - Practice 9 - Student Media Committee"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A student committee of **six** members must be selected from **seven Grade 12** and **nine Grade 11** volunteers. Committee membership has no assigned roles. Determine the number of possible committees if:

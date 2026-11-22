@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 5 - Colour Chip Trials"
 related:
   - "Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Use only the six digits **0, 1, 2, 3, 4, 5**, with **no repeated digits**.

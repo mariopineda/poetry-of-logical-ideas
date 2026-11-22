@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Four **different** flags—one bearing a planet, one a comet, one a star, and one a moon—will be placed in a straight row above a science-fair booth.

@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 5 - Monotone Grid Walks"
 related:
   - "Identical-Object Permutations - Practice 5 - Monotone Grid Walks"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A visitor walks from the **northwest corner** A of a rectangular street grid to the **southeast corner** B. Every shortest route requires exactly **five east** steps and **four south** steps. The visitor may move only east or south.

@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A farmer must travel from their village to a market in another city, passing through 3 military checkpoints.

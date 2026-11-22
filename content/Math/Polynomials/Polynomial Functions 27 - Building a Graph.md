@@ -8,12 +8,16 @@ course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
 tags:
+  - diploma-preparation
   - math/30-2
   - polynomials
   - characteristics
   - math/20-1
   - math/20-2
   - math/30-1
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
 ---
 
 A quadratic function has:

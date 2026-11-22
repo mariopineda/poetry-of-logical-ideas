@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Permutations
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A music teacher has **6 different songs** available for the closing sequence of a concert. Each song may be performed at most once, and the order of the songs matters.

@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 7 - True False Sequence Restrictions"
 related:
   - "Identical-Object Permutations - Practice 7 - True False Sequence Restrictions"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An assessment contains **12 true/false questions**, and its answer pattern must contain **exactly seven T** responses and **five F** responses.

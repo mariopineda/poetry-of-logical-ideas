@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Wildlife managers monitoring an isolated island have counted a declining population of small mammals over six annual surveys. The survey method is kept consistent so the counts can be compared from year to year. The table shows the number of years $x$ after the first survey and the estimated number of animals $y$ on the island. The managers want to describe the rate of decline and estimate how quickly the population might halve if the trend continues.

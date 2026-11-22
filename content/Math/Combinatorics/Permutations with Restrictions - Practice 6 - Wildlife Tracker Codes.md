@@ -11,6 +11,12 @@ prerequisites:
   - "Fundamental Counting Principle with Restrictions 1"
 related:
   - "Permutations with Restrictions - Practice 7 - Regional Observatory IDs"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Each wildlife tracker is assigned a code beginning with the two fixed characters **W7**, followed by **five digits** selected from 0 through 9. The five-digit portion is a code, so a leading zero **is allowed**.

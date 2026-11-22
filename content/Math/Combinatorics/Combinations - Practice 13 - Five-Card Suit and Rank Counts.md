@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
 related:
   - "Combinations - Practice 16 - Restricted Five-Card Hands"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A five-card **hand** is dealt from an ordinary deck of 52 cards. A hand is an unordered selection, and cards are not replaced.

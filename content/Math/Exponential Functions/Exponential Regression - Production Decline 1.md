@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A small workshop operates a machine that produces a specialized component. As the machine ages without maintenance, its weekly output has been falling. The supervisor estimates that production decreases by roughly $12\%$ each operating week and records the number of usable components made over six weeks. Here $t$ is the number of weeks since the initial measurement and $Q$ is the weekly output, measured in components. A long-term prediction may not remain realistic if repairs or a shutdown occur.

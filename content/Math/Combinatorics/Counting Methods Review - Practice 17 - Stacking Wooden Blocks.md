@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 8 - Coloured Bead Row"
 related:
   - "Identical-Object Permutations - Practice 8 - Coloured Bead Row"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A sculpture uses **12 wooden blocks** stacked in one vertical tower: 3 identical red, 4 identical blue, 3 identical yellow and 2 identical green. The **top and bottom blocks must both be green**.

@@ -6,6 +6,12 @@ course:
   - "Mathematics 31"
 topic: "Function Properties"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 If $f(x) = \frac{1}{x-3}$ and $g(x)=\frac{x+1}{x}$, then determine the following.

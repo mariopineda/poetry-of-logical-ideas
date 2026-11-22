@@ -13,6 +13,12 @@ curriculum_alignment: "Mathematics 30-2: exponential function characteristics, h
 curriculum_review_required: false
 calculator: allowed
 title: "Half-Life - Caffeine and Sleep"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Energy drinks are popular among young adults, especially during long study sessions or late shifts. Caffeine can improve alertness temporarily, but a peer-reviewed sleep study found that a large caffeine dose taken six hours before bedtime could still disrupt sleep. Other research reports that caffeine has an approximate elimination half-life of **5 hours** in healthy adults. A *half-life* is the time required for the amount of a substance to fall to half its previous value.

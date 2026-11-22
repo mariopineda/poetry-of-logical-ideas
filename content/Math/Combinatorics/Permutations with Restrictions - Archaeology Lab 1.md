@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Permutations
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An archaeology laboratory has **3 different pottery samples** and **5 different bone samples** waiting to be processed. All eight samples will be processed one at a time.

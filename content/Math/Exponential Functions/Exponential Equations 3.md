@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Exponential Equations"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A country's population is increasing at an annual rate of 2.2%. The current population is approximatelly 14 million. The growth in population can be modelled by the exponential function $P=P_0(1.022)^t$, $t$ is the number of years since the population was $P_0$. Assuming the population growth continues at the same rate,

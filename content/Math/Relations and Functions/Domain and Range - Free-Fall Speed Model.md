@@ -8,6 +8,12 @@ topic: Domain and Range
 show_solution: true
 aliases:
   - Domain & Range 7
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An object is dropped from a platform $100$ m above the ground. The speed, $v$, in metres per second, of the object after it has fallen $h$ metres from its point of release is modelled by

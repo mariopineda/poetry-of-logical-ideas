@@ -5,6 +5,12 @@ course:
   - "Mathematics 30-2"
 topic: "Logical Reasoning"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Complete the following $4\times4$ logic grid using the numbers $1$ through $4$.

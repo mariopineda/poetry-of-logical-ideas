@@ -11,6 +11,12 @@ prerequisites:
   - "Permutations - Map Pathways 1"
 related:
   - "Permutations - Map Pathways 2"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A delivery robot travels on rectangular city grids. A route may move **only east (E)** or **south (S)**. No unnecessary movement or backtracking is allowed.

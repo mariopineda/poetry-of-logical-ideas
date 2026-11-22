@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 10 - Science Exhibition Judging Panel"
 related:
   - "Combinations - Practice 10 - Science Exhibition Judging Panel"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A jury of **four people** must be selected from four scientists and seven artists (eleven people total).

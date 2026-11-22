@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 In each situation, **all items or people are distinct**, and every item or person must be used exactly once. Write a factorial expression and evaluate it.

@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 8 - Trail Mix Ingredients"
 related:
   - "Counting Methods Review - Practice 5 - Music Event Staffing"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A chamber-music festival needs **one conductor, two violinists, one cellist and two flautists**. Available musicians are 3 conductors, 7 violinists, 4 cellists and 6 flautists. Nobody is in two categories.

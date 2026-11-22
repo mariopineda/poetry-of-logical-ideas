@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 1 - Coin Flip Patterns"
 related:
   - "Identical-Object Permutations - Practice 4 - Gallery Prints in Triplicate"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A soccer team finishes 18 matches with **12 wins**, **4 losses**, and **2 draws**. How many distinct chronological sequences of results could produce this final record?

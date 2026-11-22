@@ -7,6 +7,12 @@ course:
   - Mathematics 31
 topic: "Rational Expressions"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 

@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 In a school science lab, students place a bacterial culture in conditions under which its population is expected to double every $35$ minutes. The culture begins with 75,000 organisms. The model $N(t)=75000(2)^{t/35}$ estimates the number of organisms after $t$ minutes. Assuming the growth pattern continues, calculate how long it takes the population to reach 450,000, rounded to the nearest minute.

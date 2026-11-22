@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A museum uses a **four-letter access code** for its digital archive. Each position may contain any of the eight letters $A,B,C,D,E,F,G,H$. The order of the letters matters.

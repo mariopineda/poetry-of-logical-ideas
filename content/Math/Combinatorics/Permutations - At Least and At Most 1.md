@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Permutations
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A wildlife photographer has selected **5 different photographs** for a slideshow. The photographs will be shown one at a time, and no photograph can be used more than once.

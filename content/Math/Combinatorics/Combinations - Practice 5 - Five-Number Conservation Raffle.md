@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 2 - Six Film Selections"
 related:
   - "Combinations - Practice 13 - Five-Card Suit and Rank Counts"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 To support wetland conservation, participants select **five different numbers** from 1 through 48. The organizer also selects five numbers, and only a perfect match wins. Order does not matter.

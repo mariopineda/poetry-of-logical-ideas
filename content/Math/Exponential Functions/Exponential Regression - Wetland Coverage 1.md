@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 During a summer field project, students monitor a small wetland pond where floating plants are spreading across the water surface. They estimate the percentage of the pond covered by plants at the same time each week. The table shows the number of weeks $t$ since the first observation and the percentage $C$ of the water surface covered. A model fitted to these early observations may be useful for short-term prediction, but coverage cannot exceed 100\%.

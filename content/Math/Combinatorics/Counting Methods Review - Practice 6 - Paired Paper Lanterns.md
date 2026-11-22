@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
 related:
   - "Identical-Object Permutations - Practice 4 - Gallery Prints in Triplicate"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A decorator has **six different lantern colours**, with exactly **two indistinguishable lanterns of each colour**. All 12 lanterns will be hung in two **labelled** rows, each containing six positions.

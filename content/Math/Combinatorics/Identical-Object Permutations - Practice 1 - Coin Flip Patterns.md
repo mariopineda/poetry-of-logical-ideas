@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Identical Objects 1"
 related:
   - "Identical-Object Permutations - Practice 7 - True False Sequence Restrictions"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Eight identical coins are flipped. Exactly **three show heads** and **five show tails**.

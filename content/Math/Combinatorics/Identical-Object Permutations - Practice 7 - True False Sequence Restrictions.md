@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 1 - Coin Flip Patterns"
 related:
   - "Counting Methods Review - Practice 16 - Constrained True-False Answer Keys"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A ten-statement true/false quiz has **exactly six True (T) answers** and **four False (F) answers**.

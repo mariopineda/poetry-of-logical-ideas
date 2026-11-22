@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Morgan is comparing two long-term savings accounts before deciding where to keep money for a future purchase. Both accounts earn interest once per year, but they begin with different deposits and offer different annual rates. After $t$ years, their balances are modelled by $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$, respectively, with amounts in dollars. Determine:

@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An art gallery has a **permanent welcome display** at the entrance to a corridor and a **permanent visitor-feedback station** at the exit. Between them, the curator will place **six different artworks**, each exactly once, in a single row.

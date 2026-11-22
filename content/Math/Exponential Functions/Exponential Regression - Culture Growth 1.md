@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A technician at a biotechnology lab grows a microorganism culture in a nutrient-rich container. Once each hour, the technician estimates how many organisms are present. The table records the observation time $x$, in hours since monitoring began, and the measured population $y$, in organisms. The technician wants to model the original growth and then compare it with a hypothetical treatment that reduces the growth rate.

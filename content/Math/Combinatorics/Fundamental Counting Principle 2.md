@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Pathway Problems"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 How many ways are there of getting from A to C, passing through each point at most once?

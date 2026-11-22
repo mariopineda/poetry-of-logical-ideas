@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 8 - Coloured Bead Row"
 related:
   - "Identical-Object Permutations - Practice 8 - Coloured Bead Row"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Eleven named campers each receive one frozen treat. The treats consist of **4 identical mango**, **3 identical lemon** and **4 identical berry** flavours. **Nadia must receive mango**.

@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 During an archaeological survey, researchers recover an old wooden tool from a dry storage site. Laboratory analysis suggests that the wood contains $68\%$ of the carbon-14 that would be expected in a comparable living sample. The half-life of carbon-14 is approximately 5730 years. Using the model $C(t)=100(0.5)^{t/5730}$, where $C(t)$ is the percentage remaining after $t$ years, estimate when the wood stopped exchanging carbon with the environment, to the nearest year.

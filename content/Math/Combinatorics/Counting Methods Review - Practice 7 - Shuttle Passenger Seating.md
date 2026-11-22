@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 3 - Festival Volunteer Roles"
 related:
   - "Permutation Formula - Practice 2 - Seven Rare Minerals"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A community shuttle has **nine distinct passenger seats**. The driver is fixed and is **not** included among these seats. The named passengers are all distinct.

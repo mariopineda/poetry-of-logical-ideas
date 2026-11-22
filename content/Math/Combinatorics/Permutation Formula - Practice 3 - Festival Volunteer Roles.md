@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 2 - Seven Rare Minerals"
 related:
   - "Factorial Notation - Applications 3"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Eight volunteers are qualified for four **different** roles: entrance host, equipment manager, stage coordinator and photographer. Each person can take at most one role.

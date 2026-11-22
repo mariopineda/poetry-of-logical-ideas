@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 9 - Student Media Committee"
 related:
   - "Combinations - Practice 9 - Student Media Committee"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A conference has five teacher volunteers and seven parent volunteers. It needs a **teacher chair**, a **parent vice-chair** and **four additional unranked helpers**, with no person filling two roles.

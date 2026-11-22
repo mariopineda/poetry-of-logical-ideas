@@ -10,6 +10,12 @@ prerequisites:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
 related:
   - "Identical-Object Permutations - Practice 10 - ASSESSMENT With Fixed Ends"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 How many distinct arrangements of all seven letters of **ALARMED** have **vowels and consonants alternating**? Treat the two A's as indistinguishable.

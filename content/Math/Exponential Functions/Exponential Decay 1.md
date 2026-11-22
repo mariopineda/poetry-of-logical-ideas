@@ -11,6 +11,12 @@ source_question: 7
 curriculum_alignment: 30-2 Relations and Functions SO6 exponential models of contextual data
 curriculum_review_required: false
 calculator: prohibited
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth after one year? If it loses another $20\%$ of its **new value** in the second year, what is it worth then?

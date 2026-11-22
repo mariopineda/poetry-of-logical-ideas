@@ -9,6 +9,12 @@ prerequisites:
   - "Set Theory - Venn - Practice 10 - A Flawed Science Course Survey"
 related:
   - "Set Theory - Venn - Practice 10 - A Flawed Science Course Survey"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Sixty students are surveyed about **online tutoring (O)** and **in-person tutoring (I)**.

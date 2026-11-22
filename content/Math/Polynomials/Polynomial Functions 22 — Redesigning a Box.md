@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A rectangular block has original dimensions **8 cm by 6 cm by 4 cm**. Each dimension is reduced by the same amount, $x$ cm.

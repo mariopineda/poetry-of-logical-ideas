@@ -6,6 +6,12 @@ course:
   - "Mathematics 30-2"
 topic: "Polynomial Functions"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 You are playing fetch with your dog and throw a ball vertically upward. You record the height of the ball above the ground at half-second intervals for the first three seconds. The data is shown in the following table.

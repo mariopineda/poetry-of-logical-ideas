@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 1 - Eco Council Officers"
 related:
   - "Factorial Notation - Applications 2"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A science museum has **seven different mineral specimens** and wishes to give distinct specimens to visitors, with no visitor receiving more than one specimen.

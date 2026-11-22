@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A driver buys a used SUV for \$28,000 and finances \$23,000 of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays \$390 each month. The lender gives the following standard equation for the estimated number of monthly payments:

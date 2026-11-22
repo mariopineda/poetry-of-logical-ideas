@@ -11,6 +11,12 @@ source_question: 15
 curriculum_alignment: 30-2 Relations and Functions SO6 exponential models of growth/decay
 curriculum_review_required: false
 calculator: prohibited
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A community has 2,000 residents. Its population rises by $10\%$ in the first year. Calculate the population at the end of the first year and then at the end of the second year if it grows by another $10\%$. Explain why adding 200 residents each year would not represent the same process.

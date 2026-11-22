@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Eight **different acts** will perform at an arts showcase. The organizers have already chosen the spoken-word performance to be the **opening act**. Every other act will perform exactly once afterward.

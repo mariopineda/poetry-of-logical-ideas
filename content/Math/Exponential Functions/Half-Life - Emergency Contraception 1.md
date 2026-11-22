@@ -13,6 +13,12 @@ curriculum_alignment: "Mathematics 30-2: exponential function characteristics, h
 curriculum_review_required: false
 calculator: allowed
 title: "Half-Life - Emergency Contraception"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Emergency contraception can help prevent pregnancy after unprotected sex or contraceptive failure. One kind contains *levonorgestrel*, which primarily acts by delaying or preventing ovulation. Its effectiveness depends partly on timing relative to ovulation; simply measuring how much hormone remains does not show how long the pill is effective.

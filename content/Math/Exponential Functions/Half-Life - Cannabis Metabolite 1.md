@@ -13,6 +13,12 @@ curriculum_alignment: "Mathematics 30-2: exponential function characteristics, h
 curriculum_review_required: false
 calculator: allowed
 title: "Half-Life - Cannabis Metabolite"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 THC (tetrahydrocannabinol) is the main psychoactive compound in cannabis. When the body processes THC, it produces *metabolites*, some of which can be found in urine long after the effects of cannabis have worn off. A positive urine test therefore does not necessarily show recent use or current impairment.

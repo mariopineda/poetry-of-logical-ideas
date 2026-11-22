@@ -14,6 +14,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 To help pay for a professional certification course, a student deposits \$425 in a savings account. The account pays $4.8\%$ interest per year, compounded annually, and the student makes no additional deposits or withdrawals. Assume the annual rate stays constant.

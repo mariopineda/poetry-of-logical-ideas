@@ -10,6 +10,12 @@ prerequisites:
   - "Permutations with Restrictions - Practice 7 - Regional Observatory IDs"
 related:
   - "Fundamental Counting Principle 13 - Festival Pass Identifiers"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A university library prints labels made of:

@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A student buys a high-performance laptop for \$3200 and wants to estimate its resale value before upgrading. A consumer-price model assumes that the laptop loses $16\%$ of its value each year, relative to its value at the beginning of that year. There is no additional damage or repair cost in this model.

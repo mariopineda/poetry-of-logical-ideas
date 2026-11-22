@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 8 - Trail Mix Ingredients"
 related:
   - "Combinations - Practice 8 - Trail Mix Ingredients"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 An eight-ingredient lunch bowl is built by **selecting** ingredients, with no duplicates, from:

@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A research technician is monitoring a slowly growing bacterial culture. At the start of an experiment there are 240 organisms, and the measured population is modelled as doubling every $10$ hours. The technician wants to know when the population could reach 245,760 organisms if the same conditions persist. Solve algebraically for the elapsed time and confirm the result on a graph.

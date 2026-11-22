@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Factorial Notation
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A science centre is planning **nine different demonstrations** for an open house. All nine will be presented once. The **meteorite demonstration must be fourth** in the schedule, but the other demonstrations can appear in any order.

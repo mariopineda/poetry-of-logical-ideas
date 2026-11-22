@@ -11,6 +11,12 @@ source_question: 18
 curriculum_alignment: 30-2 Relations and Functions SO6 exponential representation and growth/decay comparison
 curriculum_review_required: false
 calculator: prohibited
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Explain how a repeated $20\%$ decrease differs from subtracting $20$ from a quantity every time. Give a numerical example.

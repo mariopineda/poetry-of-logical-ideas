@@ -6,6 +6,12 @@ course:
   - Mathematics 30-2
 topic: Permutations
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A wildlife researcher records **8 consecutive animal sightings**. Only the species is recorded, so sightings of the same species are treated as identical.

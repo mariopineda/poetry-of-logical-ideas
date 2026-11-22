@@ -10,6 +10,12 @@ prerequisites:
   - "Combinations - Practice 8 - Trail Mix Ingredients"
 related:
   - "Combinations - Practice 15 - Eight-Ingredient Lunch Bowl"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A gardener can choose **five different plants** from 3 herbs, 4 flowering plants and 5 succulents, all distinct.

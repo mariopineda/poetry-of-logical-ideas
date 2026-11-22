@@ -5,6 +5,12 @@ course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 The point

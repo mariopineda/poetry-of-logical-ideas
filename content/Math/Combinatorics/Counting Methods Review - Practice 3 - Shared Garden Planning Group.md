@@ -10,6 +10,12 @@ prerequisites:
   - "Counting Methods Review - Practice 2 - Ordinary Committee vs Officers"
 related:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Seven hikers and eight cyclists have volunteered for a **five-person** garden-planning group. The selected people have equal roles.

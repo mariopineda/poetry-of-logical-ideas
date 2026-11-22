@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A freelance photographer purchased a professional camera body in January 2016 for \$3600. To plan when it might be worth replacing, the photographer uses the estimated resale-value model $V(t)=3600(0.88)^t$, where $t$ is the number of years since January 2016 and $V(t)$ is measured in dollars. Assume the same percentage depreciation each year.

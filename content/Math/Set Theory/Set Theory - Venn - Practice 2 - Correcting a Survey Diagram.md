@@ -9,6 +9,12 @@ prerequisites:
   - "Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School"
 related:
   - "Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A library survey has **28 respondents**. **Fourteen** use the e-book app (A), **seventeen** use the audiobook app (B), and **five** use neither.

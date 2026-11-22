@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A security code consists of four digits, each chosen from \(0\) through \(9\). Digits may be repeated.

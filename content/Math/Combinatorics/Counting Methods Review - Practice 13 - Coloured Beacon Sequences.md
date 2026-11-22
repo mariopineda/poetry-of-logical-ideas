@@ -10,6 +10,12 @@ prerequisites:
   - "Permutation Formula - Practice 6 - Arctic Research Flags"
 related:
   - "Permutation Formula - Practice 6 - Arctic Research Flags"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Eight uniquely coloured beacons can be switched on in a specified **order**, using each beacon at most once. A message must use at least one beacon.

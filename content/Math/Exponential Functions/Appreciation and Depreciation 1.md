@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A financial adviser is preparing a display comparing how different assets change in value over time. Each formula models the estimated dollar value of one asset after $t$ years, with $t=0$ representing the date of purchase. Assume a constant percentage change each year. For each model, state the starting value, whether the asset appreciates or depreciates, and the yearly percentage change.

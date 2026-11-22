@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A small business borrows money to replace a delivery vehicle but makes no payments during the first five years. Interest is added to the outstanding balance at the end of each year. The lender provides the following table, where $x$ is the number of years since the loan began and $y$ is the amount owing, in dollars. Assume the interest rate remains unchanged.

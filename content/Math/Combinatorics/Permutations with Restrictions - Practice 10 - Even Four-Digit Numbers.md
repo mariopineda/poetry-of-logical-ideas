@@ -11,6 +11,12 @@ prerequisites:
   - "Counting Odd Natural Numbers 1"
 related:
   - "Counting Odd Natural Numbers 2"
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Four digits are chosen in order from **0, 1, 2, 3, 4, 5, 6** to make a **four-digit even natural number**.

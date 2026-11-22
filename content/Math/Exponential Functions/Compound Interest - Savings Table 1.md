@@ -14,6 +14,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
 curriculum_review_required: false
 calculator: allowed
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A recent graduate puts a lump sum into a savings account to build an emergency fund. No additional deposits or withdrawals are made, and interest is compounded once per year. The table shows the year $x$ since opening the account and the corresponding balance $y$, in dollars. Use the pattern in the balances to determine how the investment grows.

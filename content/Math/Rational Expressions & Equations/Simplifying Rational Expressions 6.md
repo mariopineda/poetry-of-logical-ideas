@@ -8,6 +8,12 @@ course:
 topic: "Rational Expressions"
 learning_order: 90
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 A farmer is planning to put a fence around a rectangular field. The area of the field, in square metres, can be represented by the expression $18a^2-2$, and the width of the field is $3a+1$ metres.

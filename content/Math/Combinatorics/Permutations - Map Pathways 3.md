@@ -6,6 +6,12 @@ course:
   - Mathematics 30-1
 topic: Pathway Problems
 show_solution: true
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 The map shows a person travelling from **Start** to **Finish**. The person must pass through **exactly one** of the following locations:

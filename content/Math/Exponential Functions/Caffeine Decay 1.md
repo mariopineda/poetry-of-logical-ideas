@@ -13,6 +13,12 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics"
 curriculum_review_required: false
 calculator: required
+diploma_eligible: true
+diploma_ready: false
+diploma_screening: strong-candidate-2026-11-22
+tags:
+  - qod
+  - diploma-preparation
 ---
 
 Two volunteers take part in a supervised classroom study of how caffeine levels decline over time. The volunteers begin with different amounts of caffeine in their systems, and the graphs show the estimated amount remaining, in milligrams, during the eight hours after the initial measurement. Use the graphs to compare both the starting quantities and how rapidly they decrease.
