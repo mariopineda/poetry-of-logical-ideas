@@ -1,5 +1,5 @@
 /**
- * OSCULATORIUM-DIPLOMA-PREP-V4
+ * OSCULATORIUM-DIPLOMA-PREP-V6-VAULT-AUTHORITATIVE
  * Rebuilds the Diploma Preparation Centre from published Math QOD notes
  * during GitHub Pages deployment. No dependencies, no student navigation.
  */
@@ -12,7 +12,6 @@ const mathRoot = process.env.OSC_QOD_ROOT
   ? path.resolve(process.env.OSC_QOD_ROOT)
   : path.join(root, 'content', 'Math')
 const dest = path.join(root, 'quartz', 'static', 'diploma-preparation')
-const fallbackPath = path.join(root, 'scripts', 'diploma-prep-approved-existing.json')
 const panelPath = path.join(root, 'quartz', 'static', 'teacher-control-panel', 'index.html')
 const marker = 'data-osc-diploma-prep-button="true"'
 const button = `<a ${marker} href="../../static/diploma-preparation/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 14px;border-radius:8px;background:var(--text);color:var(--bg);font-weight:700;text-decoration:none;white-space:normal;">Open Diploma Prep Centre</a>`
@@ -56,11 +55,20 @@ function parseFm(text) {
 // Match Quartz paths in the existing teacher control panel. Crucial: preserve
 // path case and pre-existing hyphens. GitHub Pages paths are case sensitive.
 function slugForPublishedNote(segment) {
-  return segment.replace(/\s/g,'-').replace(/&/g,'-and-').replace(/%/g,'-percent').replace(/\?/g,'').replace(/#/g,'')
+  // Exactly the Quartz 5 slugifyPath rules used to publish page URLs.
+  return segment
+    .normalize('NFC')
+    .replace(/\s/g,'-')
+    .replace(/&/g,'-and-')
+    .replace(/%/g,'-percent')
+    .replace(/\?/g,'')
+    .replace(/#/g,'')
+    .replace(/[<>:"|*]/g,'')
+    .toLowerCase()
 }
 function urlFor(rel) {
   const route = rel.replace(/\.md$/i,'').split('/').map(slugForPublishedNote).join('/')
-  return 'https://mariopineda.github.io/poetry-of-logical-ideas/Math/' + route
+  return 'https://mariopineda.github.io/poetry-of-logical-ideas/math/' + route
 }
 function links(body,section,titleIndex){
   const r=/^(?:##\s+|>\s*\[![^\]]+\][^\r\n]*?\b)(Review First|Explore Also|Build Toward)\b[^\r\n]*$/gim
@@ -79,8 +87,6 @@ function links(body,section,titleIndex){
   }
   return result
 }
-if(!fs.existsSync(fallbackPath))fail('Approved pre-existing QOD list is missing')
-const approved=new Set(JSON.parse(fs.readFileSync(fallbackPath,'utf8')).map(x=>x.relativePath))
 const all=[];const index=new Map()
 for(const file of walk(mathRoot)){
   const md=fs.readFileSync(file,'utf8'), parsed=parseFm(md)
@@ -94,8 +100,8 @@ for(const file of walk(mathRoot)){
 }
 const questions=[]
 for(const q of all){
-  const fm=q.fm, key='QOD Question Bank/'+q.rel
-  if(!(fm.diploma_eligible===true || (approved.has(key)&&fm.diploma_eligible!==false)))continue
+  const fm=q.fm
+  if(fm.diploma_eligible!==true)continue
   if(!q.published)continue
   if(!q.courses.some(c=>c==='Mathematics 30-1'||c==='Mathematics 30-2'))continue
   // Use stable opaque public identifiers, not source document identifiers.
@@ -111,8 +117,15 @@ for(const q of all){
 questions.sort((a,b)=>a.topic.localeCompare(b.topic)||a.title.localeCompare(b.title))
 const ids=new Set(questions.map(q=>q.id))
 if(ids.size!==questions.length)fail('Duplicate QOD identifiers')
-if(questions.length<387)fail('Unexpectedly small practice catalogue')
-if(!fs.existsSync(path.join(dest,'index.html')))fail('Missing Diploma Preparation HTML app')
+if(questions.length<300)fail('Unexpectedly small practice catalogue: check diploma_eligible in the Obsidian vault')
+const uniqueUrls=new Set(questions.map(q=>q.url))
+if(uniqueUrls.size!==questions.length)fail('Duplicate public question URLs')
+if(questions.some(q=>!q.url.startsWith('https://mariopineda.github.io/poetry-of-logical-ideas/math/')))fail('Incorrect Quartz question URL prefix')
+const appPath=path.join(dest,'index.html')
+if(!fs.existsSync(appPath))fail('Missing Diploma Preparation HTML app')
+const app=fs.readFileSync(appPath,'utf8')
+if(!app.includes('id="question-body"') || app.includes('id="qod-frame"'))fail('Current inline question display is missing; refusing to publish')
+if(!app.includes('These are not questions from actual diploma examinations.'))fail('Approved independent-question disclaimer is missing')
 const data={schemaVersion:4,questions}
 fs.writeFileSync(path.join(dest,'questions.json'),JSON.stringify(data),'utf8')
 if(!fs.existsSync(panelPath))fail('Teacher QOD control panel HTML is missing')
@@ -125,4 +138,4 @@ if(!html.includes(marker)){
   fs.writeFileSync(panelPath,html,'utf8')
 }
 if(!html.includes('href="../../static/diploma-preparation/"'))fail('Teacher panel does not link to the Diploma Preparation Centre')
-console.log('Diploma Preparation Centre catalogue refreshed; teacher navigation verified.')
+console.log('Diploma Preparation Centre: generated ' + questions.length + ' questions from published Obsidian metadata; teacher navigation verified.')
