@@ -7,9 +7,9 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **45 Questions of the Day** Â· **Courses:** Not specified
+> **45 Questions of the Day** · **Courses:** Not specified
 >
-> [[Math/index|Browse all QODs]] Â· [[Math/QOD Map|View Learning Path]]
+> [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
 Practice questions for **Logarithmic Functions**.
 
