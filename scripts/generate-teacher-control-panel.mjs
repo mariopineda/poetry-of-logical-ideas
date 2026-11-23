@@ -1397,6 +1397,7 @@ then review publication, solution, and relationship status.
     <span style="font-size:0.85rem;color:var(--muted);">Create unique double-sided Mental Math Race worksheets (questions + STOP/name). No answer keys.</span>
   </div>
   <a href="../../mental-math-race" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 14px;border-radius:8px;background:var(--text);color:var(--bg);font-weight:700;text-decoration:none;white-space:normal;">Open Mental Math Race Generator</a>
+  <a data-osc-diploma-prep-button="true" href="../../static/diploma-preparation/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 14px;border-radius:8px;background:var(--text);color:var(--bg);font-weight:700;text-decoration:none;white-space:normal;">Open Diploma Prep Centre</a>
 </section>
 
 <section class="filters">

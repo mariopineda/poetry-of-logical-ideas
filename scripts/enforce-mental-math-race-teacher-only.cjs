@@ -125,3 +125,9 @@ if (!built.includes('name: "MentalMathRaceGenerator"') ||
   fail('Post-write verification failed')
 }
 console.log('Teacher-only Mental Math Race verified: student links removed, generator unlisted, teacher dashboard linked.')
+
+// OSCULATORIUM-DIPLOMA-PREP-REFRESH-V1
+// This existing deployment step runs after teacher panel generation and before
+// Quartz builds, so the diploma catalogue updates on EVERY normal deployment.
+const { execFileSync: runDiplomaBuild } = require('node:child_process')
+runDiplomaBuild(process.execPath, [path.join(root, 'scripts', 'generate-diploma-preparation.mjs')], { stdio: 'inherit' })
