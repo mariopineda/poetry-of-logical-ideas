@@ -1,17 +1,18 @@
 /**
- * OSCULATORIUM-DIPLOMA-PREP-V3
+ * OSCULATORIUM-DIPLOMA-PREP-V4
  * Rebuilds the Diploma Preparation Centre from published Math QOD notes
  * during GitHub Pages deployment. No dependencies, no student navigation.
  */
 import fs from 'node:fs'
 import path from 'node:path'
+import crypto from 'node:crypto'
 
 const root = process.cwd()
 const mathRoot = process.env.OSC_QOD_ROOT
   ? path.resolve(process.env.OSC_QOD_ROOT)
   : path.join(root, 'content', 'Math')
 const dest = path.join(root, 'quartz', 'static', 'diploma-preparation')
-const fallbackPath = path.join(dest, 'fallback_candidates.json')
+const fallbackPath = path.join(root, 'scripts', 'diploma-prep-approved-existing.json')
 const panelPath = path.join(root, 'quartz', 'static', 'teacher-control-panel', 'index.html')
 const marker = 'data-osc-diploma-prep-button="true"'
 const button = `<a ${marker} href="../../static/diploma-preparation/" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:10px 14px;border-radius:8px;background:var(--text);color:var(--bg);font-weight:700;text-decoration:none;white-space:normal;">Open Diploma Prep Centre</a>`
@@ -52,8 +53,15 @@ function parseFm(text) {
   }
   return {fm:out,body:m[2]}
 }
-function slug(x){return x.toLowerCase().replaceAll('&',' and ').replaceAll('_',' ').replace(/[^\p{L}\p{N}.\-\s]/gu,'').replace(/\s+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'')}
-function urlFor(rel){return 'https://mariopineda.github.io/poetry-of-logical-ideas/math/'+rel.replace(/\.md$/i,'').split('/').map(slug).join('/')}
+// Match Quartz paths in the existing teacher control panel. Crucial: preserve
+// path case and pre-existing hyphens. GitHub Pages paths are case sensitive.
+function slugForPublishedNote(segment) {
+  return segment.replace(/\s/g,'-').replace(/&/g,'-and-').replace(/%/g,'-percent').replace(/\?/g,'').replace(/#/g,'')
+}
+function urlFor(rel) {
+  const route = rel.replace(/\.md$/i,'').split('/').map(slugForPublishedNote).join('/')
+  return 'https://mariopineda.github.io/poetry-of-logical-ideas/Math/' + route
+}
 function links(body,section,titleIndex){
   const r=/^(?:##\s+|>\s*\[![^\]]+\][^\r\n]*?\b)(Review First|Explore Also|Build Toward)\b[^\r\n]*$/gim
   const hs=[...body.matchAll(r)]; const result=[];const seen=new Set()
@@ -90,26 +98,23 @@ for(const q of all){
   if(!(fm.diploma_eligible===true || (approved.has(key)&&fm.diploma_eligible!==false)))continue
   if(!q.published)continue
   if(!q.courses.some(c=>c==='Mathematics 30-1'||c==='Mathematics 30-2'))continue
-  const id=String(fm.qod_id||'OLDER-'+key)
+  // Use stable opaque public identifiers, not source document identifiers.
+  const id=crypto.createHash('sha256').update('Math/'+q.rel).digest('hex').slice(0,24)
   const cognitive=String(fm.diploma_cognitive_level??''),standard=String(fm.diploma_performance_standard??'')
   let difficulty='unclassified'
   if(/problem[ -]?solving|high[ -]?order/i.test(cognitive)||/excellence|challeng/i.test(standard))difficulty='challenging'
   else if(/procedural|conceptual/i.test(cognitive)||/acceptable|moderate/i.test(standard))difficulty='moderate'
   questions.push({id,title:q.name,topic:String(fm.topic || q.rel.split('/')[0]),courses:q.courses,
-    certified:fm.diploma_ready===true,difficulty,source:id.startsWith('DIP-')?'diploma':'existing',url:q.url,
+    difficulty,url:q.url,
     reviewFirst:links(q.body,'Review First',index),exploreAlso:links(q.body,'Explore Also',index),buildToward:links(q.body,'Build Toward',index)})
 }
 questions.sort((a,b)=>a.topic.localeCompare(b.topic)||a.title.localeCompare(b.title))
 const ids=new Set(questions.map(q=>q.id))
 if(ids.size!==questions.length)fail('Duplicate QOD identifiers')
-const diplomaAdaptations=questions.filter(q=>q.source==='diploma').length
-const existingPractice=questions.length-diplomaAdaptations
-if(diplomaAdaptations<387)fail('Expected at least 387 diploma-derived QODs, found '+diplomaAdaptations)
+if(questions.length<387)fail('Unexpectedly small practice catalogue')
 if(!fs.existsSync(path.join(dest,'index.html')))fail('Missing Diploma Preparation HTML app')
-const data={schemaVersion:2,generatedAt:new Date().toISOString(),questionCount:questions.length,
-  certifiedCount:questions.filter(q=>q.certified).length,diplomaAdaptations,existingPractice,questions}
+const data={schemaVersion:4,questions}
 fs.writeFileSync(path.join(dest,'questions.json'),JSON.stringify(data),'utf8')
-fs.writeFileSync(path.join(dest,'build-report.json'),JSON.stringify({total:questions.length,diploma:diplomaAdaptations,older:existingPractice},null,2),'utf8')
 if(!fs.existsSync(panelPath))fail('Teacher QOD control panel HTML is missing')
 let html=fs.readFileSync(panelPath,'utf8')
 if(!html.includes(marker)){
@@ -120,4 +125,4 @@ if(!html.includes(marker)){
   fs.writeFileSync(panelPath,html,'utf8')
 }
 if(!html.includes('href="../../static/diploma-preparation/"'))fail('Teacher panel does not link to the Diploma Preparation Centre')
-console.log(`Diploma Preparation Centre generated: ${questions.length} questions (${diplomaAdaptations} adaptations, ${existingPractice} older); teacher button verified.`)
+console.log('Diploma Preparation Centre catalogue refreshed; teacher navigation verified.')
