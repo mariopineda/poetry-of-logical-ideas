@@ -112,3 +112,5 @@ b. What is the y-coordinate?
 > - [[Math/Relations and Functions/Domain and Range - Reciprocal and Quadratic Functions|Domain and Range - Reciprocal and Quadratic Functions]]
 > - [[Math/Relations and Functions/Domain and Range - Sketching Relations 1|Domain and Range - Sketching Relations 1]]
 > - [[Math/Relations and Functions/Domain and Range - Sketching Relations 2|Domain and Range - Sketching Relations 2]]
+> - [[Math/Slope and Rate of Change/Slope - Reading Positive and Negative Graphs|Slope - Reading Positive and Negative Graphs]]
+> - [[Math/Slope and Rate of Change/Slope - Plotting Two Line Segments|Slope - Plotting Two Line Segments]]

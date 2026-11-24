@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" width="680" height="360">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="34" y="30" width="612" height="298" fill="white" stroke="#b8c8d2"/>
+<line x1="34.0" y1="30" x2="34.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="85.0" y1="30" x2="85.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="136.0" y1="30" x2="136.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="187.0" y1="30" x2="187.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="238.0" y1="30" x2="238.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="289.0" y1="30" x2="289.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="340.0" y1="30" x2="340.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="391.0" y1="30" x2="391.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="442.0" y1="30" x2="442.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="493.0" y1="30" x2="493.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="544.0" y1="30" x2="544.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="595.0" y1="30" x2="595.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="646.0" y1="30" x2="646.0" y2="328" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="328.0" x2="646" y2="328.0" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="290.8" x2="646" y2="290.8" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="253.5" x2="646" y2="253.5" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="216.2" x2="646" y2="216.2" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="179.0" x2="646" y2="179.0" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="141.8" x2="646" y2="141.8" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="104.5" x2="646" y2="104.5" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="67.2" x2="646" y2="67.2" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34" y1="30.0" x2="646" y2="30.0" stroke="#dce5eb" stroke-width="0.75"/>
+<line x1="34.0" y1="30" x2="34.0" y2="328" stroke="#203b55" stroke-width="2"/>
+<line x1="34" y1="328.0" x2="646" y2="328.0" stroke="#203b55" stroke-width="2"/>
+<text x="136.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">2</text>
+<text x="238.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">4</text>
+<text x="340.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">6</text>
+<text x="442.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">8</text>
+<text x="544.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">10</text>
+<text x="646.0" y="345.0" font-size="11" text-anchor="middle" fill="#516473">12</text>
+<text x="41.0" y="249.5" font-size="11" fill="#516473">2</text>
+<text x="41.0" y="175.0" font-size="11" fill="#516473">4</text>
+<text x="41.0" y="100.5" font-size="11" fill="#516473">6</text>
+<text x="41.0" y="26.0" font-size="11" fill="#516473">8</text>
+<polyline points="34.00,253.50 187.00,141.75 391.00,216.25 493.00,67.25 646.00,290.75" fill="none" stroke="#116b7a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="34.0" cy="253.5" r="5" fill="#1d3852"/>
+<text x="43.0" y="243.5" font-family="DejaVu Sans,Arial" font-size="14" font-weight="bold" fill="#1d3852">S</text>
+<circle cx="187.0" cy="141.8" r="5" fill="#1d3852"/>
+<text x="196.0" y="131.8" font-family="DejaVu Sans,Arial" font-size="14" font-weight="bold" fill="#1d3852">A</text>
+<circle cx="391.0" cy="216.2" r="5" fill="#1d3852"/>
+<text x="400.0" y="206.2" font-family="DejaVu Sans,Arial" font-size="14" font-weight="bold" fill="#1d3852">B</text>
+<circle cx="493.0" cy="67.2" r="5" fill="#1d3852"/>
+<text x="502.0" y="83.2" font-family="DejaVu Sans,Arial" font-size="14" font-weight="bold" fill="#1d3852">C</text>
+<circle cx="646.0" cy="290.8" r="5" fill="#1d3852"/>
+<text x="629.0" y="280.8" font-family="DejaVu Sans,Arial" font-size="14" font-weight="bold" fill="#1d3852">D</text>
+<text x="340.0" y="357" text-anchor="middle" font-size="13" font-family="Arial" fill="#1d3852">Horizontal distance (100 m)</text>
+<text transform="translate(13,180.0) rotate(-90)" text-anchor="middle" font-size="13" font-family="Arial" fill="#1d3852">Elevation (100 m)</text>
+</svg>

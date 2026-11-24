@@ -56,4 +56,4 @@ Determine the equation of the straight line that passes through the points $C(-6
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Slope and Rate of Change/Slope - Four Coordinate Pairs|Slope - Four Coordinate Pairs]]

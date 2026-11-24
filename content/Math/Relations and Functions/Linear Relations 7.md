@@ -160,4 +160,5 @@ The approximate temperature of the Earth's atmosphere at different altitudes up 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
-> _No linked questions yet._
+> - [[Math/Slope and Rate of Change/Slope - Trail Elevation Profile|Slope - Trail Elevation Profile]]
+> - [[Math/Slope and Rate of Change/Slope - Ski Trail and Downhill Path|Slope - Ski Trail and Downhill Path]]
