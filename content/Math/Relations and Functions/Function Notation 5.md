@@ -5,6 +5,32 @@ course:
   - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: true
+qod_id: "QOD-6BA67D23B6E56DC9F291A56C"
+title: "Function Notation 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the functions $f(x)=-2x-1$, $g(x)=x+2$ and $h(x)=\frac{1}{4}x-3$. Evaluate the following. Leave answers as fractions if necessary. Verify using your graphing calculator or [Desmos](https://www.desmos.com/calculator).

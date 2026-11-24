@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 70.9
+title: "Finding the first exponent-rule mistake"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A student solves $4^{n+1}=8^{n-2}$ as follows: **Step I** $ (2^2)^{n+1}=(2^3)^{n-2}$; **Step II** $2^{2n+1}=2^{3n-6}$; **Step III** $2n+1=3n-6$; **Step IV** $n=7$. Identify the *first incorrect step*, explain the error, and solve the original equation correctly.

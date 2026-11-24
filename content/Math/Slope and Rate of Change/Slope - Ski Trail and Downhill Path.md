@@ -20,6 +20,24 @@ prerequisites:
 - '[[Slope - Trail Elevation Profile]]'
 related:
 - '[[Slope - Roof Pitch and Comparing Hills]]'
+qod_id: "QOD-C9CADF7F645BD77749ED23E2"
+title: "Slope - Ski Trail and Downhill Path"
+aliases: []
+tags: []
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 # Slope - Ski Trail and Downhill Path

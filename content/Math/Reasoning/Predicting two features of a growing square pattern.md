@@ -21,6 +21,26 @@ certified_batch: 13
 diploma_original_topic: LR
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 86.0
+title: "Predicting two features of a growing square pattern"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 86
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A museum displays a four-panel number pattern. The four positions follow **independent rules** from one stage to the next, as shown in the diagram.

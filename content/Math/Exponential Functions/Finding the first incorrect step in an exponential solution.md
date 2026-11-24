@@ -21,6 +21,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 70.0
 diploma_original_topic: RF
 certified_batch: 10
+title: "Finding the first incorrect step in an exponential solution"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A learner tries to solve $3^{2x+1}=9^{4-x}$ and records:

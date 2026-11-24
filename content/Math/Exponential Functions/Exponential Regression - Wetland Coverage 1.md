@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-F04C95E95FA6FEC5A9125F92"
+title: "Exponential Regression - Wetland Coverage 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 During a summer field project, students monitor a small wetland pond where floating plants are spreading across the water surface. They estimate the percentage of the pond covered by plants at the same time each week. The table shows the number of weeks $t$ since the first observation and the percentage $C$ of the water surface covered. A model fitted to these early observations may be useful for short-term prediction, but coverage cannot exceed 100\%.

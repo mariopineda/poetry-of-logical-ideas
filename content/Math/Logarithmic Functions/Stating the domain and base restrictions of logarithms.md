@@ -22,6 +22,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 30.4
 diploma_original_topic: RF
 certified_batch: 9
+title: "Stating the domain and base restrictions of logarithms"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 30.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A logarithmic model is defined by $f(x)=\log_b(3x-12)$, where $b$ is an unknown constant.

@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Coordinates of a point on the unit circle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A rotating marker stops at a terminal-arm angle of $\theta=215^\circ$ in standard position. Determine the coordinates of the point where the terminal arm intersects the unit circle. Round each coordinate to the nearest hundredth and justify the signs.

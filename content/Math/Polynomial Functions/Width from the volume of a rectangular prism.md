@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 72.1
+title: "Width from the volume of a rectangular prism"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 72.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A storage box is a rectangular prism. Its width is $x$ cm, its length is twice its width, and its height is five times its width. Its volume is $1280\text{ cm}^3$. Determine $x$ to the nearest tenth of a centimetre.

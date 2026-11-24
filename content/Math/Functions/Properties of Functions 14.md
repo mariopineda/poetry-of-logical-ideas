@@ -11,6 +11,26 @@ source_question: 10
 curriculum_alignment: "Alberta Mathematics 20-2 Relations and Functions RF1: analyze characteristics of quadratic functions, including evaluating quadratic function values."
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-F48E1A782855BDAEDBA98CEE"
+title: "Properties of Functions 14"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Given $f(x)=3x^2-4$, evaluate the following. Show substitution.

@@ -22,6 +22,26 @@ diploma_original_percent_correct: 62.8
 diploma_original_item_format: numerical-response
 diploma_original_topic: RF
 certified_batch: 8
+title: "Predicting from a logarithmic regression table"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A greenhouse technician records the average height of seedlings over their first six weeks.

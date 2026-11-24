@@ -6,6 +6,32 @@ course:
   - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-18D806E8A12345659409E644"
+title: "Right Triangle Trigonometry 8"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two forest fires are spotted on opposite sides of an observation tower. From the top of the tower, the angle of depression to one fire is $3^\circ$. The angle of depression to the other fire is $7^\circ$.

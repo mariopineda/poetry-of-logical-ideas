@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Odds against an accurate forecast"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A weather station predicted rain correctly on 74 of 250 monitored days. Treat each day as equally likely. Determine the **odds against** randomly selecting a day when rain was correctly predicted. Express the answer in lowest terms and explain the ordering of the ratio.

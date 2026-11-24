@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Related Rates"
 show_solution: true
+qod_id: "QOD-E30BC4AFE7400CA56F9A5892"
+title: "Related Rates 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Water is being poured out of a funnel at a rate of 15 cm$^3$/min. The right circular cone has a radius of 24 cm and a height of 32 cm. At what rate is the height changing when the volume is $12 \pi$ cm$^3$?

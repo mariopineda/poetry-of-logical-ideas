@@ -16,6 +16,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-3657B82924157B526061C27D"
+title: "Combinations - Practice 17 - Community Garden Plantings"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A gardener can choose **five different plants** from 3 herbs, 4 flowering plants and 5 succulents, all distinct.

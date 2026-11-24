@@ -23,6 +23,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 67.4
+title: "Converting an exponential equation to logarithmic form"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 67.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Express $7=2^{3x-5}$ as an equivalent logarithmic equation. Then isolate $x$ exactly.

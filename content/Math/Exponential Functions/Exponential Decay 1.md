@@ -17,6 +17,23 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-45DC8EAE01A1F2CB1DFF6454"
+title: "Exponential Decay 1"
+aliases: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth after one year? If it loses another $20\%$ of its **new value** in the second year, what is it worth then?

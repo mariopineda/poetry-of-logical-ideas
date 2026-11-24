@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-0A0206A99F16B64B695E39D1"
+title: "Exponential Growth - Information Spread 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A local environmental club is promoting a community creek-cleanup event. Four club members are the first people to know about the event. During the first hour, each member tells three people who have not yet heard the news. During the next hour, each newly informed person tells three more people, with no overlap between groups. Suppose this idealized pattern continues for several hours, even though a real community has a limited population.

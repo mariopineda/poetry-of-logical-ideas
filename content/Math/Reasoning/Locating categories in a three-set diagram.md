@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Logical Reasoning
 diploma_original_percent_correct: 75.6
+title: "Locating categories in a three-set diagram"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Logical Reasoning"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 75.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A survey of visitors records interest in **wildlife**, **landscape**, and **portrait** photography. The eight mutually exclusive Venn regions are numbered in the accompanying diagram.

@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-3"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-1F1B879B2F4BF3B0EBB0623E"
+title: "Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The table shows Alberta's total annual greenhouse gas emissions for selected years. Let $x$ represent the number of years after 2015 and let $y$ represent total greenhouse gas emissions, in megatonnes of carbon dioxide equivalent (Mt CO$_2$e).

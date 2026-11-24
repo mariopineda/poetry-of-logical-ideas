@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 51.2
+title: "Comparing two serial-number systems"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An archive used to label objects with two letters followed by three digits. It now uses two letters followed by **five** digits. Letters are chosen from the 24-letter set excluding I and O; letters and digits may repeat. Determine how many **additional** labels the new format provides. Show both counts.

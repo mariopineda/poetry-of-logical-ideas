@@ -6,6 +6,32 @@ course:
   - "Mathematics 10C"
 topic: "Measurement"
 show_solution: true
+qod_id: "QOD-1D1C34CBC17F879F7B6B8948"
+title: "Unit Conversions 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Convert the following unit as indicated, rounded to the nearest hundredth when applicable. For metric units, provide answer in decimal and in scientific notation when above or below $\times 1000$ the base unit (i.e. if you answer has three or more leading or trailing zeros).

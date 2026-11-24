@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 53.2
+title: "Signs of cubic coefficients from a graph"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 53.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The supplied graph represents a cubic function of the form

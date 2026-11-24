@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 70.0
+title: "Nonrepeating workshop serial suffixes"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A maker-space identifies each tool with a permanent prefix followed by a five-digit suffix. The suffix may use any digits $0$ through $9$, but a digit may appear only once in the suffix. Leading zeros are permitted. Determine the number of possible suffixes. Express your answer using permutation notation and evaluate it.

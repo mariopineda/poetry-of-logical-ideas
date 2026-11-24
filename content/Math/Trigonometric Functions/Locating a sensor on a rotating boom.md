@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Locating a sensor on a rotating boom"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A rotating equipment boom is $80\text{ cm}$ long and sweeps through $120^\circ$. A sensor mounted partway along the boom traces an arc of length $100\text{ cm}$. Determine the distance from the sensor to the **tip** of the boom, to the nearest tenth of a centimetre. Use the accompanying diagram.

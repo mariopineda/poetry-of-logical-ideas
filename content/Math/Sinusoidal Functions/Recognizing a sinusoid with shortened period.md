@@ -22,6 +22,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "Recognizing a sinusoid with shortened period"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 71.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two signals are modelled by $f(x)=\sin(x-\pi/3)+1$ and $g(x)=\sin(3(x-\pi/3))+1$. Use the accompanying graph to identify which parameter changes from $f$ to $g$. Determine both periods and state which properties remain unchanged.

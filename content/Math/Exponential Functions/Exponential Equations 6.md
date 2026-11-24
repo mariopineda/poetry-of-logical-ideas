@@ -12,6 +12,26 @@ source_question: 17
 curriculum_alignment: 30-2 Relations and Functions SO5 exponential equations
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-55A97DB9F02F54EB02789397"
+title: "Exponential Equations 6"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Without using logarithms, solve each equation. Explain your strategy.

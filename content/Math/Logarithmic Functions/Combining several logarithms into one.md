@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 56.9
 certified_batch: 2
+title: "Combining several logarithms into one"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 56.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For $b>1$, $p>0$, and $q>0$, write $\log_b p+3\log_b(bq)-2$ as a single logarithm. Show the intermediate product and quotient steps.

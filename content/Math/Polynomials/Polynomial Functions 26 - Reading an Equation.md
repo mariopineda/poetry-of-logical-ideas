@@ -11,6 +11,31 @@ tags:
   - polynomials
   - characteristics
   - math/30-1
+qod_id: "QOD-24BC546A430F3E057D46197C"
+title: "Polynomial Functions 26 - Reading an Equation"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the polynomial function

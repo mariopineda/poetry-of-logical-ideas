@@ -17,6 +17,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-B630E8AFA63D9F4398F1CAA6"
+title: "Permutations with Restrictions - Practice 10 - Even Four-Digit Numbers"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Four digits are chosen in order from **0, 1, 2, 3, 4, 5, 6** to make a **four-digit even natural number**.

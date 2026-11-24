@@ -22,6 +22,23 @@ certified_batch: 16
 source_kind: supplementary-practice
 assessment_metadata_origin: author-estimated
 source_equivalence: not-applicable-supplementary
+title: "Designing a fair spinner game"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_question: null
+source_topic: null
+source_format: null
+source_percent_correct: null
+source_mean_score: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two independent fair spinners each have six equal-sized sectors. Spinner A is labelled $1,1,2,2,3,4$ and spinner B is labelled $1,2,2,3,3,4$.

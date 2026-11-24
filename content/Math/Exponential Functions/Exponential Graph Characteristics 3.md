@@ -13,6 +13,25 @@ domain: Exponential Functions
 curriculum_alignment: 30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics
 curriculum_review_required: false
 calculator: allowed
+qod_id: "QOD-676AEC5119D9D05D7AA6A839"
+title: "Exponential Graph Characteristics 3"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 **10-minute QOD** â€” Without graphing, use the equations to answer the questions.

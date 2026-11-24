@@ -21,6 +21,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 55.5
 diploma_original_item_format: multiple-choice
+title: "Finding frequency and midline in a circular-motion model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 55.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An inspection robot travels at constant speed around a circular track of radius $120$ m. The lowest point of the track is $15$ m above a **horizontal reference line**. A sensor records the robot's **perpendicular distance above that line**. The robot completes five laps in $30$ minutes.

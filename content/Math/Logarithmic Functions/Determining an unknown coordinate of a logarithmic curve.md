@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Determining an unknown coordinate of a logarithmic curve"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 Two points $Q(4,\frac23)$ and $P(k,\frac53)$ lie on the logarithmic curve $y=\log_b x$, where $b>1$. Determine the base $b$ and the coordinate $k$. Use the accompanying graph to verify that your answer is reasonable.

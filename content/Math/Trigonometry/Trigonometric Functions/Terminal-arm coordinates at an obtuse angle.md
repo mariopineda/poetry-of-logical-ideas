@@ -20,6 +20,26 @@ tags:
 diploma_historical_percent_correct: 78.4
 diploma_original_format: multiple-choice
 certified_batch: 4
+title: "Terminal-arm coordinates at an obtuse angle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 78.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Find the point where the terminal arm of $155^\circ$ meets the unit circle. Round both coordinates to two decimal places and justify the signs.

@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Minimum polynomial degree from root multiplicity"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A polynomial function has a zero at $x=3$ with multiplicity $3$, has a negative leading coefficient, and has an **absolute maximum** over all real values of $x$. Determine the smallest possible degree. Construct one example that has these properties and justify your conclusion.

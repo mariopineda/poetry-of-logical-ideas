@@ -16,6 +16,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-39B6A39569FEC43AC2ED217D"
+title: "Permutation Formula - Practice 1 - Eco Council Officers"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Five students—Aisha, Ben, Chloe, Diego and Eva—volunteer to serve as **chair** and **secretary** of an eco council. No student may hold both offices.

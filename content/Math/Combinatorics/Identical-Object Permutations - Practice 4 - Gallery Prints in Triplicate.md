@@ -10,6 +10,32 @@ prerequisites:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
 related:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
+qod_id: "QOD-64912E83EE82667619E88FFE"
+title: "Identical-Object Permutations - Practice 4 - Gallery Prints in Triplicate"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A photo gallery mounts **four identical prints of each of three different images** along one long wall. Prints of the same image look identical.

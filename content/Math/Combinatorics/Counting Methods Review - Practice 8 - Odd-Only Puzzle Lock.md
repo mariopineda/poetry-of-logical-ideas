@@ -10,6 +10,32 @@ prerequisites:
   - "Permutations with Restrictions - Practice 7 - Regional Observatory IDs"
 related:
   - "Permutations with Restrictions - Practice 7 - Regional Observatory IDs"
+qod_id: "QOD-07D39B38200CFC870F7126EE"
+title: "Counting Methods Review - Practice 8 - Odd-Only Puzzle Lock"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A puzzle lock has **four ordered dials**. Each dial shows an integer from **00 to 39 inclusive**, and dial values may repeat.

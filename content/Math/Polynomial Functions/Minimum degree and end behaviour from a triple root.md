@@ -19,6 +19,26 @@ tags:
   - diploma-preparation
   - written-response
 certified_batch: 1
+title: "Minimum degree and end behaviour from a triple root"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 68.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A polynomial $P$ has a zero at $x=-1$ of multiplicity $3$, satisfies $P(0)=-6$, and has an **absolute** minimum value of $-54$. Determine the least possible degree and the necessary sign of the leading coefficient at that least degree. Construct a polynomial verifying that your answer is possible.

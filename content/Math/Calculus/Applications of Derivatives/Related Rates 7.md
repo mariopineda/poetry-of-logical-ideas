@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Related Rates"
 show_solution: true
+qod_id: "QOD-2ED92E09B653FE1B3C6C1444"
+title: "Related Rates 7"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A circular disk is heated and then cooled. During the cooling process, the radius is found to be decreasing at the rate of 0.02 mm/s. At what rate is the area of the disk changing when the radius of the disk is 100 mm?

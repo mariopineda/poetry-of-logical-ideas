@@ -21,6 +21,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 62.7
 diploma_original_topic: RF
 certified_batch: 9
+title: "Finding the time when a falling object reaches the ground"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The height of a released weather balloon's sensor above the ground is approximated during its fall by

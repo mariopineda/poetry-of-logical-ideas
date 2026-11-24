@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Logical Reasoning
 diploma_original_percent_correct: 64.4
+title: "Testing relationships among number sets"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Logical Reasoning"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 64.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Let $A$ be the multiples of $4$ between $1$ and $50$, $B$ the even integers, and $C=\{8,20,32,44\}$. Determine whether $C\subseteq A$, $A\subseteq B$, and $B\subseteq A$. Give either a proof or a counterexample for each relationship.

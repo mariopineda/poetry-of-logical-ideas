@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: PR
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 65.9
+title: "Security code with a known first digit"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 65.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A five-digit access code uses digits $0$ through $9$ with no repetitions. The first digit is known to be $6$. If the remaining digits are guessed uniformly at random, determine the probability of entering the complete code correctly on one attempt.

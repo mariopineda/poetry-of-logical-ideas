@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-62B5F56998DDBC710BE4D3D3"
+title: "Compound Interest - Loan Table 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A small business borrows money to replace a delivery vehicle but makes no payments during the first five years. Interest is added to the outstanding balance at the end of each year. The lender provides the following table, where $x$ is the number of years since the loan began and $y$ is the amount owing, in dollars. Assume the interest rate remains unchanged.

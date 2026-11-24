@@ -10,6 +10,32 @@ prerequisites:
   - "Combinations - Practice 2 - Six Film Selections"
 related:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
+qod_id: "QOD-2EEEA6539AC90A68D8F0DFA8"
+title: "Combinations - Practice 3 - Field Study Volunteers"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Seventeen students volunteer for a coastal-cleanup study. The organizer needs to choose **eight students**, and all selected students will perform the same task.

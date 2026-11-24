@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Recognizing even odd and self-inverse relationships"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 67.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The four numbered graphs show different functions. Determine **all graph numbers** that have each of the following properties. A graph may satisfy more than one property.

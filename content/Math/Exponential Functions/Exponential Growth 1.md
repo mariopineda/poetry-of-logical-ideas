@@ -17,6 +17,23 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-DA7F55C881083CF01AE6E031"
+title: "Exponential Growth 1"
+aliases: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A community has 2,000 residents. Its population rises by $10\%$ in the first year. Calculate the population at the end of the first year and then at the end of the second year if it grows by another $10\%$. Explain why adding 200 residents each year would not represent the same process.

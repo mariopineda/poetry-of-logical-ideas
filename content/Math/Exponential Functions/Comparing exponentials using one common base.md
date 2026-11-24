@@ -21,6 +21,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 33.1
 diploma_original_item_format: multiple-choice
+title: "Comparing exponentials using one common base"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 33.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Use exponent laws to rewrite the equation with a single base, then determine the constant term $c$ when the result is placed in the form $3x^2+bx+c=0$.

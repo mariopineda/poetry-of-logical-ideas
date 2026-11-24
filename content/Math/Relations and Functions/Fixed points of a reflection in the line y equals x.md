@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Fixed points of a reflection in the line y equals x"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A drone's altitude profile is represented by $f(x)=(x-2)^2$. The graph is reflected in the line $y=x$. Determine every point that remains unchanged, and explain why those points are invariant.

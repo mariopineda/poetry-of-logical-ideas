@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 49.6
+title: "Interpreting a decreasing exponential model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 49.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A product's value after $t$ years is modelled by $V(t)=1250(0.84)^t$. Determine its initial value, whether the model is increasing or decreasing, and the annual percentage change. Explain what the base tells you.

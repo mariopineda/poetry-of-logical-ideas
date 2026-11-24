@@ -20,6 +20,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 48.4
 diploma_original_item_format: multiple-choice
+title: "Finding a specified binomial-expansion term"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 48.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Determine the fifth term in the expansion of $\left(x^3+\frac{2}{x^2}\right)^7$, written in descending powers of $x$. Show the general-term substitution.

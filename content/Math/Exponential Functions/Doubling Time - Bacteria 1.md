@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-853F48EA746E7846964271EF"
+title: "Doubling Time - Bacteria 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 In a school science lab, students place a bacterial culture in conditions under which its population is expected to double every $35$ minutes. The culture begins with 75,000 organisms. The model $N(t)=75000(2)^{t/35}$ estimates the number of organisms after $t$ minutes. Assuming the growth pattern continues, calculate how long it takes the population to reach 450,000, rounded to the nearest minute.

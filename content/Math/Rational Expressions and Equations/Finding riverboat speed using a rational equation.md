@@ -22,6 +22,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 51.4
 diploma_original_topic: RF
 certified_batch: 9
+title: "Finding riverboat speed using a rational equation"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A water-taxi travels $60$ km downstream and $60$ km upstream. Its speed in still water is $v$ km/h, and the river current flows at $4$ km/h. The total travel time is $5$ hours.

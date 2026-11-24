@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-081122B7A4DC3FF9D7256A46"
+title: "Exponential Regression - Culture Growth 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A technician at a biotechnology lab grows a microorganism culture in a nutrient-rich container. Once each hour, the technician estimates how many organisms are present. The table records the observation time $x$, in hours since monitoring began, and the measured population $y$, in organisms. The technician wants to model the original growth and then compare it with a hypothetical treatment that reduces the growth rate.

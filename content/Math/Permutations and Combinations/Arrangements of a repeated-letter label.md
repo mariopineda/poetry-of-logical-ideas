@@ -21,6 +21,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 71.4
 diploma_original_item_format: numerical-response
+title: "Arrangements of a repeated-letter label"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 71.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A gallery keeps its entrance panel permanently at the far left. To its right, it will display five prints: **two indistinguishable blue-sky prints** and **three different wildlife photographs**.

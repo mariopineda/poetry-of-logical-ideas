@@ -13,6 +13,25 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics"
 curriculum_review_required: false
 calculator: required
+qod_id: "QOD-4EE50D16C7262B747C06C0D2"
+title: "Matching Exponential Graphs 1"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Match each equation to one of the six graphs. Explain how the intercept and growth/decay rate guided each match.

@@ -21,6 +21,26 @@ certified_batch: 11
 diploma_original_topic: LR
 diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 80.8
+title: "Completing a constrained four-by-four symbol grid"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 80.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Complete the partially filled $4\times4$ logic grid. Use each of the digits $1,2,3,4$ **exactly once in every row, every column, and every four-cell region outlined with **thick borders****.

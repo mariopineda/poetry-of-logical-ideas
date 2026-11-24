@@ -6,6 +6,32 @@ course:
   - Mathematics 30-1
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-49B58EB313C10E98872FB273"
+title: "Sketching Polynomial Functions 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Sketch $y=f(x)$ where $f(0)=4$, $f(-5)=f(-1)=f(1)=f(5)=0$, $f'(0)=f'(\pm 3)=0$, $f'>0$ on $(-3,0) \cup (3, \infty)$ and $f'<0$ on $(-\infty, -3) \cup (0,3)$.

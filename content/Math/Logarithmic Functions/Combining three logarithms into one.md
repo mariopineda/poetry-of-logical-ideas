@@ -23,6 +23,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 53.5
+title: "Combining three logarithms into one"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 53.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For $b>1$, combine $\log_b48+\log_b27-\log_b12$ into a single logarithm $\log_b M$ and determine $M$.

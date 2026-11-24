@@ -9,6 +9,31 @@ topic: "Rational Expressions"
 
 learning_order: 160
 show_solution: true
+qod_id: "QOD-E6A89D707A02DBAAC5406E39"
+title: "Adding and Subtracting Rational Expressions 1"
+aliases: []
+domain: null
+tags: []
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Simplify. Express answers in lowest terms and indicate non-permissible values as restriction on the variable.

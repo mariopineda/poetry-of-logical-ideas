@@ -20,6 +20,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 77.6
 diploma_original_item_format: numerical-response
+title: "Solving a restricted cosine equation"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 77.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Solve $\cos(x-15^\circ)=\frac12$ for $0^\circ<x<90^\circ$. Give the answer to the nearest degree and justify the solution in the specified interval.

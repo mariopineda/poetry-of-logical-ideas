@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-0AB4C919506DD37240194D92"
+title: "Exponential Regression - Apartment Rent 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A tenant is reviewing how much it costs to rent an apartment as housing expenses rise. The tenant records the *total annual rent paid* in each of the first four years after moving in, with year $0$ representing the first year of the lease. In the table, $x$ is the number of years since the first lease year and $y$ is annual rent in dollars. Use the data to estimate the trend and forecast a future annual rent; assume no major change in the apartment or lease terms.

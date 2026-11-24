@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "Comparing vertical asymptotes of logarithmic curves"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 71.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the five functions below, all with base $4$. Determine which have the vertical asymptote $x=0$ and justify your classification by examining where each logarithm's argument approaches zero: $f_1(x)=\log_4 x$, $f_2(x)=3\log_4 x$, $f_3(x)=\log_4(5x)$, $f_4(x)=\log_4(x-2)$, and $f_5(x)=\log_4 x+6$.

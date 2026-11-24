@@ -10,6 +10,32 @@ prerequisites:
   - "Identical-Object Permutations - Practice 3 - Words and Repeated Letters"
 related:
   - "Identical-Object Permutations - Practice 11 - Why Duplicate Letters Matter"
+qod_id: "QOD-9EEBE539AD8DC149D9887119"
+title: "Identical-Object Permutations - Practice 10 - ASSESSMENT With Fixed Ends"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 How many distinguishable arrangements of all the letters in **ASSESSMENT** begin with **A** and end with **T**?

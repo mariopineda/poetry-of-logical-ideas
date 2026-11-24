@@ -10,6 +10,32 @@ prerequisites:
   - "Combinations - Practice 1 - Evaluate Combination Notation"
 related:
   - "Combinations - Practice 3 - Field Study Volunteers"
+qod_id: "QOD-3B6AA79B5CC02AF8D8744BCC"
+title: "Combinations - Practice 2 - Six Film Selections"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A public library lets each patron choose **six different short films** from a catalogue of **45** for a free weekend screening. The order in which films are chosen is irrelevant.

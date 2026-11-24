@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-89594A3859E59FC137A6E5B9"
+title: "Appreciation and Depreciation 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A financial adviser is preparing a display comparing how different assets change in value over time. Each formula models the estimated dollar value of one asset after $t$ years, with $t=0$ representing the date of purchase. Assume a constant percentage change each year. For each model, state the starting value, whether the asset appreciates or depreciates, and the yearly percentage change.

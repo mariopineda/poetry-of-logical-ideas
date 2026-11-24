@@ -5,6 +5,32 @@ course:
   - "Mathematics 10C"
 topic: "Angles and Geometry"
 show_solution: true
+qod_id: "QOD-602E035192E111E9F54E397E"
+title: "Coordinate Geometry 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Determine the shortest distance between $P(7,6)$ and the line $y=-2x+5$.

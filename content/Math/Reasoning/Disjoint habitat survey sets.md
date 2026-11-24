@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 76.1
 diploma_original_topic: LR
 certified_batch: 10
+title: "Disjoint habitat survey sets"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 76.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A nature reserve has the following sets of observations:

@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: PR
 diploma_original_percent_correct: 53.2
+title: "Counting alternative meal bundles"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 53.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A gallery café offers $5$ sandwich types and $3$ drinks. A regular combo contains a sandwich and drink. A deluxe combo includes one of $4$ desserts as well. If either type of combo may be ordered, how many distinct meal combos are possible? Justify why the cases are added.

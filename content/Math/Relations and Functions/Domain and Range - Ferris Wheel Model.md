@@ -14,6 +14,28 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-C39F5F1170D70060BF33ACAA"
+title: "Domain and Range - Ferris Wheel Model"
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A Ferris wheel takes $3$ minutes to complete one rotation. Riders board at the lowest point, $2$ m above the ground, and reach a maximum height of $64$ m.

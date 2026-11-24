@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Committees with at most one staff member"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 57.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A volunteer committee of four people will be selected from twelve students and five staff. How many different committees contain **at most one** staff member? Show the two cases separately.

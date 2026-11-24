@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: RF
 diploma_original_percent_correct: 70.0
+title: "Restrictions after cancelling a factor"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A student simplifies $\dfrac{x^2-16}{x-4}$ to $x+4$ and concludes that every real $x$ is allowed. Evaluate that claim. State the simplified expression and its complete domain, explaining when restrictions must be determined.

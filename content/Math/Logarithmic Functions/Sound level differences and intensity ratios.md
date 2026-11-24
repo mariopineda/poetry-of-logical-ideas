@@ -21,6 +21,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 32.8
 diploma_original_item_format: multiple-choice
+title: "Sound level differences and intensity ratios"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 32.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 At a concert, a sound source produces $112$ decibels (dB). Its intensity is $2500$ times the intensity of a second source. Sound level follows

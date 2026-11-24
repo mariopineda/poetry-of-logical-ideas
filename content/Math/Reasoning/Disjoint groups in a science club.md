@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Disjoint groups in a science club"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 Explain what it means for two nonempty sets $A$ and $B$ to be **disjoint**. Write a set equation describing their intersection. Then explain whether two nonempty disjoint sets can satisfy $A\subseteq B$.

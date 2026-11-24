@@ -6,6 +6,32 @@ course:
   - "Mathematics 31"
 topic: "Function Properties"
 show_solution: true
+qod_id: "QOD-CAB416A78742B2CA2A19624C"
+title: "Properties of Functions 6"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 If $f(x) = 2x+1$ and $g(x)=5x$, then determine $3f(x)-2g(x+1)$.

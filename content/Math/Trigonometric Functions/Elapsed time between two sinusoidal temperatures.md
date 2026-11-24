@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 61.9
 certified_batch: 2
+title: "Elapsed time between two sinusoidal temperatures"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 61.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 During the warming portion of a seasonal temperature cycle, a city's monthly average can be modelled by

@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-A651F0D25780B29B8AC1F8DC"
+title: "Exponential Regression - Plant Growth 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A greenhouse assistant is testing how quickly a climbing vine grows when kept under consistent light and watering conditions. The assistant measures the height of the same vine above the soil at regular intervals. The table gives the day $x$ since the start of the trial and the vine height $y$, in centimetres. Use the measurements to model its growth during this early stage, before the vine reaches the greenhouse support.

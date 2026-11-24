@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-1"
 topic: "Right Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-5DEE7CD59642AF39AD1137B1"
+title: "Right Triangle Trigonometry 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. Determine, to the nearest whole degree, the measure of $\angle C$ in $\triangle ABC$ where $c=4$ cm, $b=6$ cm and $\angle A = 90^\circ$.

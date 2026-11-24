@@ -7,6 +7,31 @@ course:
 topic: "Rational Expressions"
 learning_order: 100
 show_solution: true
+qod_id: "QOD-2EAFA5FDA9D26B7DD893B9FF"
+title: "Simplifying Rational Expressions 7"
+aliases: []
+domain: null
+tags: []
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Express each rational expression in simplest form. State all non-permissible values as restrictions on the variable.

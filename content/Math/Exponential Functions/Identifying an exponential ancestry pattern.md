@@ -22,6 +22,26 @@ diploma_original_percent_correct: 45.0
 diploma_original_item_format: multiple-choice
 diploma_original_topic: RF
 certified_batch: 8
+title: "Identifying an exponential ancestry pattern"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 45
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A computer simulation starts with **3 cells at stage 0**. At each new stage, every existing cell generates one new cell, so the number of cells doubles. The first counts are $3,6,12,24,\ldots$.

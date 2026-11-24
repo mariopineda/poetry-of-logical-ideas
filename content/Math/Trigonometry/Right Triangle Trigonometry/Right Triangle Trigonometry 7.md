@@ -6,6 +6,32 @@ course:
   - "Mathematics 10C"
 topic: "Right Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-B738B5A9FF66C8A3E97AFFC1"
+title: "Right Triangle Trigonometry 7"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A lighthouse lookout is 10 m tall. The lighthouse is situated on a cliff that is 51 m above sea level. The lighthouse is there to warn boats of the danger of shallow waters and the possibility of rocks close to the shore. The safe distance for boats from this cliff is 75 m. If the keeper is at the top of the lighthouse lookout and observes a boat at an angle of depression of $50^\circ$, is the boat a safe distance from the cliff? Justify your conclusion.

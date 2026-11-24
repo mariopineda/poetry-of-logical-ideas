@@ -19,6 +19,26 @@ tags:
   - diploma-preparation
   - written-response
 certified_batch: 1
+title: "Restrictions on a composite rational function"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 52.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Let $g(u)=\dfrac{-12}{u-5}+2$ and $f(x)=x^2-2x-3$. Determine all non-permissible input values for the composite function $(g\circ f)(x)$. Explain your reasoning.

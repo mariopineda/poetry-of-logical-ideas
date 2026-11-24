@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "A unit-circle angle from a logarithmic coordinate"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 56.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A point $P$ on the unit circle has $x$-coordinate $\log_b\sqrt b$, where $b>0$ and $b\ne1$, and has a **negative** $y$-coordinate. Determine the angle $\theta$ in $[0,2\pi)$ and one positive coterminal angle greater than $2\pi$.

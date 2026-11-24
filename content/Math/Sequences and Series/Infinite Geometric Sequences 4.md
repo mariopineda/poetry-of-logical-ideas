@@ -5,6 +5,32 @@ course:
   - "Mathematics 20-1"
 topic: "Sequences and Series"
 show_solution: true
+qod_id: "QOD-8BFC256485A728F009FFED05"
+title: "Infinite Geometric Sequences 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78% of its previous height. Determine the total distance the ball travels until it comes to rest.

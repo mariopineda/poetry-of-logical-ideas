@@ -13,6 +13,25 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics"
 curriculum_review_required: false
 calculator: allowed
+qod_id: "QOD-C9EC557855E056D6A84F0AEB"
+title: "Exponential Growth and Decay 1"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Find the $y$-intercept and state whether each function grows or decays.

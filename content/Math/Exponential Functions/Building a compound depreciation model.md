@@ -22,6 +22,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 62.9
 diploma_original_topic: RF
 certified_batch: 10
+title: "Building a compound depreciation model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 62.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A conservation survey recorded $8\,500$ nesting sites. Analysts expect the count to decline by $6\%$ each year. Write an exponential model for the predicted number of sites $N(t)$ after $t$ years, and estimate the number remaining after $5$ years.

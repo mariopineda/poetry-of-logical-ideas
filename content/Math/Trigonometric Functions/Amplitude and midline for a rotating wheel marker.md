@@ -21,6 +21,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 44.8
 diploma_original_item_format: multiple-choice
+title: "Amplitude and midline for a rotating wheel marker"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 44.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A rotating metal art disk is mounted vertically on a fixed stand, with its centre **25 cm above the floor**. A reflective dot is attached **7 cm inward from the outer rim** of the disk. The disk has radius **25 cm** and rotates at constant angular speed, so the dot's height above the floor varies sinusoidally.

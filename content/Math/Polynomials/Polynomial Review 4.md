@@ -6,6 +6,32 @@ course:
   - "Mathematics 10C"
 topic: "Polynomial Operations"
 show_solution: true
+qod_id: "QOD-CBA3207E24FCE158C26F3C2C"
+title: "Polynomial Review 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. A triangle has side lengths of $9a+4$, $2a+2$ and $a-4$.

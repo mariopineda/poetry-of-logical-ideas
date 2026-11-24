@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 56.2
 certified_batch: 2
+title: "Combining logarithms with cosecant in quadrant two"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 56.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A positive constant $k$ satisfies $\log_3 k=\tfrac12$. An angle $\theta$ is in quadrant II and satisfies $\csc\theta=k$. Determine $\theta$ in degrees, to the nearest degree, showing how each condition restricts the solution.

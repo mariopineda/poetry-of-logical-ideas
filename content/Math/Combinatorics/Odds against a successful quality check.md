@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Odds against a successful quality check"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 During a production audit, $82$ of $260$ components passed a particular quality check. Assuming the next component is representative of the sample, determine the **odds against** it passing the check, expressed as a ratio of whole numbers in simplest form. Explain the difference between odds against and probability of passing.

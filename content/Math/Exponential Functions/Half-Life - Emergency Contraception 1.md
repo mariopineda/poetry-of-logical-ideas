@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-F6F01D9C9155425512417FB2"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Emergency contraception can help prevent pregnancy after unprotected sex or contraceptive failure. One kind contains *levonorgestrel*, which primarily acts by delaying or preventing ovulation. Its effectiveness depends partly on timing relative to ovulation; simply measuring how much hormone remains does not show how long the pill is effective.

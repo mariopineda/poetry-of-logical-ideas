@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Related Rates"
 show_solution: true
+qod_id: "QOD-733F789C3307E6D31828915A"
+title: "Related Rates 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A baseball diamond is in the shape of a square 27.4 m on each side. Mary starts running home from 3rd base and a rate of 5.2 m/s. At the same time, Steve runs from home plate to 1st base at a rate of 4.2 m/s. How fast is the distance between them changing 3.0 sec after they leave? Answer to nearest hundredth.

@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 62.0
+title: "Condensing a logarithm sum"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 62
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Condense $\log_4(x+3)+\log_4(x-5)$ into a single logarithm. State the domain of the original expression explicitly.

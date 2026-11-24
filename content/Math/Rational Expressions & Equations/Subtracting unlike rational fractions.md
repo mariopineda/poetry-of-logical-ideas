@@ -22,6 +22,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 68.1
 diploma_original_topic: RF
 certified_batch: 10
+title: "Subtracting unlike rational fractions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 68.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Subtract the two rational expressions and write the answer as a single simplified fraction:

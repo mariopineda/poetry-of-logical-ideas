@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 53.5
 certified_batch: 2
+title: "Selecting a one-to-one branch of a parabola"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 53.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An arch profile is modeled by $f(x)=-3(x+4)^2+7$. Provide two different maximal domain restrictions that make its inverse a function. Justify using the shape of the parabola.

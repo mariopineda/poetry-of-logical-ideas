@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 67.2
 certified_batch: 2
+title: "Exact tangent of the sum of two terminal-arm angles"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 67.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A line from the origin through $(-3,-2)$ forms angle $\alpha$ in standard position. Another line through $(4,-1)$ forms angle $\beta$. Determine the exact value of $\tan(\alpha+\beta)$ and justify quadrant signs.

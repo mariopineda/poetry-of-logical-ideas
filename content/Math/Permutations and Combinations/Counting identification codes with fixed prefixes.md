@@ -21,6 +21,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 70.4
 diploma_original_item_format: multiple-choice
+title: "Counting identification codes with fixed prefixes"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A studio inventory label contains a **fixed two-digit production-year prefix**, one category digit chosen from three possible categories, and four additional digits selected from $0$ through $9$ **without repetition among those final four digits**. A final digit may be zero, including the first of the four.

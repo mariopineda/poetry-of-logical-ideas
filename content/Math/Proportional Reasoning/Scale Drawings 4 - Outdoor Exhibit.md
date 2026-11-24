@@ -6,6 +6,32 @@ course:
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
 show_solution: true
+qod_id: "QOD-92DC78B4E6F8C9EE470B9E86"
+title: "Scale Drawings 4 - Outdoor Exhibit"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 An outdoor exhibit measures **3.6 m by 2.4 m**. Sketch a scaled rectangle using **1 cm : 0.6 m**. Label the scaled lengths.
 

@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Subsets - Practice 5 - Known and Unknown Complements"
 related:
   - "Set Theory - Subsets - Practice 5 - Known and Unknown Complements"
+qod_id: "QOD-AED4F0643DF4446449318059"
+title: "Set Theory - Subsets - Practice 6 - Recovering the Universe Size"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 In a universal set $U$, a subset $T$ contains **46 elements**, while its complement $T'$ contains **39 elements**.

@@ -22,6 +22,26 @@ diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 43.6
 diploma_original_topic: RF
 certified_batch: 10
+title: "Amplitude and midline from maximum wheel height"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 43.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A rotating observation wheel has a diameter of $38$ m, and its highest seat reaches $44$ m above the ground. Determine the **amplitude**, the **minimum seat height**, and the **midline height** of a sinusoidal model for a seat. Explain each quantity in context.

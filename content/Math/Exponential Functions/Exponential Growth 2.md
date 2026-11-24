@@ -17,6 +17,23 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-B84B864F7F301F8B8A093E45"
+title: "Exponential Growth 2"
+aliases: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Two savings accounts each start with \$500. Account A adds \$50 every year. Account B increases by $10\%$ of its current balance every year. Complete the table for years $0$–$3$. Which account has more at the end of year $3$?

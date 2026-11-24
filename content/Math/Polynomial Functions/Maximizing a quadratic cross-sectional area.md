@@ -22,6 +22,26 @@ diploma_original_percent_correct: 35.4
 diploma_original_item_format: numerical-response
 diploma_original_topic: RF
 certified_batch: 8
+title: "Maximizing a quadratic cross-sectional area"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 35.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A metalworker folds up both long edges of a sheet of metal that is **36 cm wide** to make an open rectangular rain channel. Each upright side has height $x$ cm, leaving a horizontal bottom width of $36-2x$ cm.

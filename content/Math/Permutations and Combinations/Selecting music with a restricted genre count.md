@@ -22,6 +22,26 @@ diploma_original_percent_correct: 45.9
 diploma_original_item_format: multiple-choice
 diploma_original_topic: PR
 certified_batch: 8
+title: "Selecting music with a restricted genre count"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 45.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A concert organizer selects an **unordered set of eight distinct songs** from 9 folk songs and 15 other songs. The selection must contain **exactly two or exactly three folk songs**.

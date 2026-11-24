@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 86.3
 certified_batch: 2
+title: "Domain and range after stretching and reflecting"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 86.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The domain of $f$ is $[1,5]$ and its range is $[-3,7]$. Define $g(x)=-2f\left(\frac{x}{3}\right)$. Determine the domain and range of $g$, showing how each transformation acts.

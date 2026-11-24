@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 62.0
+title: "Finding the time from an exponential-decay model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The mass of a substance remaining after $t$ hours follows $M(t)=360(0.5)^{t/5}$ milligrams. Find the time when $45$ mg remains. Explain the meaning of the exponent.

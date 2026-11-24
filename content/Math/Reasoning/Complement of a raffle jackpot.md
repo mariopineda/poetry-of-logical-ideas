@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Logical Reasoning
 diploma_original_percent_correct: 77.2
+title: "Complement of a raffle jackpot"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Logical Reasoning"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 77.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A museum fundraiser sells sealed envelopes. A small number contain a grand-prize voucher, others contain a gift-card voucher, and some contain no prize. Let $G$ be the event that an envelope contains the grand-prize voucher. Describe $G^{\mathsf c}$ in everyday language, including all outcomes that belong to it.

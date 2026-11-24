@@ -21,6 +21,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 51.4
 diploma_original_item_format: multiple-choice
+title: "Selecting a team from two categories"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A school has seven mathematics teachers and eight student mentors. A planning team must contain three teachers and two mentors. How many distinct teams can be selected?

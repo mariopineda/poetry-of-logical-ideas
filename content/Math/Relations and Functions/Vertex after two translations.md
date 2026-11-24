@@ -22,6 +22,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 79.6
 diploma_original_item_format: multiple-choice
+title: "Vertex after two translations"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 79.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A suspension cable is modelled by $f(x)=(x+3)^2-2$. A redesigned cable follows $g(x)=f(x-5)+4$.

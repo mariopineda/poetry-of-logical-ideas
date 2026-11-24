@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 55.0
+title: "Three non-permissible inputs of a rational function"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 55
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Four different rational expressions are listed below. For **each** expression, identify all non-permissible values and explain how the denominator determines them. Which expression has **exactly three distinct** non-permissible values?

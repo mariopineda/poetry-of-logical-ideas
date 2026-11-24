@@ -6,6 +6,32 @@ course:
   - Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
+qod_id: "QOD-51EEE04DE4CB4B2D994B2542"
+title: "Fundamental Counting Principle - Sample Space 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A spinner has \(4\) equal sections labelled red, blue, green, and yellow. The spinner is spun once and a regular 6-sided die is rolled once.

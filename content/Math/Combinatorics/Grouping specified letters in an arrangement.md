@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Grouping specified letters in an arrangement"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 66.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 How many distinct arrangements of the six different letters in **GARDEN** have the letters G and D immediately adjacent, in either order? Explain your block method.

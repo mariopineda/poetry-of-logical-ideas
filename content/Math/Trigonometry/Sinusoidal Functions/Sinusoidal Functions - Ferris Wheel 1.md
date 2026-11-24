@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-2"
 topic: Sinusoidal Functions
 show_solution: true
+qod_id: "QOD-FBB8BD5254F0D99F5FA212F0"
+title: "Sinusoidal Functions - Ferris Wheel 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 ### London Eye - London, England

@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "The reflection of an outdoor ramp profile"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 66.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An outdoor installation is modelled by a function $f$ whose graph is shown. A digital display plots the transformed function $g(x)=-2f(x)+7$. Determine the **range** of $g$, using the smallest value of $f$ visible on the graph. Explain how the reflection and vertical scale factor affect the range.

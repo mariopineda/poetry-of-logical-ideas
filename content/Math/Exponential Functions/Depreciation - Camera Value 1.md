@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-A7E3576F8B4B07C41CAF3050"
+title: "Depreciation - Camera Value 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A freelance photographer purchased a professional camera body in January 2016 for \$3600. To plan when it might be worth replacing, the photographer uses the estimated resale-value model $V(t)=3600(0.88)^t$, where $t$ is the number of years since January 2016 and $V(t)$ is measured in dollars. Assume the same percentage depreciation each year.

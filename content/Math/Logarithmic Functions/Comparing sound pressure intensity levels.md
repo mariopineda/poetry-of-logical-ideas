@@ -21,6 +21,26 @@ tags:
 diploma_historical_percent_correct: 78.2
 diploma_original_format: multiple-choice
 certified_batch: 4
+title: "Comparing sound pressure intensity levels"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 78.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An industrial light sensor uses the base-10 scale

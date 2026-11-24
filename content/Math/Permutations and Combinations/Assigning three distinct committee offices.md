@@ -22,6 +22,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 52.5
 diploma_original_topic: PR
 certified_batch: 9
+title: "Assigning three distinct committee offices"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 52.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A neighbourhood science society has 14 members eligible for three different positions: chair, secretary and treasurer. No member may hold more than one position. How many assignments of these roles are possible? Show why combinations alone are inappropriate.

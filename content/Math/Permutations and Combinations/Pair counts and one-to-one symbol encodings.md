@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 1
+title: "Pair counts and one-to-one symbol encodings"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural","Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "3.1/5"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A science club can form exactly $231$ unordered pairs of members. Determine its membership algebraically. Then determine the number of ways to assign five distinct symbols from a library of nine symbols to five distinct letters.

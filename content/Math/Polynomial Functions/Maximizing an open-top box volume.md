@@ -22,6 +22,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 14.9
 diploma_original_topic: RF
 certified_batch: 9
+title: "Maximizing an open-top box volume"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 14.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An open-topped rectangular container is produced by cutting equal squares of side $x$ from the four corners of a square sheet measuring $30$ cm by $30$ cm, then folding up the sides. Its volume is

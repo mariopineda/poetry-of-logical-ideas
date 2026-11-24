@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Subsets - Practice 5 - Known and Unknown Complements"
 related:
   - "Set Theory - Subsets - Practice 7 - Icons with Straight and Curved Features"
+qod_id: "QOD-893AB857D30CF726701E05EE"
+title: "Set Theory - Subsets - Practice 9 - Three Two-Sided Symbols"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Three distinct two-sided tokens—**East**, **North**, **West**—are tossed. Each shows **sun (S)** or **moon (M)**. Record results in the fixed order (East, North, West).

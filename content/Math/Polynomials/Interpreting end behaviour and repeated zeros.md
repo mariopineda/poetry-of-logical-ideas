@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "Interpreting end behaviour and repeated zeros"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 64
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For $P(x)=-3(x-2)^2(x-5)^3$, identify its end behaviour, number of distinct $x$-intercepts, and sign of its $y$-intercept. State whether it can have an absolute maximum on $\mathbb R$, and justify using the degree and leading coefficient.

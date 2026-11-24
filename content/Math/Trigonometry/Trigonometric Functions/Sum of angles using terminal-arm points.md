@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Sum of angles using terminal-arm points"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 Angles $\alpha$ and $\beta$ are in standard position. The terminal arm of $\alpha$ contains $(-5,-2)$ and the terminal arm of $\beta$ contains $(3,-1)$. Determine the exact value of $\tan(\alpha+\beta)$, showing the angle-addition identity.

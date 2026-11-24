@@ -21,6 +21,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 27.3
 diploma_original_topic: PR
 certified_batch: 9
+title: "Probability of repeated success with replacement"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 27.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A box contains $5$ red beads, $4$ green beads and $3$ black beads. A bead is selected, returned to the box, and then a second bead is selected. Find the probability of selecting **two red beads**, to the nearest hundredth. Explain why multiplication is valid.

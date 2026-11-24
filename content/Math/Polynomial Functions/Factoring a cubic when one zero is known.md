@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 86.5
 certified_batch: 2
+title: "Factoring a cubic when one zero is known"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 86.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A cubic calibration model is $P(x)=2x^3-5x^2-17x+20$. A zero occurs at $x=4$. Write $P(x)$ as $(x+a)(2x^2+bx+c)$ and determine $a$, $b$, and $c$, showing polynomial division or coefficient comparison.

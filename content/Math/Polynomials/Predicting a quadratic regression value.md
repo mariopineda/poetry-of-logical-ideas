@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 67.2
+title: "Predicting a quadratic regression value"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 67.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 During a test run, a robotic arm's vertical position was recorded at six equally spaced times. Measurement error is present.

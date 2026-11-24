@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 64.0
+title: "Beginning a logarithmic solution"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 64
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Solve $5=4^{3x+1}$ for $x$. Show how taking a logarithm gives a linear equation in $x$ before obtaining a numerical approximation.

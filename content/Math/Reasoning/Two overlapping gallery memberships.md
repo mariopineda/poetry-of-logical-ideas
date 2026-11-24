@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Logical Reasoning
 diploma_original_percent_correct: 42.0
+title: "Two overlapping gallery memberships"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Logical Reasoning"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 42
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 At a community arts centre, $36$ visitors registered for a drawing or pottery workshop. Exactly $7$ attended both, and the number registered for pottery was $5$ greater than the number registered for drawing. Determine how many visitors attended **only pottery**. Show a set equation.

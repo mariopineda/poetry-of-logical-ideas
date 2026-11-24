@@ -23,6 +23,23 @@ certified_batch: 16
 source_kind: supplementary-practice
 assessment_metadata_origin: author-estimated
 source_equivalence: not-applicable-supplementary
+title: "Assigning lockers with two fixed ends"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_question: null
+source_topic: null
+source_format: null
+source_percent_correct: null
+source_mean_score: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Ten musicians must be assigned ten numbered storage cubbies in a row. Two designated section leaders must occupy the two **end cubbies**, one at each end. Every musician must receive exactly one cubby.

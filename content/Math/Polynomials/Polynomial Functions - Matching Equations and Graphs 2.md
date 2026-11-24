@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-9221CAD6A1DEBC2E364C9E6A"
+title: "Polynomial Functions - Matching Equations and Graphs 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Without using technology, match each polynomial function to **Graph A, B, C, D, E, or F**. Within each equation, the letters represent unspecified real coefficients; the same letter may have a different value in another equation. Therefore, a graphing calculator cannot produce a unique graph for any equation.

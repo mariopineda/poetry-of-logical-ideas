@@ -10,6 +10,32 @@ prerequisites:
   - "Combinations - Practice 4 - Intergrade Environment Committee"
 related:
   - "Combinations - Practice 14 - Art Society Committee Sizes"
+qod_id: "QOD-2BAC4DE119FA09B9308BA3D3"
+title: "Combinations - Practice 10 - Science Exhibition Judging Panel"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A science exhibition has **four teachers** and **seven parent volunteers**. A panel is a nonempty group unless a leadership role is specified. How many different panels are possible if:

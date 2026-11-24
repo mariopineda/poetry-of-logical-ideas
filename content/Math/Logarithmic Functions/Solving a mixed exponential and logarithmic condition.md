@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 75.8
 certified_batch: 2
+title: "Solving a mixed exponential and logarithmic condition"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 75.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For a base $a>1$, a quantity $y$ satisfies $y=\dfrac{a^x}{a^{3x-8}}$ and $\log_a y=x$. Determine the value of $x$ without assuming a particular base.

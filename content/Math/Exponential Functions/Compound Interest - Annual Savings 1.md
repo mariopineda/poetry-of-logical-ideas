@@ -20,6 +20,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-137C43B251319BD7B7BC7596"
+title: "Compound Interest - Annual Savings 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 To help pay for a professional certification course, a student deposits \$425 in a savings account. The account pays $4.8\%$ interest per year, compounded annually, and the student makes no additional deposits or withdrawals. Assume the annual rate stays constant.

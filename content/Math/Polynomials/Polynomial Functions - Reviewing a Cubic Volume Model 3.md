@@ -8,6 +8,32 @@ course:
   - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-32FF285C772371F1E265A268"
+title: "Polynomial Functions - Reviewing a Cubic Volume Model 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A company makes a rectangular container with interior dimensions $9$ cm by $7$ cm by $2$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le5$.

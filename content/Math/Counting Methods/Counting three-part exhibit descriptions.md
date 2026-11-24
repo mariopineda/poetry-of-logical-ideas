@@ -23,6 +23,26 @@ certified_batch: 13
 diploma_original_topic: PR
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 55.4
+title: "Counting three-part exhibit descriptions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 55.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A wildlife exhibition creates three-part display headings. The first word comes from a list of seven descriptive words, **three of which begin with R**. The second word comes from a list of four habitat words, and the final word comes from a list of six photographic techniques.

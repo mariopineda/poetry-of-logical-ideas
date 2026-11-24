@@ -21,6 +21,26 @@ diploma_original_percent_correct: 98.2
 diploma_original_item_format: multiple-choice
 diploma_original_topic: LR
 certified_batch: 8
+title: "Decoding overlapping geometric symbols"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 98.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An exhibition labels arrangements of shapes using three-letter codes. The five labelled examples are shown below.

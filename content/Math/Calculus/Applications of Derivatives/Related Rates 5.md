@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Related Rates"
 show_solution: true
+qod_id: "QOD-8685C4DA6C8DC7C1C575582A"
+title: "Related Rates 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Joe is driving east at 60 km/h, Dave is driving south at 70 km/h. Both cars are approaching the intersection of the two roads. At what rate is the distance betwen the cars decreasing when Joe's car is 0.4 km and Dave's car is 0.3 km from the intersection?

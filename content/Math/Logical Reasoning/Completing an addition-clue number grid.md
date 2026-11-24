@@ -21,6 +21,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 74.1
 diploma_original_topic: LR
 certified_batch: 9
+title: "Completing an addition-clue number grid"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 74.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Fill in the unknown digits in this addition-clue grid. Each row and column contains distinct digits from $1$ to $9$. The totals at the right and bottom are fixed. The diagonal from the upper-left to the lower-right also totals $16$.

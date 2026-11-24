@@ -6,6 +6,32 @@ course:
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
 show_solution: true
+qod_id: "QOD-13261D77716B3AAA02410A3D"
+title: "Scale Drawings 6 - Park Map Distance"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 A regional map uses **1 cm = 35 km**. Two provincial parks are **4.8 cm** apart on the map. Calculate the real straight-line distance between them.
 

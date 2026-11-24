@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 59.7
 diploma_original_topic: PR
 certified_batch: 10
+title: "Arranging postcards around a fixed centre"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 59.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A gallery has $10$ distinct postcards and space for exactly $6$ in one horizontal row. One particular postcard must occupy the **third position**. Determine the number of different displays and justify whether to use permutations or combinations.

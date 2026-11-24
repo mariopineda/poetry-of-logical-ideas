@@ -20,6 +20,26 @@ tags:
   - diploma-preparation
   - written-response
 certified_batch: 1
+title: "Counting polygon designs from seven anchor points"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 70.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A designer places seven distinct anchor points around the rim of a circular sign, as shown below.

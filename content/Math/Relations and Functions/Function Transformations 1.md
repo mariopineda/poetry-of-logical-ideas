@@ -7,6 +7,32 @@ course:
   - "Mathematics 30-1"
 topic: Function Transformations
 show_solution: true
+qod_id: "QOD-7E3BB6E5106F575784C4E86E"
+title: "Function Transformations 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Fully sketch $y=-2x^2+12x+32$. Include vertex and intercepts.

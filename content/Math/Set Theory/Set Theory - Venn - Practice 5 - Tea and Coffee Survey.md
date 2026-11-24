@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Venn - Practice 1 - Two Clubs at an Environmental School"
 related:
   - "Set Theory - Venn - Practice 7 - Workshop Preferences"
+qod_id: "QOD-CBB84CFFABB743FE2756D6C4"
+title: "Set Theory - Venn - Practice 5 - Tea and Coffee Survey"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A café asks **92 customers** whether they enjoy tea (T) or coffee (C).

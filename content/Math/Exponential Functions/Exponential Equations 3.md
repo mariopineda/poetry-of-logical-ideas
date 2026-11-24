@@ -12,6 +12,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-CC20D1CF5D6E45CEF09AB983"
+title: "Exponential Equations 3"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A country's population is increasing at an annual rate of 2.2%. The current population is approximatelly 14 million. The growth in population can be modelled by the exponential function $P=P_0(1.022)^t$, $t$ is the number of years since the population was $P_0$. Assuming the population growth continues at the same rate,

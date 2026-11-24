@@ -24,6 +24,23 @@ certified_batch: 16
 source_kind: supplementary-practice
 assessment_metadata_origin: author-estimated
 source_equivalence: not-applicable-supplementary
+title: "Time taken by a falling instrument"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_question: null
+source_topic: null
+source_format: null
+source_percent_correct: null
+source_mean_score: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A weather instrument is released **from rest** at a height of $78.4$ m. Ignoring air resistance, its height above the ground is modelled by

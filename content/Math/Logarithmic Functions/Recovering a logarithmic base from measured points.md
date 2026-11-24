@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 54.1
 certified_batch: 2
+title: "Recovering a logarithmic base from measured points"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 54.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A calibration curve has the form $y=\log_b(x+c)$, where $b>1$. It passes through $(0,0)$ and $(5,1.5)$, as shown in the accompanying graph. Determine $b$ to the nearest hundredth and $c$ exactly.

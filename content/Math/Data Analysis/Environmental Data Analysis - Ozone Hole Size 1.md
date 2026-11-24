@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-2"
 topic: "Data Analysis"
 show_solution: true
+qod_id: "QOD-741C085147FF037C98FEFE47"
+title: "Environmental Data Analysis - Ozone Hole Size 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The ozone layer is a region of Earth's atmosphere that absorbs most of the Sun's harmful ultraviolet radiation. Certain human-made chemicals like chlorofluorocarbons (CFC) used in refrigerants and spray cans create a hole in the ozone layer over Antarctica each spring. The size of the ozone hole between the years 1979 and 2018 can be modelled by the cubic function $s(t)=at^3+bt^2+ct+d$ where $t$ is the year since 1979, $s$ is the size of the ozone hole in millions of square kilometers and the parameters are $a=0.001787$, $b=-0.1324$, $c=3.1576$ and $d=0.1$

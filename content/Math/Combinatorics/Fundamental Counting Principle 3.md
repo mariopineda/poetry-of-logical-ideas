@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: true
+qod_id: "QOD-62AB452A99DC103366897278"
+title: "Fundamental Counting Principle 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A public health agency is coordinating the distribution of vaccines to remote clinics. They need to plan routes for delivery trucks. There are 4 main distribution hubs.

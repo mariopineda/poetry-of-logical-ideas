@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Logical Reasoning
 diploma_original_percent_correct: 85.2
+title: "Completing a translated magic square"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Logical Reasoning"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 85.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A $3\times3$ number puzzle contains every integer from $2$ through $10$ exactly once. Every row, column and diagonal has the same sum. Complete this partially filled puzzle and justify the four unknown entries.

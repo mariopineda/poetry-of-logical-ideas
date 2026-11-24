@@ -20,6 +20,26 @@ tags:
   - diploma-preparation
   - written-response
 certified_batch: 1
+title: "Arrangements with opposite end and centre constraints"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 68.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For a concert poster, 11 soloists stand in a single row. The shortest soloist must stand at one of the ends, and the tallest must occupy the exact middle position. How many arrangements are possible? Explain the counting principle.

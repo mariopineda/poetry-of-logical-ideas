@@ -21,6 +21,26 @@ diploma_original_percent_correct: 65.0
 diploma_original_item_format: numerical-response
 diploma_original_topic: RF
 certified_batch: 8
+title: "Comparing earthquake intensities logarithmically"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 65
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two seismic stations report magnitude measurements of $8.1$ and $6.7$ for different earthquakes. For this model, the ratio of shaking intensities is $10^{M_1-M_2}$, where $M_1$ is the larger magnitude.

@@ -11,6 +11,26 @@ source_question: 1
 curriculum_alignment: "10C Algebra and Number SO3 (integral exponents); Grade 9 whole-number powers"
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-567ADB7DE949CE203BA13C3A"
+title: "Exponent Laws 5"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Evaluate.

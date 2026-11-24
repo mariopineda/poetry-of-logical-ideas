@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: PR
 diploma_original_percent_correct: 45.7
+title: "Selecting a camera equipment bundle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 45.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An equipment library has $8$ distinct tripods and $5$ distinct camera bags. A photographer borrows $3$ different tripods and $2$ different bags. If selection order does not matter, determine the number of distinct equipment bundles. Show your use of combinations.

@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-8F3326592DCCEB33C17D18B6"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Melatonin is a hormone involved in the body's sleep–wake cycle. Some young adults use melatonin supplements when their sleep schedule is irregular. A peer-reviewed study of healthy adult volunteers found an average elimination half-life of approximately **54 minutes** after oral administration. The amount in the bloodstream alone does not tell us how sleepy someone feels, and different supplement formulations can behave differently.

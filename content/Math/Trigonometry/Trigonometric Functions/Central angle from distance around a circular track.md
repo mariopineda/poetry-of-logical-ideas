@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 81.8
 certified_batch: 2
+title: "Central angle from distance around a circular track"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 81.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A small maintenance vehicle travels along the circular edge of a landscaped plaza of radius $18\,\mathrm{m}$. It travels $14\,\mathrm{m}$ along the arc, as shown in the schematic.

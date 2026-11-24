@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-2"
 topic: "Data Analysis"
 show_solution: true
+qod_id: "QOD-AFD6B32E2AFEBB27F2853FC5"
+title: "Environmental Data Analysis - Seasonal Sea Ice Extent 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The amount of sea ice in the arctic varies seasonally and for the year 2018 it can be modelled by the cubic function $A(m) = 0.069x^3 - 1.3x^2 + 6.04x + 6.73$ where $m$ represents the month (January is month 1 and December is month 12) and $A$ represents the area of the sea ice in millions of square kilometers.

@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 82.4
+title: "Odds for a draw from remaining cards"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 82.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Eight numbered cards, labelled $1$ through $8$, are shuffled. Cards $1$, $4$, and $7$ have already been removed. A fourth card is drawn at random. Determine the odds **in favour** of drawing an even number, writing your answer as favourable : unfavourable.

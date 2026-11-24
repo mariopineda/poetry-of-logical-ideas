@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-C89E35339457BDED2D91DEA1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Energy drinks are popular among young adults, especially during long study sessions or late shifts. Caffeine can improve alertness temporarily, but a peer-reviewed sleep study found that a large caffeine dose taken six hours before bedtime could still disrupt sleep. Other research reports that caffeine has an approximate elimination half-life of **5 hours** in healthy adults. A *half-life* is the time required for the amount of a substance to fall to half its previous value.

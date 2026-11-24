@@ -7,6 +7,32 @@ course:
   - "Mathematics 30-1"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-7AFA122CD497C5C04D33C717"
+title: "Polynomial Functions - Analyzing a Polynomial Equation 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the function

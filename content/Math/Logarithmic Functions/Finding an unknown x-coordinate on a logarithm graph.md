@@ -20,6 +20,26 @@ tags:
 diploma_historical_percent_correct: 59.2
 diploma_original_format: multiple-choice
 certified_batch: 4
+title: "Finding an unknown x-coordinate on a logarithm graph"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 59.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The increasing logarithmic curve $y=\log_b x$ contains the plotted points $Q\left(2,\frac{1}{2}\right)$ and $P\left(k,\frac{3}{2}\right)$.

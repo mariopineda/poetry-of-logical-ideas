@@ -21,6 +21,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 74.8
 diploma_original_item_format: numerical-response
+title: "Combining reciprocal logarithms with different bases"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 74.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Suppose $\log_a 27=3$ and $\log_9 b=\frac32$. Determine $\log_a b+\log_b a$ as an exact value. Show how the values of $a$ and $b$ are found.

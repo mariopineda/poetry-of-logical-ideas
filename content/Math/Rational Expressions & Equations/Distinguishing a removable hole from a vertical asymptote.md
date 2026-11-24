@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 81.5
 certified_batch: 2
+title: "Distinguishing a removable hole from a vertical asymptote"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 81.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A signal model is $R(x)=\dfrac{(x-5)(x+2)}{(x-5)(2x+3)}$. Find the vertical asymptote and the removable discontinuity. State the original domain restrictions, and explain why the two discontinuities differ.

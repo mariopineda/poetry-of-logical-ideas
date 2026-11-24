@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Invariant characteristics under a vertical scale change"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 50.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A function $f(x)=2^{x-1}-5$ is changed to $g(x)=4f(x)$. Identify **two** of the following features that remain unchanged: domain, range, $x$-intercept, $y$-intercept, and horizontal asymptote. Explain why each selected feature stays the same.

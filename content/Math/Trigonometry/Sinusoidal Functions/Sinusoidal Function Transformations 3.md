@@ -7,6 +7,32 @@ course:
   - Mathematics 31
 topic: "Sinusoidal Functions"
 show_solution: true
+qod_id: "QOD-D86DF3ADA3991DBF49A9B55D"
+title: "Sinusoidal Function Transformations 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The London Eye has a diameter of $135\text{ m}$. Passengers board at the lowest point, $2\text{ m}$ above ground level, so the centre is $69.5\text{ m}$ above the ground. One revolution takes $30$ minutes.

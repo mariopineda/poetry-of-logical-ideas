@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Probability of a delayed train"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A transit operator categorizes each trip as **early**, **on time**, or **late**. The probabilities of an early arrival and an on-time arrival are $0.18$ and $0.57$, respectively. Assuming those categories are mutually exclusive and exhaustive, determine the probability of a late arrival. Record your answer to the nearest hundredth.

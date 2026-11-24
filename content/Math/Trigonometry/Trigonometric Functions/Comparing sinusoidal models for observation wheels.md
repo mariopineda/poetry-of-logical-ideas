@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 77.0
 certified_batch: 2
+title: "Comparing sinusoidal models for observation wheels"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 77
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two observation wheels begin with their passenger pods at the lowest point, $2\,\mathrm{m}$ above the ground. The wheels have diameters $16\,\mathrm{m}$ and $30\,\mathrm{m}$ and each takes $50$ seconds to complete one revolution.

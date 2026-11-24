@@ -22,6 +22,26 @@ certified_batch: 12
 diploma_original_topic: PR
 diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 80.2
+title: "Odds against a successful delivery"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 80.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A courier completed 67 of 200 attempted deliveries on the first visit. Based on these data, express the odds **against** a first-visit delivery as a ratio in simplest form.

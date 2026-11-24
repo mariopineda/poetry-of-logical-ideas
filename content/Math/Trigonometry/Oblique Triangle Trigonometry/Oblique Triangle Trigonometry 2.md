@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Oblique Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-0D3D3E5248F11FC27FA53EBC"
+title: "Oblique Triangle Trigonometry 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD = 55^{\circ}$, $\angle DCA=35^{\circ}$ and $c=12.5$ cm. Round angles to the nearest degree and sides to nearest tenth.

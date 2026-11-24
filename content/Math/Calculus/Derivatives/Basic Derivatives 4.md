@@ -6,6 +6,32 @@ course:
   - "Mathematics 31"
 topic: "Basic Derivatives"
 show_solution: true
+qod_id: "QOD-6066A2989DA59A4791FA5223"
+title: "Basic Derivatives 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Determine the equation, in general form, of the tangent line to $y=\sqrt[3]{x^2}-\frac{1}{\sqrt[3]{x}}$ at $x=-1$.

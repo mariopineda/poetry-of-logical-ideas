@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 50.8
+title: "Independent spinner outcomes without a picture"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 50.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two spinners are divided into **equal-sized sectors** and are spun independently once each. The sectors are shown below.

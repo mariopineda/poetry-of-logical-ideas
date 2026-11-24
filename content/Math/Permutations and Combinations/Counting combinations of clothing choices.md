@@ -22,6 +22,26 @@ diploma_original_percent_correct: 57.0
 diploma_original_item_format: numerical-response
 diploma_original_topic: PR
 certified_batch: 8
+title: "Counting combinations of clothing choices"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 57
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A fashion photographer can assemble 30 visually different outfits by choosing **one top**, **one scarf**, and **one pair of shoes**. There are 3 scarf choices and 2 shoe styles. Every combination is allowed.

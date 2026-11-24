@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 70.4
+title: "Forming a mixed volunteer committee"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 70.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An environmental society has $5$ coordinators and $8$ volunteers. A four-person outreach committee must have exactly $2$ coordinators and $2$ volunteers. Determine the number of distinct committees and explain the counting principle used.

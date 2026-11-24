@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-2"
 topic: "Fundamental Counting Principle"
 show_solution: true
+qod_id: "QOD-B69FB38FEFECCE86D304DBF1"
+title: "Fundamental Counting Principle 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Harry Potter is a series of seven fantasy novels published between 1997-2007 by British author J.K. Rowling. The books follow the adventures of young wizard Harry Potter and his best friends Ron Weasley and Hermione Granger. Each book corresponds to one year the trio attends Hogwarts School of Witchcraft and Wizardry.

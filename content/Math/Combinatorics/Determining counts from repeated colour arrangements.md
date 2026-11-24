@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 44.5
 diploma_original_topic: PR
 certified_batch: 10
+title: "Determining counts from repeated colour arrangements"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 44.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Eight tokens, each either copper-coloured or silver-coloured, are arranged in a row. Tokens of the same colour are indistinguishable. There are exactly $56$ distinguishable arrangements.

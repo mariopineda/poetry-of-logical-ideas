@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Subsets - Practice 9 - Three Two-Sided Symbols"
 related:
   - "Set Theory - Venn - Practice 6 - Multiples of Four and Six"
+qod_id: "QOD-876BBD000278018916076DC3"
+title: "Set Theory - Subsets - Practice 11 - Perfect Cubes in a Number Universe"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The universal set is $U=\{1,2,\ldots,150\}$. A number is a **perfect cube** if it equals $k^3$ for some positive integer $k$.

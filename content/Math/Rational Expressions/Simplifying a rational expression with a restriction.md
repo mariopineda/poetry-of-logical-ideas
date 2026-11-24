@@ -24,6 +24,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 61.6
+title: "Simplifying a rational expression with a restriction"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 61.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Simplify $\dfrac{12x^2+8x}{4x}$, and state the non-permissible value of the original expression.

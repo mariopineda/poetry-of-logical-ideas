@@ -25,6 +25,23 @@ certified_batch: 16
 source_kind: supplementary-practice
 assessment_metadata_origin: author-estimated
 source_equivalence: not-applicable-supplementary
+title: "Simplifying a rational expression"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_question: null
+source_topic: null
+source_format: null
+source_percent_correct: null
+source_mean_score: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Simplify the rational expression and state the non-permissible value of the **original** expression:

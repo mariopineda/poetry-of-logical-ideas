@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: RF
 diploma_original_average_raw_score: 2.15/7
+title: "Rational restrictions and travel comparison"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["P+C+PS"]
+performance_standard: ["Acceptable","Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "written-response"
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "2.15/7"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A wildlife-research team is preparing for a regional training meeting.

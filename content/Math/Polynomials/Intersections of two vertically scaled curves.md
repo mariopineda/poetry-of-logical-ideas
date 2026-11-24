@@ -20,6 +20,26 @@ tags:
 diploma_historical_percent_correct: 76.9
 diploma_original_format: multiple-choice
 certified_batch: 4
+title: "Intersections of two vertically scaled curves"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 76.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The graph below shows a polynomial function $y=f(x)$. A second function is defined by $g(x)=4f(x)$.

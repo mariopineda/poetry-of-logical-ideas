@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 53.1
+title: "Time for a falling object to reach ground level"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 53.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A small object is released from a height of 70 m. Its height after $t$ seconds is modelled by $h(t)=70-4.9t^2$. Find the time it reaches ground level to the nearest hundredth of a second.

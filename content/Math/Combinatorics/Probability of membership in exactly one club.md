@@ -21,6 +21,26 @@ tags:
 certified_batch: 11
 diploma_original_topic: Probability
 diploma_original_percent_correct: 68.4
+title: "Probability of membership in exactly one club"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "Probability"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 68.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A college survey reports that $74$ students joined the photography club, $58$ joined the hiking club, and $22$ joined both. Everyone surveyed joined at least one of the two clubs. If a student is selected at random, determine the probability that the student joined hiking **but not** photography. Round to the nearest hundredth.

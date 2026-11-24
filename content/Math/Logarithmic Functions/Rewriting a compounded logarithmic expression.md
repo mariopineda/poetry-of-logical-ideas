@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 75.0
 certified_batch: 2
+title: "Rewriting a compounded logarithmic expression"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 75
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Suppose $\log_5 2=u$, $\log_5 7=v$, and $\log_5(m^2)=4$, where $m>0$. Express $\log_5(28m^6)$ in terms of $u$ and $v$. Justify each logarithm law.

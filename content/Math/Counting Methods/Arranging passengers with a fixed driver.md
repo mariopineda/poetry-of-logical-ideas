@@ -23,6 +23,26 @@ certified_batch: 13
 diploma_original_topic: PR
 diploma_original_item_format: multiple-choice
 diploma_historical_percent_correct: 50.4
+title: "Arranging passengers with a fixed driver"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 50.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A vehicle has six distinct seats, including the driver's seat. Four adults will travel, and one particular adult must drive. In how many ways can they be seated if some seats may remain vacant?

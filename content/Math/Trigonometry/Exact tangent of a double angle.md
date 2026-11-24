@@ -20,6 +20,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 28.3
 diploma_original_item_format: multiple-choice
+title: "Exact tangent of a double angle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 28.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An angle $\theta$ lies in Quadrant II and satisfies $\tan\theta=-3$. Determine the **exact** value of $\tan(2\theta)$ and show the relevant trigonometric identity.

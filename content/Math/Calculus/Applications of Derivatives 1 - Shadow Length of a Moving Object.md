@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Related Rates"
 show_solution: true
+qod_id: "QOD-C26A6F35E7473DD0C7E29386"
+title: "Applications of Derivatives 1 - Shadow Length of a Moving Object"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is walking away from the pole at a constant speed of 1.5 meters per second. The person's distance from the pole at time $t$ seconds is $x(t)$. Determine the rate at which the length of the person's shadow is changing at 5 seconds.

@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "Finding the horizontal parameter from a mapped point"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 48.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A sensor-response curve $y=f(x)$ is transformed to $g(x)=3f(b(x+2))$, where $b>0$. The point $(6,-2)$ on $f$ corresponds to $(-1,-6)$ on $g$. Determine $b$ and explain why the $y$-coordinate is consistent with the transformation.

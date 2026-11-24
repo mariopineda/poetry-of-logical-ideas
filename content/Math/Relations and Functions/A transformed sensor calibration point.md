@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 84.9
 certified_batch: 2
+title: "A transformed sensor calibration point"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 84.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A sensor's calibration curve is represented by $y=f(x)$ and contains the point $(-2,5)$. A second calibration curve is defined by $g(x)=3f(2x-4)+1$. Determine the corresponding point on the graph of $g$, and explain each coordinate change.

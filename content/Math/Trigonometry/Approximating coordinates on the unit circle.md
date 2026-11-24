@@ -20,6 +20,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 47.5
 diploma_original_item_format: numerical-response
+title: "Approximating coordinates on the unit circle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 47.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The terminal arm of an angle of $35^\circ$ intersects the unit circle at $P(x,y)$. Determine the coordinates to the nearest hundredth, showing the sine and cosine relationship.

@@ -7,6 +7,32 @@ course:
   - "Mathematics 30-3"
 topic: "Oblique Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-34E49BA5B2E603AAB992FECD"
+title: "Oblique Triangle Trigonometry 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Using only the Cosine Law, solve $\triangle ABC$ where $\angle BAC = 25^{\circ}$, $\angle ABC = \angle ACB$, $c=10$ cm and where $\triangle ABC$ is an isosceles triangle. Round angles to the nearest degree and sides to nearest tenth.

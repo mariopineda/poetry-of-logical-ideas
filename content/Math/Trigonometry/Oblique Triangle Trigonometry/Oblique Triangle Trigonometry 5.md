@@ -7,6 +7,32 @@ course:
   - "Mathematics 30-3"
 topic: "Oblique Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-2C93EDE94E8B280C31F529BE"
+title: "Oblique Triangle Trigonometry 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The triangles $\triangle PQS$ and $\triangle SQR$ share the side $SQ$ where $PQ=7.3$ cm, $SR=4.8$ cm, $QR=5.2$ cm, $\angle PSQ=71^{\circ}$ and $\angle PQS=50^{\circ}$. Solve both triangles. Round side lengths to the nearest tenth and angles to the nearest degree.

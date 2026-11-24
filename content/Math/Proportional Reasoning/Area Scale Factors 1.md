@@ -6,6 +6,32 @@ course:
   - "Mathematics 20-3"
 topic: "Scale Factors"
 show_solution: true
+qod_id: "QOD-1A25D307533E9731E301B76B"
+title: "Area Scale Factors 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Complete the table for the following rectangles.

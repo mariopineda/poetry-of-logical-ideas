@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-1"
 topic: "Sinusoidal Functions"
 show_solution: true
+qod_id: "QOD-DA160F9B0D20E66F0C53CD84"
+title: "Graphing Sinusoidal Functions 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Complete a table of values for $y=\cos{x}$ for the domain $0^{\circ} \leq x \leq 360^{\circ}$. Give your answers to two decimal places when necessary. Plot the points. Graph $y=\cos{x}$ on your graphing calculator using the following window settings: $X:[-360,540,30]$ and $Y:[-1.2,1.2,0.2]$ and complete the graph by joining the points.

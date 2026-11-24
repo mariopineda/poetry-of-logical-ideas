@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-FA35418907BF89DB2CBDE1FD"
+title: "Exponential Regression - Production Decline 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A small workshop operates a machine that produces a specialized component. As the machine ages without maintenance, its weekly output has been falling. The supervisor estimates that production decreases by roughly $12\%$ each operating week and records the number of usable components made over six weeks. Here $t$ is the number of weeks since the initial measurement and $Q$ is the weekly output, measured in components. A long-term prediction may not remain realistic if repairs or a shutdown occur.

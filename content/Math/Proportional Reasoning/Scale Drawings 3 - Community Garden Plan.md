@@ -6,6 +6,32 @@ course:
   - Mathematics 20-3
 topic: "Scale Drawings and Models"
 show_solution: true
+qod_id: "QOD-98C6E5946D838C1687B7E82A"
+title: "Scale Drawings 3 - Community Garden Plan"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 A community garden is rectangular, measuring **240 m by 90 m**. Draw a scale plan using **1 cm : 40 m**. State the dimensions your drawing must have.
 

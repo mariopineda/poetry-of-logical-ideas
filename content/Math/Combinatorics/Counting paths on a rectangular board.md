@@ -22,6 +22,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: PR
 diploma_original_percent_correct: 40.0
+title: "Counting paths on a rectangular board"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 40
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 On a rectangular board with **four columns and three rows**, a robot begins at the top-left corner and must reach the bottom-right corner. It may move only right or down, one grid edge at a time. Determine the number of possible routes and show the combinatorial method.

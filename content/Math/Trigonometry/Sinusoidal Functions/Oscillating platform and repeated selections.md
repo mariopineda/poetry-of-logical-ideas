@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_average_raw_score: 3.37/7
+title: "Oscillating platform and repeated selections"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["P+C+PS"]
+performance_standard: ["Acceptable","Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "written-response"
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "3.37/7"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A laboratory platform moves up and down periodically. Its marker begins at its lowest height, **54 cm**, reaches a maximum of **82 cm** after 2 seconds, and returns to the minimum after 4 seconds. The pattern repeats. The platform is observed for 8 seconds.

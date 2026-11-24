@@ -16,6 +16,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-8C46AB894E4C4A3C19C0B936"
+title: "Permutation Formula - Practice 4 - Four Distinct Prize Draws"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An animal-rescue fundraiser sells **1,200 distinct tickets**. Four prizes (a bicycle, camping set, telescope and gift card) are awarded in that order. A winning ticket is **not returned** before the next draw.

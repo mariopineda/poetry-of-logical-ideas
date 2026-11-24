@@ -23,6 +23,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Transforming a Point on an Exponential Graph"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A point $Q(2,25)$ lies on the exponential function $y=c^x$, where $c>1$. First determine $c$. Then find the coordinates of the corresponding point after the graph is transformed to

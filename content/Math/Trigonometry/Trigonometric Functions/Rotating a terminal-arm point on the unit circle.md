@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 71.4
 certified_batch: 2
+title: "Rotating a terminal-arm point on the unit circle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 71.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A terminal arm in standard position intersects the unit circle at $T=\left(\frac35,\frac45\right)$. The angle changes by $-\frac{3\pi}{2}$ radians, as indicated in the schematic.

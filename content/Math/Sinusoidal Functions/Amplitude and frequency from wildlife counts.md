@@ -22,6 +22,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 3
+title: "Amplitude and frequency from wildlife counts"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 45.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A seasonal wildlife survey is modelled by $N(t)=a\cos[b(t-c)]+d$. A maximum of $175$ animals occurs in month $3$, and the next minimum of $95$ occurs in month $12$. Assuming $a>0$ and $b>0$, determine the amplitude $a$, period, and angular frequency $b$.

@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Counting restricted access codes"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 35.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A facility uses four-digit access codes; a leading zero is not permitted. The **first and last digits must be distinct nonzero even digits**. The **second digit must not be $7$**, and no digit may repeat anywhere in the code. A zero is allowed in the third position.

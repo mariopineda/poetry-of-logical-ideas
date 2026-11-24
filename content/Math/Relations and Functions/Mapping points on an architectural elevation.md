@@ -21,6 +21,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Mapping points on an architectural elevation"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 42.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A scale drawing undergoes a horizontal compression by a factor of $\frac15$ about the $y$-axis, a vertical compression by a factor of $\frac23$ about the $x$-axis, and a translation $6$ units upward. Write a single mapping rule $(x,y)\mapsto(x',y')$, and determine the image of $(-10,9)$.

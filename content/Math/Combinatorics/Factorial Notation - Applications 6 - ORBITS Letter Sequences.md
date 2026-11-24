@@ -12,6 +12,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-2DEFBD5F0CD047D09851FCE6"
+title: "Factorial Notation - Applications 6 - ORBITS Letter Sequences"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A puzzle designer cuts out the **six individual letters** in the word **ORBITS** and arranges them in a row to create a puzzle sequence. The result does **not** need to be an English word.

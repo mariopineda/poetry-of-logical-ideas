@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 1
+title: "Solving a secant quadratic and general angle solutions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural","Conceptual"]
+performance_standard: ["Excellence","Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "2.6/5"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 **(a)** Solve the trigonometric equation

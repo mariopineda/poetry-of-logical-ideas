@@ -22,6 +22,26 @@ certified_batch: 12
 diploma_original_topic: PR
 diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 69.4
+title: "Fair outcomes with differently labelled dice"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 69.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two fair six-sided dice have nonstandard labels. Die A has faces $1,1,2,2,3,4$ and Die B has faces $1,2,2,3,4,5$. The dice are rolled independently. The sum of their face values is used to determine the winner.

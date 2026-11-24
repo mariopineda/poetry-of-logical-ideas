@@ -14,6 +14,28 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-90F29CB1EC4AE22140D5BD43"
+title: "Domain and Range - Free-Fall Speed Model"
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An object is dropped from a platform $100$ m above the ground. The speed, $v$, in metres per second, of the object after it has fallen $h$ metres from its point of release is modelled by

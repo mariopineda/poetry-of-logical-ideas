@@ -21,6 +21,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 69.0
 diploma_original_topic: LR
 certified_batch: 9
+title: "Interpreting three Venn shading instructions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 69
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The three diagrams below use overlapping sets $H$ and $J$ within a universal set $U$. **Grey regions are shaded.**

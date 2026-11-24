@@ -24,6 +24,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 43.4
 diploma_original_item_format: numerical-response
+title: "Domain and range after horizontal stretching"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 43.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The original functions $f$ and $g$ are shown below, with rules

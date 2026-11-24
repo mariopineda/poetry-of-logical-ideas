@@ -22,6 +22,26 @@ diploma_original_percent_correct: 66.5
 diploma_original_item_format: numerical-response
 diploma_original_topic: PR
 certified_batch: 8
+title: "Comparing codes with and without repetition"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 66.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A research lab considers five-digit access codes made from the digits $0,1,2,3,4,5,6,7$. **Codes may begin with 0.** Compare these policies:

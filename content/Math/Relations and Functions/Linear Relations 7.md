@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: true
+qod_id: "QOD-E2954C3A2E66A59D0E3B0C97"
+title: "Linear Relations 7"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The approximate temperature of the Earth's atmosphere at different altitudes up to 10 km is given in the table.

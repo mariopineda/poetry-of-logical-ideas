@@ -8,6 +8,31 @@ topic: "Domain and Range"
 show_solution: true
 aliases:
   - "Domain & Range 1"
+qod_id: "QOD-E22906F6D8D8CF4E320DBAA5"
+title: "Domain and Range - Reading Graphs 1"
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Determine the **domain and range** of each relation in both **set-builder notation** and **interval notation**.

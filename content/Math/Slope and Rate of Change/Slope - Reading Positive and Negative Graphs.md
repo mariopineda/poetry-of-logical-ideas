@@ -21,6 +21,24 @@ prerequisites:
 related:
 - '[[Slope - Plotting Two Line Segments]]'
 - '[[Slope - Four Coordinate Pairs]]'
+qod_id: "QOD-24EF3344A38EB90C3A99A138"
+title: "Slope - Reading Positive and Negative Graphs"
+aliases: []
+tags: []
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 # Slope - Reading Positive and Negative Graphs

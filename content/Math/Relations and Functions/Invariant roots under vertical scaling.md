@@ -22,6 +22,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 84.0
 diploma_original_item_format: multiple-choice
+title: "Invariant roots under vertical scaling"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 84
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The graph of $y=f(x)$ crosses the $x$-axis at the three labelled points $A$, $B$, and $C$.

@@ -5,6 +5,32 @@ course:
   - "Mathematics 10C"
 topic: "Angles and Geometry"
 show_solution: true
+qod_id: "QOD-2183CCCECDD9A49AF5764043"
+title: "Perpendicular Lines 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. Given a line segment with slope $2$ and points $E(-4,9)$ and $F(x,-5)$, determine the value of missing coordinate to the nearest tenth.

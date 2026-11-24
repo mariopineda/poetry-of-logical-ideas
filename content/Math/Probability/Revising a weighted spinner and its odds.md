@@ -21,6 +21,26 @@ diploma_original_percent_correct: 53.7
 diploma_original_item_format: multiple-choice
 diploma_original_topic: PR
 certified_batch: 8
+title: "Revising a weighted spinner and its odds"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 53.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The **original** game spinner has six equal-area sectors, shown below: one gold, one black, and four white.

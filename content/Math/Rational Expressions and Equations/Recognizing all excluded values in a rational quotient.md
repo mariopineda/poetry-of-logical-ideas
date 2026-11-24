@@ -21,6 +21,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 60.3
 diploma_original_item_format: multiple-choice
+title: "Recognizing all excluded values in a rational quotient"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 60.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Determine every non-permissible value of $x$ in $$\frac{x-4}{x(x+5)}\div\frac{x-4}{x-2}.$$ Explain why the divisor creates an additional restriction.

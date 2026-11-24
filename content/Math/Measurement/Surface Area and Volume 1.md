@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: true
+qod_id: "QOD-722ECCAC770E335830E79BB3"
+title: "Surface Area and Volume 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sherwood Park and Edmonton. Twenty feeder pipelines from throughout Alberta arrive at the terminal carrying both crude and processed oil. Oil is temporarily stored at the Edmonton Terminal before it is sent to other destinations, e.g. to the United States or to shipping terminals in BC.

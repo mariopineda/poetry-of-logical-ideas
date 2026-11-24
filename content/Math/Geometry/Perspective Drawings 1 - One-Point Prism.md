@@ -5,6 +5,32 @@ course:
   - Mathematics 20-3
 topic: "Three-Dimensional Representations"
 show_solution: true
+qod_id: "QOD-988733B0BC5B53E0D0F7AD6B"
+title: "Perspective Drawings 1 - One-Point Prism"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 Complete a **one-point perspective** drawing of the rectangular prism shown. Use the marked vanishing point **V**, keep the rear face parallel to the front face, and indicate which construction lines could be erased.
 

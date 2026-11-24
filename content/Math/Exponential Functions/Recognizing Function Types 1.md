@@ -13,6 +13,25 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics"
 curriculum_review_required: false
 calculator: required
+qod_id: "QOD-5700846B8525F2B2E8B1B5D8"
+title: "Recognizing Function Types 1"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 The six graphs in the figure represent linear, quadratic, cubic, or exponential functions. Identify the function family of each graph and explain which features distinguish exponential functions from polynomial functions.

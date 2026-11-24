@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 51.9
 diploma_original_topic: PR
 certified_batch: 10
+title: "Two photographic prints drawn in sequence"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A portfolio binder holds $12$ landscape photographs, $9$ wildlife photographs, and $7$ abstract photographs. Two prints are selected **without replacement**, one after another. Determine the probability that the first print is a landscape and the second is an abstract photograph. Round to the nearest thousandth.

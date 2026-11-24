@@ -13,6 +13,25 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.1–6.3, graph/equation characteristics"
 curriculum_review_required: false
 calculator: required
+qod_id: "QOD-10422A8BC736F268E8B17F2B"
+title: "Exponential Graph Characteristics 2"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 For each plotted exponential function, record the number of $x$-intercepts, $y$-intercept, end behaviour, domain and range.

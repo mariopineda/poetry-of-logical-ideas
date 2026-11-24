@@ -23,6 +23,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 14
 review_date: '2026-11-22'
+title: "Comparing two rotating observation wheels"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 Two observation wheels begin at their lowest points, $2$ m above the ground, and each completes one revolution in $36$ s. The first wheel has radius $9$ m and the second has radius $15$ m. For each wheel, write a cosine model for a passenger's height $h(t)$, with $t=0$ at the lowest point. Identify **which parameters are the same** and **which differ**, and explain why.

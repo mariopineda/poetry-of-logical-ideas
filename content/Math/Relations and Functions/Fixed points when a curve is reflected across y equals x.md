@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 66.0
 certified_batch: 2
+title: "Fixed points when a curve is reflected across y equals x"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 66
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The original graph of $y=f(x)$ is shown below. It will be reflected across the line $y=x$.

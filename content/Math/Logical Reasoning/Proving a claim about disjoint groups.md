@@ -22,6 +22,26 @@ certified_batch: 12
 diploma_original_topic: LR
 diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 62.0
+title: "Proving a claim about disjoint groups"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 62
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two nonempty sets $S$ and $T$ represent students registered for different workshops. Suppose $S$ and $T$ are disjoint. State the value of $S\cap T$ and justify why neither $S\subseteq T$ nor $T\subseteq S$ is possible.

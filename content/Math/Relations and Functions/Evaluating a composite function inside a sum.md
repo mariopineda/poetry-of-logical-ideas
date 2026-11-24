@@ -23,6 +23,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 53.8
 diploma_original_item_format: numerical-response
+title: "Evaluating a composite function inside a sum"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 53.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Let $f(x)=x^2-3x$ and $g(x)=\dfrac{2}{x+1}$. Define $h(x)=g(x)+(f\circ g)(x)$. Calculate $h(3)$ exactly and as a decimal, showing the order of operations.

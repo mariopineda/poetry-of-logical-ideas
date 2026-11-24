@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: PR
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 62.0
+title: "Probability of the third exclusive result"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A soccer match must end in exactly one of three outcomes: win, draw, or loss. A team has a $0.27$ probability of winning and a $0.19$ probability of drawing. Determine the probability of losing, showing your calculation.

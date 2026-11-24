@@ -22,6 +22,23 @@ certified_batch: 16
 source_kind: supplementary-practice
 assessment_metadata_origin: author-estimated
 source_equivalence: not-applicable-supplementary
+title: "Either a triangle or a blue token"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_question: null
+source_topic: null
+source_format: null
+source_percent_correct: null
+source_mean_score: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A bag contains $18$ equally likely tokens. Each token has exactly one of three shapes (triangle, hexagon, or star) and one of six colours. Every shape–colour combination is represented **exactly once**. Blue is one of the six colours.

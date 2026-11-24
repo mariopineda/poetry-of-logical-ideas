@@ -21,6 +21,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 62.9
 diploma_original_item_format: numerical-response
+title: "Applying logarithm power laws to roots"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 62.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 If $\log_a b=1.47$, with $a>0$, $a\ne1$, and $b>0$, determine $\log_a(\sqrt[3]{b})$ to the nearest hundredth. Explain.

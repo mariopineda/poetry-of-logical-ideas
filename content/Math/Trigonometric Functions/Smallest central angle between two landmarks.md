@@ -20,6 +20,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 4
+title: "Smallest central angle between two landmarks"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 57.7
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two directions are represented by points $A=(\sqrt2/2,\sqrt2/2)$ and $B=(-\sqrt3/2,1/2)$ on the unit circle. Determine the **smaller central angle** $\angle AOB$, in degrees, where $O=(0,0)$.

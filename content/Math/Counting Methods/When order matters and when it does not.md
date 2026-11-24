@@ -23,6 +23,26 @@ certified_batch: 13
 diploma_original_topic: PR
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 54.3
+title: "When order matters and when it does not"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 54.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Classify each of these situations as a permutation or a combination, and justify your classifications: (a) selecting 3 distinct hiking trails from 9 for a guidebook; (b) assigning first, second and third prizes to 9 photographers; (c) selecting 4 people from 14 for a cleanup crew; (d) arranging 6 speakers into a presentation schedule; (e) choosing 2 different paint colours from 8 to purchase.

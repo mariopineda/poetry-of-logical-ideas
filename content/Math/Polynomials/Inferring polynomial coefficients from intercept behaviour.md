@@ -20,6 +20,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 55.8
 diploma_original_item_format: numerical-response
+title: "Inferring polynomial coefficients from intercept behaviour"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 55.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A polynomial function has the graph shown below. The left branch rises and the right branch falls.

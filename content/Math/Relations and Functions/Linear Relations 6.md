@@ -6,6 +6,32 @@ course:
   - "Mathematics 30-3"
 topic: "Linear Relations"
 show_solution: true
+qod_id: "QOD-4AEDE685D1C7AAE052931E40"
+title: "Linear Relations 6"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth $d$ kilometers below the surface, where $T=\frac{23}{2}d+20$.

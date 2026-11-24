@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 39.9
 certified_batch: 2
+title: "Coordinate scale factor for a unit-circle point"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 39.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A terminal arm intersects the unit circle in quadrant IV at $(2a,-a)$ where $a>0$. Express $a$ as an exact radical and verify the coordinate pair lies on the unit circle.

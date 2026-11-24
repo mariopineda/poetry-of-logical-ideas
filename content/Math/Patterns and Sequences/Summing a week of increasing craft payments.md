@@ -22,6 +22,26 @@ diploma_original_percent_correct: 82.3
 diploma_original_item_format: multiple-choice
 diploma_original_topic: LR
 certified_batch: 8
+title: "Summing a week of increasing craft payments"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 82.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An artisan cooperative pays a helper **3 dollars** on the first of seven consecutive workdays. Each day after the first, the helper is paid **twice** the previous day's amount.

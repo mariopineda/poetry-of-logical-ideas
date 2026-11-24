@@ -6,6 +6,32 @@ course:
   - Mathematics 30-1
 topic: Fundamental Counting Principle
 show_solution: true
+qod_id: "QOD-02427769FD0E4D550F4CC9F3"
+title: "Fundamental Counting Principle 15 - Digital Quilt Designs"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A digital quilt is assembled from square panels. Each panel can show exactly one of the available fabric-inspired patterns, and patterns **may repeat**.

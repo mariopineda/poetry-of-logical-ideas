@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Differential Equations"
 show_solution: true
+qod_id: "QOD-F8C824A66476740F3CDE5F9D"
+title: "Differential Equations with Initial Conditions 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A stone is tossed upward at $8\text{ m/s}$ from the edge of a cliff $63$ m high. How long will it take the stone to hit the ground at the foot of the cliff?

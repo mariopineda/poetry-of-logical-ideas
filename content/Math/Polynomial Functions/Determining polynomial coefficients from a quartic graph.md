@@ -19,6 +19,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 1
+title: "Determining polynomial coefficients from a quartic graph"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 56.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A quartic polynomial $P(x)=ax^4+bx^3+cx^2+dx+e$ has **integer coefficients**. The graph shows its integer $x$-intercepts, the point at which it touches rather than crosses the $x$-axis, and its $y$-intercept.

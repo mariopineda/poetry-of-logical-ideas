@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 51.0
 diploma_original_topic: PR
 certified_batch: 10
+title: "Forming a field survey leadership team"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A field survey employs six trained leaders and seven assistants. A five-person field team must include **at least four leaders**. Calculate the number of distinct teams and explain why the cases are mutually exclusive.

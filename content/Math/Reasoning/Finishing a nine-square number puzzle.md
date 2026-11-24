@@ -21,6 +21,26 @@ diploma_original_item_format: numerical-response
 diploma_original_percent_correct: 83.5
 diploma_original_topic: LR
 certified_batch: 10
+title: "Finishing a nine-square number puzzle"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 83.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The nine circles in the triangular number puzzle contain the digits $1$ through $9$, each **exactly once**. The four numbers on each side add to $21$. Complete the missing entries $A$, $B$, $C$ and $D$ and explain how the side sums and unused digits determine them.

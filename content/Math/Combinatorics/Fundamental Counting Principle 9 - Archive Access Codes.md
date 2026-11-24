@@ -12,6 +12,29 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-7EAF0B3524721C3333093A92"
+title: "Fundamental Counting Principle 9 - Archive Access Codes"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A museum uses a **four-letter access code** for its digital archive. Each position may contain any of the eight letters $A,B,C,D,E,F,G,H$. The order of the letters matters.

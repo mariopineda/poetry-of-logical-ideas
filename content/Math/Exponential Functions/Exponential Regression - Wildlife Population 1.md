@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-19A6DBA05603D20234E27C44"
+title: "Exponential Regression - Wildlife Population 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Wildlife managers monitoring an isolated island have counted a declining population of small mammals over six annual surveys. The survey method is kept consistent so the counts can be compared from year to year. The table shows the number of years $x$ after the first survey and the estimated number of animals $y$ on the island. The managers want to describe the rate of decline and estimate how quickly the population might halve if the trend continues.

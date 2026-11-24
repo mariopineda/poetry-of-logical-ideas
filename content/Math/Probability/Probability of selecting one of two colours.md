@@ -21,6 +21,26 @@ diploma_original_percent_correct: 59.0
 diploma_original_item_format: numerical-response
 diploma_original_topic: PR
 certified_batch: 8
+title: "Probability of selecting one of two colours"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 59
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 An art room has a container holding 8 red tokens, 5 black tokens, and 10 yellow tokens. One token is selected at random, with each token equally likely.

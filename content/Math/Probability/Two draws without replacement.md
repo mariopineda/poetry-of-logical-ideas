@@ -20,6 +20,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 89.0
 diploma_original_item_format: multiple-choice
+title: "Two draws without replacement"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 89
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A case contains 9 identical-size camera batteries and 5 chargers. Two items are chosen at random without replacement. Determine the probability that both are batteries and show the multiplication of conditional probabilities.

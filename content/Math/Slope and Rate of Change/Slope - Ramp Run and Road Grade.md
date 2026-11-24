@@ -18,6 +18,24 @@ prerequisites:
 - '[[Slope - Roof Pitch and Comparing Hills]]'
 related:
 - '[[Slope - Ski Trail and Downhill Path]]'
+qod_id: "QOD-DC8A77BCA693CE7449EAE654"
+title: "Slope - Ramp Run and Road Grade"
+aliases: []
+tags: []
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 # Slope - Ramp Run and Road Grade

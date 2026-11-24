@@ -21,6 +21,26 @@ diploma_original_percent_correct: 81.6
 diploma_original_item_format: multiple-choice
 diploma_original_topic: LR
 certified_batch: 8
+title: "Counting members in two electives but not a third"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 81.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A school records participation in pottery ($P$), dance ($D$), and robotics ($R$). The diagram shows the number of students in each **disjoint** region.

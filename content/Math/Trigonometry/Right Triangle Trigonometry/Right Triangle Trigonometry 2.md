@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-1"
 topic: "Right Triangle Trigonometry"
 show_solution: true
+qod_id: "QOD-0F997D254F6DEBF8A600FE97"
+title: "Right Triangle Trigonometry 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Draw and label the unit circle. Each quadrant should include the standard exact angles based on $\frac{\pi}{6}$, $\frac{\pi}{4}$, and $\frac{\pi}{3}$, together with their exact coordinates.

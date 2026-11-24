@@ -20,6 +20,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-3AB5492781B5AC2A870C522F"
+title: "Compound Interest - Comparing Frequencies 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A student receives a \$1600 achievement award and plans to leave it untouched for two years. Two savings products are available: Plan A offers $6.5\%$ annual interest compounded once per year, while Plan B offers $6.2\%$ annual interest compounded monthly. The student wants to compare the actual balances at the end of two years, not just the advertised rates. Which option produces more money, and by how much?

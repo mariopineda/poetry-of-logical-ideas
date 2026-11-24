@@ -6,6 +6,32 @@ course:
   - "Mathematics 20-2"
 topic: Function Transformations
 show_solution: true
+qod_id: "QOD-15A82584E0AC5E2D7E165C3D"
+title: "Function Transformations 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Find the vertex, axis of symmetry, max/min value and intercepts for:

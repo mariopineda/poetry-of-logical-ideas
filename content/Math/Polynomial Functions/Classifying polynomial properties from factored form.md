@@ -20,6 +20,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 39.6
 diploma_original_item_format: multiple-choice
+title: "Classifying polynomial properties from factored form"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 39.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 For $y=(x-2)^2(x+4)$, state the degree, real $x$-intercepts, domain, and range. Explain how multiplicities influence the intercepts.

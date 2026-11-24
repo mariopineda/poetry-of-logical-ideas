@@ -11,6 +11,26 @@ source_question: 12
 curriculum_alignment: "10C Relations and Functions SO5 contextual restrictions"
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-F4717A8466758B430FA5F2A0"
+title: "Domain and Range 1"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A graph represents a quantity that starts at $50$ and decreases continuously to $20$ over six hours. State a reasonable contextual domain and range.

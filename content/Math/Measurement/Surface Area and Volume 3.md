@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: true
+qod_id: "QOD-15579ACC9D937040B9C47AC7"
+title: "Surface Area and Volume 3"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 You have accepted a summer job painting your classroom. Before you can start painting, you need to determine the amount of paint required and the cost. Each can holds $3.79$ L of paint and covers $37\text{ m}^2$. The classroom needs two coats of paint.

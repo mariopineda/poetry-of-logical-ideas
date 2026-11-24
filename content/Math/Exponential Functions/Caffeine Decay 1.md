@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-C5EF9A077942E9C3371B47C4"
+title: "Caffeine Decay 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Two volunteers take part in a supervised classroom study of how caffeine levels decline over time. The volunteers begin with different amounts of caffeine in their systems, and the graphs show the estimated amount remaining, in milligrams, during the eight hours after the initial measurement. Use the graphs to compare both the starting quantities and how rapidly they decrease.

@@ -21,6 +21,26 @@ tags:
 certified_batch: 6
 diploma_original_percent_correct: 51.0
 diploma_original_item_format: multiple-choice
+title: "Selecting a committee with a minimum-category quota"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 51
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A science fair has six student researchers and five student artists. A four-person committee is to contain at least three researchers. How many distinct committees are possible? Explain each case.

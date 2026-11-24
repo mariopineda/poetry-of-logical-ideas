@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Product and Quotient Rules"
 show_solution: true
+qod_id: "QOD-517394B10E1F544957234BFF"
+title: "Product and Quotient Rules 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Differentiate $y = \frac{3x-5}{1-2x}$. Then, determine the tangent slope at $x=6$.

@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 45.4
 certified_batch: 2
+title: "Inferring a compound growth rate from doubling time"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 45.4
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A community fund grows from $\$7\,200$ to $\$14\,400$ over 9 years with a constant annual rate compounded once per year. Find the annual percentage rate to the nearest hundredth of a percent.

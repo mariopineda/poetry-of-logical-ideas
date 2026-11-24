@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-614AD62B804C5F2935E8AD59"
+title: "Exponential Regression - Used Camera Prices 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 A photography student is researching the resale market before buying a used camera body. The student gathers asking prices for similar models in comparable condition, grouping them by age. In the table, $x$ is the age of the camera in years and $y$ is its typical listed price, in Canadian dollars. The goal is to model the overall depreciation trend, not to predict the exact price of an individual camera.

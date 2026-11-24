@@ -22,6 +22,26 @@ certified_batch: 12
 diploma_original_topic: LR
 diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 73.6
+title: "Completing a four-by-four logic grid"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 73.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The diagram is a $4\times4$ logic grid. Each row and column must contain the digits $1,2,3,4$ exactly once. Each **irregular four-cell region** enclosed by thick borders must also contain those digits exactly once.

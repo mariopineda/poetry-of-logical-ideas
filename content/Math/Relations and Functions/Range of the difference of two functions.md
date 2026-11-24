@@ -22,6 +22,26 @@ tags:
 certified_batch: 5
 diploma_original_percent_correct: 61.2
 diploma_original_item_format: multiple-choice
+title: "Range of the difference of two functions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 61.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The functions $f$ and $g$ are defined by the **closed line segments** shown below.

@@ -5,6 +5,32 @@ course:
   - Mathematics 20-3
 topic: "Three-Dimensional Representations"
 show_solution: true
+qod_id: "QOD-197392970F69E3B46565AD01"
+title: "Isometric Drawings 6 - Reconstructing a Solid"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 Use **isometric dot paper** for this question. If you need a printable copy, use [[Isometric Dot Paper.pdf|this isometric dot paper PDF]]. From the supplied **front, top/mat-plan, and right-side views**, construct a complete isometric drawing using unit cubes. Keep the cube stacks and exposed faces consistent with all three views. Label the **front** and **right** directions on your drawing.
 

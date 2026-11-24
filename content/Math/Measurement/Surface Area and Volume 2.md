@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: true
+qod_id: "QOD-3B55DA76FC759C91815C0254"
+title: "Surface Area and Volume 2"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. Sparky the dog is tied to a pole in the middle of the yard using a 8 ft leash. Sparky has ruined the grass in the area that his leash has allowed him access to. This area will need to be reseeded. Grass seed costs \$2.50 per package and one package covers 50 ft$^2$. What will it cost to reseed the yard?

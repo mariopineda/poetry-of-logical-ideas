@@ -22,6 +22,26 @@ certified_batch: 13
 diploma_original_topic: RF
 diploma_original_item_format: numerical-response
 diploma_historical_percent_correct: 66.3
+title: "Estimating an absorbance score by logarithmic regression"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 66.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A light sensor is tested using several ratios $x$ of incident to transmitted light. The sensor's dimensionless attenuation reading $y$ is shown below.

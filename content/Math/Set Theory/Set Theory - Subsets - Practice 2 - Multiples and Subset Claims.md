@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Subsets - Practice 1 - Numbered Museum Collections"
 related:
   - "Set Theory 2"
+qod_id: "QOD-62168BF6FA668AC76560B0B6"
+title: "Set Theory - Subsets - Practice 2 - Multiples and Subset Claims"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Let the universe be $U=\{1,2,\ldots,30\}$. Define:

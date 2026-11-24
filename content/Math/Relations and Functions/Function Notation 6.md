@@ -5,6 +5,32 @@ course:
   - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: true
+qod_id: "QOD-ABB30AC02B694691360B34CE"
+title: "Function Notation 6"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the functions $k(x)=6x-4$, $m(x)=-\frac{3}{4}x+3$ and $n(x)=x+8$. determine the value of $x$ for the following. Leave answers as fractions if necessary. Verify using your graphing calculator or [Desmos](https://www.desmos.com/calculator).

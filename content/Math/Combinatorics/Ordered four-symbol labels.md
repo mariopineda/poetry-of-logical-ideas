@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 69.2
 diploma_original_topic: PR
 certified_batch: 10
+title: "Ordered four-symbol labels"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 69.2
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A jewellery workshop makes four-letter product tags using distinct letters from the word **SILVER**. No letter may be repeated. How many different tags are possible? Explain why order matters.

@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Chain Rule"
 show_solution: true
+qod_id: "QOD-DE203F37E3FD6E932E95AC65"
+title: "Chain Rule 4"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 If $g(3)=6$, $g'(3)=5$, $f(5)=2$, and $f'(6)=8$, then evaluate $(f \circ g)'(3)$.

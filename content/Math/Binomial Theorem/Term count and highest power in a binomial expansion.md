@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 54.1
 certified_batch: 2
+title: "Term count and highest power in a binomial expansion"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 54.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 In the expansion $\left(x^3+\frac2x\right)^7$, how many terms appear before collecting like terms, and what are the largest and smallest exponents of $x$? Justify.

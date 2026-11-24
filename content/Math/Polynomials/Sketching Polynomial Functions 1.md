@@ -6,6 +6,32 @@ course:
   - "Mathematics 31"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-B473210812E4D1FB9AFF1DE4"
+title: "Sketching Polynomial Functions 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Fully sketch $y=12x-x^3$, using intercepts and the first derivative test.

@@ -22,6 +22,26 @@ tags:
 diploma_original_percent_correct: 75.9
 diploma_original_topic: PR
 certified_batch: 10
+title: "Odds against a coloured glass bead"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 75.9
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A bead jar contains $9$ green beads, $6$ amber beads, and $5$ clear beads. A single bead is chosen at random. Determine the **odds against** selecting an amber bead in simplest form, and explain how those odds differ from the probability of selecting amber.

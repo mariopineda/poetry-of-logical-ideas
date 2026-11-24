@@ -22,6 +22,25 @@ diploma_source_equivalence: not_applicable
 assessment_metadata_status: author_estimated
 certified_batch: 15
 review_date: '2026-11-22'
+title: "Three-set survey with overlapping festival activities"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+curriculum_review_required: null
 ---
 
 A community festival surveys $50$ visitors about three activities: painting ($P$), music ($M$), and hiking ($H$). Exactly $4$ tried all three; $12$ tried both painting and music, $9$ both painting and hiking, and $11$ both music and hiking (each pair count includes the four who tried all three). Exactly $10$ tried only hiking, $23$ tried painting in total, and $2$ tried none. Determine the total number who tried music. Draw and label a three-set Venn diagram as part of your working.

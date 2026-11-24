@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-0B63F4E2E99BDBE16ABED76F"
+title: "Exponential Regression - Substance Decay 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 In an environmental science lab, students investigate the breakdown of a biodegradable tracing compound mixed into a closed water sample. At the start of the experiment and at several later times, they measure how much of the compound remains. In the table, $x$ is the elapsed time in **hours** and $y$ is the mass of compound remaining, in **milligrams**. The students want to use an exponential regression model to estimate how quickly the compound disappears.

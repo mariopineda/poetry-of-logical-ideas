@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Measurement"
 show_solution: true
+qod_id: "QOD-345A0B6D2411B24D572BF025"
+title: "Surface Area and Volume 5"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. A box has a surface area of 432 cm$^2$. Its length and width are 8 cm and 6 cm respectivelly. What is its height, rounded to the nearest whole number?

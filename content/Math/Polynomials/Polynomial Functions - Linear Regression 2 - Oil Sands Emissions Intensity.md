@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-2"
 topic: Polynomial Functions
 show_solution: true
+qod_id: "QOD-0863267FA68971DBAF05618B"
+title: "Polynomial Functions - Linear Regression 2 - Oil Sands Emissions Intensity"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The table shows the total greenhouse gas emissions intensity of Alberta oil sands bitumen production for selected years. Let $x$ represent the number of years after 2012 and let $y$ represent emissions intensity, in tonnes of CO$_2$e per cubic metre of bitumen.

@@ -6,6 +6,32 @@ course:
   - "Mathematics 10C"
 topic: "Relations and Functions"
 show_solution: true
+qod_id: "QOD-8745370C78128AF55A49A107"
+title: "Representing Relations 7"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 In 2015 the provincial government in Alberta increased the minimum wage for students under 18 to \$15/hour. In 2019 the newly elected provincial government rolled back the minimum salary to \$13/hour.

@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: true
+qod_id: "QOD-8D1B228D3EA8AF7441EC2445"
+title: "Position and Velocity 6"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A car is initially moving at $20\text{ m/s}$. Its brakes are applied and it begins to slow down. Its position is

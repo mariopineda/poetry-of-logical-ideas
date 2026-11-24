@@ -19,6 +19,26 @@ tags:
 - diploma-preparation
 - written-response
 certified_batch: 1
+title: "Composing and subtracting two functions"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual","Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "3.2/5"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The diagram shows two **quadratic functions**, $f$ and $g$, both defined for $-3\le x\le1$. Use information read from the graphs rather than assuming a formula.

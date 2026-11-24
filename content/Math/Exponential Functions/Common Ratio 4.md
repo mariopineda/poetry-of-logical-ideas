@@ -11,6 +11,26 @@ source_question: 9
 curriculum_alignment: "30-2 Relations and Functions SO6 exponential representation of data"
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-71FE15C9F24CF43A2F6D80C8"
+title: "Common Ratio 4"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Complete the table. Explain whether the outputs change by a constant difference or a constant ratio.

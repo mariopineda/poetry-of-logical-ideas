@@ -19,6 +19,26 @@ tags:
 - written-response
 historical_source_percent_correct: 71.3
 certified_batch: 2
+title: "A particular coefficient in a binomial expansion"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 71.3
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Expand $(2x-1)^9$ conceptually using the binomial theorem. Determine the coefficient of the seventh term when the expansion is written in descending powers of $x$. Show how the term number determines the binomial index.

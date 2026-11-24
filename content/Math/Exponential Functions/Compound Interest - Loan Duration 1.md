@@ -19,6 +19,22 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
+qod_id: "QOD-0D661987E98C20A0B6BD8CEB"
+title: "Compound Interest - Loan Duration 1"
+aliases: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Two partners take out a \$165,000 loan to purchase equipment for a small business. They plan to make payments of \$1000 each month. Their lender has provided a simplified model for estimating the repayment period: $(1.0038)^n=2.6813$, where $n$ is the number of monthly payments. Use this supplied equation rather than constructing a new loan model; assume its result can be used to estimate total interest.

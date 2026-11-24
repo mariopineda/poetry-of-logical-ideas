@@ -6,6 +6,32 @@ course:
   - "Mathematics 20-1"
 topic: "Trigonometric Functions"
 show_solution: true
+qod_id: "QOD-71A560C19AB50270D696D0E1"
+title: "Unit Circle and Trigonometric Ratios 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A $45^\circ$-$45^\circ$-$90^\circ$ triangle may be created by drawing a diagonal in a square. If the hypotenuse has length $1$, use the Pythagorean Theorem to find the exact length of each leg, $x$.

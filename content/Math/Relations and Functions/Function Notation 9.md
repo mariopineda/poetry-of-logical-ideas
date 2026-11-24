@@ -5,6 +5,32 @@ course:
   - "Mathematics 10C"
 topic: "Function Notation"
 show_solution: true
+qod_id: "QOD-AC58FD0B6516FF69E7F09D5F"
+title: "Function Notation 9"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The circumference of a circle is given by the function $C(r)=2 \pi r$ where $r$ is the radius of the circle. Write this function as a linear function in two variables.

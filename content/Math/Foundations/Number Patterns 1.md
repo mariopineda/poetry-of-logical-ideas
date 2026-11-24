@@ -11,6 +11,26 @@ source_question: 8
 curriculum_alignment: "Alberta Mathematics 20-1 Relations and Functions SO9 (arithmetic sequences) and SO10 (geometric sequences). Grade 9 PR1 covers the linear-pattern component only."
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-8657F761C224646E0EAB6A21"
+title: "Number Patterns 1"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Complete each pattern and describe its rule.

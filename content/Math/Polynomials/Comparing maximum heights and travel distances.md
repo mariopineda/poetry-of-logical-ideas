@@ -23,6 +23,26 @@ tags:
 certified_batch: 12
 diploma_original_topic: LR
 diploma_original_percent_correct: 69.6
+title: "Comparing maximum heights and travel distances"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 69.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Two model gliders follow the trajectories $h_A(d)=-0.02d^2+3d$ and $h_B(d)=-0.03d^2+3.6d$, where $h$ and $d$ are measured in metres. Determine which glider reaches the greater maximum height and which travels farther before returning to ground level. Justify both comparisons mathematically.

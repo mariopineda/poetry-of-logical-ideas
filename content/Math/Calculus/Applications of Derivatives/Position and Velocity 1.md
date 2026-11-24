@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Motion and Derivatives"
 show_solution: true
+qod_id: "QOD-D139BF0ED9485306A22A088A"
+title: "Position and Velocity 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The position function of an object is $s(t) = 12t-3t^2$, where $t$ in seconds, $s$ in metres, and North +, South -.

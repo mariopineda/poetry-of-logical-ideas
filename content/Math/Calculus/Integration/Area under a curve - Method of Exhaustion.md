@@ -5,6 +5,32 @@ course:
   - "Mathematics 31"
 topic: "Definite Integrals"
 show_solution: true
+qod_id: "QOD-F4C178FC4423824EEC4A8CCA"
+title: "Area under a curve - Method of Exhaustion"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Use four **midpoint rectangles** to estimate the area under

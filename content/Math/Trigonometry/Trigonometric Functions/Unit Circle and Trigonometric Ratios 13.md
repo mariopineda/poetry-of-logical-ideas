@@ -5,6 +5,32 @@ course:
   - "Mathematics 30-1"
 topic: "Trigonometric Functions"
 show_solution: true
+qod_id: "QOD-71F02BBAF5777CE1BB629825"
+title: "Unit Circle and Trigonometric Ratios 13"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 The point $(-4,3)$ lies on the terminal arm of $\theta$ in standard position.

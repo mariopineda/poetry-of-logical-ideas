@@ -7,6 +7,32 @@ course:
   - "Mathematics 20-3"
 topic: "Derivatives"
 show_solution: true
+qod_id: "QOD-D0D2C4A9E473E3B9C419B3FB"
+title: "Rates of Change 12"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 1. A scuba diver is 20 metres below the surface of the water 12 seconds after diving into the water and 50 meters below the surface after 25 seconds. Determine the scuba diver's rate of change, to the nearest tenth.

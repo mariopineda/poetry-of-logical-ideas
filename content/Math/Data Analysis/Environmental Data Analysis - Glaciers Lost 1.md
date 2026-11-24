@@ -6,6 +6,32 @@ course:
   - "Mathematics 20-3"
 topic: "Data Analysis"
 show_solution: true
+qod_id: "QOD-4B8DE5D84914B851DF02D384"
+title: "Environmental Data Analysis - Glaciers Lost 1"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Due to human caused global warming glaciers in the Rocky Mountains have been shrinking in size in size faster in the last 150 years than they have since the last great ice age ended 10,000 years ago. Between 1985 and 2005, Jasper National Park lost 135 of its 554 glaciers and Banff National Park lost 29 of its 365. Determine, to the nearest tenth, the percentage of glacier each park lost during these two decades. Which park experience the largest loss of glaciers? How many glaciers remained in the two parks in 2005.

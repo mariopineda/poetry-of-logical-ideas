@@ -21,6 +21,26 @@ diploma_original_percent_correct: 95.1
 diploma_original_item_format: numerical-response
 diploma_original_topic: LR
 certified_batch: 8
+title: "Finding the intersection of two described sets"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "LR"
+source_format: "numerical-response"
+source_equivalence: null
+source_percent_correct: 95.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider four sets within the positive integers from 1 through 20:

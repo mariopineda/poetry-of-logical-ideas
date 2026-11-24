@@ -6,6 +6,32 @@ course:
   - "Mathematics 20-2"
 topic: "Quadratics"
 show_solution: true
+qod_id: "QOD-2D1AA90B7709E9087998C58B"
+title: "Quadratic Equations 7"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A ball is thrown upward from the top of a cliff. Its height, $h$, in metres after $t$ seconds is

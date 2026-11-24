@@ -9,6 +9,32 @@ prerequisites:
   - "Set Theory - Venn - Practice 5 - Tea and Coffee Survey"
 related:
   - "Set Theory - Venn - Practice 9 - Documentary Audience Survey"
+qod_id: "QOD-F782CC71155D021B7D8862B5"
+title: "Set Theory - Venn - Practice 8 - Visitors to Two Nature Centres"
+aliases: []
+domain: null
+tags: []
+learning_order: null
+estimated_minutes: null
+calculator: null
+question_format: null
+curriculum_alignment: []
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Seventy people are surveyed about visits to the **wetlands centre (W)** and **forest centre (F)**.

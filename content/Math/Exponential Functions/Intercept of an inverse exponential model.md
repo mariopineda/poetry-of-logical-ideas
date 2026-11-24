@@ -20,6 +20,26 @@ tags:
 - written-response
 historical_source_percent_correct: 77.6
 certified_batch: 2
+title: "Intercept of an inverse exponential model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 77.6
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A calibration curve is defined for all real inputs by $f(x)=9(0.6)^x-16$. Determine the $y$-intercept of its inverse function $f^{-1}$ to the nearest hundredth, and explain how the intercepts of a function and its inverse are related.

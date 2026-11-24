@@ -22,6 +22,26 @@ certified_batch: 11
 diploma_original_topic: RF, LR
 diploma_original_item_format: written-response
 diploma_original_mean_raw_score: 4.0/7
+title: "Interpreting an exponential elimination model"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual","Procedural","Problem Solving"]
+performance_standard: ["Acceptable","Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "RF, LR"
+source_format: "written-response"
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: "4.0/7"
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A chemical tracer in a sealed laboratory sample is measured hourly. Its measured quantity is:

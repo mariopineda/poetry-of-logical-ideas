@@ -19,6 +19,26 @@ tags:
   - diploma-preparation
   - written-response
 certified_batch: 1
+title: "Excluded angles in a trigonometric identity"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Procedural"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: 47.5
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Consider the expression $\dfrac{\sec x-\cos x}{\tan x}$. Simplify it to a single trigonometric function, and identify **all** real values of $x$ excluded from the domain of the original expression. Explain why simplification must not restore these values.

@@ -11,6 +11,26 @@ source_question: 5
 curriculum_alignment: "Alberta Grade 8 Number SO3: percents including less than 1 percent and greater than 100 percent; convert percent to decimal."
 curriculum_review_required: false
 calculator: prohibited
+qod_id: "QOD-C379153C4A592058E5534EC6"
+title: "Percentages 1"
+aliases: []
+tags: []
+learning_order: null
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Convert each percent to a decimal.

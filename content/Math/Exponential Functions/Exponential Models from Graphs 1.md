@@ -13,6 +13,25 @@ domain: "Exponential Functions"
 curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
 curriculum_review_required: false
 calculator: required
+qod_id: "QOD-3BB7BB18EF8D2B0E552E6D98"
+title: "Exponential Models from Graphs 1"
+aliases: []
+tags: []
+estimated_minutes: null
+question_format: null
+cognitive_level: []
+performance_standard: []
+diploma_eligible: null
+diploma_ready: null
+source_kind: null
+source_topic: null
+source_format: null
+source_equivalence: null
+source_percent_correct: null
+source_mean_score: null
+assessment_metadata_origin: null
+review_status: null
+review_date: null
 ---
 
 Each graph includes two marked points. Determine its exponential equation in the form $y=ab^x$. Show how you obtain both $a$ and $b$.

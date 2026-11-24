@@ -20,6 +20,26 @@ tags:
 certified_batch: 7
 diploma_original_percent_correct: 37.1
 diploma_original_item_format: multiple-choice
+title: "Ranking conditional rates from different groups"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Acceptable"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 37.1
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 Three museum branches surveyed visitors who purchased a printed exhibition guide.

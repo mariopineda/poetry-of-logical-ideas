@@ -21,6 +21,26 @@ tags:
 diploma_historical_percent_correct: 72.8
 diploma_original_format: multiple-choice
 certified_batch: 4
+title: "Height model for a rotating observation platform"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Problem Solving"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: null
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 72.8
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A rotating observation platform has radius $24$ m. The lowest passenger seat is $3$ m above ground, one revolution takes $20$ min, and a passenger begins at that lowest position. The graph shows the passenger's height for one revolution.

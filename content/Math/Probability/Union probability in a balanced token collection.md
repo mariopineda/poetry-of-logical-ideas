@@ -22,6 +22,26 @@ certified_batch: 12
 diploma_original_topic: PR
 diploma_original_item_format: multiple-choice
 diploma_original_percent_correct: 31.0
+title: "Union probability in a balanced token collection"
+aliases: []
+domain: null
+learning_order: null
+estimated_minutes: null
+calculator: null
+curriculum_alignment: []
+cognitive_level: ["Conceptual"]
+performance_standard: ["Excellence"]
+source: null
+source_kind: null
+source_question: null
+source_topic: "PR"
+source_format: "multiple-choice"
+source_equivalence: null
+source_percent_correct: 31
+source_mean_score: null
+assessment_metadata_origin: null
+review_date: null
+curriculum_review_required: null
 ---
 
 A bag has 12 equally likely tokens showing one of four symbols (star, moon, leaf, sun) and one of three colours (red, blue, gold). There is one token for each symbol–colour combination. Find the probability that a randomly selected token is a **star or gold**. Explain how you avoid double counting.
