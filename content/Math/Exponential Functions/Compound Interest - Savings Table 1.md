@@ -5,13 +5,13 @@ course:
   - Mathematics 30-2
   - Mathematics 30-1
   - Mathematics 20-3
-topic: "Applications of Exponential Functions"
+topic: Applications of Exponential Functions
 learning_order: 3204
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 2 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 2 Practice
 source_question: 4
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications
 curriculum_review_required: false
 calculator: allowed
 diploma_eligible: true
@@ -36,23 +36,6 @@ C. Calculate the balance after 10 years.
 
 D. Determine total interest earned.
 
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
-> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
-> - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Compound Interest - Loan Table 1|Compound Interest - Loan Table 1]]
-> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
-> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -75,3 +58,20 @@ D. Determine total interest earned.
 > $$I=2932.01-1800=\boxed{\$1132.01}.$$
 > 
 > **Why no regression is needed:** A nearly constant successive ratio already determines the exponential rule; regression would be needed when measurements contain noticeable variation.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Common Ratio 1|Common Ratio 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Compound Interest - Loan Table 1|Compound Interest - Loan Table 1]]
+> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
+> - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
