@@ -4,13 +4,13 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Applications of Exponential Functions"
+topic: Applications of Exponential Functions
 learning_order: 3206
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 2 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 2 Practice
 source_question: 6
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO5.3 and SO6.5–6.6, growth/decay applications
 curriculum_review_required: false
 calculator: allowed
 diploma_eligible: true
@@ -33,23 +33,6 @@ D. $y=2600(0.97)^t$
 
 E. $y=750(0.2)^t$.
 
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
-> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
-> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
-> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -67,3 +50,20 @@ E. $y=750(0.2)^t$.
 > | e) $750(0.2)^t$ | $750$ | $0.2$ | Depreciates $80\%$ |
 > 
 > **Common mistake:** A factor of $0.2$ does **not** mean a $20\%$ decrease. It means $20\%$ remains, so $80\%$ has been lost.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
