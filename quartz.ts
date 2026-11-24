@@ -1836,6 +1836,28 @@ config.plugins.transformers.push({
         if (frontmatter?.type !== "qod") return
 
         const children = tree.children ?? (tree.children = [])
+        // The page already has a Quartz article title. Remove only a matching
+        // opening Markdown H1 from the published QOD, not from the Obsidian vault.
+        const plainText = (node: any): string =>
+          node?.type === "text"
+            ? String(node.value ?? "")
+            : (node?.children ?? []).map(plainText).join("")
+        const normalizeTitle = (value: string) =>
+          value.normalize("NFKC")
+            .replace(/[\u2010-\u2015\u2212]/g, "-")
+            .replace(/\s+/g, " ")
+            .trim()
+            .toLowerCase()
+        const firstElementIndex = children.findIndex((node: any) => node?.type === "element")
+        const firstElement = children[firstElementIndex]
+        const pageTitle = String(
+          frontmatter.title ?? path.basename(String(file.path ?? file.data.slug ?? ""), ".md"),
+        )
+        if (firstElement?.tagName === "h1" &&
+          normalizeTitle(plainText(firstElement)) === normalizeTitle(pageTitle)) {
+          children.splice(firstElementIndex, 1)
+        }
+
         if (children.some((node: any) =>
           node?.type === "element" &&
           Array.isArray(node.properties?.className) &&
@@ -1851,10 +1873,10 @@ config.plugins.transformers.push({
             "data-qod-presentation-trigger": "true",
             "data-qod-solution-allowed": frontmatter.show_solution === false
               ? "false" : "true",
-            "aria-label": "Present this Question of the Day",
+            "aria-label": "Open presentation mode",
           },
           children: [
-            { type: "text", value: "Present QOD" },
+            { type: "text", value: "Presentation mode" },
           ],
         })
       },

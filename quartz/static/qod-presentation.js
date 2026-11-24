@@ -26,12 +26,28 @@
       element.textContent.trim().toLowerCase() === "solution"
   }
 
+  function normalizeTitle(value) {
+    return String(value ?? "")
+      .normalize("NFKC")
+      .replace(/[\u2010-\u2015\u2212]/g, "-")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase()
+  }
+
   function collectQuestion(trigger) {
     const fragment = document.createDocumentFragment()
     let node = trigger.nextSibling
+    const pageTitle = document.querySelector("h1.article-title, .article-title")?.textContent
 
     while (node) {
       if (node instanceof Element && isBoundary(node)) break
+      // The overlay renders the title separately; never clone it twice.
+      if (node instanceof Element && node.tagName === "H1" &&
+          pageTitle && normalizeTitle(node.textContent) === normalizeTitle(pageTitle)) {
+        node = node.nextSibling
+        continue
+      }
       // Never copy scripts or editing aids into the presentation.
       if (!(node instanceof Element && node.matches("script, style"))) {
         fragment.appendChild(node.cloneNode(true))
@@ -91,7 +107,7 @@
 
     const heading = document.createElement("strong")
     heading.className = "qod-present-bar-title"
-    heading.textContent = "Presentation Mode"
+    heading.textContent = "Presentation mode"
     heading.id = "qod-present-heading"
 
     const controls = document.createElement("div")
@@ -167,7 +183,7 @@
     plus.setAttribute("aria-label", "Increase presentation text size")
 
     const close = makeButton("Close  ×", () => dialog.close(), "qod-present-close")
-    close.setAttribute("aria-label", "Close Presentation Mode")
+    close.setAttribute("aria-label", "Close presentation mode")
 
     controls.append(minus, sizeLabel, plus)
     if (solutionButton) controls.appendChild(solutionButton)
