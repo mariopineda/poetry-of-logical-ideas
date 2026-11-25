@@ -36,6 +36,7 @@
   }
 
   function collectQuestion(trigger) {
+    trigger = trigger.closest(".qod-page-meta") ?? trigger // OSC-QOD-TOOLBAR-QUESTION-V1
     const fragment = document.createDocumentFragment()
     let node = trigger.nextSibling
     const pageTitle = document.querySelector("h1.article-title, .article-title")?.textContent
@@ -60,6 +61,7 @@
 
   function getSolution(trigger) {
     if (trigger.dataset.qodSolutionAllowed !== "true") return null
+    trigger = trigger.closest(".qod-page-meta") ?? trigger // OSC-QOD-TOOLBAR-SOLUTION-V1
 
     const article = trigger.parentElement
     if (!article) return null
