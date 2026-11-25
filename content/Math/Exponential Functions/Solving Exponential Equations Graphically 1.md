@@ -4,34 +4,34 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Solving Exponential Equations"
+topic: Solving Exponential Equations
 learning_order: 3303
-show_solution: true
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice"
+show_solution: false
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice
 source_question: 3
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO5.1–5.3, exponential equations
 curriculum_review_required: false
 calculator: required
-qod_id: "QOD-532433ADFEA3D4E6237B85B3"
-title: "Solving Exponential Equations Graphically 1"
+qod_id: QOD-532433ADFEA3D4E6237B85B3
+title: Solving Exponential Equations Graphically 1
 aliases: []
 tags: []
-estimated_minutes: null
-question_format: null
+estimated_minutes:
+question_format:
 cognitive_level: []
 performance_standard: []
-diploma_eligible: null
-diploma_ready: null
-source_kind: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
+diploma_eligible:
+diploma_ready:
+source_kind:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
 ---
 
 Use graphing technology to find every real solution to the nearest tenth.
@@ -46,6 +46,25 @@ D. $6^{x-1}=(1/3)^{x+2}$.
 
 > [!info]- Hint 1
 > At an intersection, both expressions have the same output. Which coordinate represents the solution? In part C, consider whether your graphing window is wide enough before concluding that you have found every solution.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
 
 ## Solution
 
@@ -336,22 +355,3 @@ D. $6^{x-1}=(1/3)^{x+2}$.
 > $$
 > \text{D. }x=-0.1
 > $$
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
-> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
-> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
-> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
-> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
-> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
