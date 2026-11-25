@@ -37,7 +37,7 @@ review_status: null
 review_date: null
 ---
 
-A driver buys a used SUV and finances \$23,000 of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays \$390 each month. The lender gives the following standard equation for the estimated number of monthly payments:
+A driver buys a used SUV and finances 23000 dollars of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays 390 dollars each month. The lender gives the following standard equation for the estimated number of monthly payments:
 
 $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right),$$
 
@@ -66,7 +66,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 > V(0)=28000(0.82)^0=28000
 > $$
 >
-> The original vehicle value is **$\$28,000$**.
+> The original vehicle value is **28000 dollars**.
 >
 > The base $0.82$ means that the vehicle retains $82\%$ of its value each year. The percentage lost each year is
 >
@@ -82,7 +82,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 >
 > **Method 1 — Graphing calculator (without logarithms)**
 >
-> Graph the two sides of the equation separately. Their intersection occurs when the calculated loan amount equals the original amount borrowed, $\$23,000$.
+> Graph the two sides of the equation separately. Their intersection occurs when the calculated loan amount equals the original amount borrowed, 23000 dollars.
 >
 > 1. On a TI-83 or TI-84, press `Y=`. Enter the following expressions, using `X` to represent $n$:
 >
@@ -114,7 +114,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 >
 > Keep the full calculator value for parts C and D. The model allows a fractional final payment for estimation.
 >
-> **Method 2 — Algebraically, using logarithms (for later study)**
+> **Method 2 — Algebraically, using logarithms**
 >
 > Begin with the equation provided:
 >
@@ -158,7 +158,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 >
 > ### C. Estimated total interest paid
 >
-> Total interest is the total amount repaid minus the original amount borrowed. Use $23,000$, not the original vehicle value of $28,000$.
+> Total interest is the total amount repaid minus the original amount borrowed. Use 23000 dollars, not the original vehicle value of 28000 dollars.
 >
 > $$
 > I=390n-23000
@@ -167,7 +167,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 > Using the unrounded value of $n$ from part B:
 >
 > $$
-> I\approx\boxed{\$8,239.99}
+> I\approx\boxed{8239.99\text{ dollars}}
 > $$
 >
 > This is an estimate under the stated fractional-payment assumption.
@@ -187,7 +187,7 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 > Using the unrounded value of $n$:
 >
 > $$
-> V(t)\approx\boxed{\$7,444.70}
+> V(t)\approx\boxed{7444.70\text{ dollars}}
 > $$
 >
 > Substituting the number of months directly into the depreciation model would incorrectly treat each month as a year, greatly overstating the loss in value.
