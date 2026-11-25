@@ -89,3 +89,4 @@ Which two line segments have **negative slopes**? Explain how you can tell from 
 > [!success] Build Toward
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Slope and Rate of Change/Slope - Trail Elevation Profile|Slope - Trail Elevation Profile]]
+> - [[Math/Slope and Rate of Change/Slope - Mapping a Park Maintenance Route|Slope - Mapping a Park Maintenance Route]]

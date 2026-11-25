@@ -87,3 +87,4 @@ A trail follows the points $S$, $A$, $B$, $C$, and $D$ on the elevation profile 
 
 > [!success] Build Toward
 > - [[Math/Relations and Functions/Linear Relations 7|Linear Relations 7]]
+> - [[Math/Slope and Rate of Change/Slope - Railway Track Survey|Slope - Railway Track Survey]]

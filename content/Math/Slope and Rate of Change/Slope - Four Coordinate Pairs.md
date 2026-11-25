@@ -79,3 +79,7 @@ Then identify which segments have **positive**, **negative**, and **zero** slope
 > - [[Math/Relations and Functions/Linear Relations 1|Linear Relations 1]]
 > - [[Math/Slope and Rate of Change/Slope - Ramp Run and Road Grade|Slope - Ramp Run and Road Grade]]
 > - [[Math/Slope and Rate of Change/Slope - Roof Pitch and Comparing Hills|Slope - Roof Pitch and Comparing Hills]]
+> - [[Math/Slope and Rate of Change/Slope - Accessible Walkway Design|Slope - Accessible Walkway Design]]
+> - [[Math/Slope and Rate of Change/Slope - Warehouse Package Transfer System|Slope - Warehouse Package Transfer System]]
+> - [[Math/Slope and Rate of Change/Slope - Underground Drainage Installation|Slope - Underground Drainage Installation]]
+> - [[Math/Slope and Rate of Change/Slope - Fabricating a Staircase Handrail|Slope - Fabricating a Staircase Handrail]]

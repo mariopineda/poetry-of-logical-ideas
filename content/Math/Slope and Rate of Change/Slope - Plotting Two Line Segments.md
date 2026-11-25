@@ -94,3 +94,5 @@ For **each** segment, determine its signed rise, run, and slope to the nearest t
 > - [[Math/Geometry/Coordinate Geometry 2|Coordinate Geometry 2]]
 > - [[Math/Slope and Rate of Change/Slope - Ski Trail and Downhill Path|Slope - Ski Trail and Downhill Path]]
 > - [[Math/Slope and Rate of Change/Slope - Trail Elevation Profile|Slope - Trail Elevation Profile]]
+> - [[Math/Slope and Rate of Change/Slope - Warehouse Package Transfer System|Slope - Warehouse Package Transfer System]]
+> - [[Math/Slope and Rate of Change/Slope - Mapping a Park Maintenance Route|Slope - Mapping a Park Maintenance Route]]

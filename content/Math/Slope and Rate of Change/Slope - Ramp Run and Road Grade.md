@@ -97,3 +97,4 @@ Explain what a **negative** percent grade indicates.
 
 > [!success] Build Toward
 > - [[Math/Slope and Rate of Change/Slope - Trail Elevation Profile|Slope - Trail Elevation Profile]]
+> - [[Math/Slope and Rate of Change/Slope - Accessible Walkway Design|Slope - Accessible Walkway Design]]

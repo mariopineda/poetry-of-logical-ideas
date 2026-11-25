@@ -89,3 +89,4 @@ Calculate both slopes and state which hill is steeper.
 
 > [!success] Build Toward
 > - [[Math/Slope and Rate of Change/Slope - Trail Elevation Profile|Slope - Trail Elevation Profile]]
+> - [[Math/Slope and Rate of Change/Slope - Fabricating a Staircase Handrail|Slope - Fabricating a Staircase Handrail]]
