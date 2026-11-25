@@ -1886,9 +1886,7 @@ config.plugins.transformers.push({
   externalResources() {
     return {
       js: [{
-        script: fs.readFileSync(
-          path.resolve("quartz/static/qod-presentation.js"), "utf8",
-        ),
+        script: qodToolbarPresentationScript(fs.readFileSync(path.resolve("quartz/static/qod-presentation.js"), "utf8")),
         loadTime: "afterDOMReady",
         contentType: "inline",
       }],
@@ -1943,9 +1941,19 @@ config.plugins.transformers.push({
 } as any)
 // END OSC-MENTAL-MATH-RACE-V1
 
-// BEGIN OSC-QOD-METADATA-TOOLBAR-V2
-// Keep the presentation trigger a direct sibling of the question. Its overlay
-// intentionally reads nextSibling and parentElement; do not wrap or clone it.
+// BEGIN OSC-QOD-METADATA-TOOLBAR-V3
+// Keep the existing overlay, but use a real flex toolbar and icon-only trigger.
+function qodToolbarPresentationScript(source: string): string {
+  const pairs = [
+    ['let node = trigger.nextSibling', 'let node = (trigger.closest(".qod-page-meta") ?? trigger).nextSibling'],
+    ['const article = trigger.parentElement', 'const article = (trigger.closest(".qod-page-meta") ?? trigger).parentElement'],
+  ]
+  for (const [before, after] of pairs) {
+    if (source.split(before).length !== 2) throw new Error("Unexpected Presentation Mode source: " + before)
+    source = source.replace(before, after)
+  }
+  return source
+}
 config.plugins.transformers.push({
   name: "QodMetadataToolbar",
   htmlPlugins() {
@@ -1953,121 +1961,70 @@ config.plugins.transformers.push({
       const fm = file.data.frontmatter
       if (fm?.type !== "qod") return
       const children = tree.children ?? (tree.children = [])
-      if (children.some((node: any) =>
-        node?.properties?.className?.includes("qod-page-meta")
-      )) return
-      const rawCourses = Array.isArray(fm.course) ? fm.course : []
-      const courses = [...new Set(rawCourses
+      if (children.some((node: any) => node?.properties?.className?.includes("qod-page-meta"))) return
+      const courses = [...new Set((Array.isArray(fm.course) ? fm.course : [])
         .filter((value: any) => typeof value === "string")
-        .map((value: any) => value.trim())
-        .filter(Boolean))]
+        .map((value: any) => value.trim()).filter(Boolean))]
       const pills: any[] = []
-      if (fm.diploma_ready === true) {
-        pills.push({
-          type: "element", tagName: "span",
-          properties: {
-            className: ["qod-page-pill", "qod-page-pill-diploma"],
-            title: "This question has been reviewed for diploma-style practice.",
-          },
-          children: [{ type: "text", value: "Diploma Practice" }],
-        })
-      }
-      for (const course of courses) {
-        pills.push({
-          type: "element", tagName: "span",
-          properties: { className: ["qod-page-pill", "qod-page-pill-course"] },
-          children: [{ type: "text", value: course }],
-        })
-      }
-      const triggerIndex = children.findIndex((node: any) =>
-        node?.tagName === "button" &&
-        node?.properties?.className?.includes("qod-present-trigger")
-      )
+      if (fm.diploma_ready === true) pills.push({
+        type: "element", tagName: "span",
+        properties: { className: ["qod-page-pill", "qod-page-pill-diploma"], title: "This question has been reviewed for diploma-style practice." },
+        children: [{ type: "text", value: "Diploma Practice" }],
+      })
+      for (const course of courses) pills.push({
+        type: "element", tagName: "span", properties: { className: ["qod-page-pill", "qod-page-pill-course"] },
+        children: [{ type: "text", value: course }],
+      })
+      const triggerIndex = children.findIndex((node: any) => node?.tagName === "button" && node?.properties?.className?.includes("qod-present-trigger"))
       if (triggerIndex < 0 && !pills.length) return
-      // Insert BEFORE the trigger, leaving the question and solution siblings
-      // exactly where the existing Presentation Mode expects them.
-      children.splice(Math.max(0, triggerIndex), 0, {
-        type: "element", tagName: "div",
-        properties: {
-          className: ["qod-page-meta", ...(triggerIndex >= 0 ? ["qod-page-meta-with-trigger"] : [])],
-          ...(pills.length ? { role: "group", ariaLabel: "Question classification" } : { ariaHidden: "true" }),
-        },
-        children: pills,
+      const toolbarChildren: any[] = [{
+        type: "element", tagName: "div", properties: { className: ["qod-page-pills"], ...(pills.length ? { role: "group", ariaLabel: "Question classification" } : { ariaHidden: "true" }) }, children: pills,
+      }]
+      if (triggerIndex >= 0) {
+        const trigger = children[triggerIndex]
+        trigger.properties = { ...trigger.properties, title: "Open fullscreen presentation", ariaLabel: "Open fullscreen presentation", "aria-label": "Open fullscreen presentation" }
+        trigger.children = [{
+          type: "element", tagName: "svg",
+          properties: { viewBox: "0 0 24 24", width: 16, height: 16, fill: "none", stroke: "currentColor", strokeWidth: 1.8, strokeLinecap: "round", strokeLinejoin: "round", ariaHidden: "true", focusable: "false" },
+          children: [{ type: "element", tagName: "path", properties: { d: "M8 3H3v5 M16 3h5v5 M21 16v5h-5 M3 16v5h5" }, children: [] }],
+        }]
+        toolbarChildren.push(trigger)
+      }
+      children.splice(Math.max(0, triggerIndex), triggerIndex >= 0 ? 1 : 0, {
+        type: "element", tagName: "div", properties: { className: ["qod-page-meta"] }, children: toolbarChildren,
       })
     }]
   },
   externalResources() {
     return { css: [{ inline: true, content: `
-      article > .qod-page-meta {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        gap: 0.3rem;
-        min-height: 2rem;
-        margin: 0.15rem 0 0.7rem;
-        box-sizing: border-box;
+      .qod-page-meta {
+        display: flex !important; align-items: center; justify-content: space-between;
+        gap: 0.55rem; width: 100%; box-sizing: border-box; margin: 0.35rem 0 0.85rem;
       }
-      article > .qod-page-meta-with-trigger {
-        float: left;
-        width: calc(100% - 10.4rem);
-      }
+      .qod-page-pills { display: flex; flex: 1 1 auto; flex-wrap: wrap; align-items: center; gap: 0.28rem; min-width: 0; }
       .qod-page-pill {
-        display: inline-flex;
-        align-items: center;
-        box-sizing: border-box;
-        max-width: 100%;
-        padding: 0.13rem 0.48rem;
-        border: 1px solid var(--lightgray);
-        border-radius: 999px;
-        background: var(--light);
-        color: var(--darkgray);
-        font-size: 0.72rem;
-        font-weight: 600;
-        line-height: 1.35;
-        overflow-wrap: anywhere;
+        display: inline-flex; align-items: center; max-width: 100%; box-sizing: border-box;
+        padding: 0.12rem 0.45rem; border: 1px solid var(--lightgray); border-radius: 999px;
+        background: var(--light); color: var(--darkgray); font-size: 0.72rem; font-weight: 600;
+        line-height: 1.35; overflow-wrap: anywhere;
       }
-      .qod-page-pill-diploma {
-        color: var(--secondary);
-        border-color: var(--secondary);
-        background: var(--highlight);
-        font-weight: 650;
+      .qod-page-pill-diploma { color: var(--secondary); border-color: var(--secondary); background: var(--highlight); font-weight: 650; }
+      .qod-page-meta > button.qod-present-trigger {
+        display: inline-flex; flex: 0 0 auto; align-items: center; justify-content: center;
+        box-sizing: border-box; width: 2.1rem; height: 1.75rem; min-width: 28px; min-height: 28px;
+        margin: 0 0 0 auto; padding: 0; gap: 0; float: none; border-radius: 999px;
+        color: var(--secondary); background: var(--light); border: 1px solid var(--lightgray);
       }
-      article > .qod-page-meta-with-trigger + button.qod-present-trigger {
-        float: right;
-        display: inline-flex;
-        justify-content: center;
-        box-sizing: border-box;
-        width: 9.8rem;
-        min-height: 2rem;
-        margin: 0.15rem 0 0.7rem;
-        padding: 0.22rem 0.45rem;
-        font-size: 0.78rem;
-        white-space: nowrap;
-      }
-      article > .qod-page-meta-with-trigger + button.qod-present-trigger + * {
-        clear: both;
-      }
-      /* Clear both floats even for a QOD with no following element. */
-      article:has(> .qod-page-meta-with-trigger)::after {
-        content: "";
-        display: block;
-        clear: both;
-      }
-      @media (max-width: 540px) {
-        article > .qod-page-meta-with-trigger { float: none; width: 100%; margin-bottom: 0.25rem; }
-        article > .qod-page-meta-with-trigger:empty { display: none; }
-        article > .qod-page-meta-with-trigger + button.qod-present-trigger {
-          float: none;
-          display: flex;
-          margin-left: auto;
-        }
-      }
-      .qod-inline-content .qod-page-meta,
-      .qod-print-document .qod-page-meta { display: none; }
+      .qod-page-meta > button.qod-present-trigger::before { content: none; }
+      .qod-page-meta > button.qod-present-trigger > svg { display: block; width: 15px; height: 15px; margin: 0; }
+      .qod-page-meta > button.qod-present-trigger:hover,
+      .qod-page-meta > button.qod-present-trigger:focus-visible { border-color: var(--secondary); background: var(--highlight); }
+      .qod-page-meta > button.qod-present-trigger:focus-visible { outline: 2px solid var(--secondary); outline-offset: 2px; }
+      .qod-inline-content .qod-page-meta, .qod-print-document .qod-page-meta { display: none !important; }
     ` }] }
   },
 } as any)
-// END OSC-QOD-METADATA-TOOLBAR-V2
+// END OSC-QOD-METADATA-TOOLBAR-V3
 
 export default config
 
