@@ -4,34 +4,34 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Solving Exponential Equations"
+topic: Solving Exponential Equations
 learning_order: 3302
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice
 source_question: 2
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO5.1–5.3, exponential equations"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO5.1–5.3, exponential equations
 curriculum_review_required: false
 calculator: allowed
-qod_id: "QOD-B499CF8205B15F11F731AA85"
-title: "Solving Exponential Equations 1"
+qod_id: QOD-B499CF8205B15F11F731AA85
+title: Solving Exponential Equations 1
 aliases: []
 tags: []
-estimated_minutes: null
-question_format: null
+estimated_minutes:
+question_format:
 cognitive_level: []
 performance_standard: []
-diploma_eligible: null
-diploma_ready: null
-source_kind: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
+diploma_eligible:
+diploma_ready:
+source_kind:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
 ---
 
 Solve all sixteen equations by converting each side to a common base. Verify with substitution.
@@ -68,25 +68,6 @@ O. $32^{1/5}=2^{1-2x}$
 
 P. $(1/8)^{2x}=2^{x-3}$.
 
-> [!abstract] Review First
-> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
-> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
-> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
-> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
-> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
-> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
-> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -115,3 +96,22 @@ P. $(1/8)^{2x}=2^{x-3}$.
 > **Example check:** For part e, $x=\frac65$ gives equal exponents on both sides: $x+3=4.2$ and $3(2x-1)=3(1.4)=4.2$. Thus both sides really are the same number.
 > 
 > **Common pitfall:** $(a^m)^n=a^{mn}$, not $a^{m+n}$. Also, $b^{-k}=1/b^k$. These two rules are essential in parts d, h, and p.
+
+> [!abstract] Review First
+> - [[Math/Exponent Laws/Exponent Laws 5|Exponent Laws 5]]
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Exponent Laws 1|Exponent Laws 1]]
+> - [[Math/Exponential Functions/Exponent Laws 2|Exponent Laws 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
+> - [[Math/Exponential Functions/Solving Exponential Equations Graphically 1|Solving Exponential Equations Graphically 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Logarithmic Functions/Evaluating Logarithms 1|Evaluating Logarithms 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
