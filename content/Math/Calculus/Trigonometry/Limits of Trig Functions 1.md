@@ -36,12 +36,15 @@ curriculum_review_required: null
 Calculate $\displaystyle \lim_{x \to 0} x \cot x$.
 
 > [!info]- Hint 1
+> Angles are measured in radians. Recall the fundamental trigonometric limits:
+>
 > $$
-\lim_{x \to 0} \frac{\sin x}{1} = 1
->$$
->$$
-\lim_{x\to 0} \cos x = 1
->$$
+> \lim_{x\to 0}\frac{\sin x}{x}=1
+> $$
+>
+> $$
+> \lim_{x\to 0}\cos x=1
+> $$
 
 ## Solution
 
