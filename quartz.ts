@@ -2027,7 +2027,7 @@ config.plugins.transformers.push({
 // END OSC-QOD-METADATA-TOOLBAR-V3
 
 // BEGIN OSC-QOD-RESPONSIVE-RELATIONSHIPS-V1
-// Group consecutive canonical relationship callouts without changing their content.
+// Identify relationship callouts by exact title, even if the solution transformer marked them as solution-source.
 config.plugins.transformers.push({
   name: "QodResponsiveRelationships",
   htmlPlugins() {
@@ -2037,7 +2037,7 @@ config.plugins.transformers.push({
       const hasClass = (node, name) => Array.isArray(node?.properties?.className) && node.properties.className.includes(name)
       const plain = (node) => node?.type === "text" ? String(node.value ?? "") : (node?.children ?? []).map(plain).join("")
       const relationshipKind = (node) => {
-        if (node?.type !== "element" || !hasClass(node, "callout") || hasClass(node, "qod-solution-source")) return null
+        if (node?.type !== "element" || !hasClass(node, "callout")) return null
         const heading = (node.children ?? []).find(child => hasClass(child, "callout-title"))
         const title = (heading?.children ?? []).find(child => hasClass(child, "callout-title-inner")) ?? heading
         const label = plain(title).trim().replace(/\s+/g, " ").toLowerCase()
