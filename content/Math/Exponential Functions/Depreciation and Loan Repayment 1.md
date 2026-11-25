@@ -37,7 +37,7 @@ review_status: null
 review_date: null
 ---
 
-A driver buys a used SUV for \$28,000 and finances \$23,000 of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays \$390 each month. The lender gives the following standard equation for the estimated number of monthly payments:
+A driver buys a used SUV and finances \$23,000 of the purchase price. The SUV loses value over time while the driver gradually repays the loan; these are two different financial processes. Its estimated resale value after $t$ years is $V(t)=28000(0.82)^t$. The loan charges $0.8\%$ interest per month, and the driver pays \$390 each month. The lender gives the following standard equation for the estimated number of monthly payments:
 
 $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right),$$
 
@@ -58,32 +58,141 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 
 > [!example]- Show solution
 >
-> **Step 1 — Read the depreciation model.** The coefficient $28\,000$ is the purchase value. The multiplier $0.82$ means that $82\%$ remains each year, so the annual depreciation is $100\%-82\%=18\%$.
-> 
-> **Step 2 — Solve the loan equation.** Start with the present-value formula given in the question:
-> 
-> $$23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right).$$
-> 
-> Multiply by $0.008/390$ and rearrange:
-> 
-> $$\frac{23000(0.008)}{390}=1-(1.008)^{-n},$$
-> $$ (1.008)^{-n}=1-\frac{23000(0.008)}{390}.$$
-> 
-> Take natural logarithms of both sides:
-> 
-> $$-n\ln(1.008)=\ln\left(1-\frac{23000(0.008)}{390}\right),$$
-> $$n=\frac{-\ln\left(1-23000(0.008)/390\right)}{\ln(1.008)}\approx\boxed{80.10\text{ months}}.$$
-> 
-> **Step 3 — Estimate the total interest.** The model treats payments continuously for the fractional final month, so the estimate is:
-> 
-> $$I=390(80.1025)-23000\approx\boxed{\$8,239.99}.$$
-> 
-> **Step 4 — Convert months to years before calculating the vehicle value.** The depreciation formula uses years, but the loan uses months:
-> 
-> $$t=\frac{n}{12}\approx 6.6752\text{ years},$$
-> $$V(t)=28000(0.82)^{6.6752}\approx\boxed{\$7,444.70}.$$
-> 
-> **Reasonableness:** Both financing interest and depreciation reduce the financial value of the purchase, but they are separate models. An actual loan uses a final adjusted payment, so the interest found here is an approximation.
+> ### A. Original vehicle value and annual depreciation rate
+>
+> The original value is the value when $t=0$.
+>
+> $$
+> V(0)=28000(0.82)^0=28000
+> $$
+>
+> The original vehicle value is **$\$28,000$**.
+>
+> The base $0.82$ means that the vehicle retains $82\%$ of its value each year. The percentage lost each year is
+>
+> $$
+> 100\%-82\%=18\%
+> $$
+>
+> Therefore, the annual depreciation rate is **$18\%$**.
+>
+> ### B. Number of monthly payments
+>
+> We need to find the value of $n$ that makes the two sides of the loan equation equal.
+>
+> **Method 1 — Graphing calculator (without logarithms)**
+>
+> Graph the two sides of the equation separately. Their intersection occurs when the calculated loan amount equals the original amount borrowed, $\$23,000$.
+>
+> 1. On a TI-83 or TI-84, press `Y=`. Enter the following expressions, using `X` to represent $n$:
+>
+>    - `Y1=23000`
+>    - `Y2=390*((1-(1.008)^(-X))/0.008)`
+>
+> 2. Press `WINDOW` and enter these settings:
+>
+>    - `Xmin=0`, `Xmax=120`, `Xscl=20`
+>    - `Ymin=0`, `Ymax=40000`, `Yscl=5000`
+>
+>    The horizontal axis represents the number of monthly payments, and the vertical axis represents the loan amount in dollars. The standard graphing window is too small to show the intersection.
+>
+> 3. Press `GRAPH`. You should see a horizontal line and an increasing curve.
+> 4. Press `2nd` then `TRACE` (CALC), and select `5:intersect`.
+> 5. Confirm the first curve and the second curve by pressing `ENTER` for each. Move the cursor near the intersection if necessary and press `ENTER` to confirm the guess.
+>
+> The intersection is approximately
+>
+> $$
+> (80.10253276,\ 23000)
+> $$
+>
+> The $x$-coordinate gives the number of monthly payments, not the loan amount.
+>
+> $$
+> \boxed{n\approx80.10\text{ months}}
+> $$
+>
+> Keep the full calculator value for parts C and D. The model allows a fractional final payment for estimation.
+>
+> **Method 2 — Algebraically, using logarithms (for later study)**
+>
+> Begin with the equation provided:
+>
+> $$
+> 23000=390\left(\frac{1-(1.008)^{-n}}{0.008}\right)
+> $$
+>
+> Divide both sides by $390$, then multiply by $0.008$:
+>
+> $$
+> \frac{23000(0.008)}{390}=1-(1.008)^{-n}
+> $$
+>
+> Isolate the exponential expression:
+>
+> $$
+> (1.008)^{-n}=1-\frac{23000(0.008)}{390}
+> $$
+>
+> Take the natural logarithm of both sides and apply the power law:
+>
+> $$
+> -n\ln(1.008)=\ln\left(1-\frac{23000(0.008)}{390}\right)
+> $$
+>
+> Divide by $-\ln(1.008)$:
+>
+> $$
+> n=\frac{-\ln\left(1-\frac{23000(0.008)}{390}\right)}{\ln(1.008)}
+> $$
+>
+> $$
+> n\approx80.10253276
+> $$
+>
+> $$
+> \boxed{n\approx80.10\text{ months}}
+> $$
+>
+> Both methods give the same result.
+>
+> ### C. Estimated total interest paid
+>
+> Total interest is the total amount repaid minus the original amount borrowed. Use $23,000$, not the original vehicle value of $28,000$.
+>
+> $$
+> I=390n-23000
+> $$
+>
+> Using the unrounded value of $n$ from part B:
+>
+> $$
+> I\approx\boxed{\$8,239.99}
+> $$
+>
+> This is an estimate under the stated fractional-payment assumption.
+>
+> ### D. Estimated resale value when the loan is paid off
+>
+> The loan equation measures time in months, but the depreciation model measures time in years. Convert the unrounded value of $n$ to years before substituting into the depreciation model.
+>
+> $$
+> t=\frac{n}{12}\approx6.67521106\text{ years}
+> $$
+>
+> $$
+> V(t)=28000(0.82)^{n/12}
+> $$
+>
+> Using the unrounded value of $n$:
+>
+> $$
+> V(t)\approx\boxed{\$7,444.70}
+> $$
+>
+> Substituting the number of months directly into the depreciation model would incorrectly treat each month as a year, greatly overstating the loss in value.
+>
+> **Reasonableness check:** The loan takes about six years and eight months to repay. The total interest is positive, and the vehicle's estimated resale value is less than its original value. The loan and depreciation are separate financial processes.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
