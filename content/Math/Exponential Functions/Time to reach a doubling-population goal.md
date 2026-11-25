@@ -61,19 +61,27 @@ How long will it take for the model to reach $20\,000$ cells, to the nearest who
 >
 > **Model A — Time in minutes:** Let $t$ be the elapsed time in minutes. The number of doubling periods is $t/45$, so
 >
-> $$N(t)=800\cdot2^{t/45}.$$
+> $$
+> N(t)=800\cdot2^{t/45}.
+> $$
 >
 > The exponent is $1$ after $45$ minutes and $2$ after $90$ minutes. To reach $20\,000$ cells, solve
 >
-> $$20\,000=800\cdot2^{t/45}.$$
+> $$
+> 20\,000=800\cdot2^{t/45}.
+> $$
 >
 > **Model B — Number of doubling periods:** Let $n$ be the number of elapsed doubling periods (including fractions of a period). Then
 >
-> $$N(n)=800\cdot2^n.$$
+> $$
+> N(n)=800\cdot2^n.
+> $$
 >
 > To reach $20\,000$ cells, solve
 >
-> $$20\,000=800\cdot2^n.$$
+> $$
+> 20\,000=800\cdot2^n.
+> $$
 >
 > The models are equivalent because $n=t/45$, or $t=45n$. Model A gives the time directly in minutes; Model B gives the number of doubling periods, which must be converted to minutes.
 >
@@ -81,27 +89,53 @@ How long will it take for the model to reach $20\,000$ cells, to the nearest who
 >
 > **Model A:**
 >
-> $$\begin{aligned}
-> 20\,000&=800\cdot2^{t/45}\\
-> 25&=2^{t/45}\\
-> \log25&=\frac{t}{45}\log2\\
-> t&=45\frac{\log25}{\log2}\\
-> &\approx208.9735\text{ min}.
-> \end{aligned}$$
+> $$
+> 20\,000=800\cdot2^{t/45}
+> $$
+>
+> $$
+> 25=2^{t/45}
+> $$
+>
+> $$
+> \log25=\frac{t}{45}\log2
+> $$
+>
+> $$
+> t=45\frac{\log25}{\log2}
+> $$
+>
+> $$
+> t\approx208.9735\text{ min}.
+> $$
 >
 > **Model B:**
 >
-> $$\begin{aligned}
-> 20\,000&=800\cdot2^n\\
-> 25&=2^n\\
-> \log25&=n\log2\\
-> n&=\frac{\log25}{\log2}\\
-> &\approx4.643856\text{ doubling periods}.
-> \end{aligned}$$
+> $$
+> 20\,000=800\cdot2^n
+> $$
+>
+> $$
+> 25=2^n
+> $$
+>
+> $$
+> \log25=n\log2
+> $$
+>
+> $$
+> n=\frac{\log25}{\log2}
+> $$
+>
+> $$
+> n\approx4.643856\text{ doubling periods}.
+> $$
 >
 > Each doubling period lasts $45$ minutes. Using the unrounded value of $n$,
 >
-> $$t=45n\approx208.9735\text{ min}.$$
+> $$
+> t=45n\approx208.9735\text{ min}.
+> $$
 >
 > ### 3. Method 2 — Graphically using a TI-83/TI-84
 >
@@ -127,7 +161,9 @@ How long will it take for the model to reach $20\,000$ cells, to the nearest who
 >
 > Both models and both methods give the same time, to the nearest whole minute:
 >
-> $$\boxed{209\text{ minutes}}.$$
+> $$
+> \boxed{209\text{ minutes}}.
+> $$
 >
 > This is approximately $3$ hours and $29$ minutes. After four doubling periods ($180$ minutes), there are $12\,800$ cells; after five ($225$ minutes), there are $25\,600$ cells. Therefore the target must be reached between these times under the continuous exponential model. Do not round the number of doubling periods to a whole number before converting to minutes.
 
