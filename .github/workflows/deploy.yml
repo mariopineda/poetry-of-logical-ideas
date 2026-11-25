@@ -81,6 +81,10 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      - name: Generate unlisted QOD logo preview
+        run: node scripts/build-qod-logo-preview.mjs
+        continue-on-error: true
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
