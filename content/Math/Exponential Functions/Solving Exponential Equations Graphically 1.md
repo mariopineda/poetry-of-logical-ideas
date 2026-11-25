@@ -6,7 +6,7 @@ course:
   - Mathematics 30-1
 topic: "Solving Exponential Equations"
 learning_order: 3303
-show_solution: false
+show_solution: true
 source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 3 Practice"
 source_question: 3
 domain: "Exponential Functions"
@@ -47,25 +47,6 @@ D. $6^{x-1}=(1/3)^{x+2}$.
 > [!info]- Hint 1
 > At an intersection, both expressions have the same output. Which coordinate represents the solution? In part C, consider whether your graphing window is wide enough before concluding that you have found every solution.
 
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
-> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
-> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
-> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
-> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
-> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -86,3 +67,22 @@ D. $6^{x-1}=(1/3)^{x+2}$.
 > $$x=\frac{\ln6-2\ln3}{\ln6+\ln3}=\frac{\ln(2/3)}{\ln18}\approx\boxed{-0.1}.$$
 > 
 > **Verification:** For every graphical intersection, substitute the unrounded $x$ into the two original expressions. The outputs should agree to the calculator's displayed precision.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
+> - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
+> - [[Math/Exponential Functions/Exponential Equations 4|Exponential Equations 4]]
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Exponential Functions/Solving Exponential Graphs 1|Solving Exponential Graphs 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Solving Exponential Equations 1|Solving Exponential Equations 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 2|Logarithm Laws 2]]

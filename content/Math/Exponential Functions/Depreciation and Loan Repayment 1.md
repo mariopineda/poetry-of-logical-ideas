@@ -6,7 +6,7 @@ course:
   - Mathematics 30-1
 topic: "Applications of Exponential Functions"
 learning_order: 3208
-show_solution: false
+show_solution: true
 source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 2 Practice"
 source_question: 8
 domain: "Exponential Functions"
@@ -54,24 +54,6 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 > [!info]- Hint 1
 > In part B, consider graphing each side of the equation separately. Will a standard graphing window accommodate the quantities involved? For the remaining parts, distinguish the purchase price from the amount borrowed, and pay attention to the units of time in each model.
 
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
-> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
-> - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
-> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -102,3 +84,21 @@ D. Using the unrounded value of $n$, estimate the vehicle's resale value when th
 > $$V(t)=28000(0.82)^{6.6752}\approx\boxed{\$7,444.70}.$$
 > 
 > **Reasonableness:** Both financing interest and depreciation reduce the financial value of the purchase, but they are separate models. An actual loan uses a final adjusted payment, so the interest found here is an approximation.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+> - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+> - [[Math/Logarithmic Functions/Logarithm Laws 1|Logarithm Laws 1]]
