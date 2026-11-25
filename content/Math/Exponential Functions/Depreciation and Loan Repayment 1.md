@@ -51,6 +51,9 @@ C. Estimate the total interest paid.
 
 D. Using the unrounded value of $n$, estimate the vehicle's resale value when the loan is paid off. Explain why years and months must not be mixed.
 
+> [!info]- Hint 1
+> In part B, consider graphing each side of the equation separately. Will a standard graphing window accommodate the quantities involved? For the remaining parts, distinguish the purchase price from the amount borrowed, and pay attention to the units of time in each model.
+
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Growth 1|Exponential Growth 1]]
 > - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]

@@ -48,6 +48,9 @@ A laboratory culture initially contains $800$ cells and doubles every $45$ minut
 
 How long will it take for the model to reach $20\,000$ cells, to the nearest whole minute? Set up the exponential model and explain the role of the doubling period.
 
+> [!info]- Hint 1
+> The exponent represents the number of doubling periods, not the number of minutes. How many 45-minute periods fit into $t$ minutes? When solving graphically, consider which coordinate you already know and which you are trying to determine.
+
 ## Solution
 
 > [!example]- Show solution

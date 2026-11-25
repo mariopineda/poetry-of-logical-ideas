@@ -44,6 +44,9 @@ C. $2^{x+2}=4^x+2$
 
 D. $6^{x-1}=(1/3)^{x+2}$.
 
+> [!info]- Hint 1
+> At an intersection, both expressions have the same output. Which coordinate represents the solution? In part C, consider whether your graphing window is wide enough before concluding that you have found every solution.
+
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations 6|Exponential Equations 6]]
 > - [[Math/Exponential Functions/Exponential Equations 3|Exponential Equations 3]]
