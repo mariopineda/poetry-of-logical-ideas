@@ -1943,54 +1943,131 @@ config.plugins.transformers.push({
 } as any)
 // END OSC-MENTAL-MATH-RACE-V1
 
-// BEGIN OSC-QOD-DIPLOMA-BADGE-V1
-// A student-facing badge, not an assessment of question difficulty.
+// BEGIN OSC-QOD-METADATA-TOOLBAR-V2
+// Keep the presentation trigger a direct sibling of the question. Its overlay
+// intentionally reads nextSibling and parentElement; do not wrap or clone it.
 config.plugins.transformers.push({
-  name: "QodDiplomaPracticeBadge",
+  name: "QodMetadataToolbar",
   htmlPlugins() {
     return [() => (tree: any, file: any) => {
       const fm = file.data.frontmatter
-      if (fm?.type !== "qod" || fm.diploma_ready !== true) return
+      if (fm?.type !== "qod") return
       const children = tree.children ?? (tree.children = [])
       if (children.some((node: any) =>
-        node?.properties?.className?.includes("qod-diploma-practice-badge")
+        node?.properties?.className?.includes("qod-page-meta")
       )) return
-      children.unshift({
-        type: "element",
-        tagName: "div",
-        properties: { className: ["qod-diploma-practice-badge"] },
-        children: [{
-          type: "element",
-          tagName: "span",
+      const rawCourses = Array.isArray(fm.course) ? fm.course : []
+      const courses = [...new Set(rawCourses
+        .filter((value: any) => typeof value === "string")
+        .map((value: any) => value.trim())
+        .filter(Boolean))]
+      const pills: any[] = []
+      if (fm.diploma_ready === true) {
+        pills.push({
+          type: "element", tagName: "span",
           properties: {
-            className: ["qod-diploma-practice-label"],
+            className: ["qod-page-pill", "qod-page-pill-diploma"],
             title: "This question has been reviewed for diploma-style practice.",
           },
           children: [{ type: "text", value: "Diploma Practice" }],
-        }],
+        })
+      }
+      for (const course of courses) {
+        pills.push({
+          type: "element", tagName: "span",
+          properties: { className: ["qod-page-pill", "qod-page-pill-course"] },
+          children: [{ type: "text", value: course }],
+        })
+      }
+      const triggerIndex = children.findIndex((node: any) =>
+        node?.tagName === "button" &&
+        node?.properties?.className?.includes("qod-present-trigger")
+      )
+      if (triggerIndex < 0 && !pills.length) return
+      // Insert BEFORE the trigger, leaving the question and solution siblings
+      // exactly where the existing Presentation Mode expects them.
+      children.splice(Math.max(0, triggerIndex), 0, {
+        type: "element", tagName: "div",
+        properties: {
+          className: ["qod-page-meta", ...(triggerIndex >= 0 ? ["qod-page-meta-with-trigger"] : [])],
+          ...(pills.length ? { role: "group", ariaLabel: "Question classification" } : { ariaHidden: "true" }),
+        },
+        children: pills,
       })
     }]
   },
   externalResources() {
     return { css: [{ inline: true, content: `
-      .qod-diploma-practice-badge { margin: 0.45rem 0 0.8rem; }
-      .qod-diploma-practice-label {
-        display: inline-block;
-        padding: 0.22rem 0.65rem;
-        border: 1px solid var(--secondary);
+      article > .qod-page-meta {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.3rem;
+        min-height: 2rem;
+        margin: 0.15rem 0 0.7rem;
+        box-sizing: border-box;
+      }
+      article > .qod-page-meta-with-trigger {
+        float: left;
+        width: calc(100% - 10.4rem);
+      }
+      .qod-page-pill {
+        display: inline-flex;
+        align-items: center;
+        box-sizing: border-box;
+        max-width: 100%;
+        padding: 0.13rem 0.48rem;
+        border: 1px solid var(--lightgray);
         border-radius: 999px;
         background: var(--light);
-        color: var(--secondary);
-        font-size: 0.78rem;
-        font-weight: 650;
-        line-height: 1.4;
+        color: var(--darkgray);
+        font-size: 0.72rem;
+        font-weight: 600;
+        line-height: 1.35;
+        overflow-wrap: anywhere;
       }
-      .qod-inline-content .qod-diploma-practice-badge,
-      .qod-print-document .qod-diploma-practice-badge { display: none; }
+      .qod-page-pill-diploma {
+        color: var(--secondary);
+        border-color: var(--secondary);
+        background: var(--highlight);
+        font-weight: 650;
+      }
+      article > .qod-page-meta-with-trigger + button.qod-present-trigger {
+        float: right;
+        display: inline-flex;
+        justify-content: center;
+        box-sizing: border-box;
+        width: 9.8rem;
+        min-height: 2rem;
+        margin: 0.15rem 0 0.7rem;
+        padding: 0.22rem 0.45rem;
+        font-size: 0.78rem;
+        white-space: nowrap;
+      }
+      article > .qod-page-meta-with-trigger + button.qod-present-trigger + * {
+        clear: both;
+      }
+      /* Clear both floats even for a QOD with no following element. */
+      article:has(> .qod-page-meta-with-trigger)::after {
+        content: "";
+        display: block;
+        clear: both;
+      }
+      @media (max-width: 540px) {
+        article > .qod-page-meta-with-trigger { float: none; width: 100%; margin-bottom: 0.25rem; }
+        article > .qod-page-meta-with-trigger:empty { display: none; }
+        article > .qod-page-meta-with-trigger + button.qod-present-trigger {
+          float: none;
+          display: flex;
+          margin-left: auto;
+        }
+      }
+      .qod-inline-content .qod-page-meta,
+      .qod-print-document .qod-page-meta { display: none; }
     ` }] }
   },
 } as any)
-// END OSC-QOD-DIPLOMA-BADGE-V1
+// END OSC-QOD-METADATA-TOOLBAR-V2
 
 export default config
 
