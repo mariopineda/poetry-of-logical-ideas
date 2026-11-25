@@ -1943,6 +1943,55 @@ config.plugins.transformers.push({
 } as any)
 // END OSC-MENTAL-MATH-RACE-V1
 
+// BEGIN OSC-QOD-DIPLOMA-BADGE-V1
+// A student-facing badge, not an assessment of question difficulty.
+config.plugins.transformers.push({
+  name: "QodDiplomaPracticeBadge",
+  htmlPlugins() {
+    return [() => (tree: any, file: any) => {
+      const fm = file.data.frontmatter
+      if (fm?.type !== "qod" || fm.diploma_ready !== true) return
+      const children = tree.children ?? (tree.children = [])
+      if (children.some((node: any) =>
+        node?.properties?.className?.includes("qod-diploma-practice-badge")
+      )) return
+      children.unshift({
+        type: "element",
+        tagName: "div",
+        properties: { className: ["qod-diploma-practice-badge"] },
+        children: [{
+          type: "element",
+          tagName: "span",
+          properties: {
+            className: ["qod-diploma-practice-label"],
+            title: "This question has been reviewed for diploma-style practice.",
+          },
+          children: [{ type: "text", value: "Diploma Practice" }],
+        }],
+      })
+    }]
+  },
+  externalResources() {
+    return { css: [{ inline: true, content: `
+      .qod-diploma-practice-badge { margin: 0.45rem 0 0.8rem; }
+      .qod-diploma-practice-label {
+        display: inline-block;
+        padding: 0.22rem 0.65rem;
+        border: 1px solid var(--secondary);
+        border-radius: 999px;
+        background: var(--light);
+        color: var(--secondary);
+        font-size: 0.78rem;
+        font-weight: 650;
+        line-height: 1.4;
+      }
+      .qod-inline-content .qod-diploma-practice-badge,
+      .qod-print-document .qod-diploma-practice-badge { display: none; }
+    ` }] }
+  },
+} as any)
+// END OSC-QOD-DIPLOMA-BADGE-V1
+
 export default config
 
 export const layout = await loadQuartzLayout()
