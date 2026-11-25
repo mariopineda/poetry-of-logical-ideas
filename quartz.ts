@@ -2026,6 +2026,52 @@ config.plugins.transformers.push({
 } as any)
 // END OSC-QOD-METADATA-TOOLBAR-V3
 
+// BEGIN OSC-QOD-RESPONSIVE-RELATIONSHIPS-V1
+// Group consecutive canonical relationship callouts without changing their content.
+config.plugins.transformers.push({
+  name: "QodResponsiveRelationships",
+  htmlPlugins() {
+    return [() => (tree, file) => {
+      if (file.data.frontmatter?.type !== "qod") return
+      const children = tree.children ?? []
+      const hasClass = (node, name) => Array.isArray(node?.properties?.className) && node.properties.className.includes(name)
+      const plain = (node) => node?.type === "text" ? String(node.value ?? "") : (node?.children ?? []).map(plain).join("")
+      const relationshipKind = (node) => {
+        if (node?.type !== "element" || !hasClass(node, "callout") || hasClass(node, "qod-solution-source")) return null
+        const heading = (node.children ?? []).find(child => hasClass(child, "callout-title"))
+        const title = (heading?.children ?? []).find(child => hasClass(child, "callout-title-inner")) ?? heading
+        const label = plain(title).trim().replace(/\s+/g, " ").toLowerCase()
+        if (label === "review first") return "review"
+        if (label === "explore also") return "explore"
+        if (label === "build toward" || label === "builds toward" || label === "build towards" || label === "builds towards") return "build"
+        return null
+      }
+      const separator = node => (node?.type === "text" && !String(node.value ?? "").trim()) || (node?.type === "comment" && /^\s*QOD-RELATIONSHIP-SEPARATOR\s*$/.test(String(node.value ?? "")))
+      for (let i = 0; i < children.length; i++) {
+        const first = relationshipKind(children[i])
+        if (!first) continue
+        const seen = new Set([first])
+        let last = i
+        for (let j = i + 1; j < children.length; j++) {
+          if (separator(children[j])) continue
+          const kind = relationshipKind(children[j])
+          if (!kind || seen.has(kind)) break
+          seen.add(kind)
+          last = j
+        }
+        if (seen.size < 2) continue
+        const original = children.slice(i, last + 1)
+        children.splice(i, original.length, {
+          type: "element", tagName: "section",
+          properties: { className: ["qod-relationships", "qod-relationship-columns"] },
+          children: [{ type: "element", tagName: "div", properties: { className: ["qod-relationship-grid"] }, children: original }],
+        })
+      }
+    }]
+  },
+} as any)
+// END OSC-QOD-RESPONSIVE-RELATIONSHIPS-V1
+
 export default config
 
 export const layout = await loadQuartzLayout()

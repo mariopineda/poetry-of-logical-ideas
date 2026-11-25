@@ -1088,3 +1088,33 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
 
 /* OSC-QOD-HIDE-BREADCRUMBS-V1 */
 #quartz-root:has(.qod-page-meta > button.qod-present-trigger:not(.qod-inline-content *, .qod-print-document *, .popover *, .transclude *)) nav.breadcrumb-container { display: none !important; }
+
+
+/* BEGIN OSC-QOD-RESPONSIVE-RELATIONSHIPS-V1 */
+/* Measure the content area, not the screen including the sidebar. */
+.qod-relationships { container: qod-related / inline-size; }
+.qod-relationships.qod-relationship-columns { margin: 1rem 0; }
+.qod-relationships > .qod-relationship-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: stretch;
+}
+.qod-relationships > .qod-relationship-grid > :is(.callout, .qod-relationship-card) {
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+@container qod-related (min-width: 42rem) {
+  .qod-relationships > .qod-relationship-grid:has(> :nth-child(2)) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .qod-relationships > .qod-relationship-grid:has(> :nth-child(3)) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media print {
+  .qod-relationships > .qod-relationship-grid { grid-template-columns: minmax(0, 1fr) !important; }
+}
+/* END OSC-QOD-RESPONSIVE-RELATIONSHIPS-V1 */
