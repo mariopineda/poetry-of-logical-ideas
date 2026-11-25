@@ -1084,3 +1084,7 @@ html[saved-theme="light"] body:has(.about-page-marker) .callout[data-callout="ab
 }
 
 /* QOD ONE QUESTION PER PAGE:END */
+
+
+/* OSC-QOD-HIDE-BREADCRUMBS-V1 */
+#quartz-root:has(.qod-page-meta > button.qod-present-trigger:not(.qod-inline-content *, .qod-print-document *, .popover *, .transclude *)) nav.breadcrumb-container { display: none !important; }
