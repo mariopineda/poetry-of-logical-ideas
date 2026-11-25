@@ -99,7 +99,28 @@ D. Use the **unrounded** model to predict when the covered area reaches $60\%$, 
 > $$r=(b-1)\times100\%\approx10.03\%\approx\boxed{10\%\text{ per week}}.$$
 > 
 > **D. Find 60% coverage:**
-> 
-> $$60=a\,b^t\implies t=\frac{\ln(60/a)}{\ln b}\approx\boxed{12.6\text{ weeks}}.$$
-> 
+>
+> **Method 1 - Graphical solution (Mathematics 30-2):**
+>
+> 1. Store the unrounded exponential regression model from Part B in `Y1`. The calculator uses $x$ for time $t$.
+> 2. In `Y=`, enter `Y2=60`.
+> 3. Set `WINDOW`: `Xmin=0`, `Xmax=18`, `Xscl=3`, `Ymin=0`, `Ymax=110`, `Yscl=20`.
+> 4. Press `GRAPH`. Then press `2nd` > `TRACE` > `5:intersect`. Select the regression curve and the horizontal line, then move the cursor near their intersection and press `ENTER` to confirm the guess.
+>
+> ![[EF_Reg_T4_Q07_Intersection.svg]]
+>
+> The intersection is approximately $(12.5997,60)$. The horizontal coordinate represents time; the vertical coordinate represents the target coverage.
+>
+> $$\boxed{t\approx12.6\text{ weeks}}$$
+>
+> The model predicts that the wetland reaches $60\%$ coverage approximately $12.6$ weeks after the first observation.
+>
+> **Method 2 - Algebraic solution using logarithms (alternative):**
+>
+> Use the unrounded coefficients from Part B.
+>
+> $$\begin{aligned}60&=ab^t\\ \frac{60}{a}&=b^t\\ \log(60/a)&=t\log b\\ t&=\frac{\log(60/a)}{\log b}\\ t&\approx12.5997\end{aligned}$$
+>
+> $$\boxed{t\approx12.6\text{ weeks}}$$
+>
 > **Limitation:** The model cannot remain valid indefinitely: coverage cannot exceed $100\%$. The 60% prediction is outside the observed 18–29% range, so it is an **extrapolation** and should be interpreted cautiously.
