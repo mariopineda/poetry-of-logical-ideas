@@ -6,7 +6,7 @@ course:
   - Mathematics 30-1
 topic: "Exponential Equations and Regression"
 learning_order: 3410
-show_solution: false
+show_solution: true
 source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice"
 source_question: 10
 domain: "Exponential Functions"
@@ -53,22 +53,6 @@ D. Predict week-20 output to the nearest unit.
 
 E. Estimate when weekly output first falls below six units and discuss the reliability of such a distant forecast.
 
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
-> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
-> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Polynomials/Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions|Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]
-> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
-
 ## Solution
 
 > [!example]- Show solution
@@ -105,4 +89,22 @@ E. Estimate when weekly output first falls below six units and discuss the relia
 > 
 > $$6=a\,b^t\implies t=\frac{\ln(6/a)}{\ln b}\approx\boxed{51.2\text{ weeks}}.$$
 > 
-> Because $b<1$, output is below six **after** that crossing. The observed data cover only weeks 0–5, so extending the trend to approximately 51 weeks is a substantial extrapolation; production may stop or stabilize before then.
+> **Graphical method (alternative):** Store the unrounded regression in `Y1` and enter `Y2=6`. Turn off the scatter plot if necessary, set `Xmin=0`, `Xmax=60`, `Ymin=0`, `Ymax=30` (to focus on the crossing), and use `2nd` → `TRACE` → `5:intersect`. The intersection is approximately $(51.22,6)$.
+>
+> Because $b<1$, output is below six **after** that crossing. For whole operating weeks, $Q(51)\approx6.17$ and $Q(52)\approx5.43$, so the first complete week with predicted output below six is **week 52**. The observed data cover only weeks 0–5, so extending the trend to approximately 51 weeks is a substantial extrapolation; production may stop or stabilize before then.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+> - [[Math/Exponential Functions/Exponential Functions 1|Exponential Functions 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Regression - Used Camera Prices 1|Exponential Regression - Used Camera Prices 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions|Polynomial Functions - Linear Regression 3 - Oil Sands GHG Emissions]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]

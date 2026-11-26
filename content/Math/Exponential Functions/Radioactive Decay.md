@@ -39,7 +39,13 @@ curriculum_review_required: null
 
 **Chernobyl Fallout: Modeling Cesium-137 Decay in a Swedish Forest**
 
-Cesium-137 has a half-life of approximately $30$ years. Suppose the concentration of cesium-137 in a Swedish forest was measured at $1200\text{ Bq/kg}$ in 1986.
+On April 26, 1986, a major nuclear accident occurred at the Chernobyl Nuclear Power Plant in what is now Ukraine. An explosion and subsequent fires released radioactive material into the atmosphere.
+
+Winds carried this material across large parts of Europe, including Sweden, where radioactive particles were deposited on the ground through a process known as *radioactive fallout*.
+
+One of the radioactive substances released was cesium-137. Because it has a half-life of approximately 30 years, it can remain present in forest ecosystems for decades. A *half-life* is the time required for the activity of a radioactive substance to decrease to half its previous value.
+
+For this mathematical model, suppose the initial activity concentration of cesium-137 in a Swedish forest was $1200\text{ Bq/kg}$ in 1986. Bq/kg means becquerels per kilogram (one becquerel is one radioactive decay per second). Use a half-life of $30$ years and assume that only radioactive decay changes the activity concentration. The initial value is hypothetical, not a documented historical measurement.
 
 Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 
@@ -47,6 +53,14 @@ Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 2. Determine the decay base $b$ from the $30$-year half-life. Round $b$ to four decimal places.
 3. Predict the concentration in 2025. Round to the nearest whole number.
 4. Determine how many years after 1986 it will take for the concentration to fall below $100\text{ Bq/kg}$. Round to the nearest whole year.
+
+> [!info] Scientific references
+> **World Health Organization — Radiation: The Chernobyl accident**  
+> https://www.who.int/news-room/questions-and-answers/item/radiation-the-chernobyl-accident  
+> **Swedish Meteorological and Hydrological Institute — The Chernobyl accident: A meteorological analysis of how radionucleides reached Sweden**  
+> https://www.smhi.se/en/publications-from-smhi/publications/1986-09-03-the-chernobyl-accident---a-meteorological-analysis-of-how-radionucleides-reached-sweden  
+> **U.S. Environmental Protection Agency — Radionuclide Basics: Cesium-137**  
+> https://www.epa.gov/radiation/radionuclide-basics-cesium-137
 
 ## Solution
 
@@ -109,7 +123,9 @@ Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 >
 > ### 4.
 >
-> Solve
+> **Graphical method (TI-83/TI-84):** Enter `Y1=1200(0.5)^(X/30)` and `Y2=100`. Use a window such as `Xmin=0`, `Xmax=150`, `Ymin=0`, `Ymax=1300`. Select `2nd` → `TRACE` → `5:intersect`. The curves intersect at approximately $(107.55,100)$. The decay curve is below 100 to the right of the intersection; the first complete year is 108.
+>
+> **Algebraic method (alternative):** Solve
 >
 > $$
 > 1200\left(\frac12\right)^{t/30}<100.

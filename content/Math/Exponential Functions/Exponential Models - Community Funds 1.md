@@ -42,11 +42,11 @@ review_date: 2026-11-26
 
 A community organization manages two separate funds to support its long-term activities.
 
-The **Development Fund** currently contains $\$1\,800$. The money is invested in an account earning $6\%$ annual interest, compounded annually. No additional deposits or withdrawals are made.
+The **Development Fund** currently contains 1,800 dollars. The money is invested in an account earning 6% annual interest, compounded annually. No additional deposits or withdrawals are made.
 
-The **Community Grant Fund** currently contains $\$3\,000$. At the end of each year, the organization distributes a fixed percentage of the fund's balance immediately before the distribution as grants to local community projects. The fund earns no interest and receives no additional contributions.
+The **Community Grant Fund** currently contains 3,000 dollars. At the end of each year, the organization distributes a fixed percentage of the fund's balance immediately before the distribution as grants to local community projects. The fund earns no interest and receives no additional contributions.
 
-After two complete years, the Community Grant Fund will contain $\$2\,539.20$.
+After two complete years, the Community Grant Fund will contain 2,539.20 dollars.
 
 Assume these arrangements remain unchanged.
 
@@ -122,10 +122,10 @@ C. Determine the minimum number of complete years required for the balance of th
 >
 > **Verify the adjacent complete years (either method).**
 >
-> | Complete years | Development Fund | Community Grant Fund |
+> | Complete years | Development Fund (dollars) | Community Grant Fund (dollars) |
 > |---:|---:|---:|
-> | 3 | $\$2\,143.83$ | $\$2\,336.06$ |
-> | 4 | $\$2\,272.46$ | $\$2\,149.18$ |
+> | 3 | 2,143.83 | 2,336.06 |
+> | 4 | 2,272.46 | 2,149.18 |
 >
 > The Development Fund is still smaller after three years but is larger after four years. Because the Development Fund increases and the Community Grant Fund decreases each year, no earlier completed year satisfies the condition.
 >
