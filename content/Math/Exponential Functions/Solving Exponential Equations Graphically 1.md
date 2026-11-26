@@ -32,6 +32,10 @@ source_mean_score:
 assessment_metadata_origin:
 review_status:
 review_date:
+used_in:
+  - "2026-11-25|B1"
+  - "2026-11-25|B2"
+  - "2026-11-25|B4"
 ---
 
 Use graphing technology to find every real solution to the nearest tenth.

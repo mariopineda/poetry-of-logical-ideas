@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-03|B2"
 ---
 
 A wildlife researcher records **8 consecutive animal sightings**. Only the species is recorded, so sightings of the same species are treated as identical.

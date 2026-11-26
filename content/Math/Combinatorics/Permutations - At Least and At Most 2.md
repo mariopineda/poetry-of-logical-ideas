@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-27|B2"
 ---
 
 A music teacher has **6 different songs** available for the closing sequence of a concert. Each song may be performed at most once, and the order of the songs matters.

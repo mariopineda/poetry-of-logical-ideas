@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-27|B4"
 ---
 
 A jewellery designer has **5 different rings** available for a display. The rings will be arranged in a single row, and each ring may be used only once.

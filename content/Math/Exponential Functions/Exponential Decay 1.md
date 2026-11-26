@@ -34,6 +34,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in:
+  - "2026-11-19|B2"
 ---
 
 A laptop worth \$1,200 loses $20\%$ of its value in one year. What is it worth after one year? If it loses another $20\%$ of its **new value** in the second year, what is it worth then?

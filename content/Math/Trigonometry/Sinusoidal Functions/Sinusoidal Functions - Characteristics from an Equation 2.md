@@ -33,6 +33,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-18|B2"
 ---
 
 Consider the sinusoidal function

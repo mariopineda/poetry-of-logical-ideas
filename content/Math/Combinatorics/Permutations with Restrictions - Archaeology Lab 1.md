@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-29|B1"
 ---
 
 An archaeology laboratory has **3 different pottery samples** and **5 different bone samples** waiting to be processed. All eight samples will be processed one at a time.

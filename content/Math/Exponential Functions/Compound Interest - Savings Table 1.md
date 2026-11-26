@@ -36,6 +36,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in:
+  - "2026-11-24|B2"
 ---
 
 A recent graduate puts a lump sum into a savings account to build an emergency fund. No additional deposits or withdrawals are made, and interest is compounded once per year. The table shows the year $x$ since opening the account and the corresponding balance $y$, in dollars. Use the pattern in the balances to determine how the investment grows.

@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-04|B1"
 ---
 
 The map shows a cyclist travelling from **Home** to the **Arena**. The cyclist must pass through the **Library**.

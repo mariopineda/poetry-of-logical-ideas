@@ -33,6 +33,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-06|B2"
 ---
 
 Simplify and state the non-permissible value as restrictions on the variable

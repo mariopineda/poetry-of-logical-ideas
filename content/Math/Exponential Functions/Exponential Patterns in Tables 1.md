@@ -32,6 +32,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in:
+  - "2026-11-20|B1"
 ---
 
 For every table, decide whether it is exponential, explain using successive ratios, determine the $y$-intercept, and classify any exponential trend as growth or decay.

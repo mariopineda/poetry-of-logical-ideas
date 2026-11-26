@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-11|B4"
 ---
 
 The table shows total greenhouse gas emissions from Canada's oil sands sector for selected years. The totals combine oil sands upgrading, in situ production, and mining/extraction. Let $x$ represent the number of years after 2010 and let $y$ represent total emissions, in megatonnes of carbon dioxide equivalent (Mt CO$_2$e).

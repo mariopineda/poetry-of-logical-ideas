@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-11|B1"
 ---
 
 The table shows Alberta's total annual greenhouse gas emissions for selected years. Let $x$ represent the number of years after 2015 and let $y$ represent total greenhouse gas emissions, in megatonnes of carbon dioxide equivalent (Mt CO$_2$e).

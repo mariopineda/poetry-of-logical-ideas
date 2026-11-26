@@ -33,6 +33,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-13|B4"
 ---
 
 Solve each equation by factoring.

@@ -32,6 +32,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in:
+  - "2026-11-19|B2"
 ---
 
 Without using logarithms, solve each equation. Explain your strategy.

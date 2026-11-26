@@ -36,6 +36,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-28|B2"
 ---
 
 An object is dropped from a platform $100$ m above the ground. The speed, $v$, in metres per second, of the object after it has fallen $h$ metres from its point of release is modelled by

@@ -37,6 +37,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-04|B1"
 ---
 
 A water tank contains **600 L** of water. The tank is being drained at a constant rate. The volume of water remaining after $t$ minutes is modelled by

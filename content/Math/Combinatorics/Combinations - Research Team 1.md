@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-05|B4"
 ---
 
 A conservation organization has **6 wildlife biologists** and **5 ecologists** available for a research project. A team of 4 researchers must be selected.

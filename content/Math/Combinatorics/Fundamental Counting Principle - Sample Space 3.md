@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-21|B4"
 ---
 
 One spinner has \(3\) equal sections labelled A, B, and C. A second spinner has \(8\) equal sections numbered \(1\) through \(8\). Each spinner is spun once.

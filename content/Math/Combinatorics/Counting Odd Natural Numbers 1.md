@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-30|B1"
 ---
 
 A microbiology laboratory assigns **three-digit natural identification numbers** to bacterial cultures using the digits

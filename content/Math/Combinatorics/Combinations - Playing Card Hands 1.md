@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-05|B2"
 ---
 
 A standard deck of playing cards contains 52 cards, including 13 cards of each suit and four sevens. Determine how many different **six-card hands** can be dealt if:

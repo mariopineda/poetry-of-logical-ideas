@@ -33,6 +33,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-08|B4"
 ---
 
 A small water tank contains **750 L** of water. It is being drained at a constant rate. The amount of water remaining after $t$ minutes is modelled by

@@ -31,6 +31,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-14|B2"
 ---
 
 Without using technology, match each polynomial function to **Graph A, B, C, D, E, or F**. Within each equation, the letters represent unspecified real coefficients; the same letter may have a different value in another equation. Therefore, a graphing calculator cannot produce a unique graph for any equation.

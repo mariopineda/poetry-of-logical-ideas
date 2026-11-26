@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-10-21|B2"
 ---
 
 A spinner has \(4\) equal sections labelled red, blue, green, and yellow. The spinner is spun once and a regular 6-sided die is rolled once.

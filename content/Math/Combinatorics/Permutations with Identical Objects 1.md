@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-03|B1"
 ---
 
 Eight runners compete in an international race. The result is recorded only by the runners' **countries**, so runners from the same country are treated as identical.

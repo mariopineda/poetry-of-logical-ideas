@@ -35,6 +35,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in:
+  - "2026-11-24|B4"
 ---
 
 During an archaeological survey, researchers recover an old wooden tool from a dry storage site. Laboratory analysis suggests that the wood contains $68\%$ of the carbon-14 that would be expected in a comparable living sample. The half-life of carbon-14 is approximately 5730 years. Using the model $C(t)=100(0.5)^{t/5730}$, where $C(t)$ is the percentage remaining after $t$ years, estimate when the wood stopped exchanging carbon with the environment, to the nearest year.

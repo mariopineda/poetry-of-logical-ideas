@@ -35,6 +35,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-11-04|B4"
 ---
 
 The map shows a person travelling from **Start** to **Finish**. The person must pass through **exactly one** of the following locations:

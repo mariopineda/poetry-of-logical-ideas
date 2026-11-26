@@ -32,6 +32,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-28|B1"
 ---
 
 The volume of fuel, $v$, in litres, remaining in a car's gas tank after the car has travelled $d$ kilometres is modelled by

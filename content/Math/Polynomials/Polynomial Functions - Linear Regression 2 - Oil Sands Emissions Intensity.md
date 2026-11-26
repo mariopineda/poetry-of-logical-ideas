@@ -31,6 +31,8 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in:
+  - "2026-09-11|B2"
 ---
 
 The table shows the total greenhouse gas emissions intensity of Alberta oil sands bitumen production for selected years. Let $x$ represent the number of years after 2012 and let $y$ represent emissions intensity, in tonnes of CO$_2$e per cubic metre of bitumen.
