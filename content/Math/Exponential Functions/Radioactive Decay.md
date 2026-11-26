@@ -5,7 +5,7 @@ course:
   - "Mathematics 30-1"
   - "Mathematics 30-2"
 topic: "Exponential Growth and Decay"
-show_solution: true
+show_solution: false
 diploma_eligible: true
 diploma_ready: false
 diploma_screening: strong-candidate-2026-11-22
@@ -49,10 +49,18 @@ For this mathematical model, suppose the initial activity concentration of cesiu
 
 Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 
-1. Write an exponential decay model in the form $A(t)=A_0b^t$.
-2. Determine the decay base $b$ from the $30$-year half-life. Round $b$ to four decimal places.
-3. Predict the concentration in 2025. Round to the nearest whole number.
-4. Determine how many years after 1986 it will take for the concentration to fall below $100\text{ Bq/kg}$. Round to the nearest whole year.
+1. Given that cesium-137 has a half-life of $30$ years, determine the annual decay factor $b$. Express your answer to four decimal places.
+2. Write an exponential decay model in the form $A(t)=A_0b^t$, representing the activity concentration of cesium-137 in the forest.
+3. Predict the activity concentration in 2025, to the nearest whole Bq/kg.
+4. Determine the minimum number of complete years after 1986 required for the activity concentration to fall below $100\text{ Bq/kg}$.
+
+Use unrounded values in subsequent calculations.
+
+> [!info]- Hint 1 — Questions 1–2
+> Does the half-life describe the multiplier for one year or for thirty years? Think about what the activity concentration must be after one half-life.
+
+> [!info]- Hint 2 — Question 4
+> On a graph, how could you represent the threshold of 100 Bq/kg? Remember that reaching the threshold and falling below it are not quite the same thing.
 
 > [!info] Scientific references
 > **World Health Organization — Radiation: The Chernobyl accident**  
@@ -61,95 +69,6 @@ Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 > https://www.smhi.se/en/publications-from-smhi/publications/1986-09-03-the-chernobyl-accident---a-meteorological-analysis-of-how-radionucleides-reached-sweden  
 > **U.S. Environmental Protection Agency — Radionuclide Basics: Cesium-137**  
 > https://www.epa.gov/radiation/radionuclide-basics-cesium-137
-
-## Solution
-
-> [!example]- Show solution
->
-> The initial concentration is $A_0=1200$.
->
-> ### 1.
->
-> $$
-> A(t)=1200b^t.
-> $$
->
-> ### 2.
->
-> A half-life of $30$ years means
->
-> $$
-> 600=1200b^{30}.
-> $$
->
-> Thus,
->
-> $$
-> b=\left(\frac12\right)^{1/30}\approx0.9771599684,
-> $$
->
-> so
->
-> $$
-> \boxed{b\approx0.9772}.
-> $$
->
-> Equivalently,
->
-> $$
-> \boxed{A(t)=1200\left(\frac12\right)^{t/30}}.
-> $$
->
-> ### 3.
->
-> For 2025,
->
-> $$
-> t=2025-1986=39.
-> $$
->
-> Then
->
-> $$
-> A(39)=1200\left(\frac12\right)^{39/30}
-> \approx487.35.
-> $$
->
-> Therefore,
->
-> $$
-> \boxed{487\text{ Bq/kg}}.
-> $$
->
-> ### 4.
->
-> **Graphical method (TI-83/TI-84):** Enter `Y1=1200(0.5)^(X/30)` and `Y2=100`. Use a window such as `Xmin=0`, `Xmax=150`, `Ymin=0`, `Ymax=1300`. Select `2nd` → `TRACE` → `5:intersect`. The curves intersect at approximately $(107.55,100)$. The decay curve is below 100 to the right of the intersection; the first complete year is 108.
->
-> **Algebraic method (alternative):** Solve
->
-> $$
-> 1200\left(\frac12\right)^{t/30}<100.
-> $$
->
-> This gives
->
-> $$
-> t>
-> 30\frac{\ln(1/12)}{\ln(1/2)}
-> \approx107.55.
-> $$
->
-> Therefore,
->
-> $$
-> \boxed{108\text{ years after 1986}},
-> $$
->
-> approximately the year
->
-> $$
-> \boxed{2094}.
-> $$
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
@@ -165,3 +84,84 @@ Let $A(t)$ be the concentration, in Bq/kg, $t$ years after 1986.
 
 > [!success] Build Toward
 > _No linked questions yet._
+
+## Solution
+
+> [!example]- Show solution
+>
+> **1. Determine the annual decay factor.**
+>
+> After one half-life of 30 years, the activity concentration is half its initial value, or 600 Bq/kg. Using $A(t)=A_0b^t$,
+>
+> $$
+> \begin{aligned}
+> 600&=1200b^{30}\\
+> b^{30}&=\frac12\\
+> b&=\left(\frac12\right)^{1/30}\\
+> b&\approx0.9771599684.
+> \end{aligned}
+> $$
+>
+> Since the base of an exponential function is positive, $\boxed{b\approx0.9772}$.
+>
+> **2. Construct the exponential decay model.**
+>
+> The initial activity concentration is $A_0=1200$. Substituting the annual decay factor gives
+>
+> $$\boxed{A(t)\approx1200(0.9772)^t}.$$
+>
+> An equivalent exact model, using the half-life directly, is
+>
+> $$\boxed{A(t)=1200\left(\frac12\right)^{t/30}}.$$
+>
+> Use this exact expression (or store the unrounded value of $b$) in subsequent calculations.
+>
+> **3. Predict the activity concentration in 2025.**
+>
+> Since $t=2025-1986=39$,
+>
+> $$A(39)=1200\left(\frac12\right)^{39/30}\approx487.35.$$
+>
+> The predicted activity concentration is $\boxed{487\text{ Bq/kg}}$.
+>
+> **4. Determine when the activity concentration falls below 100 Bq/kg.**
+>
+> **Method 1 — Graphical solution (TI-83/TI-84 family).**
+>
+> 1. In `Y=`, enter `Y1=1200(0.5)^(X/30)` and `Y2=100`.
+> 2. Set `WINDOW` to `Xmin=0`, `Xmax=150`, `Xscl=15`, `Ymin=0`, `Ymax=1300`, `Yscl=100`.
+> 3. Press `GRAPH`, then `2nd` → `TRACE` → `5:intersect`.
+> 4. Select the first curve and press `ENTER`; select the second curve and press `ENTER`. Move near the intersection and press `ENTER` again to confirm the guess.
+>
+> ![[Radioactive_Decay_Threshold_Intersection.svg]]
+>
+> The intersection is approximately $(107.5489,100)$. At this point the activity concentration is exactly 100 Bq/kg. To the right of the intersection the decay curve lies below the threshold, so $t>107.5489$ approximately.
+>
+> **Method 2 — Algebraic solution using logarithms (alternative).**
+>
+> First find the time at which the activity concentration equals 100 Bq/kg.
+>
+> $$
+> \begin{aligned}
+> 1200\left(\frac12\right)^{t/30}&=100\\
+> \left(\frac12\right)^{t/30}&=\frac1{12}\\
+> \frac{t}{30}\log\left(\frac12\right)&=\log\left(\frac1{12}\right)\\
+> t&=30\frac{\log(1/12)}{\log(1/2)}\\
+> t&\approx107.5489.
+> \end{aligned}
+> $$
+>
+> The model is strictly decreasing, so the activity concentration is below 100 Bq/kg after this crossing. No logarithms are needed for Method 1.
+>
+> **Verify the adjacent complete years (either method).**
+>
+> | Complete years after 1986 | Predicted activity concentration (Bq/kg) |
+> |---:|---:|
+> | 107 | 101.28 |
+> | 108 | 98.96 |
+>
+> Thus 107 complete years are not enough, but 108 complete years are. Since the activity concentration decreases continuously, no earlier whole year satisfies the condition.
+>
+> $$\boxed{108\text{ complete years after 1986}}$$
+>
+> This corresponds to the year $\boxed{2094}$.

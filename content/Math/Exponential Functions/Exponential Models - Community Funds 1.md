@@ -6,7 +6,7 @@ course:
   - Mathematics 30-1
 topic: "Applications of Exponential Functions"
 learning_order: 3501
-show_solution: true
+show_solution: false
 source: "Original QOD developed for cumulative exponential functions review"
 source_question: null
 domain: "Exponential Functions"
@@ -59,8 +59,24 @@ C. Determine the minimum number of complete years required for the balance of th
 > [!info]- Hint 1 — Part A
 > How is the balance of each fund affected by one annual transaction? The grant fund's balance after two years reflects two applications of the same multiplier.
 
-> [!info]- Hint 2 — Part C
+> [!info]- Hint 2 — Part B
+> Does the decay factor represent the proportion distributed as grants or the proportion remaining in the fund?
+
+> [!info]- Hint 3 — Part C
 > Think about what the intersection of the two graphs represents. Would a fractional year be a valid time for comparing the actual annual balances?
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Compound Interest - Savings Table 1|Compound Interest - Savings Table 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Growth - Comparing Investments 1|Exponential Growth - Comparing Investments 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
 
 ## Solution
 
@@ -132,16 +148,3 @@ C. Determine the minimum number of complete years required for the balance of th
 > $$\boxed{4\text{ complete years}}$$
 >
 > A direct year-by-year comparison using a table is also valid; it must establish that the first year satisfying the strict inequality is year 4.
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Compound Interest - Savings Table 1|Compound Interest - Savings Table 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Growth - Comparing Investments 1|Exponential Growth - Comparing Investments 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Exponential Functions/Compound Interest - Comparing Frequencies 1|Compound Interest - Comparing Frequencies 1]]
