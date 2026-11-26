@@ -7,7 +7,7 @@ type: qod-topic
 <div class="qod-topic-page-marker"></div>
 
 > [!info] Practice this topic
-> **96 Questions of the Day** · **Courses:** Not specified
+> **97 Questions of the Day** · **Courses:** Not specified
 >
 > [[Math/index|Browse all QODs]] · [[Math/QOD Map|View Learning Path]]
 
@@ -67,6 +67,7 @@ Practice questions for **Exponential Functions**.
 | [[Math/Exponential Functions/Exponential Growth and Decay 1\|Exponential Growth and Decay 1]] | Not specified |
 | [[Math/Exponential Functions/Exponential Growth and Decay 2\|Exponential Growth and Decay 2]] | Not specified |
 | [[Math/Exponential Functions/Exponential Growth and Decay 3\|Exponential Growth and Decay 3]] | Not specified |
+| [[Math/Exponential Functions/Exponential Models - Community Funds 1\|Exponential Models - Community Funds 1]] | Not specified |
 | [[Math/Exponential Functions/Exponential Models from Graphs 1\|Exponential Models from Graphs 1]] | Not specified |
 | [[Math/Exponential Functions/Exponential Patterns in Tables 1\|Exponential Patterns in Tables 1]] | Not specified |
 | [[Math/Exponential Functions/Exponential Regression - Apartment Rent 1\|Exponential Regression - Apartment Rent 1]] | Not specified |

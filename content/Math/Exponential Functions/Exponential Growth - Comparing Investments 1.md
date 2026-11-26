@@ -55,6 +55,7 @@ D. the time to reach $3600$, to the nearest tenth of a year.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Models - Community Funds 1|Exponential Models - Community Funds 1]]
 > - [[Math/Exponential Functions/Depreciation - Laptop Value 1|Depreciation - Laptop Value 1]]
 
 <!-- QOD-RELATIONSHIP-SEPARATOR -->

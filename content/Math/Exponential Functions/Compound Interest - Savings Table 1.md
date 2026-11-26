@@ -89,5 +89,6 @@ D. Determine total interest earned.
 <!-- QOD-RELATIONSHIP-SEPARATOR -->
 
 > [!success] Build Toward
+> - [[Math/Exponential Functions/Exponential Models - Community Funds 1|Exponential Models - Community Funds 1]]
 > - [[Math/Exponential Functions/Compound Interest - Annual Savings 1|Compound Interest - Annual Savings 1]]
 > - [[Math/Sequences and Series/Infinite Geometric Sequences 2|Infinite Geometric Sequences 2]]
