@@ -2,41 +2,41 @@
 type: qod
 publish: true
 course:
-  - "Mathematics 30-1"
-  - "Mathematics 30-2"
-topic: "Exponential Growth and Decay"
-show_solution: false
+  - Mathematics 30-1
+  - Mathematics 30-2
+topic: Exponential Growth and Decay
+show_solution: true
 diploma_eligible: true
 diploma_ready: false
 diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
-qod_id: "QOD-A833F9BF18074A5CF61A7C31"
-title: "Radioactive Decay"
+qod_id: QOD-A833F9BF18074A5CF61A7C31
+title: Radioactive Decay
 aliases: []
-domain: null
-learning_order: null
-estimated_minutes: null
-calculator: null
-question_format: null
+domain:
+learning_order:
+estimated_minutes:
+calculator:
+question_format:
 curriculum_alignment: []
 cognitive_level: []
 performance_standard: []
-source: null
-source_kind: null
-source_question: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
-curriculum_review_required: null
+source:
+source_kind:
+source_question:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
+curriculum_review_required:
 used_in:
-  - "2026-11-26|B4"
+  - 2026-11-26|B4
 ---
 
 **Chernobyl Fallout: Modeling Cesium-137 Decay in a Swedish Forest**
@@ -71,21 +71,6 @@ Use unrounded values in subsequent calculations.
 > https://www.smhi.se/en/publications-from-smhi/publications/1986-09-03-the-chernobyl-accident---a-meteorological-analysis-of-how-radionucleides-reached-sweden  
 > **U.S. Environmental Protection Agency — Radionuclide Basics: Cesium-137**  
 > https://www.epa.gov/radiation/radionuclide-basics-cesium-137
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
-> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> _No linked questions yet._
 
 ## Solution
 
@@ -167,3 +152,18 @@ Use unrounded values in subsequent calculations.
 > $$\boxed{108\text{ complete years after 1986}}$$
 >
 > This corresponds to the year $\boxed{2094}$.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Exponential Equations|Exponential Equations]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Decay 2|Exponential Decay 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Growth - Finance|Exponential Growth - Finance]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> _No linked questions yet._
