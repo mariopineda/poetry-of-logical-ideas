@@ -4,13 +4,13 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Exponential Equations and Regression"
+topic: Exponential Equations and Regression
 learning_order: 3406
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice
 source_question: 6
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation
 curriculum_review_required: false
 calculator: required
 diploma_eligible: true
@@ -19,24 +19,24 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
-qod_id: "QOD-081122B7A4DC3FF9D7256A46"
-title: "Exponential Regression - Culture Growth 1"
+qod_id: QOD-081122B7A4DC3FF9D7256A46
+title: Exponential Regression - Culture Growth 1
 aliases: []
-estimated_minutes: null
-question_format: null
+estimated_minutes:
+question_format:
 cognitive_level: []
 performance_standard: []
-source_kind: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
+source_kind:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
 used_in:
-  - "2026-11-27|B4"
+  - 2026-11-27|B4
 ---
 
 A technician at a biotechnology laboratory is monitoring the growth of a microorganism culture. The population is estimated at the beginning of the experiment and every hour thereafter.
@@ -51,29 +51,7 @@ A. Determine an exponential regression equation of the form $N(t)=ab^t$. Round b
 
 B. Using the unrounded regression equation, predict the population 10 hours after the beginning of the experiment. Round your answer to the nearest whole organism.
 
-C. The technician repeats the experiment using a second culture with the same initial population as the first. However, a treatment is applied at the beginning of the experiment that reduces the growth rate to $18\%$ per hour.
-
-Without using exponential regression, write an exponential function that models the population of the treated culture $t$ hours after the beginning of the experiment.
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
-> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
-> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
-> - [[Math/Exponential Functions/Exponential Growth - Information Spread 1|Exponential Growth - Information Spread 1]]
-> - [[Math/Exponential Functions/Exponential Patterns in Tables 1|Exponential Patterns in Tables 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
-> - [[Math/Exponential Functions/Exponential Regression - Wetland Coverage 1|Exponential Regression - Wetland Coverage 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
-> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]
+C. The technician repeats the experiment using a second culture with the **same initial population** as the first. However, a treatment is applied at the beginning of the experiment that reduces the growth rate to $18\%$ per hour. Without using exponential regression, write an exponential function that models the population of the treated culture $t$ hours after the beginning of the experiment.
 
 ## Solution
 
@@ -112,3 +90,23 @@ Without using exponential regression, write an exponential function that models 
 > $$\boxed{N_{\mathrm{treated}}(t)=4200(1.18)^t}$$
 >
 > **Check:** $N_{\mathrm{treated}}(0)=4200(1.18)^0=4200$, as required. The new model uses the measured initial population and the specified treatment growth rate.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 1|Doubling Time - Bacteria 1]]
+> - [[Math/Exponential Functions/Doubling Time - Bacteria 2|Doubling Time - Bacteria 2]]
+> - [[Math/Exponential Functions/Exponential Growth - Information Spread 1|Exponential Growth - Information Spread 1]]
+> - [[Math/Exponential Functions/Exponential Patterns in Tables 1|Exponential Patterns in Tables 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Regression - Substance Decay 1|Exponential Regression - Substance Decay 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Wetland Coverage 1|Exponential Regression - Wetland Coverage 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Data Analysis/Environmental Data Analysis - Glaciers Lost 1|Environmental Data Analysis - Glaciers Lost 1]]

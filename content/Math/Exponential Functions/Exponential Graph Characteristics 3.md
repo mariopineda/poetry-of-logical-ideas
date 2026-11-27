@@ -36,7 +36,7 @@ used_in:
   - "2026-11-20|B4"
 ---
 
-**10-minute QOD** â€” Without graphing, use the equations to answer the questions.
+Without graphing, use the equations to answer the questions.
 
 A. $y=4(3)^x$
 
