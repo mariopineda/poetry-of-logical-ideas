@@ -35,7 +35,8 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
-used_in: []
+used_in:
+  - "2026-11-27|B4"
 ---
 
 During a summer field project, students monitor a small wetland pond where floating plants are spreading across the water surface. They estimate the percentage of the pond covered by plants at the same time each week. The table shows the number of weeks $t$ since the first observation and the percentage $C$ of the water surface covered. A model fitted to these early observations may be useful for short-term prediction, but coverage cannot exceed 100\%.

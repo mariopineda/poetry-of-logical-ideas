@@ -35,20 +35,25 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
-used_in: []
+used_in:
+  - "2026-11-27|B1"
 ---
 
-A technician at a biotechnology lab grows a microorganism culture in a nutrient-rich container. Once each hour, the technician estimates how many organisms are present. The table records the observation time $x$, in hours since monitoring began, and the measured population $y$, in organisms. The technician wants to model the original growth and then compare it with a hypothetical treatment that reduces the growth rate.
+A technician at a biotechnology laboratory is monitoring the growth of a microorganism culture. The population is estimated at the beginning of the experiment and every hour thereafter.
 
-| $x$ | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| $y$ | 4200 | 6300 | 9450 | 14175 | 21263 |
+The table shows the elapsed time $t$, in hours, and the estimated population $N$, in organisms.
 
-A. Determine an exponential regression equation to hundredths.
+| Time $t$ (hours) | 0 | 1 | 2 | 3 | 4 |
+|---|---:|---:|---:|---:|---:|
+| Population $N$ | 4200 | 6300 | 9450 | 14175 | 21263 |
 
-B. Predict the population at observation 10.
+A. Determine an exponential regression equation of the form $N(t)=ab^t$. Round both coefficients to the nearest hundredth.
 
-C. A treatment changes growth to 18% per hour. Write the treated-population function taking the first observation as $t=1$.
+B. Using the unrounded regression equation, predict the population 10 hours after the beginning of the experiment. Round your answer to the nearest whole organism.
+
+C. The technician repeats the experiment using a second culture with the same initial population as the first. However, a treatment is applied at the beginning of the experiment that reduces the growth rate to $18\%$ per hour.
+
+Without using exponential regression, write an exponential function that models the population of the treated culture $t$ hours after the beginning of the experiment.
 
 > [!abstract] Review First
 > - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
@@ -85,25 +90,25 @@ C. A treatment changes growth to 18% per hour. Write the treated-population func
 > **Why the overlay matters:** the scattered markers are the **actual recorded observations**; the continuous curve is the model's **predicted values**. Their closeness tells us how well the function describes the measured trend. Exponential regression does not mean the points must lie exactly on the curve. Record rounded coefficients for reporting, but retain the calculator's full precision for predictions.
 > 
 > **Fitted scatter plot and exponential regression curve:**
-> 
-> ![[EF_Reg_T4_Q06.png]]
-> 
-> **Interpreting the regression equation:** The calculator fits $y=ab^x$. For this data, using additional digits before rounding,
-> 
-> $$\boxed{y\approx 2799.97(1.5000071)^x}.$$
-> 
-> The coefficient $a\approx2799.9737$ estimates the value when $x=0$; the base $b\approx1.500007$ is the estimated multiplier for an increase of one horizontal-axis unit. Here $b>1$, so the fitted values increase by approximately $50.00\%$ per unit.
-> 
-> **A. Regression equation:** approximately $N(t)=2799.97(1.50001)^t$. The initial coefficient estimates the population at $t=0$, one hour **before** the first observation.
-> 
-> **B. Forecast at hour 10.**
-> 
-> $$N(10)=a\,b^{10}\approx\boxed{161,468\text{ organisms}}.$$
-> 
-> This is **extrapolation** beyond the measured hours 1–5.
-> 
-> **C. Change the growth rate to 18% per hour.** The treated model starts at the observed $N(1)=4200$, and each subsequent hour multiplies by $1.18$. Because the starting point is at $t=1$ rather than $t=0$, the exponent is $t-1$:
-> 
-> $$\boxed{N_{\mathrm{treated}}(t)=4200(1.18)^{t-1}}.$$
-> 
-> **Check:** At $t=1$, $4200(1.18)^0=4200$, as required. The original regression and new treatment model describe different growth conditions.
+>
+> ![[EF_Reg_T4_Q06_ZeroStart.svg]]
+>
+> **A. Exponential regression equation.** Using `ExpReg` with the times 0 through 4 gives $a\approx4199.980247$ and $b\approx1.500007055$. Rounded to the nearest hundredth:
+>
+> $$\boxed{N(t)\approx4199.98(1.50)^t}$$
+>
+> The coefficient $a$ estimates the initial population; the base $b$ is the hourly growth factor. The model estimates an hourly growth rate of approximately $50\%$.
+>
+> **B. Population after 10 hours.** Use the unrounded regression equation stored in `Y1`. Evaluate `Y1(10)` (or use `2nd` → `TRACE` → `1:value` with $x=10$ and a suitable window).
+>
+> $$N(10)=ab^{10}\approx242203.4157$$
+>
+> $$\boxed{242203\text{ organisms}}$$
+>
+> This is extrapolation beyond the measured interval of 0–4 hours.
+>
+> **C. Construct the treated-population model.** Read the measured initial population from the table: $N(0)=4200$. The treatment gives an hourly growth rate of $18\%$, so the growth factor is $1+0.18=1.18$. No regression is needed.
+>
+> $$\boxed{N_{\mathrm{treated}}(t)=4200(1.18)^t}$$
+>
+> **Check:** $N_{\mathrm{treated}}(0)=4200(1.18)^0=4200$, as required. The new model uses the measured initial population and the specified treatment growth rate.
