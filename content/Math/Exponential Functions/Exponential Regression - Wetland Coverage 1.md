@@ -4,13 +4,13 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Exponential Equations and Regression"
+topic: Exponential Equations and Regression
 learning_order: 3407
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice
 source_question: 7
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation
 curriculum_review_required: false
 calculator: required
 diploma_eligible: true
@@ -19,24 +19,24 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
-qod_id: "QOD-F04C95E95FA6FEC5A9125F92"
-title: "Exponential Regression - Wetland Coverage 1"
+qod_id: QOD-F04C95E95FA6FEC5A9125F92
+title: Exponential Regression - Wetland Coverage 1
 aliases: []
-estimated_minutes: null
-question_format: null
+estimated_minutes:
+question_format:
 cognitive_level: []
 performance_standard: []
-source_kind: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
+source_kind:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
 used_in:
-  - "2026-11-27|B4"
+  - 2026-11-27|B1
 ---
 
 During a summer field project, students monitor a small wetland pond where floating plants are spreading across the water surface. They estimate the percentage of the pond covered by plants at the same time each week. The table shows the number of weeks $t$ since the first observation and the percentage $C$ of the water surface covered. A model fitted to these early observations may be useful for short-term prediction, but coverage cannot exceed 100\%.
@@ -52,23 +52,6 @@ B. Fit an exponential regression $C(t)=ab^t$ and graph the regression curve on t
 C. Estimate the weekly percentage growth to the nearest percent.
 
 D. Use the **unrounded** model to predict when the covered area reaches $60\%$, to the nearest tenth of a week. Explain a limitation of the model.
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
-> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
-> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
-> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1|Environmental Data Analysis - Seasonal Sea Ice Extent 1]]
-> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
 
 ## Solution
 
@@ -126,3 +109,20 @@ D. Use the **unrounded** model to predict when the covered area reaches $60\%$, 
 > $$\boxed{t\approx12.6\text{ weeks}}$$
 >
 > **Limitation:** The model cannot remain valid indefinitely: coverage cannot exceed $100\%$. The 60% prediction is outside the observed 18–29% range, so it is an **extrapolation** and should be interpreted cautiously.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Exponential Functions/Exponential Growth 2|Exponential Growth 2]]
+> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Regression - Culture Growth 1|Exponential Regression - Culture Growth 1]]
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Data Analysis/Environmental Data Analysis - Seasonal Sea Ice Extent 1|Environmental Data Analysis - Seasonal Sea Ice Extent 1]]
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]

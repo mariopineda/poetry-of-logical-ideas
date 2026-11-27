@@ -36,7 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 used_in:
-  - "2026-11-27|B1"
+  - "2026-11-27|B4"
 ---
 
 A technician at a biotechnology laboratory is monitoring the growth of a microorganism culture. The population is estimated at the beginning of the experiment and every hour thereafter.
