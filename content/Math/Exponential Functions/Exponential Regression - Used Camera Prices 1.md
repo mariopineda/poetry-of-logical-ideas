@@ -4,13 +4,13 @@ publish: true
 course:
   - Mathematics 30-2
   - Mathematics 30-1
-topic: "Exponential Equations and Regression"
+topic: Exponential Equations and Regression
 learning_order: 3409
-show_solution: false
-source: "Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice"
+show_solution: true
+source: Original equivalent of CHC Mathematics 30-2 Exponential Functions, Topic 4 Practice
 source_question: 9
-domain: "Exponential Functions"
-curriculum_alignment: "30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation"
+domain: Exponential Functions
+curriculum_alignment: 30-2 Relations and Functions SO6.4–6.6, exponential regression and interpretation
 curriculum_review_required: false
 calculator: required
 diploma_eligible: true
@@ -19,24 +19,24 @@ diploma_screening: strong-candidate-2026-11-22
 tags:
   - qod
   - diploma-preparation
-qod_id: "QOD-614AD62B804C5F2935E8AD59"
-title: "Exponential Regression - Used Camera Prices 1"
+qod_id: QOD-614AD62B804C5F2935E8AD59
+title: Exponential Regression - Used Camera Prices 1
 aliases: []
-estimated_minutes: null
-question_format: null
+estimated_minutes:
+question_format:
 cognitive_level: []
 performance_standard: []
-source_kind: null
-source_topic: null
-source_format: null
-source_equivalence: null
-source_percent_correct: null
-source_mean_score: null
-assessment_metadata_origin: null
-review_status: null
-review_date: null
+source_kind:
+source_topic:
+source_format:
+source_equivalence:
+source_percent_correct:
+source_mean_score:
+assessment_metadata_origin:
+review_status:
+review_date:
 used_in:
-  - "2026-11-27|B2"
+  - 2026-11-27|B2
 ---
 
 A photography student is researching the resale market before buying a used camera body. The student gathers asking prices for similar models in comparable condition, grouping them by age. In the table, $x$ is the age of the camera in years and $y$ is its typical listed price, in Canadian dollars. The goal is to model the overall depreciation trend, not to predict the exact price of an individual camera.
@@ -50,26 +50,6 @@ A. Find exponential regression $P(t)=ab^t$, coefficients to hundredths.
 B. Estimate initial selling price to nearest dollar.
 
 C. Determine percentage loss per year, to nearest whole percent.
-
-> [!abstract] Review First
-> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
-> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
-> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
-> - [[Math/Exponential Functions/Appreciation and Depreciation 1|Appreciation and Depreciation 1]]
-> - [[Math/Exponential Functions/Depreciation - Camera Value 1|Depreciation - Camera Value 1]]
-> - [[Math/Exponential Functions/Depreciation and Loan Repayment 1|Depreciation and Loan Repayment 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!info] Explore Also
-> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
-> - [[Math/Exponential Functions/Exponential Regression - Production Decline 1|Exponential Regression - Production Decline 1]]
-
-<!-- QOD-RELATIONSHIP-SEPARATOR -->
-
-> [!success] Build Toward
-> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
-> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
 
 ## Solution
 
@@ -106,3 +86,23 @@ C. Determine percentage loss per year, to nearest whole percent.
 > $$d=(1-b)\times100\%\approx13.94\%\approx\boxed{14\%}.$$
 > 
 > **Interpretation:** The observations cover ages 2–6 years. Estimating the price at age 0 is **backward extrapolation**, not a recorded retail price. Condition, model changes, and market fluctuations could affect actual prices.
+
+> [!abstract] Review First
+> - [[Math/Exponential Functions/Common Ratio 4|Common Ratio 4]]
+> - [[Math/Exponential Functions/Exponential Decay 1|Exponential Decay 1]]
+> - [[Math/Exponential Functions/Exponential Functions 2|Exponential Functions 2]]
+> - [[Math/Exponential Functions/Appreciation and Depreciation 1|Appreciation and Depreciation 1]]
+> - [[Math/Exponential Functions/Depreciation - Camera Value 1|Depreciation - Camera Value 1]]
+> - [[Math/Exponential Functions/Depreciation and Loan Repayment 1|Depreciation and Loan Repayment 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!info] Explore Also
+> - [[Math/Exponential Functions/Exponential Models from Graphs 1|Exponential Models from Graphs 1]]
+> - [[Math/Exponential Functions/Exponential Regression - Production Decline 1|Exponential Regression - Production Decline 1]]
+
+<!-- QOD-RELATIONSHIP-SEPARATOR -->
+
+> [!success] Build Toward
+> - [[Math/Logarithmic Functions/Logarithmic Functions 1|Logarithmic Functions 1]]
+> - [[Math/Polynomials/Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions|Polynomial Functions - Linear Regression 1 - Alberta GHG Emissions]]
