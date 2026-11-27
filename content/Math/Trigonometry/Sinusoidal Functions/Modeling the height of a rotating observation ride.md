@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating observation ride has radius $24$ m and takes $18$ minutes to complete one revolution. Passengers board at the lowest point, $1.5$ m above the ground. Write a sinusoidal function for passenger height $h(t)$, in metres, where $t$ is minutes after boarding. Determine the height after $6$ minutes and justify the amplitude, midline, and period.

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An inspection robot travels at constant speed around a circular track of radius $120$ m. The lowest point of the track is $15$ m above a **horizontal reference line**. A sensor records the robot's **perpendicular distance above that line**. The robot completes five laps in $30$ minutes.

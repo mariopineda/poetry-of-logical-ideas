@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Find the point where the terminal arm of $155^\circ$ meets the unit circle. Round both coordinates to two decimal places and justify the signs.

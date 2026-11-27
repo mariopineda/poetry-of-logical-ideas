@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Assume $\sin\theta\ne0$ and $\cos\theta\ne0$. Simplify each expression to a constant, then order them **from least to greatest**, explaining the trigonometric identities used:

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A box contains $5$ red beads, $4$ green beads and $3$ black beads. A bead is selected, returned to the box, and then a second bead is selected. Find the probability of selecting **two red beads**, to the nearest hundredth. Explain why multiplication is valid.

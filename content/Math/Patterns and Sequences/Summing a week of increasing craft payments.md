@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An artisan cooperative pays a helper **3 dollars** on the first of seven consecutive workdays. Each day after the first, the helper is paid **twice** the previous day's amount.

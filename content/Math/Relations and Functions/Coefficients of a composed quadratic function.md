@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Let $f(x)=x^2+2x+7$ and $g(x)=3x+2$. Express $(f\circ g)(x)$ in the form $ax^2+bx+c$, then determine $a$, $b$, and $c$.

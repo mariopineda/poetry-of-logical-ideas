@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A sensor's calibration curve is represented by $y=f(x)$ and contains the point $(-2,5)$. A second calibration curve is defined by $g(x)=3f(2x-4)+1$. Determine the corresponding point on the graph of $g$, and explain each coordinate change.

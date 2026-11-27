@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A gallery arranges six small printed display cards in a row: **three identical landscape cards**, **two identical bird cards**, and **one abstract card**. Cards that look identical are indistinguishable.

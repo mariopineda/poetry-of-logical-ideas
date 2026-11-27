@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A weather station predicted rain correctly on 74 of 250 monitored days. Treat each day as equally likely. Determine the **odds against** randomly selecting a day when rain was correctly predicted. Express the answer in lowest terms and explain the ordering of the ratio.

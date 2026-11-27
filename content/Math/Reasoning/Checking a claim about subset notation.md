@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A community centre surveyed $36$ members about whether they attend the ceramics club ($C$) and the photography club ($P$). The partially completed Venn diagram shows the numbers attending only ceramics, both clubs, and only photography.

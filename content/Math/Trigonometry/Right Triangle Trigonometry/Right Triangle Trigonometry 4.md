@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 1. Determine, to the nearest whole degree, the measure of $\angle C$ in $\triangle ABC$ where $c=4$ cm, $b=6$ cm and $\angle A = 90^\circ$.

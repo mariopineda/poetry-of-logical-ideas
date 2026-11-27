@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two points $Q(4,\frac23)$ and $P(k,\frac53)$ lie on the logarithmic curve $y=\log_b x$, where $b>1$. Determine the base $b$ and the coordinate $k$. Use the accompanying graph to verify that your answer is reasonable.

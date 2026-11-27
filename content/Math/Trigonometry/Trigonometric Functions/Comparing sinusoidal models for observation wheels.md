@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two observation wheels begin with their passenger pods at the lowest point, $2\,\mathrm{m}$ above the ground. The wheels have diameters $16\,\mathrm{m}$ and $30\,\mathrm{m}$ and each takes $50$ seconds to complete one revolution.

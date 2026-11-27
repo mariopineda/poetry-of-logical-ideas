@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The function $f(x)=2x-3$ has an inverse. Determine the point on its graph that is unchanged when the graph is reflected across $y=x$. Verify your result using an equation for $f^{-1}(x)$.

@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A transit operator categorizes each trip as **early**, **on time**, or **late**. The probabilities of an early arrival and an on-time arrival are $0.18$ and $0.57$, respectively. Assuming those categories are mutually exclusive and exhaustive, determine the probability of a late arrival. Record your answer to the nearest hundredth.

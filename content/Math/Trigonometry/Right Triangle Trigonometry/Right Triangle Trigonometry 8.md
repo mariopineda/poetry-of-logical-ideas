@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two forest fires are spotted on opposite sides of an observation tower. From the top of the tower, the angle of depression to one fire is $3^\circ$. The angle of depression to the other fire is $7^\circ$.

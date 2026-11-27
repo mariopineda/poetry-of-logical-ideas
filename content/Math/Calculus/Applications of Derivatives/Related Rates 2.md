@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The area of an equilatral triangle is decreasing at a rate of 12 cm$^2$/s. Find the rate at which the side is changing when the area is $p \sqrt{3}$ cm$^2$.

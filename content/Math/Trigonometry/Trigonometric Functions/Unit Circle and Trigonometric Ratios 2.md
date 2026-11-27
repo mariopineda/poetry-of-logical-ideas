@@ -34,6 +34,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Use a $45^\circ$-$45^\circ$-$90^\circ$ triangle to find the exact values of

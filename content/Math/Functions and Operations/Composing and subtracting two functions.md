@@ -39,6 +39,7 @@ source_mean_score: "3.2/5"
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The diagram shows two **quadratic functions**, $f$ and $g$, both defined for $-3\le x\le1$. Use information read from the graphs rather than assuming a formula.

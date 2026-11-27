@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An arch profile is modeled by $f(x)=-3(x+4)^2+7$. Provide two different maximal domain restrictions that make its inverse a function. Justify using the shape of the parabola.

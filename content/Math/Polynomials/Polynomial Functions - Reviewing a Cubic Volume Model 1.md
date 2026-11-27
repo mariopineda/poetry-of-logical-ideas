@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A company makes a rectangular box with interior dimensions $8$ cm by $5$ cm by $3$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le4$.

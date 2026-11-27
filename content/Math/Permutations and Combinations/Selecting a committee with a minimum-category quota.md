@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A science fair has six student researchers and five student artists. A four-person committee is to contain at least three researchers. How many distinct committees are possible? Explain each case.

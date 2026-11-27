@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A science fair has $11$ projects. Two projects are selected to receive a gold award and a silver award. Determine the number of possible outcomes. Compare this with selecting **two finalists without ranking them**, and explain the difference.

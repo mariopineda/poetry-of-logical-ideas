@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A point $Q(2,25)$ lies on the exponential function $y=c^x$, where $c>1$. First determine $c$. Then find the coordinates of the corresponding point after the graph is transformed to

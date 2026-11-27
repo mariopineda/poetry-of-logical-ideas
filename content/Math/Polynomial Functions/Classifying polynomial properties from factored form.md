@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $y=(x-2)^2(x+4)$, state the degree, real $x$-intercepts, domain, and range. Explain how multiplicities influence the intercepts.

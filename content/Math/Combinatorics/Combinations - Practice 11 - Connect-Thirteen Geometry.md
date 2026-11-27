@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Thirteen distinct points are marked on a circle. How many different straight **chords** can be drawn if every chord connects two distinct marked points? Explain why order does not matter.

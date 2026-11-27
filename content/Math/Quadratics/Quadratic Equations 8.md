@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Rachel is putting up a fence around the rectangular pasture where her horse Jason is grazing. She has 150 ft of fencing material and the pasture will have an area of 2808 ft$^2$. She needs to determine the dimensions of the enclosure.

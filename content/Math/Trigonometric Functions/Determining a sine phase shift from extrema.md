@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The partial graph of $f(x)=a\sin[b(x-c)]+d$, where $a>0$ and $b>0$, is shown. The horizontal axis uses radians.

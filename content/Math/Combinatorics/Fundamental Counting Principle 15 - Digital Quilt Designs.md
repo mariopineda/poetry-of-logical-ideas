@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A digital quilt is assembled from square panels. Each panel can show exactly one of the available fabric-inspired patterns, and patterns **may repeat**.

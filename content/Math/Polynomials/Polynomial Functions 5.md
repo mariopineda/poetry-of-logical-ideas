@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the number of x-intercepts, the type of turning point(s) and the end behaviour of the following polynomials.

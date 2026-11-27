@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify the rational expression and state **all non-permissible values** of the original expression:

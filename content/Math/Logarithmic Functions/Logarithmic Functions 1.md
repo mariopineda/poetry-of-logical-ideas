@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the following characteristics for $y=b^x$ and $y=\log_{b}{x}, x>0$

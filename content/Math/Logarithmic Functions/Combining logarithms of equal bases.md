@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Rewrite the expression below as **one logarithm** with base 5. State the resulting argument, and name the law you use.

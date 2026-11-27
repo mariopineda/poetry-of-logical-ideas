@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The universal set is $U=\{1,2,3,4,5,6,7,8\}$. Choose two **nonempty disjoint subsets** $A$ and $B$ and draw a labelled Venn diagram of your choice in the rectangle below. Place every member of $U$ in its appropriate region.

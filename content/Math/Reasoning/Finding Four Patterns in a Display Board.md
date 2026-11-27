@@ -39,6 +39,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An exhibit uses four digital indicators. The numbers displayed by each indicator follow their own rule. **Assume each rule is either arithmetic (a constant difference) or geometric (a constant ratio).** The first three observations are shown.

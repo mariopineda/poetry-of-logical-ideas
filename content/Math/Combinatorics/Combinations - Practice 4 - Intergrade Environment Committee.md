@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A student committee of **six** members must be selected from **seven Grade 12** and **nine Grade 11** volunteers. Committee membership has no assigned roles. Determine the number of possible committees if:

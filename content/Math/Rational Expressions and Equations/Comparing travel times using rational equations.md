@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A ferry and an express train each cover a $540$ km route. The express train's average speed is **four times** the ferry's speed. The ferry requires **nine hours longer** than the express train.

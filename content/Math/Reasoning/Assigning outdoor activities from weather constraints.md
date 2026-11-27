@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A nature club schedules **painting**, **birdwatching**, and **canoeing**, one activity per day on Monday, Tuesday and Wednesday. Painting requires dry weather; canoeing requires weather without a thunderstorm; birdwatching can occur in any weather. Exactly one day will be rainy and calm, one will be dry and calm, and one will have a thunderstorm. Monday will not be dry, Tuesday will have a thunderstorm, and Wednesday will be dry. Determine which activity is scheduled each day and explain the deduction.

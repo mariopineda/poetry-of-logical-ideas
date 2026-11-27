@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bag contains $24$ equally likely tokens. Eight have a star, six are green, and exactly three have both attributes. Determine the probability that a randomly drawn token **has a star or is green**. Explain why adding the two category probabilities without adjustment would be incorrect.

@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A soccer team finishes 18 matches with **12 wins**, **4 losses**, and **2 draws**. How many distinct chronological sequences of results could produce this final record?

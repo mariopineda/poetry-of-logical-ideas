@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A point $P=(a,-3a)$ lies on the unit circle, with $a>0$. Determine the exact value of $a$ and the coordinates of $P$. State the quadrant.

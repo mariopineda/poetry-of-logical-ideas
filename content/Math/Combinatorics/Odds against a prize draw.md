@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The probability that a contestant wins a gallery door prize is $\frac{7}{15}$. Find the odds **against** winning and explain the difference between odds and probability.

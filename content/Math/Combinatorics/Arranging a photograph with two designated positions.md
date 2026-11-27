@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Eleven athletes stand in a single row for a team photograph. The team captain must stand in the middle position, and the goalkeeper must stand at either end. All athletes are distinguishable. How many arrangements are possible? Explain the counting principle used.

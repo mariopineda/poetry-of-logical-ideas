@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 In the universe $U=\{\text{apple, pear, peach, plum, kiwi, mango, grape}\}$, let $R=\{\text{apple, peach, mango}\}$. Find the complement $R^c$ relative to $U$, showing your set notation.

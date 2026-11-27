@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The terminal arm of an angle of $35^\circ$ intersects the unit circle at $P(x,y)$. Determine the coordinates to the nearest hundredth, showing the sine and cosine relationship.

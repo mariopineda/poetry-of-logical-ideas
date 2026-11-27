@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A portfolio binder holds $12$ landscape photographs, $9$ wildlife photographs, and $7$ abstract photographs. Two prints are selected **without replacement**, one after another. Determine the probability that the first print is a landscape and the second is an abstract photograph. Round to the nearest thousandth.

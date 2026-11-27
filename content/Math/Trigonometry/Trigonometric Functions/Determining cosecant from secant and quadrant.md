@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For an angle $\theta$ in quadrant IV, $\sec\theta=17/15$. Determine the exact value of $\csc\theta$, showing the appropriate sign.

@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $7=10^{x-5}$ and give $x$ to the nearest hundredth. Show the logarithmic step.

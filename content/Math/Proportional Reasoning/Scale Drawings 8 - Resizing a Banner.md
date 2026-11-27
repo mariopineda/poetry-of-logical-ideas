@@ -34,6 +34,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 A web banner measures **7.5 cm wide and 3 cm high** in a printed proof. **(a)** If the new width is 5 cm, what height preserves the proportions? **(b)** If the height becomes 4.2 cm, what width is needed?
 

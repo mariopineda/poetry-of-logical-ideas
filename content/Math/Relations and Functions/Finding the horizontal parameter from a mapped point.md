@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A sensor-response curve $y=f(x)$ is transformed to $g(x)=3f(b(x+2))$, where $b>0$. The point $(6,-2)$ on $f$ corresponds to $(-1,-6)$ on $g$. Determine $b$ and explain why the $y$-coordinate is consistent with the transformation.

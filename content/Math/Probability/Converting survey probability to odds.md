@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Among **120** randomly surveyed residents, **36** have both a transit pass and a bicycle. A resident is selected at random.

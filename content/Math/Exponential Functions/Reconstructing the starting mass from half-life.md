@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A radioactive tracer has a half-life of 30 years. After 75 years, 16 g remains. Assuming exponential decay, determine its original mass, to the nearest tenth of a gram.

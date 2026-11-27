@@ -38,6 +38,7 @@ source_mean_score: null
 assessment_metadata_origin: "Original authoring and curriculum review; no historical diploma data"
 review_status: strong-diploma-candidate
 review_date: 2026-11-26
+used_in: []
 ---
 
 A community organization manages two separate funds to support its long-term activities.

@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 At a bead-making workshop, a jar contains **5 bronze-coloured beads**, **4 blue beads**, and **8 amber beads**. Beads are selected blindly, one at a time.

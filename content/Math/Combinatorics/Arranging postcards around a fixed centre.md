@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A gallery has $10$ distinct postcards and space for exactly $6$ in one horizontal row. One particular postcard must occupy the **third position**. Determine the number of different displays and justify whether to use permutations or combinations.

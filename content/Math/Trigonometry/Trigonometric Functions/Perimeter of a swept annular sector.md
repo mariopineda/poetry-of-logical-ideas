@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating laboratory arm sweeps an annular sector through an angle of $\frac{\pi}{3}$ radians. The inner edge is $8$ cm from the pivot and the outer edge is $18$ cm from it. The diagram shows the region swept, including its straight radial boundaries.

@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum uses a **four-letter access code** for its digital archive. Each position may contain any of the eight letters $A,B,C,D,E,F,G,H$. The order of the letters matters.

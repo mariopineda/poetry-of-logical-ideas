@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two players alternately remove $1$, $2$, or $3$ counters from a pile. The player who takes the last counter wins. There are $13$ counters remaining, and Casey moves next. Determine a first move that guarantees victory if Casey plays optimally. Explain the strategy for every possible response by the other player.

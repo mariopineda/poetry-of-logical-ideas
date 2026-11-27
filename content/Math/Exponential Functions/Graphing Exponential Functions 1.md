@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Sketch each function, label the $y$-intercept, and give its $x$-intercepts, end behaviour, domain, and range.

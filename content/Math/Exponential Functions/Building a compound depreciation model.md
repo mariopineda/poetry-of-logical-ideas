@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A conservation survey recorded $8\,500$ nesting sites. Analysts expect the count to decline by $6\%$ each year. Write an exponential model for the predicted number of sites $N(t)$ after $t$ years, and estimate the number remaining after $5$ years.

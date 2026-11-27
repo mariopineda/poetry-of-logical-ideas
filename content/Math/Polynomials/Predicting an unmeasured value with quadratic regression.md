@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A vibration sensor recorded the following experimental results. A **quadratic regression model** $y=ax^2+bx+c$ is appropriate.

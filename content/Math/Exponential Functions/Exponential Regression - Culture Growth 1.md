@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A technician at a biotechnology lab grows a microorganism culture in a nutrient-rich container. Once each hour, the technician estimates how many organisms are present. The table records the observation time $x$, in hours since monitoring began, and the measured population $y$, in organisms. The technician wants to model the original growth and then compare it with a hypothetical treatment that reduces the growth rate.

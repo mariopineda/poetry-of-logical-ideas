@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A lighthouse beam makes an angle $\theta$ in standard position, where $90^\circ\leq\theta\leq180^\circ$. Measurements show that

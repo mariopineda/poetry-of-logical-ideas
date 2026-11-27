@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A courier completed 67 of 200 attempted deliveries on the first visit. Based on these data, express the odds **against** a first-visit delivery as a ratio in simplest form.

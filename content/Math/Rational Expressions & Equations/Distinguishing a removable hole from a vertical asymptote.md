@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A signal model is $R(x)=\dfrac{(x-5)(x+2)}{(x-5)(2x+3)}$. Find the vertical asymptote and the removable discontinuity. State the original domain restrictions, and explain why the two discontinuities differ.

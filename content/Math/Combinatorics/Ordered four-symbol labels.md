@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A jewellery workshop makes four-letter product tags using distinct letters from the word **SILVER**. No letter may be repeated. How many different tags are possible? Explain why order matters.

@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For each position function, where $s$ is measured in metres and $t$ in seconds, determine exactly the **magnitude** of the average velocity from $t=0$ s to $t=6$ s.

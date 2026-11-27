@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A digital-art installation displays **five-digit natural numbers** made using the digits \(0,1,2,3,4,5,6,7\), with **no repeated digits**.

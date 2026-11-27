@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Suppose $a=\log_3 5$ and $b=\log_3 8$. Express $\log_3 200$ in terms of $a$ and $b$, showing the relevant product and power rules.

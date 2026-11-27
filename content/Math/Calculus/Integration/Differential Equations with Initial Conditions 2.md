@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A stone is tossed upward at $8\text{ m/s}$ from the edge of a cliff $63$ m high. How long will it take the stone to hit the ground at the foot of the cliff?

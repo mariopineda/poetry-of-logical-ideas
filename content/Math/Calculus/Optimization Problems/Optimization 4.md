@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Boat A is located $D$ km due south of boat B. Boat A moves north at $v_A$ km/h while, at the same time, boat B moves east at $v_B$ km/h.

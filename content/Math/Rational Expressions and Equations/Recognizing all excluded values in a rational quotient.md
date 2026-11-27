@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine every non-permissible value of $x$ in $$\frac{x-4}{x(x+5)}\div\frac{x-4}{x-2}.$$ Explain why the divisor creates an additional restriction.

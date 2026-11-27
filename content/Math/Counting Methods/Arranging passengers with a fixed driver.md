@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A vehicle has six distinct seats, including the driver's seat. Four adults will travel, and one particular adult must drive. In how many ways can they be seated if some seats may remain vacant?

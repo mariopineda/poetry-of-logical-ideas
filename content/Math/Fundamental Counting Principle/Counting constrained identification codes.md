@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A research lab labels specimens with a fixed letter **K** followed by **five digits**. The first digit must be 1, 2, or 3. Each of the other four digits can be 0 through 9, and repetitions are permitted.

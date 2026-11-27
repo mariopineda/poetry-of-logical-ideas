@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Assuming $p>0$, $q>0$, and $b>1$, expand $\log_b\!\left((pq)^3\right)$ into a sum of logarithms of $p$ and $q$. Justify every algebraic law used.

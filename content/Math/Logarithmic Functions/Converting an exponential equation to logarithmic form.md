@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Express $7=2^{3x-5}$ as an equivalent logarithmic equation. Then isolate $x$ exactly.

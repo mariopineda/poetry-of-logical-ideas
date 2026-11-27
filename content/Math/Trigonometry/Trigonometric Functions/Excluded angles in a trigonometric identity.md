@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Consider the expression $\dfrac{\sec x-\cos x}{\tan x}$. Simplify it to a single trigonometric function, and identify **all** real values of $x$ excluded from the domain of the original expression. Explain why simplification must not restore these values.

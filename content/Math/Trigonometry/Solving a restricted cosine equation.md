@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $\cos(x-15^\circ)=\frac12$ for $0^\circ<x<90^\circ$. Give the answer to the nearest degree and justify the solution in the specified interval.

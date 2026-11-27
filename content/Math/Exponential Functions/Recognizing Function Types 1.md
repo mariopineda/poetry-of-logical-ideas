@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 The six graphs in the figure represent linear, quadratic, cubic, or exponential functions. Identify the function family of each graph and explain which features distinguish exponential functions from polynomial functions.

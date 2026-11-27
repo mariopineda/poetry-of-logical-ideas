@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two seismic stations report magnitude measurements of $8.1$ and $6.7$ for different earthquakes. For this model, the ratio of shaking intensities is $10^{M_1-M_2}$, where $M_1$ is the larger magnitude.

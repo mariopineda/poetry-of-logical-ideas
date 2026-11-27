@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $b>1$, combine $\log_b48+\log_b27-\log_b12$ into a single logarithm $\log_b M$ and determine $M$.

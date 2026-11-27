@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A quartic polynomial $P(x)=ax^4+bx^3+cx^2+dx+e$ has **integer coefficients**. The graph shows its integer $x$-intercepts, the point at which it touches rather than crosses the $x$-axis, and its $y$-intercept.

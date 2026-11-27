@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the equation of the tangent line to $y=x^2-2x-8$ at $(-3,7)$ using $m_t = \lim_{x \to a} \frac{f(x)-f(a)}{x-a}$

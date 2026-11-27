@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $2\sin^2x=\sin x$ on the half-open interval $[-\pi,\pi)$. Show the algebraic factorization and list **all** solutions in the interval.

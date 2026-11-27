@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Angles $\alpha$ and $\beta$ are in standard position. The terminal arm of $\alpha$ contains $(-5,-2)$ and the terminal arm of $\beta$ contains $(3,-1)$. Determine the exact value of $\tan(\alpha+\beta)$, showing the angle-addition identity.

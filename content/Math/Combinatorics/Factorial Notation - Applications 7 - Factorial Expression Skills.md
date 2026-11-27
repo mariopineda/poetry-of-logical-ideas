@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Evaluate **without using a calculator**. Show the factorial expansions or cancellations that justify each answer.

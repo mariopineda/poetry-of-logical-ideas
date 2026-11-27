@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 The ratios below compare the size of the **image or model** to the size of the **actual object**.
 

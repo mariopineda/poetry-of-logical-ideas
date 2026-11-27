@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Use exponent laws to rewrite the equation with a single base, then determine the constant term $c$ when the result is placed in the form $3x^2+bx+c=0$.

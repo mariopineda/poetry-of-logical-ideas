@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The Venn diagram shows a community centre's participants. $W$ means using the workshop, $M$ means using the music room, and $F$ means using the fitness space. The numbers count people in each **mutually exclusive** region.

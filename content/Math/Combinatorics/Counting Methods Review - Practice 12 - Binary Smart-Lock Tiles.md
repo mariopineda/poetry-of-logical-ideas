@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A smart-lock prototype has a **3-by-4 grid of 12 positions**. Each position may independently be set to **on** or **off**.

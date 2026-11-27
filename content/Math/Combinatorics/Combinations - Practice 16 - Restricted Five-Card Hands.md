@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Use a standard 52-card deck; every **five-card hand** is an unordered selection without replacement. Face cards are J, Q, K (12 cards total).

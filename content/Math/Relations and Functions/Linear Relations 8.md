@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A person's height can be estimated using the fact that height and the length of the humerus (the bone of the upper arm) is a linear relation. Is it know that the humerus of a 160 cm adult is about 30 cm long, while that of a 190 cm adult is about 40 cm long.

@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Two volunteers take part in a supervised classroom study of how caffeine levels decline over time. The volunteers begin with different amounts of caffeine in their systems, and the graphs show the estimated amount remaining, in milligrams, during the eight hours after the initial measurement. Use the graphs to compare both the starting quantities and how rapidly they decrease.

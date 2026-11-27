@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Morgan is comparing two long-term savings accounts before deciding where to keep money for a future purchase. Both accounts earn interest once per year, but they begin with different deposits and offer different annual rates. After $t$ years, their balances are modelled by $A(t)=1800(1.06)^t$ and $B(t)=2400(1.04)^t$, respectively, with amounts in dollars. Determine:

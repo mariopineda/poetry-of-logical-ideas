@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A suspension cable is modelled by $f(x)=(x+3)^2-2$. A redesigned cable follows $g(x)=f(x-5)+4$.

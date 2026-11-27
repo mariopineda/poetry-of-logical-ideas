@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the x-coordinates where the function $y=\frac{2}{x}-\frac{6}{x^3}$ has a horizontal tangent.

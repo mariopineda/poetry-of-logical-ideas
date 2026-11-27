@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rock is dropped into a pool and it begins to create a circular wave. If the circle is moving outward at 6 cm/s, then determine how quickly the area is changing after 5 seconds.

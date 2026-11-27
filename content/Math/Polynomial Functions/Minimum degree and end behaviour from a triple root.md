@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A polynomial $P$ has a zero at $x=-1$ of multiplicity $3$, satisfies $P(0)=-6$, and has an **absolute** minimum value of $-54$. Determine the least possible degree and the necessary sign of the leading coefficient at that least degree. Construct a polynomial verifying that your answer is possible.

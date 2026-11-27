@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A manufacturer is designing a new cylindrial paint can with a diameter of 20 cm. She plans to use 2200 cm$^2$ of material to make the can. What is the height of the can, to the nearest whole centimetre that uses all avaliable material?

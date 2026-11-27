@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A community league has four separate divisions of six teams. In each division, every team plays every other team exactly once, and no matches take place between divisions. Determine the total number of matches scheduled.

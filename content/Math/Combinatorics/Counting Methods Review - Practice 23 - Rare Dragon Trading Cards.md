@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A display box contains **12 different trading cards**: three rare **dragon cards** and nine **landscape cards**. A hand contains **five different cards**, and order does not matter.

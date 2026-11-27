@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Four musicians and four dancers, all distinguishable, must stand in one row so that a musician and a dancer alternate. How many different lineups are possible? Explain the role of the two starting patterns.

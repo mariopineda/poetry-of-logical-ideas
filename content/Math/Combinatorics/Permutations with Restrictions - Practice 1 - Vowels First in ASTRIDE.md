@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 All seven different letters of **ASTRIDE** are placed in a row. How many arrangements begin with **two vowels**? Explain how the restriction changes the choices.

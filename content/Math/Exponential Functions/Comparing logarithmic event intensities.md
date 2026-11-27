@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 On a logarithmic intensity scale, the event intensity is modelled by $I=I_0 10^M$, where $M$ is the reported magnitude. Two events have magnitudes 5.2 and 6.1. How many times as intense is the second event? Round to the nearest tenth.

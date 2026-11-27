@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 For each plotted exponential function, record the number of $x$-intercepts, $y$-intercept, end behaviour, domain and range.

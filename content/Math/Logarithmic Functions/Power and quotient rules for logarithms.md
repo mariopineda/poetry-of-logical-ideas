@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Write $\dfrac25\log_3x-\log_3 7$ as one logarithm, given $x>0$.

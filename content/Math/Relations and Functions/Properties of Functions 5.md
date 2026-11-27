@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $f(x) = x+1$ and $g(x)=2x^2-3$, then evaluate:

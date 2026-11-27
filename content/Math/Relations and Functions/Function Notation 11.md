@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A high school student having a summer job as a sales person at a bicycle store is paid a monthly salary of \$2080 plus 5% commission on monthly sales. The function that represents her monthly earnings is $E(s) = 2080 + 0.05s$.

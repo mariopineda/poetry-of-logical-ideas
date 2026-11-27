@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A school has seven mathematics teachers and eight student mentors. A planning team must contain three teachers and two mentors. How many distinct teams can be selected?

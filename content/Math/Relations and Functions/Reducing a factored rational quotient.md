@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $\dfrac{x^2-7x}{x^2-49}$ fully and state every non-permissible value. Explain whether cancellation makes the excluded values permissible.

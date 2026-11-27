@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The mass of a substance remaining after $t$ hours follows $M(t)=360(0.5)^{t/5}$ milligrams. Find the time when $45$ mg remains. Explain the meaning of the exponent.

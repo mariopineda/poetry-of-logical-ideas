@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $\sin\left(\frac\pi2-\theta\right)-\cos\left(\frac\pi2+\theta\right)$ to an expression involving only $\sin\theta$ and $\cos\theta$. Justify each identity.

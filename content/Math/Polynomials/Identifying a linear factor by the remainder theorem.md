@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Consider the polynomial $p(x)=2x^3+7x^2-7x-12$. Determine **one nontrivial linear factor** of $p(x)$ by applying the factor theorem. Then factor the polynomial completely. Show how you confirmed your factor.

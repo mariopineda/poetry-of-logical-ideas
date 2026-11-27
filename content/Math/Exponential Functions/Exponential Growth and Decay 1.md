@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Find the $y$-intercept and state whether each function grows or decays.

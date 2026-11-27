@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 At a concert, a sound source produces $112$ decibels (dB). Its intensity is $2500$ times the intensity of a second source. Sound level follows

@@ -34,6 +34,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $f(x) = x^2-x$ and $g(x)=x+5$, then find the following. State the domains.

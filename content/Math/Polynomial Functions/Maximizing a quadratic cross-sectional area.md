@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A metalworker folds up both long edges of a sheet of metal that is **36 cm wide** to make an open rectangular rain channel. Each upright side has height $x$ cm, leaving a horizontal bottom width of $36-2x$ cm.

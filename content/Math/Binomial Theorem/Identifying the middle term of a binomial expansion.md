@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the complete **middle term** in the expansion of $(a^2+a^5)^8$, written in ascending powers of $a$. Justify its position and calculate its coefficient.

@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A ball is dropped from a height of 23 cm. After each bounce, it rises to only 78% of its previous height. Determine the total distance the ball travels until it comes to rest.

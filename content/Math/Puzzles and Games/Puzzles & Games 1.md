@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 You have $9$ identical-looking coins. Exactly one coin is counterfeit and is known to be **lighter** than the other eight.

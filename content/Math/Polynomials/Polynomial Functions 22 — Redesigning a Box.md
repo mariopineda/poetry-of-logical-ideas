@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rectangular block has original dimensions **8 cm by 6 cm by 4 cm**. Each dimension is reduced by the same amount, $x$ cm.

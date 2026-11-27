@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The zeros of the quadratic function $f(x) = 6x^2+2x-1$ are

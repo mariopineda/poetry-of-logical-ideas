@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two directions are represented by points $A=(\sqrt2/2,\sqrt2/2)$ and $B=(-\sqrt3/2,1/2)$ on the unit circle. Determine the **smaller central angle** $\angle AOB$, in degrees, where $O=(0,0)$.

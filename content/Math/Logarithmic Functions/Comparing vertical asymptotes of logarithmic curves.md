@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Consider the five functions below, all with base $4$. Determine which have the vertical asymptote $x=0$ and justify your classification by examining where each logarithm's argument approaches zero: $f_1(x)=\log_4 x$, $f_2(x)=3\log_4 x$, $f_3(x)=\log_4(5x)$, $f_4(x)=\log_4(x-2)$, and $f_5(x)=\log_4 x+6$.

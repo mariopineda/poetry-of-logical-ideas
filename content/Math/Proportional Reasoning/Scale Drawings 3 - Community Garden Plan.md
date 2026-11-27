@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 A community garden is rectangular, measuring **240 m by 90 m**. Draw a scale plan using **1 cm : 40 m**. State the dimensions your drawing must have.
 

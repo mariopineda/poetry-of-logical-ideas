@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Harry Potter is a series of seven fantasy novels published between 1997-2007 by British author J.K. Rowling. The books follow the adventures of young wizard Harry Potter and his best friends Ron Weasley and Hermione Granger. Each book corresponds to one year the trio attends Hogwarts School of Witchcraft and Wizardry.

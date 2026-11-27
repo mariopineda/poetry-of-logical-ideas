@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A robotics club has 8 senior members and 7 junior members. A committee of 5 must contain exactly 3 senior members. How many distinct committees are possible? Explain why combinations are appropriate.

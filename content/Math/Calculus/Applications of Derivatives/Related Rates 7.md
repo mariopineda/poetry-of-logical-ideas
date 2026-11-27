@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A circular disk is heated and then cooled. During the cooling process, the radius is found to be decreasing at the rate of 0.02 mm/s. At what rate is the area of the disk changing when the radius of the disk is 100 mm?

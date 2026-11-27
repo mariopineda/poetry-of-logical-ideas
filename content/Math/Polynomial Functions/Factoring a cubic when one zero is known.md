@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A cubic calibration model is $P(x)=2x^3-5x^2-17x+20$. A zero occurs at $x=4$. Write $P(x)$ as $(x+a)(2x^2+bx+c)$ and determine $a$, $b$, and $c$, showing polynomial division or coefficient comparison.

@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $\dfrac{1-\cos(2\theta)}{\sin(2\theta)}$ using double-angle identities. State all values of $\theta$ that are excluded from the domain of the **original** expression.

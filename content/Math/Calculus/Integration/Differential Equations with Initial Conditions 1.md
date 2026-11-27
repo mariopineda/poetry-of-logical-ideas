@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 On the surface of the Moon, the acceleration due to gravity is $1.6\text{ m/s}^2$ downward.

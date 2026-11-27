@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two fair six-sided dice have nonstandard labels. Die A has faces $1,1,2,2,3,4$ and Die B has faces $1,2,2,3,4,5$. The dice are rolled independently. The sum of their face values is used to determine the winner.

@@ -44,6 +44,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $\dfrac{x+4}{x-2}-\dfrac{x-1}{x+3}$ as one rational expression. State all non-permissible values.

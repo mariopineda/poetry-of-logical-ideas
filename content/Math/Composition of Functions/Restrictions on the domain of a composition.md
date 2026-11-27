@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A monitoring system uses $f(x)=x^2-x-6$ and $g(u)=\frac{5}{u-4}-2$. Define $h=g\circ f$. Determine all real values excluded from the domain of $h$, and give the domain in set notation.

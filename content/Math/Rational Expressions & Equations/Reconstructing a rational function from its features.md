@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The graph of a rational function $R$ is shown below. Its dashed lines are asymptotes, and the open circle marks an excluded point.

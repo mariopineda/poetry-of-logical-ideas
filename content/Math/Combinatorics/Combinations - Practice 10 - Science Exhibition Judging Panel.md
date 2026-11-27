@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A science exhibition has **four teachers** and **seven parent volunteers**. A panel is a nonempty group unless a leadership role is specified. How many different panels are possible if:

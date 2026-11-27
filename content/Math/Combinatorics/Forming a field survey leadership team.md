@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A field survey employs six trained leaders and seven assistants. A five-person field team must include **at least four leaders**. Calculate the number of distinct teams and explain why the cases are mutually exclusive.

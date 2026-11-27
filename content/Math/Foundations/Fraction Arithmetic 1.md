@@ -30,6 +30,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Convert each of the improper fractions below into a decimal to nearest hundreth, a mixed fraction and find an equivalent fraction that has a denominator of 24.

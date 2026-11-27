@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $f(4)=2$, $f'(4)=3$, $g(4)=-2$, and $g'(4)=7$, then evaluate $(fg)'(4)$.

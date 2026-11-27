@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $f(x)=2x-x^2$ and $g(x)=4x-11$, then evaluate $4f(3)-2g(-1)$.

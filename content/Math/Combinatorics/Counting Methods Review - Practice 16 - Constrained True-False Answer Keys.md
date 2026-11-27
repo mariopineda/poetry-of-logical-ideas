@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An assessment contains **12 true/false questions**, and its answer pattern must contain **exactly seven T** responses and **five F** responses.

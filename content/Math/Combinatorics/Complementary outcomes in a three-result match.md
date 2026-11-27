@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A school chess team estimates that its next match will end in a win with probability $0.37$ and a draw with probability $0.28$. Assuming these outcomes are mutually exclusive and exhaustive with a loss, determine the probability of a loss. Explain the probability rule used.

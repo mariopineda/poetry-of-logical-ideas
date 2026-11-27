@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Consider a standard deck of 52 cards. Determine the number of distinct six card hands that are possible which include

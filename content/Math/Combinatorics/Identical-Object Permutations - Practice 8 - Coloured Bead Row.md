@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bracelet designer lines up **10 beads**: four indistinguishable red beads, four indistinguishable blue beads and two indistinguishable green beads.

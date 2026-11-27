@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A gallery café offers $5$ sandwich types and $3$ drinks. A regular combo contains a sandwich and drink. A deluxe combo includes one of $4$ desserts as well. If either type of combo may be ordered, how many distinct meal combos are possible? Justify why the cases are added.

@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The function is $f(x)=2\cdot3^x$, and $P(2,18)$ lies on its graph. The graph is shifted **4 units right** and **7 units down** to create $g$. Determine the image $P'$ of the point and explain how each coordinate changes.

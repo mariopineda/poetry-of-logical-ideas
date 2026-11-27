@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The graph below shows a polynomial function $y=f(x)$. A second function is defined by $g(x)=4f(x)$.

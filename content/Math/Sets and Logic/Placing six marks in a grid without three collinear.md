@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 On the $4\times4$ grid of points below, place **six X marks on six distinct points** such that no three marked points lie on a single straight line (horizontal, vertical, or diagonal). Number the rows from top to bottom and columns from left to right.

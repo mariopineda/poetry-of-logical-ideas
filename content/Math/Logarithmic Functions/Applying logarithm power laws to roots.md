@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $\log_a b=1.47$, with $a>0$, $a\ne1$, and $b>0$, determine $\log_a(\sqrt[3]{b})$ to the nearest hundredth. Explain.

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A college survey reports that $74$ students joined the photography club, $58$ joined the hiking club, and $22$ joined both. Everyone surveyed joined at least one of the two clubs. If a student is selected at random, determine the probability that the student joined hiking **but not** photography. Round to the nearest hundredth.

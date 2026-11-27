@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An environmental society has $5$ coordinators and $8$ volunteers. A four-person outreach committee must have exactly $2$ coordinators and $2$ volunteers. Determine the number of distinct committees and explain the counting principle used.

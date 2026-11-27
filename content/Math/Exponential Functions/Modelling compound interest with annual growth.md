@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A community art fund deposits $2\,400$ into an account that earns $3.5\%$ interest compounded annually. Write a function for its value after $t$ years and calculate its value after six years, to the nearest cent.

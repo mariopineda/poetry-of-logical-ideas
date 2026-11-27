@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Let $g(u)=\dfrac{-12}{u-5}+2$ and $f(x)=x^2-2x-3$. Determine all non-permissible input values for the composite function $(g\circ f)(x)$. Explain your reasoning.

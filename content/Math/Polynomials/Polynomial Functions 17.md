@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A farmer is building a rectangular pen using **40 m** of fencing. The graph below shows the area of the pen, $A(x)$, as a function of its width, $x$.

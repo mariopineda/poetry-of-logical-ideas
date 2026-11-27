@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A small lamp is attached to the rim of a rotating kinetic sculpture. Its vertical height $h$ above the gallery floor, in metres, is modelled by

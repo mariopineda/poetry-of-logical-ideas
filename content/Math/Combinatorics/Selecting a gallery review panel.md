@@ -40,6 +40,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum forms a five-person judging panel from $9$ professional artists and $14$ photography students. The panel must contain **exactly four students**.

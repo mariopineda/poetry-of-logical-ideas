@@ -44,6 +44,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $\dfrac{12x^2+8x}{4x}$, and state the non-permissible value of the original expression.

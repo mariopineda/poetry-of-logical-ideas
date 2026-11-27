@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The polynomial $P(x)=x^5-2x^4-9x^3+2x^2+kx$ has zeros at $x=-1$ and $x=-2$. Determine $k$, factor the resulting polynomial completely, and give its greatest real zero.

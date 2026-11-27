@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Sketch $y=f(x)$ where $f(0)=4$, $f(-5)=f(-1)=f(1)=f(5)=0$, $f'(0)=f'(\pm 3)=0$, $f'>0$ on $(-3,0) \cup (3, \infty)$ and $f'<0$ on $(-\infty, -3) \cup (0,3)$.

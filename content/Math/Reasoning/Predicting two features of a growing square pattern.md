@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum displays a four-panel number pattern. The four positions follow **independent rules** from one stage to the next, as shown in the diagram.

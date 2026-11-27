@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The increasing logarithmic curve $y=\log_b x$ contains the plotted points $Q\left(2,\frac{1}{2}\right)$ and $P\left(k,\frac{3}{2}\right)$.

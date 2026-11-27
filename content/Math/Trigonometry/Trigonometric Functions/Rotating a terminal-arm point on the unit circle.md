@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A terminal arm in standard position intersects the unit circle at $T=\left(\frac35,\frac45\right)$. The angle changes by $-\frac{3\pi}{2}$ radians, as indicated in the schematic.

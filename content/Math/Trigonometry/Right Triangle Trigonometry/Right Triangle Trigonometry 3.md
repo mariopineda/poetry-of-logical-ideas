@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The shorter side of a rectangle is 5.7 cm. The angle between this side and a diagonal is 64$^\circ$. State the answers to the nearest tenth of a centimetre.

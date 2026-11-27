@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 Use **isometric dot paper** for this question. If you need a printable copy, use [[Isometric Dot Paper.pdf|this isometric dot paper PDF]]. From the supplied **front, top/mat-plan, and right-side views**, construct a complete isometric drawing using unit cubes. Keep the cube stacks and exposed faces consistent with all three views. Label the **front** and **right** directions on your drawing.
 

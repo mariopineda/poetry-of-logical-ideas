@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A small maintenance vehicle travels along the circular edge of a landscaped plaza of radius $18\,\mathrm{m}$. It travels $14\,\mathrm{m}$ along the arc, as shown in the schematic.

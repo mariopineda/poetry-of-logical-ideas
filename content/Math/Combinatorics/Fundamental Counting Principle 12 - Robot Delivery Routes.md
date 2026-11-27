@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A warehouse robot must deliver a package to an exhibit hall. It must use **exactly one** of two transfer stations, and it cannot switch stations partway through its trip.

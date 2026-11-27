@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A community makerspace has 41 members. Six attend neither the metalwork workshop nor the photography workshop, and seven attend both. The number attending **metalwork only** is four greater than the number attending **photography only**.

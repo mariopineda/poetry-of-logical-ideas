@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Aquatic biologists are studying fish from the same population in a freshwater lake. They measure each fish from snout to tail and record its mass. The dataset lists the length $L$ of each fish, in millimetres, and its mass $M$, in grams. The researchers want to investigate whether an exponential model is a useful approximation **over the observed length range**. The table pairs each length with the mass of the same fish.

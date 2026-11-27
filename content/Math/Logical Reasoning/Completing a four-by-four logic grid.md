@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The diagram is a $4\times4$ logic grid. Each row and column must contain the digits $1,2,3,4$ exactly once. Each **irregular four-cell region** enclosed by thick borders must also contain those digits exactly once.

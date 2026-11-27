@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A sculpture uses **12 wooden blocks** stacked in one vertical tower: 3 identical red, 4 identical blue, 3 identical yellow and 2 identical green. The **top and bottom blocks must both be green**.

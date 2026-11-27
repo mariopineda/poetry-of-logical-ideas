@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $P(x)=-3(x-2)^2(x-5)^3$, identify its end behaviour, number of distinct $x$-intercepts, and sign of its $y$-intercept. State whether it can have an absolute maximum on $\mathbb R$, and justify using the degree and leading coefficient.

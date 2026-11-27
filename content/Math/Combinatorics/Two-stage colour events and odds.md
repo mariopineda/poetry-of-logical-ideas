@@ -41,6 +41,7 @@ source_mean_score: "2.9/7"
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two independently inherited features of a garden plant are being studied. Uppercase letters represent dominant traits. One parent is $Pp$ and the other is $Pp$ for purple flowers; for tall stems, one parent is $Tt$ and the other is $tt$. Assume that these traits are inherited independently.

@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A product's value after $t$ years is modelled by $V(t)=1250(0.84)^t$. Determine its initial value, whether the model is increasing or decreasing, and the annual percentage change. Explain what the base tells you.

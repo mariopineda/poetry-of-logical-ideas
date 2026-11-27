@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The function $P(x)=(x+4)(x-1)(2x-3)$ is transformed into $N(x)=P\!\left(\frac{x}{3}\right)$. Determine **all zeros** of $N$, showing how the horizontal transformation changes each zero.

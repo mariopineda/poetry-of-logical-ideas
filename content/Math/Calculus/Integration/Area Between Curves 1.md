@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Find the area of the region bounded by the parabola $y=x^2$ and $y=2x-x^2$.

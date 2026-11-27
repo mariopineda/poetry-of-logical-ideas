@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An archive used to label objects with two letters followed by three digits. It now uses two letters followed by **five** digits. Letters are chosen from the 24-letter set excluding I and O; letters and digits may repeat. Determine how many **additional** labels the new format provides. Show both counts.

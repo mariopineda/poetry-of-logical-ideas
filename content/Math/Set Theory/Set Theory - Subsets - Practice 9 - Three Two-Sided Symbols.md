@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Three distinct two-sided tokens—**East**, **North**, **West**—are tossed. Each shows **sun (S)** or **moon (M)**. Record results in the fixed order (East, North, West).

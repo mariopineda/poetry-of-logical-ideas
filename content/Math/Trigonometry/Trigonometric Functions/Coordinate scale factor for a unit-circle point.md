@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A terminal arm intersects the unit circle in quadrant IV at $(2a,-a)$ where $a>0$. Express $a$ as an exact radical and verify the coordinate pair lies on the unit circle.

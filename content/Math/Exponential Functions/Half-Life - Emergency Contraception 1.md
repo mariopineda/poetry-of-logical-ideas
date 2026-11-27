@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Emergency contraception can help prevent pregnancy after unprotected sex or contraceptive failure. One kind contains *levonorgestrel*, which primarily acts by delaying or preventing ovulation. Its effectiveness depends partly on timing relative to ovulation; simply measuring how much hormone remains does not show how long the pill is effective.

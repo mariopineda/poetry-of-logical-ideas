@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A weather instrument is released **from rest** at a height of $78.4$ m. Ignoring air resistance, its height above the ground is modelled by

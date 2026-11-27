@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A scale drawing undergoes a horizontal compression by a factor of $\frac15$ about the $y$-axis, a vertical compression by a factor of $\frac23$ about the $x$-axis, and a translation $6$ units upward. Write a single mapping rule $(x,y)\mapsto(x',y')$, and determine the image of $(-10,9)$.

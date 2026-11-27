@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The tallest tree in Canada is a Sitka spruce named the Carmanah Giant. The tree is located in the remote Carmanah Walbra Provincial Park, BC, on traditional Ditidaht First Nation. The Carmanah Giant is estimated to be 400 to 700 years old. The angle of elevation is $81.1^\circ$ from a point 15 m from the base of the tree. Find the height of the Carmanah Giant to the nearest metre.

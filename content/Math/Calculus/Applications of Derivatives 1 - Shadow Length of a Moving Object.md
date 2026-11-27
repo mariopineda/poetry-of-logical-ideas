@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A streetlight is mounted at the top of a 15-meter pole. A 2-meter tall person is walking away from the pole at a constant speed of 1.5 meters per second. The person's distance from the pole at time $t$ seconds is $x(t)$. Determine the rate at which the length of the person's shadow is changing at 5 seconds.

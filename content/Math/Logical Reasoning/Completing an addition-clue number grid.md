@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Fill in the unknown digits in this addition-clue grid. Each row and column contains distinct digits from $1$ to $9$. The totals at the right and bottom are fixed. The diagonal from the upper-left to the lower-right also totals $16$.

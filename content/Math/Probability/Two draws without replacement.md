@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A case contains 9 identical-size camera batteries and 5 chargers. Two items are chosen at random without replacement. Determine the probability that both are batteries and show the multiplication of conditional probabilities.

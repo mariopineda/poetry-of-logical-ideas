@@ -31,6 +31,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Given $f(x)=3x^2-4$, evaluate the following. Show substitution.

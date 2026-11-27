@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An equipment library has $8$ distinct tripods and $5$ distinct camera bags. A photographer borrows $3$ different tripods and $2$ different bags. If selection order does not matter, determine the number of distinct equipment bundles. Show your use of combinations.

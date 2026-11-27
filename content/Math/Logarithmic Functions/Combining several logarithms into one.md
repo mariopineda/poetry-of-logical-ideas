@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $b>1$, $p>0$, and $q>0$, write $\log_b p+3\log_b(bq)-2$ as a single logarithm. Show the intermediate product and quotient steps.

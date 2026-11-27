@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A conservation volunteer attends a monitoring session on any given scheduled day with probability $0.78$. Over $150$ scheduled days, determine the expected number of days on which the volunteer **does not** attend. Round to the nearest whole day and explain your calculation.

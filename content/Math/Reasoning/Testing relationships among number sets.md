@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Let $A$ be the multiples of $4$ between $1$ and $50$, $B$ the even integers, and $C=\{8,20,32,44\}$. Determine whether $C\subseteq A$, $A\subseteq B$, and $B\subseteq A$. Give either a proof or a counterexample for each relationship.

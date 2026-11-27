@@ -40,6 +40,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A shipping crate is a rectangular prism. Its **length is twice its width**, and its **height is five times its width**. The volume is $17\,280\text{ cm}^3$.

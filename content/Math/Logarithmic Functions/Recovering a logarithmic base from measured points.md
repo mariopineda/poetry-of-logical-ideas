@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A calibration curve has the form $y=\log_b(x+c)$, where $b>1$. It passes through $(0,0)$ and $(5,1.5)$, as shown in the accompanying graph. Determine $b$ to the nearest hundredth and $c$ exactly.

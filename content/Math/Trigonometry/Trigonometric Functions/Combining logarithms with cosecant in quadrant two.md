@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A positive constant $k$ satisfies $\log_3 k=\tfrac12$. An angle $\theta$ is in quadrant II and satisfies $\csc\theta=k$. Determine $\theta$ in degrees, to the nearest degree, showing how each condition restricts the solution.

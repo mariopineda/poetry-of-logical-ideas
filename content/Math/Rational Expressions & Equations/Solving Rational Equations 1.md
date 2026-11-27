@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve the following rational equation $\frac{\displaystyle 2x}{\displaystyle x+3} - \frac{\displaystyle x}{\displaystyle x-3} = \frac{\displaystyle -18}{\displaystyle x^2-9}$

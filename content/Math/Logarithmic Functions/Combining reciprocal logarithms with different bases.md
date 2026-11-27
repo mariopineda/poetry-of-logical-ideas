@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Suppose $\log_a 27=3$ and $\log_9 b=\frac32$. Determine $\log_a b+\log_b a$ as an exact value. Show how the values of $a$ and $b$ are found.

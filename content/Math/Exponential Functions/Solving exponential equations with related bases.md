@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $5^{x-2}=25^{2x-1}$ algebraically, without using a graph. Verify your answer in the original equation.

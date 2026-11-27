@@ -40,6 +40,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two players take turns removing **one, two, or three counters** from a pile of nine. The player who takes the last counter wins. Maya moves first, and both players play optimally.

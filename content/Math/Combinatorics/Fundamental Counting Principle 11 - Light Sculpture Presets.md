@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An interactive light sculpture contains **six independently controlled lights** arranged in a row. Each light can be set to one of four states:

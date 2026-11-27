@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A baseball diamond is in the shape of a square 27.4 m on each side. Mary starts running home from 3rd base and a rate of 5.2 m/s. At the same time, Steve runs from home plate to 1st base at a rate of 4.2 m/s. How fast is the distance between them changing 3.0 sec after they leave? Answer to nearest hundredth.

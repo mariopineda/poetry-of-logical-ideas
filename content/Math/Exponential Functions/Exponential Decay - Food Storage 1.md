@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A food-science team investigates how storage temperature affects the usable life of a particular prepared food under controlled conditions. Their simplified experimental model gives the estimated shelf life $H$, in hours, at storage temperature $T$, in degrees Celsius: $H(T)=150(1/2)^{T/40}$. This is a mathematical model for the investigation, not a general food-safety guideline.

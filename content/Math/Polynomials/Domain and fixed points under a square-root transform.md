@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Let $f(x)=(x+4)(x-2)$ and define $g(x)=\sqrt{f(x)}$. Determine the domain of $g$. Then determine **every** point on the graph of $f$ whose coordinates are unchanged by the transformation $y\mapsto\sqrt y$. Explain both conditions.

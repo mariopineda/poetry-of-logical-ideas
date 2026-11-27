@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A circular observation platform has a radius of $9$ m. A marker on its rim travels an arc length of $7.5$ m. Determine the corresponding central angle to the nearest degree, showing the calculation first in radians.

@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 A small wind-turbine model has a **total height of 24 cm**, measured **from the base to the tip of the highest rotor blade** at a scale of **1:125**. What is the corresponding total height of the full-size turbine, in metres?
 

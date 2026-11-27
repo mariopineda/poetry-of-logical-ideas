@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Simplify $$\frac{2x+6}{8x+24}-\frac{1}{4x+12}$$ to one rational expression in lowest terms. Give its denominator and the non-permissible value.

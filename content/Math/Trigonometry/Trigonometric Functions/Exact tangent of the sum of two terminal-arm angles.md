@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A line from the origin through $(-3,-2)$ forms angle $\alpha$ in standard position. Another line through $(4,-1)$ forms angle $\beta$. Determine the exact value of $\tan(\alpha+\beta)$ and justify quadrant signs.

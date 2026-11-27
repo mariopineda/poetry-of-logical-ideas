@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A gallery keeps its entrance panel permanently at the far left. To its right, it will display five prints: **two indistinguishable blue-sky prints** and **three different wildlife photographs**.

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A workshop has $12$ authorized supervisors. Any group of $5$ different supervisors may approve a tool loan, and the order of signatures does not matter. How many distinct approval groups are possible? Justify whether you used a permutation or combination.

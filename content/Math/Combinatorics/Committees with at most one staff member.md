@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A volunteer committee of four people will be selected from twelve students and five staff. How many different committees contain **at most one** staff member? Show the two cases separately.

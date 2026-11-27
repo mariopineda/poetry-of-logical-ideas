@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A soccer match must end in exactly one of three outcomes: win, draw, or loss. A team has a $0.27$ probability of winning and a $0.19$ probability of drawing. Determine the probability of losing, showing your calculation.

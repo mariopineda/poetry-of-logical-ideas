@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A water-taxi travels $60$ km downstream and $60$ km upstream. Its speed in still water is $v$ km/h, and the river current flows at $4$ km/h. The total travel time is $5$ hours.

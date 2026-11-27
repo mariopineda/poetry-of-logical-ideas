@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An art gallery has a **permanent welcome display** at the entrance to a corridor and a **permanent visitor-feedback station** at the exit. Between them, the curator will place **six different artworks**, each exactly once, in a single row.

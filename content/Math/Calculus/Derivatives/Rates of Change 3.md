@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For the function $y=x^2-5x$, estimate the tangent slope at the point $P(2,-6)$ using technology. Include a sketch of the general secant line and the tangent line.

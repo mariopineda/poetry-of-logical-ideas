@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A device permits a PIN consisting of three or four digits chosen from 1 through 7, with no repeats. How many PINs are possible? Count both lengths.

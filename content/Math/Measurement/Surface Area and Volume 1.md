@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The Trans Mountain Pipeline starts at the Edmonton Terminal located between Sherwood Park and Edmonton. Twenty feeder pipelines from throughout Alberta arrive at the terminal carrying both crude and processed oil. Oil is temporarily stored at the Edmonton Terminal before it is sent to other destinations, e.g. to the United States or to shipping terminals in BC.

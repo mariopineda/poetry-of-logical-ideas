@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Find an equation of a **sine function** with amplitude $3$, period $\frac{\pi}{2}$, phase shift $5$ units right, and vertical displacement $1$ unit down.

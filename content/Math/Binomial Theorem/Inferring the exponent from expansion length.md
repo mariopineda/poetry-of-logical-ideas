@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An expansion of $(x+3)^n$, where $n$ is a nonnegative integer, has exactly seven terms. Determine $n$ and the constant term.

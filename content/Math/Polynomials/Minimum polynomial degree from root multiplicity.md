@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A polynomial function has a zero at $x=3$ with multiplicity $3$, has a negative leading coefficient, and has an **absolute maximum** over all real values of $x$. Determine the smallest possible degree. Construct one example that has these properties and justify your conclusion.

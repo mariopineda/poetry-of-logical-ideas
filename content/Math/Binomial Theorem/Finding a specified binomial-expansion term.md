@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the fifth term in the expansion of $\left(x^3+\frac{2}{x^2}\right)^7$, written in descending powers of $x$. Show the general-term substitution.

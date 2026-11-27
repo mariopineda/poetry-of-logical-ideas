@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A profile $y=f(x)$ is shown on the coordinate grid. Its entire plotted graph has $-9\le x\le-6$ and $2\le y\le4$.

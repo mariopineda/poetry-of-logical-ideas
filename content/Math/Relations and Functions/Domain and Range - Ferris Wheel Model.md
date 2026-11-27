@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A Ferris wheel takes $3$ minutes to complete one rotation. Riders board at the lowest point, $2$ m above the ground, and reach a maximum height of $64$ m.

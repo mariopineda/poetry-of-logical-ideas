@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A neighbourhood science society has 14 members eligible for three different positions: chair, secretary and treasurer. No member may hold more than one position. How many assignments of these roles are possible? Show why combinations alone are inappropriate.

@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A country's population is increasing at an annual rate of 2.2%. The current population is approximatelly 14 million. The growth in population can be modelled by the exponential function $P=P_0(1.022)^t$, $t$ is the number of years since the population was $P_0$. Assuming the population growth continues at the same rate,

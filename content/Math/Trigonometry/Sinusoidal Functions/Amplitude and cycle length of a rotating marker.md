@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A sensor attached to a rotating circular frame records its **vertical height above the floor**, in centimetres. The frame is illustrated below, and the height is modelled by

@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The London Eye has a diameter of $135\text{ m}$. Passengers board at the lowest point, $2\text{ m}$ above ground level, so the centre is $69.5\text{ m}$ above the ground. One revolution takes $30$ minutes.

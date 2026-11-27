@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A student solves $4^{n+1}=8^{n-2}$ as follows: **Step I** $ (2^2)^{n+1}=(2^3)^{n-2}$; **Step II** $2^{2n+1}=2^{3n-6}$; **Step III** $2n+1=3n-6$; **Step IV** $n=7$. Identify the *first incorrect step*, explain the error, and solve the original equation correctly.

@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An exhibition sells **150 individually numbered tickets**. Four **different** prizes are awarded by drawing a ticket for each prize in a fixed order.

@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A logarithmic sensor is modelled by $f(x)=\log_b(x+c)$ with $b>1$. The curve passes through $(0,0)$ and $(8,2)$. Determine the exact values of $c$ and $b$ and justify your solution using the definition of a logarithm.

@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A gallery is arranging **five different astronomy photographs** and **four different nature photographs** in one row. Every nature photograph must have astronomy photographs immediately on both sides.

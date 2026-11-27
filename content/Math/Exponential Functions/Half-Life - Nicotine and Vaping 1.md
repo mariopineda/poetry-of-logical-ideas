@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Many vaping products contain nicotine, a substance that can cause dependence. Studies of nicotine-containing e-cigarettes have also reported temporary changes in heart rate and blood pressure. A peer-reviewed pharmacology review reports that nicotine has an approximate elimination half-life of **2 hours**.

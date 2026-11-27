@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A point $P$ on the unit circle has $x$-coordinate $\log_b\sqrt b$, where $b>0$ and $b\ne1$, and has a **negative** $y$-coordinate. Determine the angle $\theta$ in $[0,2\pi)$ and one positive coterminal angle greater than $2\pi$.

@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A road rises 15 m for each 150 m of horizontal distance. What is the angle of inclination of the road to the nearest degree?

@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Without using graphing technology, determine the **end behaviour** and the sign of the $y$-intercept of the cubic function

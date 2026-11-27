@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 You have accepted a summer job painting your classroom. Before you can start painting, you need to determine the amount of paint required and the cost. Each can holds $3.79$ L of paint and covers $37\text{ m}^2$. The classroom needs two coats of paint.

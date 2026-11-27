@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A studio inventory label contains a **fixed two-digit production-year prefix**, one category digit chosen from three possible categories, and four additional digits selected from $0$ through $9$ **without repetition among those final four digits**. A final digit may be zero, including the first of the four.

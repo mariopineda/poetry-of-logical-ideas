@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A local environmental club is promoting a community creek-cleanup event. Four club members are the first people to know about the event. During the first hour, each member tells three people who have not yet heard the news. During the next hour, each newly informed person tells three more people, with no overlap between groups. Suppose this idealized pattern continues for several hours, even though a real community has a limited population.

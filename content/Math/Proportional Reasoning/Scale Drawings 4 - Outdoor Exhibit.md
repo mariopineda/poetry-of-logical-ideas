@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 An outdoor exhibit measures **3.6 m by 2.4 m**. Sketch a scaled rectangle using **1 cm : 0.6 m**. Label the scaled lengths.
 

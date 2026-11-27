@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A maker-space identifies each tool with a permanent prefix followed by a five-digit suffix. The suffix may use any digits $0$ through $9$, but a digit may appear only once in the suffix. Leading zeros are permitted. Determine the number of possible suffixes. Express your answer using permutation notation and evaluate it.

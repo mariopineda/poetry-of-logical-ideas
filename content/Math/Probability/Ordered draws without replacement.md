@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bag contains **3 striped**, **4 plain**, and **2 dotted** marbles. Two marbles are drawn one after the other **without replacement**.

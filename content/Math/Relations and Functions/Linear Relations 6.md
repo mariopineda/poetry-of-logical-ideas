@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The temperature of Earth's crust $T$ degrees Celsius is a function of the deapth $d$ kilometers below the surface, where $T=\frac{23}{2}d+20$.

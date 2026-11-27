@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The polynomial $P(x)=2x^3-3x^2-11x+6$ has a zero at $x=3$. Write

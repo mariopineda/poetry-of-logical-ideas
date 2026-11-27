@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 In a universal set $U$, a subset $T$ contains **46 elements**, while its complement $T'$ contains **39 elements**.

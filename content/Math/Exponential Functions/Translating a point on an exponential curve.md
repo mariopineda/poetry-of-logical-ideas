@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A point $P(2,9)$ lies on $y=b^x$, where $b>1$. A new curve is defined by $y-4=b^{x-2}$. Determine the coordinates of the corresponding point on the new curve. Explain the transformations.

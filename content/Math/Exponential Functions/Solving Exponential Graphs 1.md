@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 For each graph, estimate the $x$-value at $y=5$ and $y=12$. Show horizontal reading lines and report answers to one decimal place.

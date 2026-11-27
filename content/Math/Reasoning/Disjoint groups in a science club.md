@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Explain what it means for two nonempty sets $A$ and $B$ to be **disjoint**. Write a set equation describing their intersection. Then explain whether two nonempty disjoint sets can satisfy $A\subseteq B$.

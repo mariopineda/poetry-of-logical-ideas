@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For each expression, **shade exactly the indicated region** in a Venn diagram. The rectangle represents the universe U. Complement notation $X'$ always means $U\setminus X$.

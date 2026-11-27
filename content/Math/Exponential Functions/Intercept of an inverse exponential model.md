@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A calibration curve is defined for all real inputs by $f(x)=9(0.6)^x-16$. Determine the $y$-intercept of its inverse function $f^{-1}$ to the nearest hundredth, and explain how the intercepts of a function and its inverse are related.

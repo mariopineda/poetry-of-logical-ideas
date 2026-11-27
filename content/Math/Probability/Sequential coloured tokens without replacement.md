@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A container has 5 blue, 4 green, and 3 yellow tokens. Two are selected in order without replacement. Determine the probability of selecting blue first and green second, giving an exact fraction.

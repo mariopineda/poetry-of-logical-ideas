@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Use only the exponential graphs from [[Recognizing Function Types 1]]. For each, identify the number of $x$-intercepts, $y$-intercept, end behaviour, domain, and range.

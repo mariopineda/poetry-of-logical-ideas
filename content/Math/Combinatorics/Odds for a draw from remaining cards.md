@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Eight numbered cards, labelled $1$ through $8$, are shuffled. Cards $1$, $4$, and $7$ have already been removed. A fourth card is drawn at random. Determine the odds **in favour** of drawing an even number, writing your answer as favourable : unfavourable.

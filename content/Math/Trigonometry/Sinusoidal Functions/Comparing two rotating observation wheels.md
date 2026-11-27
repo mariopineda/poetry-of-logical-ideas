@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two observation wheels begin at their lowest points, $2$ m above the ground, and each completes one revolution in $36$ s. The first wheel has radius $9$ m and the second has radius $15$ m. For each wheel, write a cosine model for a passenger's height $h(t)$, with $t=0$ at the lowest point. Identify **which parameters are the same** and **which differ**, and explain why.

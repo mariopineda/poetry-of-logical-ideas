@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A $3\times3$ number puzzle contains every integer from $2$ through $10$ exactly once. Every row, column and diagonal has the same sum. Complete this partially filled puzzle and justify the four unknown entries.

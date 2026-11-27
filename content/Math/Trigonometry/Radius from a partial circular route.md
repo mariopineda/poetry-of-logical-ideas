@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An autonomous garden cart is tethered at the outside corner of a rectangular greenhouse. The greenhouse blocks one quadrant of its movement, so the cart traces **three-quarters of a circular path**. Its travelled arc measures $18\pi$ metres.

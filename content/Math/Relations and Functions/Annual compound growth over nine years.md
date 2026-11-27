@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A conservation fund grows at a fixed annual interest rate, compounded once each year. It takes **9 years** for the balance to become **1.75 times** its original amount. Determine the annual interest rate, as a percent, to the nearest hundredth of a percent.

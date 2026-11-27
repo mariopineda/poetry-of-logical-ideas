@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For positive $a$ and $b$, write $2\log a-2\log b$ as one logarithm. Show both logarithm laws that you use.

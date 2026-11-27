@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 A route between two recreation areas measures **210 km** in a straight line. At a scale of **1 cm = 30 km**, how far apart should the locations be drawn?
 

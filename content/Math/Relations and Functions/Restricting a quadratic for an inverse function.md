@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A quadratic function is defined by $f(x)=-3(x+5)^2+12$. Give **two different maximal interval restrictions** on its domain that make its inverse a function. Justify each restriction using the horizontal-line test.

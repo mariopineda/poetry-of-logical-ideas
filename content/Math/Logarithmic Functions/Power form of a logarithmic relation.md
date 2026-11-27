@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $a>0$, $a\ne1$, suppose $\log_a u=5$. Express $u^2$ as a single power of $a$.

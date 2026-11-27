@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Indicate which of the following functions are quadratic. For the quadratic functions, expand and state the coordinates of the vertex.

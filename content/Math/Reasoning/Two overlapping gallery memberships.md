@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 At a community arts centre, $36$ visitors registered for a drawing or pottery workshop. Exactly $7$ attended both, and the number registered for pottery was $5$ greater than the number registered for drawing. Determine how many visitors attended **only pottery**. Show a set equation.

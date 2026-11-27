@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A company makes a rectangular package with interior dimensions $10$ cm by $6$ cm by $4$ cm. Each dimension will be increased by $x$ centimetres, where $0\le x\le3$.

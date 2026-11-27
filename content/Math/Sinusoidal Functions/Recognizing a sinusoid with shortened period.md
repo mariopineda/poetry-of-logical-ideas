@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two signals are modelled by $f(x)=\sin(x-\pi/3)+1$ and $g(x)=\sin(3(x-\pi/3))+1$. Use the accompanying graph to identify which parameter changes from $f$ to $g$. Determine both periods and state which properties remain unchanged.

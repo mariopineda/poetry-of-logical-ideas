@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $125^{x-1}=25^{2x+1}$ exactly by converting both bases to powers of the same number. Verify your answer by comparing the original expressions.

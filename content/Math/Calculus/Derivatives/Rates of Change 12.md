@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 1. A scuba diver is 20 metres below the surface of the water 12 seconds after diving into the water and 50 meters below the surface after 25 seconds. Determine the scuba diver's rate of change, to the nearest tenth.

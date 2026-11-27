@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $f(x) = 2x+7$, $g(x) = -3x^2+x-2$, and $h(t)=9.8t^2-2t+3$ determine the following. If needed round to the nearest tenth.

@@ -39,6 +39,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bag contains $18$ equally likely tokens. Each token has exactly one of three shapes (triangle, hexagon, or star) and one of six colours. Every shape–colour combination is represented **exactly once**. Blue is one of the six colours.

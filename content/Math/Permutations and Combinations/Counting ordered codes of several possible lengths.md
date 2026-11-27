@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum access key is assembled from a bank of **nine distinct symbols**. Each valid key contains **seven, eight, or nine symbols**, arranged in a row with **no repeated symbol**.

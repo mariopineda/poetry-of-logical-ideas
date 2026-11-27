@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An angle $\theta$ lies in Quadrant II and satisfies $\tan\theta=-3$. Determine the **exact** value of $\tan(2\theta)$ and show the relevant trigonometric identity.

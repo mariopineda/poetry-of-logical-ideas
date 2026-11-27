@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The four numbered graphs show different functions. Determine **all graph numbers** that have each of the following properties. A graph may satisfy more than one property.

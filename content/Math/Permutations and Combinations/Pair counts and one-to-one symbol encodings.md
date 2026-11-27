@@ -40,6 +40,7 @@ source_mean_score: "3.1/5"
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A science club can form exactly $231$ unordered pairs of members. Determine its membership algebraically. Then determine the number of ways to assign five distinct symbols from a library of nine symbols to five distinct letters.

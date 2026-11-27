@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum uses four-symbol access codes made from the symbols $A,B,C,D,E$. Symbols may repeat. A technician has made four guesses. The feedback reports how many symbols are **correct and in the correct position** and how many are **correct but in a different position** (a symbol is counted at most once).

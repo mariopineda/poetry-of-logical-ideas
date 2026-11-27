@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 In a school science lab, students place a bacterial culture in conditions under which its population is expected to double every $35$ minutes. The culture begins with 75,000 organisms. The model $N(t)=75000(2)^{t/35}$ estimates the number of organisms after $t$ minutes. Assuming the growth pattern continues, calculate how long it takes the population to reach 450,000, rounded to the nearest minute.

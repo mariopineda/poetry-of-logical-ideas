@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 Complete a **one-point perspective** drawing of the rectangular prism shown. Use the marked vanishing point **V**, keep the rear face parallel to the front face, and indicate which construction lines could be erased.
 

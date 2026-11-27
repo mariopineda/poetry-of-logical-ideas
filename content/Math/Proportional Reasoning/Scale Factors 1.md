@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The length of a cell in an onion skin is approximately $200\,\mu\text{m}$, or $0.2\text{ mm}$. In a photograph taken through a microscope, the average length of an epidermal cell is $35\text{ mm}$.

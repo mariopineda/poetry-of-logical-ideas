@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Complete the partially filled $4\times4$ logic grid. Use each of the digits $1,2,3,4$ **exactly once in every row, every column, and every four-cell region outlined with **thick borders****.

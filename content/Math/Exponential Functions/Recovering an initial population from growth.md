@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A wildlife rehabilitation centre tracked an animal population that grew by $4.5\%$ per year for eight years. At the end of the eighth year, the population was approximately $18\,000$. Estimate the initial population to the nearest whole animal using an exponential model.

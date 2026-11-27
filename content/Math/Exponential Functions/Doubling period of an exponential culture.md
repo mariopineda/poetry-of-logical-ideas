@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A lab culture is modelled by $P(t)=200(8)^{t/30}$, where $t$ is measured in hours. Determine the doubling period without graphing.

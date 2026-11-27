@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A small business borrows money to replace a delivery vehicle but makes no payments during the first five years. Interest is added to the outstanding balance at the end of each year. The lender provides the following table, where $x$ is the number of years since the loan began and $y$ is the amount owing, in dollars. Assume the interest rate remains unchanged.

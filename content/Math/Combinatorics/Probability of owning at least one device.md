@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A survey finds that $76\%$ of people own a laptop, $71\%$ own a tablet, and $19\%$ own a tablet but no laptop. Are the events “owns a laptop” and “owns a tablet” mutually exclusive? Determine the probability that a randomly selected person owns at least one of the two devices.

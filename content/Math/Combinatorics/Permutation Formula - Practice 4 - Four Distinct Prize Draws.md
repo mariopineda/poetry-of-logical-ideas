@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An animal-rescue fundraiser sells **1,200 distinct tickets**. Four prizes (a bicycle, camping set, telescope and gift card) are awarded in that order. A winning ticket is **not returned** before the next draw.

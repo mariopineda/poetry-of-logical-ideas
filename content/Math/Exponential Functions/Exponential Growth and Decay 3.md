@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A. Write an exponential growth function and an exponential decay function that each intersect the $y$-axis at $7$.

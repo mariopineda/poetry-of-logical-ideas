@@ -40,6 +40,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A delivery robot travels on rectangular city grids. A route may move **only east (E)** or **south (S)**. No unnecessary movement or backtracking is allowed.

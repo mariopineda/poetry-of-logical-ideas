@@ -41,6 +41,7 @@ source_mean_score: "3.06/7"
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A floating sensor in a pumped-storage reservoir follows a controlled water-level cycle. Its height, $h(t)$ metres, above a reference level $t$ hours after monitoring begins, is modelled by

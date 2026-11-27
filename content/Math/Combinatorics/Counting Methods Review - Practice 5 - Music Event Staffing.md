@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A concert has 3 potential lead presenters, 5 sound technicians and 6 ushers available. An event team requires **one presenter, two technicians and two ushers**.

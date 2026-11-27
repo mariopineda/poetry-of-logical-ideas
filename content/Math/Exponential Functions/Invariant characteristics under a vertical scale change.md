@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A function $f(x)=2^{x-1}-5$ is changed to $g(x)=4f(x)$. Identify **two** of the following features that remain unchanged: domain, range, $x$-intercept, $y$-intercept, and horizontal asymptote. Explain why each selected feature stays the same.

@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 1. Draw and label $\triangle ABC$ with $\angle B=27^\circ$, $a=10 \mbox{ cm}$, $\angle A=90^\circ$.

@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A research technician is monitoring a slowly growing bacterial culture. At the start of an experiment there are 240 organisms, and the measured population is modelled as doubling every $10$ hours. The technician wants to know when the population could reach 245,760 organisms if the same conditions persist. Solve algebraically for the elapsed time and confirm the result on a graph.

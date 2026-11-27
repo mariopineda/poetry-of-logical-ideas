@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 One access-code format uses three letters followed by four digits. A second uses five letters followed by four digits. Each letter is chosen from a set of 22 permitted letters, and each digit from 0 to 9; repetition is allowed. How many times as many codes does the second format permit? Justify your ratio.

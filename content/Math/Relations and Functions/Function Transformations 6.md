@@ -34,6 +34,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Without using graphing technology, sketch each function. Identify the transformations from its parent function and state important features.

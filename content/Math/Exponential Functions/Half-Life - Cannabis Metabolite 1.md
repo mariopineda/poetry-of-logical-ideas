@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 THC (tetrahydrocannabinol) is the main psychoactive compound in cannabis. When the body processes THC, it produces *metabolites*, some of which can be found in urine long after the effects of cannabis have worn off. A positive urine test therefore does not necessarily show recent use or current impairment.

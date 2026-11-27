@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Using only the Cosine Law, solve $\triangle ABC$ where $\angle BAC = 25^{\circ}$, $\angle ABC = \angle ACB$, $c=10$ cm and where $\triangle ABC$ is an isosceles triangle. Round angles to the nearest degree and sides to nearest tenth.

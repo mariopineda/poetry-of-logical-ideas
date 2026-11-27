@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $\triangle ABC$ where $AD \bot BC$, $\angle BAD = 20^{\circ}$, $\angle CAD = 55^{\circ}$, $\angle DCA=35^{\circ}$ and $c=12.5$ cm. Round angles to the nearest degree and sides to nearest tenth.

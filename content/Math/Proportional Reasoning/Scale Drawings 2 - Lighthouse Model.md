@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 A museum builds a miniature **lighthouse**. The model is 18 cm tall and its scale is $1:75$. Determine the height of the real lighthouse in **metres**.
 

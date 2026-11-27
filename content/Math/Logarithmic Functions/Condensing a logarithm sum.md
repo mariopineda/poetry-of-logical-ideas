@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Condense $\log_4(x+3)+\log_4(x-5)$ into a single logarithm. State the domain of the original expression explicitly.

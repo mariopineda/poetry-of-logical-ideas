@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The three original parabolic graphs are provided below. The transformed functions are $y=\sqrt{f(x)}$, $y=\sqrt{g(x)}$, and $y=\sqrt{h(x)}$ respectively.

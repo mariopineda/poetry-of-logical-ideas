@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A fabric studio has a box containing 5 orange tiles, 7 teal tiles, and 6 grey tiles. Two tiles are drawn one after the other **without replacement**. Determine the probability of drawing teal first, followed by orange, to the nearest hundredth. Show both conditional probabilities.

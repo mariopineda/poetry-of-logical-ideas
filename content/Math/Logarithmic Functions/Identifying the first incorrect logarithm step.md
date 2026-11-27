@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For $x>0$, two students simplify $\left(3\log_2 x+\log_2 x^2\right)^2$. Student A writes: Step 1: $(\log_2 x^3+\log_2 x^2)^2$; Step 2: $(\log_2 x^5)^2$; Step 3: $\log_2 x^{10}$. Student B writes at Step 1: $9(\log_2 x)^2+(\log_2 x^2)^2$. For each student, identify the **first incorrect step**, explain the error, and give the correct simplified expression.

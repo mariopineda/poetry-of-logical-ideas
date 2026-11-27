@@ -30,6 +30,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Jona has a container of vanilla ice cream that is two-thirds full, and a container of chocolate ice cream that is three-quarters full. If she takes half of the vanilla ice cream and half of the chocolate ice cream and puts it into an empty ice cream container, how full will this new container be?

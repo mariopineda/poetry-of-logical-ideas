@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A technician plots an exponential signal $y=3(2^x)$ and a horizontal threshold $y=4$ on the same coordinate plane.

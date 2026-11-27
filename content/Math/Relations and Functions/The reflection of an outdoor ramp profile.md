@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An outdoor installation is modelled by a function $f$ whose graph is shown. A digital display plots the transformed function $g(x)=-2f(x)+7$. Determine the **range** of $g$, using the smallest value of $f$ visible on the graph. Explain how the reflection and vertical scale factor affect the range.

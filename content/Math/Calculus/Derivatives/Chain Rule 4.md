@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 If $g(3)=6$, $g'(3)=5$, $f(5)=2$, and $f'(6)=8$, then evaluate $(f \circ g)'(3)$.

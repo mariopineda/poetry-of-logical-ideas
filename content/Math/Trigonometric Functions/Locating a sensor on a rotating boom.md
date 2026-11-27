@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating equipment boom is $80\text{ cm}$ long and sweeps through $120^\circ$. A sensor mounted partway along the boom traces an arc of length $100\text{ cm}$. Determine the distance from the sensor to the **tip** of the boom, to the nearest tenth of a centimetre. Use the accompanying diagram.

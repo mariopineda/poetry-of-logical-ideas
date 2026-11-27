@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A transport survey recorded $100$ commuters, classified by whether they travel by bicycle ($B$) or walk to work ($W$). The Venn diagram shows how many commuters fall into each category.

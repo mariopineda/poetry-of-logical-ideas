@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Determine the coefficient of $x^3$ in the expansion of $(2x-3)^5$ using the binomial theorem. Identify the term number used.

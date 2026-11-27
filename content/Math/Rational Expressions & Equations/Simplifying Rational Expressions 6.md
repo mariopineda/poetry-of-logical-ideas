@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A farmer is planning to put a fence around a rectangular field. The area of the field, in square metres, can be represented by the expression $18a^2-2$, and the width of the field is $3a+1$ metres.

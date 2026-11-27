@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Use the chart below to summarize how the sign pf the leading coefficient and degree can be used to determine the end behavior of a polynomial function.

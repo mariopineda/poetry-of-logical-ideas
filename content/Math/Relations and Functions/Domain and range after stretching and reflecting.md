@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The domain of $f$ is $[1,5]$ and its range is $[-3,7]$. Define $g(x)=-2f\left(\frac{x}{3}\right)$. Determine the domain and range of $g$, showing how each transformation acts.

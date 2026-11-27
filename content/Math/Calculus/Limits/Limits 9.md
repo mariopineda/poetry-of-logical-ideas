@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Find the equation of the tangent line to the hyperbola $xy=1$ at the point $\left(-2, -\frac{1}{2} \right)$ using $m_t = \displaystyle\lim_{h \to 0} \frac{f(a+h)-f(a)}{h}$.

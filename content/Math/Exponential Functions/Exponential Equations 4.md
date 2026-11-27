@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The number, $N$, of throat swab bacteria being grown in a culture after $t$ hours is given by the formula $N=N_0(10^{0.43t})$, where $N_0$ is the original number of bacteria. If there are initially 500 bacteria in the culture, determine how long it would take, to the nearest tenth of an hour, for the number of bacteria to grow to 1 million.

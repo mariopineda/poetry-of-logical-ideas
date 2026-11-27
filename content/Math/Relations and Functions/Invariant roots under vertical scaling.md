@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The graph of $y=f(x)$ crosses the $x$-axis at the three labelled points $A$, $B$, and $C$.

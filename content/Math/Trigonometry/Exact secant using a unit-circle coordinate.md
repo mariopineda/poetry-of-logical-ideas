@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A point $P(k,\tfrac5{13})$ lies on the terminal arm of a standard-position angle $\theta$ on the **unit circle**, as shown.

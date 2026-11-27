@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two model gliders follow the trajectories $h_A(d)=-0.02d^2+3d$ and $h_B(d)=-0.03d^2+3.6d$, where $h$ and $d$ are measured in metres. Determine which glider reaches the greater maximum height and which travels farther before returning to ground level. Justify both comparisons mathematically.

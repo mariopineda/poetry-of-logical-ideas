@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A circular ring is heated so that it expands. If the rate of increase of the radius is 0.01 cm/s, determine the rate at which the circumference is increasing.

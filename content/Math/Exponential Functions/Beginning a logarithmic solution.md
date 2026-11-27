@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve $5=4^{3x+1}$ for $x$. Show how taking a logarithm gives a linear equation in $x$ before obtaining a numerical approximation.

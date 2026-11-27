@@ -39,6 +39,7 @@ source_percent_correct: null
 source_mean_score: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two independent fair spinners each have six equal-sized sectors. Spinner A is labelled $1,1,2,2,3,4$ and spinner B is labelled $1,2,2,3,3,4$.

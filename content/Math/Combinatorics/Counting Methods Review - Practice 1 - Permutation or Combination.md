@@ -37,6 +37,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For each situation, decide whether a **permutation** or a **combination** is the appropriate model. Explain whether changing the order produces a new result.

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating observation platform has radius $24$ m. The lowest passenger seat is $3$ m above ground, one revolution takes $20$ min, and a passenger begins at that lowest position. The graph shows the passenger's height for one revolution.

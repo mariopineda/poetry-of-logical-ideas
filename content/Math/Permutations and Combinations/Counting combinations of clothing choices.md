@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A fashion photographer can assemble 30 visually different outfits by choosing **one top**, **one scarf**, and **one pair of shoes**. There are 3 scarf choices and 2 shoe styles. Every combination is allowed.

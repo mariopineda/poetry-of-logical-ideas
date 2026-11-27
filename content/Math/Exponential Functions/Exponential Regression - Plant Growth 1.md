@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A greenhouse assistant is testing how quickly a climbing vine grows when kept under consistent light and watering conditions. The assistant measures the height of the same vine above the soil at regular intervals. The table gives the day $x$ since the start of the trial and the vine height $y$, in centimetres. Use the measurements to model its growth during this early stage, before the vine reaches the greenhouse support.

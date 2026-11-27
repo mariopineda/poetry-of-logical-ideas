@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 How many distinct arrangements of the six different letters in **GARDEN** have the letters G and D immediately adjacent, in either order? Explain your block method.

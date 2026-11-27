@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A drone's altitude profile is represented by $f(x)=(x-2)^2$. The graph is reflected in the line $y=x$. Determine every point that remains unchanged, and explain why those points are invariant.

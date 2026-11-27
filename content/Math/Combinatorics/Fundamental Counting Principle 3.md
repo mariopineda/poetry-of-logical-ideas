@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A public health agency is coordinating the distribution of vaccines to remote clinics. They need to plan routes for delivery trucks. There are 4 main distribution hubs.

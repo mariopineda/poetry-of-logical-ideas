@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A foam ball is **launched upward** from a platform $5$ m above ground level. Its height after $t$ seconds is modelled by

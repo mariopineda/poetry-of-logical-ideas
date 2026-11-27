@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Classify each of these situations as a permutation or a combination, and justify your classifications: (a) selecting 3 distinct hiking trails from 9 for a guidebook; (b) assigning first, second and third prizes to 9 photographers; (c) selecting 4 people from 14 for a cleanup crew; (d) arranging 6 speakers into a presentation schedule; (e) choosing 2 different paint colours from 8 to purchase.

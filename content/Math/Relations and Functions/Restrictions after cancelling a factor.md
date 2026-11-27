@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A student simplifies $\dfrac{x^2-16}{x-4}$ to $x+4$ and concludes that every real $x$ is allowed. Evaluate that claim. State the simplified expression and its complete domain, explaining when restrictions must be determined.

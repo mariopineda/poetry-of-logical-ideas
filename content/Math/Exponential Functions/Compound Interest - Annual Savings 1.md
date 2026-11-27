@@ -36,6 +36,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 To help pay for a professional certification course, a student deposits \$425 in a savings account. The account pays $4.8\%$ interest per year, compounded annually, and the student makes no additional deposits or withdrawals. Assume the annual rate stays constant.

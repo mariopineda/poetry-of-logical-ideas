@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The area of the province of Alberta is approximately 661850 $\text{km}^2$. On a map of Alberta the area is represented as 264.74 $\text{cm}^2$. The scale of the map (linear scale factor) can be written in the form $1 \text{ cm}:x \text{ km}$. Calculate the value of $x$ to the nearest whole number. 

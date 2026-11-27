@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The universal set is $U=\{1,2,\ldots,150\}$. A number is a **perfect cube** if it equals $k^3$ for some positive integer $k$.

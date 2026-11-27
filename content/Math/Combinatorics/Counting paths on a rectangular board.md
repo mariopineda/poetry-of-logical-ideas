@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 On a rectangular board with **four columns and three rows**, a robot begins at the top-left corner and must reach the bottom-right corner. It may move only right or down, one grid edge at a time. Determine the number of possible routes and show the combinatorial method.

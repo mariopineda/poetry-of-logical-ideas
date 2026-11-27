@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A trail-mix recipe must contain **one kind of nut**, **two different dried fruits**, and **three different seeds**. The supply includes 3 kinds of nuts, 6 dried fruits and 8 seeds.

@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Joe is driving east at 60 km/h, Dave is driving south at 70 km/h. Both cars are approaching the intersection of the two roads. At what rate is the distance betwen the cars decreasing when Joe's car is 0.4 km and Dave's car is 0.3 km from the intersection?

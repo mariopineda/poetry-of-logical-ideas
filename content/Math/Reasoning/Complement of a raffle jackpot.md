@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A museum fundraiser sells sealed envelopes. A small number contain a grand-prize voucher, others contain a gift-card voucher, and some contain no prize. Let $G$ be the event that an envelope contains the grand-prize voucher. Describe $G^{\mathsf c}$ in everyday language, including all outcomes that belong to it.

@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Thirteen numbered lockers are available for eight different competitors. Each competitor receives exactly one locker, and no locker may be shared.

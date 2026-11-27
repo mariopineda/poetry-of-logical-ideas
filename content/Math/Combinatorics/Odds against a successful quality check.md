@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 During a production audit, $82$ of $260$ components passed a particular quality check. Assuming the next component is representative of the sample, determine the **odds against** it passing the check, expressed as a ratio of whole numbers in simplest form. Explain the difference between odds against and probability of passing.

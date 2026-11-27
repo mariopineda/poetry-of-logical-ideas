@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 The nine circles in the triangular number puzzle contain the digits $1$ through $9$, each **exactly once**. The four numbers on each side add to $21$. Complete the missing entries $A$, $B$, $C$ and $D$ and explain how the side sums and unused digits determine them.

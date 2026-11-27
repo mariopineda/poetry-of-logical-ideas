@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bead jar contains $9$ green beads, $6$ amber beads, and $5$ clear beads. A single bead is chosen at random. Determine the **odds against** selecting an amber bead in simplest form, and explain how those odds differ from the probability of selecting amber.

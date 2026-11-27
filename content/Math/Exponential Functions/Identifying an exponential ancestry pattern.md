@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A computer simulation starts with **3 cells at stage 0**. At each new stage, every existing cell generates one new cell, so the number of cells doubles. The first counts are $3,6,12,24,\ldots$.

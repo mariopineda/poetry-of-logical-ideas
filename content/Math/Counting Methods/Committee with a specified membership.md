@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A five-person planning committee is chosen from 10 students and 8 staff members. If exactly 3 members must be students, how many different committees are possible?

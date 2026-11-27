@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A community fund grows from $\$7\,200$ to $\$14\,400$ over 9 years with a constant annual rate compounded once per year. Find the annual percentage rate to the nearest hundredth of a percent.

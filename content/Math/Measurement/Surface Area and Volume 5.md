@@ -33,6 +33,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 1. A box has a surface area of 432 cm$^2$. Its length and width are 8 cm and 6 cm respectivelly. What is its height, rounded to the nearest whole number?

@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Wildlife managers monitoring an isolated island have counted a declining population of small mammals over six annual surveys. The survey method is kept consistent so the counts can be compared from year to year. The table shows the number of years $x$ after the first survey and the estimated number of animals $y$ on the island. The managers want to describe the rate of decline and estimate how quickly the population might halve if the trend continues.

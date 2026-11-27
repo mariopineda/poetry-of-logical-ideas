@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Differentiate $y = \frac{3x-5}{1-2x}$. Then, determine the tangent slope at $x=6$.

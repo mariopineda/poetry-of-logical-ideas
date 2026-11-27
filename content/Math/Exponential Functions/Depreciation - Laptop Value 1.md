@@ -35,6 +35,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A student buys a high-performance laptop for \$3200 and wants to estimate its resale value before upgrading. A consumer-price model assumes that the laptop loses $16\%$ of its value each year, relative to its value at the beginning of that year. There is no additional damage or repair cost in this model.

@@ -32,6 +32,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For each relation, algebraically determine the x- and y-intercepts. Verify your answers graphically with a graphing calculator or with [Desmos](https://www.desmos.com/calculator).

@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A learner simplifies $\dfrac{x-2}{x(x+4)}-\dfrac{x+1}{x}$ ($x\ne0,-4$) using these steps:

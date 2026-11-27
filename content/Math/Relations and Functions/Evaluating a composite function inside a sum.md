@@ -43,6 +43,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Let $f(x)=x^2-3x$ and $g(x)=\dfrac{2}{x+1}$. Define $h(x)=g(x)+(f\circ g)(x)$. Calculate $h(3)$ exactly and as a decimal, showing the order of operations.

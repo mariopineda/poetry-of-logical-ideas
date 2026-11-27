@@ -39,6 +39,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 In the expansion $\left(x^3+\frac2x\right)^7$, how many terms appear before collecting like terms, and what are the largest and smallest exponents of $x$? Justify.

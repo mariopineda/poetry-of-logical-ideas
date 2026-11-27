@@ -32,6 +32,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 Each graph includes two marked points. Determine its exponential equation in the form $y=ab^x$. Show how you obtain both $a$ and $b$.

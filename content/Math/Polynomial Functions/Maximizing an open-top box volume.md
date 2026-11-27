@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An open-topped rectangular container is produced by cutting equal squares of side $x$ from the four corners of a square sheet measuring $30$ cm by $30$ cm, then folding up the sides. Its volume is

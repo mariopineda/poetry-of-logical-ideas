@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A small object is released from a height of 70 m. Its height after $t$ seconds is modelled by $h(t)=70-4.9t^2$. Find the time it reaches ground level to the nearest hundredth of a second.

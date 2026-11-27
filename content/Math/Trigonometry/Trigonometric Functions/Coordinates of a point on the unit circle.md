@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating marker stops at a terminal-arm angle of $\theta=215^\circ$ in standard position. Determine the coordinates of the point where the terminal arm intersects the unit circle. Round each coordinate to the nearest hundredth and justify the signs.

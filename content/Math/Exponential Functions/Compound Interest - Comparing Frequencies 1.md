@@ -36,6 +36,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_status: null
 review_date: null
+used_in: []
 ---
 
 A student receives a \$1600 achievement award and plans to leave it untouched for two years. Two savings products are available: Plan A offers $6.5\%$ annual interest compounded once per year, while Plan B offers $6.2\%$ annual interest compounded monthly. The student wants to compare the actual balances at the end of two years, not just the advertised rates. Which option produces more money, and by how much?

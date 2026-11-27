@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Suppose $\log_5 2=u$, $\log_5 7=v$, and $\log_5(m^2)=4$, where $m>0$. Express $\log_5(28m^6)$ in terms of $u$ and $v$. Justify each logarithm law.

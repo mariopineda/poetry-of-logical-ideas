@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A facility uses four-digit access codes; a leading zero is not permitted. The **first and last digits must be distinct nonzero even digits**. The **second digit must not be $7$**, and no digit may repeat anywhere in the code. A zero is allowed in the third position.

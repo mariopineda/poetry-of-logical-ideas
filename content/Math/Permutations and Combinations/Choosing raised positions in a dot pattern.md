@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An electronic accessibility display has **eight distinct dot locations**, shown below. A dot pattern is determined only by which locations are turned on; the order in which they are activated does not matter.

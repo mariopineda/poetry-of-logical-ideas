@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Four different rational expressions are listed below. For **each** expression, identify all non-permissible values and explain how the denominator determines them. Which expression has **exactly three distinct** non-permissible values?

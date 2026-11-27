@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Eight tokens, each either copper-coloured or silver-coloured, are arranged in a row. Tokens of the same colour are indistinguishable. There are exactly $56$ distinguishable arrangements.

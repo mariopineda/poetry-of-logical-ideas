@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For a base $a>1$, a quantity $y$ satisfies $y=\dfrac{a^x}{a^{3x-8}}$ and $\log_a y=x$. Determine the value of $x$ without assuming a particular base.

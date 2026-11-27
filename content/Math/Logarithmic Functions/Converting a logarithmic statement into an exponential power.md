@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A water-quality sensor uses the logarithmic relationship $\log_a 49=k$, where $a>0$ and $a\neq 1$. Write $49^{3/2}$ as a single power of $a$ in terms of $k$. Show the exponent laws you use.

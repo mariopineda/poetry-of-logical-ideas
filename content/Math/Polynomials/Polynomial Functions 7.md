@@ -35,6 +35,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 You are playing fetch with your dog and throw a ball vertically upward. You record the height of the ball above the ground at half-second intervals for the first three seconds. The data is shown in the following table.

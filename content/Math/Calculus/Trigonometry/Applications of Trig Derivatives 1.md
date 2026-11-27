@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A beacon at a lighthouse, located a perpendicular distance of 315 m from point R on a straight shoreline, revolves at 1 revolution / minute. How fast does the beam of light sweep along the shoreline at point S located on the shoreline 425 m from point R?

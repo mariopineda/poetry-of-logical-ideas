@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A rotating metal art disk is mounted vertically on a fixed stand, with its centre **25 cm above the floor**. A reflective dot is attached **7 cm inward from the outer rim** of the disk. The disk has radius **25 cm** and rotates at constant angular speed, so the dot's height above the floor varies sinusoidally.

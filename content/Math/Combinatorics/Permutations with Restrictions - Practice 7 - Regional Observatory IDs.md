@@ -36,6 +36,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A regional observatory uses **eight-character** record identifiers. The first character is either **L**, **M**, or **N**, and each of the seven remaining characters is a digit from 0 to 9. Digits may repeat.

@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A storage box is a rectangular prism. Its width is $x$ cm, its length is twice its width, and its height is five times its width. Its volume is $1280\text{ cm}^3$. Determine $x$ to the nearest tenth of a centimetre.

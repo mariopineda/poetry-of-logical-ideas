@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A bag has 12 equally likely tokens showing one of four symbols (star, moon, leaf, sun) and one of three colours (red, blue, gold). There is one token for each symbol–colour combination. Find the probability that a randomly selected token is a **star or gold**. Explain how you avoid double counting.

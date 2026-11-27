@@ -41,6 +41,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For a calibration system, positive quantities $c$ and $d$ satisfy $7c^4=d$, with $c>0$ and $c\ne1$. Rewrite the equation in logarithmic form with base $c$. State the required domain restriction on the logarithm argument.

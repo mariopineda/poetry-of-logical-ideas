@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Two nonempty sets $S$ and $T$ represent students registered for different workshops. Suppose $S$ and $T$ are disjoint. State the value of $S\cap T$ and justify why neither $S\subseteq T$ nor $T\subseteq S$ is possible.

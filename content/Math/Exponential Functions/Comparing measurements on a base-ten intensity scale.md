@@ -41,6 +41,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 An instrument assigns a level $L$ to a signal intensity $I$ using $I=I_0 10^L$, where $I_0$ is fixed. A reference signal has level $6.4$. Determine the level of a second signal that is **250 times weaker**. Round to the nearest tenth, and explain why $I_0$ is not required.

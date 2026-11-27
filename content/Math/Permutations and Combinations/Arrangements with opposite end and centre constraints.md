@@ -40,6 +40,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For a concert poster, 11 soloists stand in a single row. The shortest soloist must stand at one of the ends, and the tallest must occupy the exact middle position. How many arrangements are possible? Explain the counting principle.

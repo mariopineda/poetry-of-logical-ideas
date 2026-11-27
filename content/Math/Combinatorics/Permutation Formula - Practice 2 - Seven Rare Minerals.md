@@ -39,6 +39,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 A science museum has **seven different mineral specimens** and wishes to give distinct specimens to visitors, with no visitor receiving more than one specimen.

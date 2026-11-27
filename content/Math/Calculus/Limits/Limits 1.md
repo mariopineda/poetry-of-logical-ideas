@@ -31,6 +31,7 @@ assessment_metadata_origin: null
 review_status: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Evaluate $\lim_{x \to 0} (1+x)^{1/x}$ from the left and from the right. Round to the nearest ten thousandth.

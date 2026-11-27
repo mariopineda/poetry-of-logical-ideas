@@ -42,6 +42,7 @@ source_percent_correct: null
 source_mean_score: null
 assessment_metadata_origin: null
 curriculum_review_required: null
+used_in: []
 ---
 
 Solve the equation below, giving the answer to the nearest hundredth. State the restrictions that must be satisfied before applying logarithm laws.

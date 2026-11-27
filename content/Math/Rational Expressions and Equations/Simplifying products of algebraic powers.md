@@ -42,6 +42,7 @@ source_mean_score: null
 assessment_metadata_origin: null
 review_date: null
 curriculum_review_required: null
+used_in: []
 ---
 
 For nonzero real $m$, $n$, and $p$, simplify the **product** below to lowest terms. Use only positive exponents in the final expression, and state the net exponent of each variable before removing negative exponents.
